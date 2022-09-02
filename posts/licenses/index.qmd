@@ -35,3 +35,4 @@ For software there are different licenses because you can execute software (whic
 ## More information
 
 -   [4TU.ResearchData licenses overview](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing)
+-   [The Turing Way: licensing](https://the-turing-way.netlify.app/reproducible-research/licensing.html)
