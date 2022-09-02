@@ -1,0 +1,80 @@
+---
+title: "Storage Solutions"
+author: "Esther Plomp"
+date: "2022-08-28"
+categories: [Storage]
+image: "image.jpg"
+---
+
+Overview of Available Data Storage Solutions **during the project's duration** at TU Delft. These storage solutions are primarily for internal use, but can be shared with collaborators.
+
+Please see [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609) for an overview of all the storage solutions available to you. Below follow some more details for each storage solution.
+
+## TU Delft network drives
+
+|                                 | Personal Drive (H:)                            | Staff Group Drive (M:)                          | Project Drive (U:)                                         |
+|---------------------------------|------------------------------------------------|-------------------------------------------------|------------------------------------------------------------|
+| Purpose                         | Private work files only (sharing not possible) | Data shared within research group or department | Data from individual projects, shared with project members |
+| Suitable for confidential data? | Yes                                            | No                                              | Yes                                                        |
+| Size                            | 8 GB                                           | \> 5TB                                          | \> 5TB                                                     |
+
+The Project Drive is the recommended storage solution for research data.
+
+-   Project leaders or supervisors should request the drive to ensure that they also have access to the data (especially important for the long term storage of any data).
+
+-   Anyone with a NetID can be added to a Project Drive (for external collaborators this NetID will have to be generated so [additional information](https://docs.google.com/spreadsheets/d/1sMhw4URTSdVl4d7a_QPnhWGboR3YDJJGaDNK3KZMaKU/) will need to be provided). To provide access to additional people you can add them when you [request the drive via Topdesk](https://tudelft.topdesk.net/tas/public/ssp/content/serviceflow?unid=21b6203ec6d74f00a45c32e6034dfc0c&openedFromService=true), you can contact the Service Desk of your faculty (servicepuntTNW \[at\] tudelft.nl), or you can add them using [UMRA](https://drive.google.com/file/d/13loyAiVFRw8vhIjFfu6h88F947DW4hyk/view?usp=sharing).
+
+    -   Note that anyone provide access to the Project Drive will have viewing or editing rights for the entire Project Drive, unless you're using UMRA. If you want to easily manage access permissions it may be needed to request multiple Project Drives or work with alternative storage solutions such as SURF/OneDrive.
+
+-   The Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).
+
+-   To request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with 'Change' selected rather than 'New'. For \>5 TB of space, you may be contacted by the faculty IT manager for approval.
+
+### Network Drives and Delft HPC
+
+Please see the [DelftBlue documentation](https://doc.dhpc.tudelft.nl/delftblue/Data-transfer-to-DelftBlue/#network-drives) on the storage of data-transfer recommendations from the HPC clusters.
+
+## [SURFdrive](http://surfdrive.surf.nl/)
+
+-   Secure cloud storage
+-   30 days backup, synchronize and share data
+-   [Desktop app](https://wiki.surfnet.nl/display/SURFdrive/Downloads+voor+SURFdrive) for synchronization
+-   500 GB
+-   Share data with external collaborators
+    -   public link + with password protection + expiry date
+    -   Check the manual
+-   Not suitable for long term storage as this is a personal storage space (account expires when you leave TU Delft)
+-   Students don't have accounts but you can give access to folders/files (OneDrive may be more suitable when working with students)
+-   Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.
+
+## OneDrive
+
+See the [OneDrive manual](https://d1rkab7tlqy5f1.cloudfront.net/ICT%20Handleidingen/2%20-%20Nieuwe%20handleidingen/Microsoft%20365/Onedrive/Getting%20started%20with%20OneDrive_ENG.pdf) on how to get started.
+
+-   Secure cloud storage
+-   30 days backup, synchronize and share data
+-   1 TB
+-   Share data with external collaborators by specifying users one by one with their email address
+-   Not suitable for long term storage account as this is a personal storage space (expires when you leave TU Delft)
+-   Students also have accounts
+-   Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.
+
+## Sending files
+
+[SURFfilesender](https://www.surf.nl/en/surffilesender-send-large-files-securely-and-encrypted) can be used to share files up to 1 TB (also with end-to-end encryption up to 2)
+
+## TU Delft GitLab
+
+TU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared.
+
+For an overview of the options of differences between GitLab/GitHub/Gitea, see this [repository chooser guide](https://doi.org/10.5281/zenodo.4710206).
+
+GitLab repository can be requested through [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42) (Topdesk \> Software and Authorisations \> IT for Researchers \> GitLab TU Delft \> Request GitLab).
+
+## Subversion at TU Delft
+
+TU Delft provided version control systems for data with backup facility. Access can be controlled by the repository owner.
+
+Subversion repository can be requested through TopDesk (Topdesk \> Software and Authorisations \> IT for Researchers \> Version Control Tools \> Report to Service Desk)
+
+## **More information**

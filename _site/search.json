@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TNW Open Science support",
+    "section": "",
+    "text": "Open Access\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\nBackup\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEncryption\n\n\nSecurity\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware\n\n\nCode\n\n\nLicenses\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nAug 25, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "TU Delft Approved Software Licenses",
+    "section": "",
+    "text": "Permissive: (commercial) use, copy, modify, merge, publish, distribute licensed works, modifications, and larger works may be distributed under different terms and without source code.\nExamples of TU Delft approved permissive licenses: MIT, BSD, Apache, CC0\nRestrictive/Copyleft: GPL, AGPL, LGPL, EUPL (slide 3)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/Encryption/index.html",
+    "href": "posts/Encryption/index.html",
+    "title": "Encryption",
+    "section": "",
+    "text": "Encryption provides protection by ensuring that only someone with the relevant encryption key (or password) will be able to access the contents."
+  },
+  {
+    "objectID": "posts/Encryption/index.html#section",
+    "href": "posts/Encryption/index.html#section",
+    "title": "Encryption",
+    "section": "",
+    "text": "Password managers\n\nLastPass (https://www.lastpass.com)\nDashlane (https://www.dashlane.com/)\nKeePass (https://keepass.info/)\n\nInformatiotion taken from the TU Delft guidance on NetIDs and passwords (https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/ICT/ICT%20Security/2.1_Work_Safe_-_NetID_en_Passwords.pdf)"
+  },
+  {
+    "objectID": "posts/Encryption/index.html#more-information",
+    "href": "posts/Encryption/index.html#more-information",
+    "title": "Encryption",
+    "section": "More information",
+    "text": "More information\n\nhttps://www.tudelft.nl/en/it-manuals/working-remotely/encryption\nGhent University Encryption manual with detailed steps for Veracrypt"
+  },
+  {
+    "objectID": "posts/storage-solutions/index.html",
+    "href": "posts/storage-solutions/index.html",
+    "title": "Storage Solutions",
+    "section": "",
+    "text": "Overview of Available Data Storage Solutions during the project’s duration at TU Delft. These storage solutions are primarily for internal use, but can be shared with collaborators.\nPlease see TopDesk for an overview of all the storage solutions available to you. Below follow some more details for each storage solution."
+  },
+  {
+    "objectID": "posts/storage-solutions/index.html#tu-delft-network-drives",
+    "href": "posts/storage-solutions/index.html#tu-delft-network-drives",
+    "title": "Storage Solutions",
+    "section": "TU Delft network drives",
+    "text": "TU Delft network drives\n\n\n\n\n\n\n\n\n\n\nPersonal Drive (H:)\nStaff Group Drive (M:)\nProject Drive (U:)\n\n\n\n\nPurpose\nPrivate work files only (sharing not possible)\nData shared within research group or department\nData from individual projects, shared with project members\n\n\nSuitable for confidential data?\nYes\nNo\nYes\n\n\nSize\n8 GB\n> 5TB\n> 5TB\n\n\n\nThe Project Drive is the recommended storage solution for research data.\n\nProject leaders or supervisors should request the drive to ensure that they also have access to the data (especially important for the long term storage of any data).\nAnyone with a NetID can be added to a Project Drive (for external collaborators this NetID will have to be generated so additional information will need to be provided). To provide access to additional people you can add them when you request the drive via Topdesk, you can contact the Service Desk of your faculty (servicepuntTNW [at] tudelft.nl), or you can add them using UMRA.\n\nNote that anyone provide access to the Project Drive will have viewing or editing rights for the entire Project Drive, unless you’re using UMRA. If you want to easily manage access permissions it may be needed to request multiple Project Drives or work with alternative storage solutions such as SURF/OneDrive.\n\nThe Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).\nTo request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with ‘Change’ selected rather than ‘New’. For >5 TB of space, you may be contacted by the faculty IT manager for approval.\n\n\nNetwork Drives and Delft HPC\nPlease see the DelftBlue documentation on the storage of data-transfer recommendations from the HPC clusters."
+  },
+  {
+    "objectID": "posts/storage-solutions/index.html#surfdrive",
+    "href": "posts/storage-solutions/index.html#surfdrive",
+    "title": "Storage Solutions",
+    "section": "SURFdrive",
+    "text": "SURFdrive\n\nSecure cloud storage\n30 days backup, synchronize and share data\nDesktop app for synchronization\n500 GB\nShare data with external collaborators\n\npublic link + with password protection + expiry date\nCheck the manual\n\nNot suitable for long term storage as this is a personal storage space (account expires when you leave TU Delft)\nStudents don’t have accounts but you can give access to folders/files (OneDrive may be more suitable when working with students)\nDo not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material."
+  },
+  {
+    "objectID": "posts/storage-solutions/index.html#onedrive",
+    "href": "posts/storage-solutions/index.html#onedrive",
+    "title": "Storage Solutions",
+    "section": "OneDrive",
+    "text": "OneDrive\nSee the OneDrive manual on how to get started.\n\nSecure cloud storage\n30 days backup, synchronize and share data\n1 TB\nShare data with external collaborators by specifying users one by one with their email address\nNot suitable for long term storage account as this is a personal storage space (expires when you leave TU Delft)\nStudents also have accounts\nDo not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material."
+  },
+  {
+    "objectID": "posts/storage-solutions/index.html#sending-files",
+    "href": "posts/storage-solutions/index.html#sending-files",
+    "title": "Storage Solutions",
+    "section": "Sending files",
+    "text": "Sending files\nSURFfilesender can be used to share files up to 1 TB (also with end-to-end encryption up to 2)"
+  },
+  {
+    "objectID": "posts/storage-solutions/index.html#more-information",
+    "href": "posts/storage-solutions/index.html#more-information",
+    "title": "Storage Solutions",
+    "section": "More information",
+    "text": "More information"
+  },
+  {
+    "objectID": "posts/access-project-drive/index.html",
+    "href": "posts/access-project-drive/index.html",
+    "title": "Access Project Drive",
+    "section": "",
+    "text": "This post describes how to access the Project Drive on your computer and how to access it outside of the TU Delft network. Please see the Storage Solution post to learn how to request a Project Drive."
+  },
+  {
+    "objectID": "posts/access-project-drive/index.html#project-drive-location-on-your-computer",
+    "href": "posts/access-project-drive/index.html#project-drive-location-on-your-computer",
+    "title": "Access Project Drive",
+    "section": "Project Drive location on your computer",
+    "text": "Project Drive location on your computer\nThe Project Drive is on ‘This PC’, the same location as your home drive:\nU: or \\\\tudelft.net\\staff-umbrella\\ (Windows) or /tudelft.net/staff-umbrella/ (Linux servers) or sftp.tudelft.nl:/staff-umbrella/\n\nYou can check the Project Drives that you have access to via webdrive: https://webdata.tudelft.nl/staff-umbrella/"
+  },
+  {
+    "objectID": "posts/access-project-drive/index.html#access-project-drive-outside-tu-delft",
+    "href": "posts/access-project-drive/index.html#access-project-drive-outside-tu-delft",
+    "title": "Access Project Drive",
+    "section": "Access Project Drive outside TU Delft",
+    "text": "Access Project Drive outside TU Delft\nSign into EduVPN.\nWindows\nInstall WebDrive and open it. Click on sftp.tudelft.nl. Click on staff-umbrella (this is the Project Drive)\nMac\nYou can try to use WebDrive as described for Windows. If this does not work: In the Finder, type ⌘K or choose Go > Connect to Server; enter server address(smb://tudelft.net/staff-umbrella/) and click ‘Connect’. (Add the address to your ‘Favorite Servers’ list to easily connect later)\nAlternatively, users can connect via sftp:\n- The terminal: sftp yournetid@sftp.tudelft.nl - cd staff-umbrella\n- An ftp client such as FileZilla or CyberDuck.\nLinux\nIf Ubuntu or CentOS installed by ICT:\n\nTerminal: cd /tudelft.nl/staff-umbrella /project\nFile manager (nautilus or dolphin): Other locations -> Computer -> tudelft.net -> staff-umbrella -> project\n\nIf Linux installed by user:\n\nTerminal: sftp netid@sftp.tudelft.nl - cd staff-umbrella/project\nFilemanager: Other locations -> Connect to server -> sftp://sftp.tudelft.nl/staff-umbrella -> project -> Login when needed with your netid and password"
+  },
+  {
+    "objectID": "posts/backup/index.html",
+    "href": "posts/backup/index.html",
+    "title": "Backup",
+    "section": "",
+    "text": "To avoid losing your data, you should follow recommended backup practices:\nThe more important the data and the more often the datasets change, the more frequently you should back them up.\nAutomatic backup is preferred!"
+  },
+  {
+    "objectID": "posts/backup/index.html#more-information",
+    "href": "posts/backup/index.html#more-information",
+    "title": "Backup",
+    "section": "More information",
+    "text": "More information\nThe Turing Way on backups"
+  },
+  {
+    "objectID": "posts/Encryption/index.html#password-managers",
+    "href": "posts/Encryption/index.html#password-managers",
+    "title": "Encryption",
+    "section": "Password managers*",
+    "text": "Password managers*\n\nLastPass\nDashlane\nKeePass\n\n*Information taken from the TU Delft guidance on NetIDs and passwords (pdf)"
+  },
+  {
+    "objectID": "posts/Open-Access/index.html",
+    "href": "posts/Open-Access/index.html",
+    "title": "Open Access",
+    "section": "",
+    "text": "https://youtu.be/L5rVH1KGBCY\n\nPreprint: version of the article before peer review\nPost-print (or Author Accepted Manuscript - AAM): version of the article after peer review\nPublishers version (Version of Record - VOR): fully formatted version published by the publisher"
+  },
+  {
+    "objectID": "posts/public-sharing-solutions/index.html",
+    "href": "posts/public-sharing-solutions/index.html",
+    "title": "Public sharing solutions",
+    "section": "",
+    "text": "Overview of available data sharing solutions after the project. These solutions are publicly accessible and not suitable for any confidential data/code."
+  },
+  {
+    "objectID": "posts/public-sharing-solutions/index.html#general-repositories",
+    "href": "posts/public-sharing-solutions/index.html#general-repositories",
+    "title": "Public sharing solutions",
+    "section": "General repositories",
+    "text": "General repositories\n\n4TU.ResearchData\n\nArchiving of finalized datasets (open accessible, unless you specify an embargo period up to two years)\nObtain a DOI for your dataset and link it with your publication\nFree up to 1 TB per TU Delft researcher per year\n\n\n\nZenodo\n\nZenodo is a general repository which has an integration with GitHub and thus allows you to get DOI’s for your code/software.\nYou can also store presentations, education materials etc.\nYou can set up communities for your projects/section/department so all research outputs are easily findable. You can find an example community of the Data Stewards here.\nZenodo is free to use and has a file size limit per record is 50GB (with exemptions on a case-by-case basis)."
+  },
+  {
+    "objectID": "posts/public-sharing-solutions/index.html#disciplinary-specific-data-repositories",
+    "href": "posts/public-sharing-solutions/index.html#disciplinary-specific-data-repositories",
+    "title": "Public sharing solutions",
+    "section": "Disciplinary specific data repositories",
+    "text": "Disciplinary specific data repositories\nyou can use FAIRsharing to look up a suitable repository for your data. Use the same keywords you would use to find articles of your research disicpline.\nThese sources contain recommended disciplinary specific data repositories:\n\nElixir Databases for Biomolecular Data\nSpringer Nature Data Repository Guidance"
+  },
+  {
+    "objectID": "posts/public-sharing-solutions/index.html#more-information",
+    "href": "posts/public-sharing-solutions/index.html#more-information",
+    "title": "Public sharing solutions",
+    "section": "More information",
+    "text": "More information"
+  },
+  {
+    "objectID": "posts/storage-solutions/index.html#tu-delft-gitlab",
+    "href": "posts/storage-solutions/index.html#tu-delft-gitlab",
+    "title": "Storage Solutions",
+    "section": "TU Delft GitLab",
+    "text": "TU Delft GitLab\nTU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared.\nFor an overview of the options of differences between GitLab/GitHub/Gitea, see this repository chooser guide.\nGitLab repository can be requested through TopDesk (Topdesk > Software and Authorisations > IT for Researchers > GitLab TU Delft > Request GitLab)."
+  },
+  {
+    "objectID": "posts/storage-solutions/index.html#subversion-at-tu-delft",
+    "href": "posts/storage-solutions/index.html#subversion-at-tu-delft",
+    "title": "Storage Solutions",
+    "section": "Subversion at TU Delft",
+    "text": "Subversion at TU Delft\nTU Delft provided version control systems for data with backup facility. Access can be controlled by the repository owner.\nSubversion repository can be requested through TopDesk (Topdesk > Software and Authorisations > IT for Researchers > Version Control Tools > Report to Service Desk)"
+  },
+  {
+    "objectID": "posts/rights-retention-strategy/index.html",
+    "href": "posts/rights-retention-strategy/index.html",
+    "title": "Rights Retention Strategy",
+    "section": "",
+    "text": "Rights Retention Strategy was initiated by cOAlition S to ensure that the researchers they fund can publish Open Access, but is a strategy that can be applied by any researcher when submitting a manuscript to a journal.\nBy employing the Rights Retention Strategy you retain your rights on the manuscripts, which gives you the right to share the author’s version of the article, after peerreview, through a repository. This is Green Open Access, but then without the embargo period (generally 6-48 months) that journals usually place on this version of the article.\nCopyright transfer has only been introduced relatively recent and is not something that is essential for the publishing process.\n“As author(s) and original copyright holder(s) of this submission, I/we have applied a Creative Commons Attribution (CC BY) licence to any Author Accepted Manuscript (AAM) version arising from this submission. If the article is accepted for publication, I/we will make the AAM available without embargo in a repository. Please confirm by return that the author(s) will NOT be required to sign a contract that prevents this action. If I/we do not hear from you before DD/MM/YYYY, I/we will seek a different journal that will accept my/our manuscript under these conditions.”\n“For the purpose of open access, the author has applied a CC BY public copyright licence to any Author Accepted Manuscript version arising from this submission.”\nExamples of articles that used the Rights Retention Strategy (from Mounce 2022)"
+  },
+  {
+    "objectID": "posts/rights-retention-strategy/index.html#more-information",
+    "href": "posts/rights-retention-strategy/index.html#more-information",
+    "title": "Rights Retention Strategy",
+    "section": "More information",
+    "text": "More information\n\nStephen Eglen’s (2021) Primer on the Rights Retention Strategy\ncOAlition S rights retention strategy website"
+  }
+]
