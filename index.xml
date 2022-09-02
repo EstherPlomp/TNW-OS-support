@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>TNW-OS-support</title>
+<link>https://github.com/EstherPlomp/TNW-OS-support/index.html</link>
+<atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.1.179</generator>
+<lastBuildDate>Fri, 02 Sep 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Licenses</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Licenses are a standardised way to share data/code and let anyone know what it is that they are allowed to do with it.</p>
+<section id="data-licenses" class="level2">
+<h2 class="anchored" data-anchor-id="data-licenses">Data Licenses</h2>
+<p>Everything in the list with a CC in front of it is used for data (stands for <a href="https://creativecommons.org/">Creative Commons</a>).</p>
+<p>TU Delft recommends <strong>CC-BY</strong> (which is also quite standard in publishing articles)and allows reusers to cite the original work if they reuse it.</p>
+<p>The more letters these CC licenses have, the more restrictions they place on re-use.</p>
+<ul>
+<li><p>NC means non-commercial use is prohibited</p></li>
+<li><p>SA stands for share alike, which means that you have to apply the same license.</p></li>
+<li><p>ND means non-derivative, which means that reusers can only reuse the data in the same form (which is quite restrictive!).</p></li>
+</ul>
+<p><a href="https://chooser-beta.creativecommons.org/">Data license chooser</a></p>
+</section>
+<section id="software" class="level2">
+<h2 class="anchored" data-anchor-id="software">Software</h2>
+<p>For software there are different licenses because you can execute software (which makes it a bit more complex). CC-BY and MIT/BSD work quite similar in that they only require citation. GPL is a copyleft license that requires any software that it touches to be shared under the same license which requires open sharing (so this might hamper industry collaboration). I hope this makes a bit more sense? I’m happy to try and clarify this further!</p>
+<ul>
+<li><p><a href="https://choosealicense.com/">Software license chooser</a></p></li>
+<li><p>Note that the following licenses are pre-approved by the <a href="https://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a>: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing">4TU.ResearchData licenses overview</a></li>
+<li><a href="https://the-turing-way.netlify.app/reproducible-research/licensing.html">The Turing Way: licensing</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Licenses</category>
+  <category>Copyright</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/index.html</guid>
+  <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Rights Retention Strategy</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/rights-retention-strategy/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Rights Retention Strategy was initiated by cOAlition S to ensure that the researchers they fund can publish Open Access, but is a strategy that can be applied by any researcher when submitting a manuscript to a journal.</p>
+<p>By employing the Rights Retention Strategy you retain your rights on the manuscripts, which gives you the right to share the author’s version of the article, after peerreview, through a repository. This is Green Open Access, but then without the embargo period (generally 6-48 months) that journals usually place on this version of the article.</p>
+<p>Copyright transfer has only been <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2019/06/03/what-the-history-of-copyright-in-academic-publishing-tells-us-about-open-research/">introduced relatively recent</a> and is not something that is essential for the publishing process.</p>
+<p><em>“As author(s) and original copyright holder(s) of this submission, I/we have applied a Creative Commons Attribution (CC BY) licence to any Author Accepted Manuscript (AAM) version arising from this submission. If the article is accepted for publication, I/we will make the AAM available without embargo in a repository. Please confirm by return that the author(s) will NOT be required to sign a contract that prevents this action. If I/we do not hear from you before DD/MM/YYYY, I/we will seek a different journal that will accept my/our manuscript under these conditions.”</em></p>
+<p><em>“For the purpose of open access, the author has applied a CC BY public copyright licence to any Author Accepted Manuscript version arising from this submission.”</em></p>
+<p>Examples of articles that used the Rights Retention Strategy (from <a href="https://doi.org/10.5281/zenodo.7030990">Mounce 2022</a>)</p>
+<ul>
+<li><p>Zipser 2021 (<a href="https://doi.org/10.19272%2F202020501003">Publisher</a> / <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610590/">Author</a>)</p></li>
+<li><p>Tu et al.&nbsp;2021 (<a href="https://doi.org/10.1177/14644207211010836">Publisher</a> / <a href="https://aran.library.nuigalway.ie/handle/10379/16760">Author</a>)</p></li>
+<li><p>Drews et al.&nbsp;2022 (<a href="https://doi.org/10.1038/s41586-022-04789-9">Publisher</a> / <a href="https://europepmc.org/article/MED/35705807">Author</a>)</p></li>
+<li><p>Moreno et al.&nbsp;2021 (<a href="https://doi.org/10.1038/s41388-021-01748-y">Publisher</a> / <a href="https://europepmc.org/article/MED/33742126">Author</a>)</p></li>
+<li><p>Barker 2021 (<a href="https://doi.org/10.1002/mdc3.13314">Publisher</a> / <a href="https://europepmc.org/article/MED/34765685">Author</a>)</p></li>
+<li><p>Lezmy et al.&nbsp;2021 (<a href="https://doi.org/10.1016/j.neuropharm.2021.108727">Publisher</a> / <a href="https://discovery.ucl.ac.uk/id/eprint/10131970/">Author</a>)</p></li>
+<li><p>Welch 2021 (<a href="https://doi.org/10.1080/01459740.2021.1961247">Publisher</a> / <a href="https://europepmc.org/article/MED/34383573">Author</a>)</p></li>
+<li><p>Leeson 2021 (<a href="https://doi.org/10.1021/acs.jmedchem.1c00416">Publisher</a> / <a href="https://europepmc.org/article/MED/33983732">Author</a>)</p></li>
+</ul>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><p>Stephen Eglen’s (2021) <a href="http://doi.org/10.5281/zenodo.4668132">Primer on the Rights Retention Strategy</a></p></li>
+<li><p><a href="https://www.coalition-s.org/resources/rights-retention-strategy/">cOAlition S rights retention strategy website</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Access</category>
+  <category>Plan S</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/rights-retention-strategy/index.html</guid>
+  <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/rights-retention-strategy/RSS.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Access Project Drive</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/access-project-drive/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post describes how to access the Project Drive on your computer and how to access it outside of the TU Delft network. Please see the <a href="../../posts/storage-solutions-index.qmd">Storage Solution post</a> to learn how to request a Project Drive.</p>
+<section id="project-drive-location-on-your-computer" class="level2">
+<h2 class="anchored" data-anchor-id="project-drive-location-on-your-computer">Project Drive location on your computer</h2>
+<p>The Project Drive is on ‘This PC’, the same location as your home drive:</p>
+<p>U: or \\tudelft.net\staff-umbrella\ (Windows) or /tudelft.net/staff-umbrella/ (Linux servers) or sftp.tudelft.nl:/staff-umbrella/</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/access-project-drive/images/paste-39E3CBB8.png" class="img-fluid"></p>
+<p>You can check the Project Drives that you have access to via webdrive: https://webdata.tudelft.nl/staff-umbrella/</p>
+</section>
+<section id="access-project-drive-outside-tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="access-project-drive-outside-tu-delft">Access Project Drive outside TU Delft</h2>
+<p>Sign into <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=c8cdd52059fd4e9a8b7ca402572e3225">EduVPN</a>.</p>
+<p><strong>Windows</strong></p>
+<p>Install <a href="https://webdata.tudelft.nl/">WebDrive</a> and open it. Click on sftp.tudelft.nl. Click on staff-umbrella (this is the Project Drive)</p>
+<p><strong>Mac</strong></p>
+<p>You can try to use WebDrive as described for Windows. If this does not work: In the Finder, type ⌘K or choose Go &gt; Connect to Server; enter server address(smb://tudelft.net/staff-umbrella/) and click ‘Connect’. (Add the address to your ‘Favorite Servers’ list to easily connect later)</p>
+<p>Alternatively, users can connect via sftp:</p>
+<p>- The terminal: <code>sftp yournetid@sftp.tudelft.nl</code> - <code>cd staff-umbrella</code></p>
+<p>- An ftp client such as FileZilla or <a href="https://cyberduck.io/">CyberDuck</a>.</p>
+<p><strong>Linux</strong></p>
+<p>If Ubuntu or CentOS installed by ICT:</p>
+<ul>
+<li><p>Terminal: <code>cd /tudelft.nl/staff-umbrella /project</code></p></li>
+<li><p>File manager (nautilus or dolphin): Other locations -&gt; Computer -&gt; tudelft.net -&gt; staff-umbrella -&gt; project</p></li>
+</ul>
+<p>If Linux installed by user:</p>
+<ul>
+<li><p>Terminal: <code>sftp netid@sftp.tudelft.nl</code> - <code>cd staff-umbrella/project</code></p></li>
+<li><p>Filemanager: Other locations -&gt; Connect to server -&gt; sftp://sftp.tudelft.nl/staff-umbrella -&gt; project -&gt; Login when needed with your netid and password</p></li>
+</ul>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"></h3>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>Storage</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/access-project-drive/index.html</guid>
+  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/access-project-drive/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Open Access</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-Access/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Explanation preprint, postprint etc. Link with sherpa romeo</p>
+<p>https://youtu.be/L5rVH1KGBCY</p>
+<ul>
+<li><p><strong>Preprint</strong>: version of the article before peer review</p></li>
+<li><p><strong>Post-print</strong> (or Author Accepted Manuscript - AAM): version of the article after peer review</p></li>
+<li><p><strong>Publishers version</strong> (Version of Record - VOR): fully formatted version published by the publisher</p></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>Open Access</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-Access/index.html</guid>
+  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-Access/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Public sharing solutions</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/public-sharing-solutions/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Overview of available data sharing solutions <strong>after the project</strong>. These solutions are publicly accessible and not suitable for any confidential data/code.</p>
+<section id="general-repositories" class="level2">
+<h2 class="anchored" data-anchor-id="general-repositories">General repositories</h2>
+<section id="tu.researchdata" class="level3">
+<h3 class="anchored" data-anchor-id="tu.researchdata"><a href="http://researchdata.4tu.nl/home/">4TU.ResearchData</a></h3>
+<ul>
+<li><p>Archiving of finalized datasets (open accessible, unless you specify an embargo period up to two years)</p></li>
+<li><p>Obtain a DOI for your dataset and <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">link it with your publication</a></p></li>
+<li><p>Free up to 1 TB per TU Delft researcher per year</p></li>
+</ul>
+</section>
+<section id="zenodo" class="level3">
+<h3 class="anchored" data-anchor-id="zenodo"><a href="https://zenodo.org/">Zenodo</a></h3>
+<ul>
+<li><p>Zenodo is a general repository which has an integration with GitHub and thus allows you to get DOI’s for your code/software.</p></li>
+<li><p>You can also store presentations, education materials etc.</p></li>
+<li><p>You can set up communities for your projects/section/department so all research outputs are easily findable. You can find an example community of the Data Stewards <a href="https://zenodo.org/communities/datastewards/">here</a>.</p></li>
+<li><p>Zenodo is free to use and has a file size limit per record is 50GB (with exemptions on a case-by-case basis).</p></li>
+</ul>
+</section>
+</section>
+<section id="disciplinary-specific-data-repositories" class="level2">
+<h2 class="anchored" data-anchor-id="disciplinary-specific-data-repositories">Disciplinary specific data repositories</h2>
+<p>you can use <a href="https://fairsharing.org/">FAIRsharing</a> to look up a suitable repository for your data. Use the same keywords you would use to find articles of your research disicpline.</p>
+<p>These sources contain recommended disciplinary specific data repositories:</p>
+<ul>
+<li><p><a href="https://elixir-europe.org/platforms/data/elixir-deposition-databases">Elixir Databases for Biomolecular Data</a></p></li>
+<li><p>Springer Nature <a href="https://www.nature.com/sdata/policies/repositorieshttps://www.springernature.com/gp/authors/research-data-policy/recommended-repositories">Data Repository Guidance</a></p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Storage</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/public-sharing-solutions/index.html</guid>
+  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/public-sharing-solutions/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Backup</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/backup/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>To avoid losing your data, you should follow recommended <strong>backup practices</strong>:</p>
+<ul>
+<li><p>You should have 2 or 3 copies of your files, stored on</p></li>
+<li><p>at least 2 different storage media,</p></li>
+<li><p>in different (physical) locations.</p></li>
+</ul>
+<p>The more important the data and the more often the datasets change, the more frequently you should back them up.</p>
+<p>Automatic backup is preferred!</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html#backups">The Turing Way on backups</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Storage</category>
+  <category>Backup</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/backup/index.html</guid>
+  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/backup/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>TU Delft Approved Software Licenses</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/post-with-code/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>There’s a broad distinction between permissive and restrictive/copyleft software licenses:</p>
+<p>Permissive: (commercial) use, copy, modify, merge, publish, distribute licensed works, modifications, and larger works may be distributed under different terms and without source code.</p>
+<p>Examples of TU Delft approved permissive licenses: MIT, BSD, Apache, CC0</p>
+<p>Restrictive/Copyleft: GPL, AGPL, LGPL, EUPL (slide 3)</p>
+
+
+
+ ]]></description>
+  <category>Software</category>
+  <category>Code</category>
+  <category>Licenses</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/post-with-code/index.html</guid>
+  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Encryption</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/Encryption/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Encryption provides protection by ensuring that only someone with the relevant encryption key (or password) will be able to access the contents.</p>
+<ul>
+<li><strong>Disk level</strong>: <em>Bitlocker</em> for Windows, <em>FileVault</em> for MacOS</li>
+<li><strong>“container” level</strong> (a folder containing multiple files): <em>Veracrypt</em> for Windows, <em>Archive</em> for MacOS (see also Disk Utilities, <a href="https://www.intego.com/mac-security-blog/how-to-use-apples-built-in-features-to-encrypt-files-and-folders">more information</a>)</li>
+<li><strong>Portable storage</strong>: <em>Bitlocker</em></li>
+<li><strong>File level / Exchange information</strong>
+<ul>
+<li><p><em>MS Office encryption</em> from Office 2016 onward uses AES-256 and is considered secure.</p>
+<ul>
+<li><p>Alternative for multiple files: <em>7zip</em> (AES-256 encryption), and pack with a password</p></li>
+<li><p>More complicated to setup: <em>PGP tooling</em> (can also be used to securely send email)</p></li>
+</ul></li>
+</ul></li>
+<li>For very sensitive data you can use <em>LANCrypt</em> (which only works on campus and you will need support from IT).</li>
+</ul>
+<section id="password-managers" class="level2">
+<h2 class="anchored" data-anchor-id="password-managers"><strong>Password managers*</strong></h2>
+<ul>
+<li><a href="https://www.lastpass.com">LastPass</a></li>
+<li><a href="https://www.dashlane.com/">Dashlane</a></li>
+<li><a href="https://keepass.info/">KeePass</a></li>
+</ul>
+<p>*Information taken from the TU Delft guidance on <a href="https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/ICT/ICT%20Security/2.1_Work_Safe_-_NetID_en_Passwords.pdf">NetIDs and passwords (pdf)</a></p>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><p><a href="https://www.tudelft.nl/en/it-manuals/working-remotely/encryption" class="uri">https://www.tudelft.nl/en/it-manuals/working-remotely/encryption</a></p></li>
+<li><p><a href="https://osf.io/nx8km/">Ghent University Encryption manual with detailed steps for Veracrypt</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Encryption</category>
+  <category>Security</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Encryption/index.html</guid>
+  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Encryption/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Storage Solutions</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Overview of Available Data Storage Solutions <strong>during the project’s duration</strong> at TU Delft. These storage solutions are primarily for internal use, but can be shared with collaborators.</p>
+<p>Please see <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&amp;from=feffb489-e1f9-49cd-8223-53ae0b70b609">TopDesk</a> for an overview of all the storage solutions available to you. Below follow some more details for each storage solution.</p>
+<section id="tu-delft-network-drives" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft-network-drives">TU Delft network drives</h2>
+<table class="table">
+<colgroup>
+<col style="width: 17%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 31%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Personal Drive (H:)</th>
+<th>Staff Group Drive (M:)</th>
+<th>Project Drive (U:)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Purpose</td>
+<td>Private work files only (sharing not possible)</td>
+<td>Data shared within research group or department</td>
+<td>Data from individual projects, shared with project members</td>
+</tr>
+<tr class="even">
+<td>Suitable for confidential data?</td>
+<td>Yes</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+<tr class="odd">
+<td>Size</td>
+<td>8 GB</td>
+<td>&gt; 5TB</td>
+<td>&gt; 5TB</td>
+</tr>
+</tbody>
+</table>
+<p>The Project Drive is the recommended storage solution for research data.</p>
+<ul>
+<li><p>Project leaders or supervisors should request the drive to ensure that they also have access to the data (especially important for the long term storage of any data).</p></li>
+<li><p>Anyone with a NetID can be added to a Project Drive (for external collaborators this NetID will have to be generated so <a href="https://docs.google.com/spreadsheets/d/1sMhw4URTSdVl4d7a_QPnhWGboR3YDJJGaDNK3KZMaKU/">additional information</a> will need to be provided). To provide access to additional people you can add them when you <a href="https://tudelft.topdesk.net/tas/public/ssp/content/serviceflow?unid=21b6203ec6d74f00a45c32e6034dfc0c&amp;openedFromService=true">request the drive via Topdesk</a>, you can contact the Service Desk of your faculty (servicepuntTNW [at] tudelft.nl), or you can add them using <a href="https://drive.google.com/file/d/13loyAiVFRw8vhIjFfu6h88F947DW4hyk/view?usp=sharing">UMRA</a>.</p>
+<ul>
+<li>Note that anyone provide access to the Project Drive will have viewing or editing rights for the entire Project Drive, unless you’re using UMRA. If you want to easily manage access permissions it may be needed to request multiple Project Drives or work with alternative storage solutions such as SURF/OneDrive.</li>
+</ul></li>
+<li><p>The Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).</p></li>
+<li><p>To request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with ‘Change’ selected rather than ‘New’. For &gt;5 TB of space, you may be contacted by the faculty IT manager for approval.</p></li>
+</ul>
+<section id="network-drives-and-delft-hpc" class="level3">
+<h3 class="anchored" data-anchor-id="network-drives-and-delft-hpc">Network Drives and Delft HPC</h3>
+<p>Please see the <a href="https://doc.dhpc.tudelft.nl/delftblue/Data-transfer-to-DelftBlue/#network-drives">DelftBlue documentation</a> on the storage of data-transfer recommendations from the HPC clusters.</p>
+</section>
+</section>
+<section id="surfdrive" class="level2">
+<h2 class="anchored" data-anchor-id="surfdrive"><a href="http://surfdrive.surf.nl/">SURFdrive</a></h2>
+<ul>
+<li>Secure cloud storage</li>
+<li>30 days backup, synchronize and share data</li>
+<li><a href="https://wiki.surfnet.nl/display/SURFdrive/Downloads+voor+SURFdrive">Desktop app</a> for synchronization</li>
+<li>500 GB</li>
+<li>Share data with external collaborators
+<ul>
+<li>public link + with password protection + expiry date</li>
+<li>Check the manual</li>
+</ul></li>
+<li>Not suitable for long term storage as this is a personal storage space (account expires when you leave TU Delft)</li>
+<li>Students don’t have accounts but you can give access to folders/files (OneDrive may be more suitable when working with students)</li>
+<li>Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.</li>
+</ul>
+</section>
+<section id="onedrive" class="level2">
+<h2 class="anchored" data-anchor-id="onedrive">OneDrive</h2>
+<p>See the <a href="https://d1rkab7tlqy5f1.cloudfront.net/ICT%20Handleidingen/2%20-%20Nieuwe%20handleidingen/Microsoft%20365/Onedrive/Getting%20started%20with%20OneDrive_ENG.pdf">OneDrive manual</a> on how to get started.</p>
+<ul>
+<li>Secure cloud storage</li>
+<li>30 days backup, synchronize and share data</li>
+<li>1 TB</li>
+<li>Share data with external collaborators by specifying users one by one with their email address</li>
+<li>Not suitable for long term storage account as this is a personal storage space (expires when you leave TU Delft)</li>
+<li>Students also have accounts</li>
+<li>Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.</li>
+</ul>
+</section>
+<section id="sending-files" class="level2">
+<h2 class="anchored" data-anchor-id="sending-files">Sending files</h2>
+<p><a href="https://www.surf.nl/en/surffilesender-send-large-files-securely-and-encrypted">SURFfilesender</a> can be used to share files up to 1 TB (also with end-to-end encryption up to 2)</p>
+</section>
+<section id="tu-delft-gitlab" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft-gitlab">TU Delft GitLab</h2>
+<p>TU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared.</p>
+<p>For an overview of the options of differences between GitLab/GitHub/Gitea, see this <a href="https://doi.org/10.5281/zenodo.4710206">repository chooser guide</a>.</p>
+<p>GitLab repository can be requested through <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42">TopDesk</a> (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; GitLab TU Delft &gt; Request GitLab).</p>
+</section>
+<section id="subversion-at-tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="subversion-at-tu-delft">Subversion at TU Delft</h2>
+<p>TU Delft provided version control systems for data with backup facility. Access can be controlled by the repository owner.</p>
+<p>Subversion repository can be requested through TopDesk (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; Version Control Tools &gt; Report to Service Desk)</p>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Storage</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/index.html</guid>
+  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O'Malley</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/welcome/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/welcome/index.html</guid>
+  <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
