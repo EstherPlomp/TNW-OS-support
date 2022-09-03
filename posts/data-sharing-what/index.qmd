@@ -1,0 +1,82 @@
+---
+title: "What data to share?"
+author: "Esther Plomp"
+date: "2022-09-03"
+categories: [Open Data]
+image: "image.jpg"
+---
+
+In order to determine what data should be openly shared ask yourself the following questions:
+
+**What information would another colleague need** to understand
+
+-   what you did,
+
+-   how you did it and
+
+-   how the data can be reused?
+
+**Which data can be shared?**
+
+-   Data restrictions can apply depending on the type of data (personal) or by contractual agreements with third partners.
+
+**When can it be shared?**
+
+Generally it is easiest to share data at the same time as the publication/article. This way you can still correct errors if there are any, and you're still familiar with the data organisation.
+
+## TU Delft [Research Data Framework](https://doi.org/10.5281/zenodo.2573159)
+
+Ensuring that research data, code and any other **materials needed to reproduce research findings** are appropriately documented, stored and shared in a research data repository ... unless there are [valid reasons](https://www.tudelft.nl/library/research-data-management/r/buttons/faqs#c547667) not to do so.
+
+## Faculty of Applied Sciences [Research Data Management Policy](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf)
+
+The minimal requirement is the **deposition of the numerical data (processed data) underlying the figures in academic papers and PhD theses**. Deposition of datasets not directly linked with publications or raw data/software and processing scripts used to derive the processed data is encouraged.
+
+Using standard or open data formats ensures longer-term usability of data
+
+-   **Standard Data Formats**: "widely accepted" formats such as .xls .xlsx
+
+-   **Open Data Formats**: Free to use such as .csv .tab
+
+Convert files into standard open formats for long term preservation of the data
+
+## Preferred (sustainable) file formats: 
+
+Text Plain text, XML, HTML, PDF (PDF/A-1), JSON, PDB (Protein Data Bank), XYZ (all formats should be encoded in UTF-8)
+
+Spreadsheets CSV (Comma-separated values), Tab-delimited values, PDF (PDF/A-1)
+
+Images JPEG, TIFF, PNG, SVG
+
+Geospatial GML (Geographical Mark-up Language), KML (Keyhole Mark-up Language), ESRI Shapefile, Geo-referenced TIFF
+
+**Numerical** NetCDF, CSV, JSON
+
+**Video** No sustainable format established
+
+**Audio** Waveform Audio File Format (WAVE)
+
+**Databases** Delimited Flat File w/DDL
+
+**Archives** ZIP, TAR, GZIP, 7Z
+
+Full overview: <https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf>
+
+## Data repositories
+
+Access
+
+DOI = more citations/visibility
+
+Long term preservation
+
+File format support
+
+[The Push to Replace Journal Supplements with Repositories](https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296)
+
+[![](images/paste-E057ECC8.png)](https://twitter.com/MadS100tist/status/1366103674989277185)
+
+## More information
+
+-   
+-   

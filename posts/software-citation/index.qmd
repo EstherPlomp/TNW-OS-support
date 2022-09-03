@@ -6,6 +6,10 @@ categories: [Licenses, Software, Citation]
 image: "image.jpg"
 ---
 
+https://guides.github.com/activities/citable-code/
+
+https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account
+
 ## Software Citation Checklist for Authors [by Neil Chue Hong et al.](https://doi.org/10.5281/zenodo.3479199).
 
 -   Have I identified the software which makes a significant and specialised contribution to my academic work?

@@ -1,0 +1,37 @@
+---
+title: "Backup Project Drive"
+author: "Esther Plomp"
+date: "2022-09-03"
+categories: [Storage, Project Drive]
+image: "image.jpg"
+---
+
+This post describes how to automatically and manually backup files from the Project Drive to a local drive. Automatic backup is only possible if you are the only/single user of the Project Drive. Back up needs to happen manually if there are multiple users.
+
+## Automatic backup
+
+1.  Map/mount the project drive as a local drive/folder (use sshfs (rather than sftp) to mount the drives)
+
+2.  Use a folder synchronization tool that can automatically synchronize newer files.
+
+    -   For Unices `cp --archive --update` is a start;
+
+    -   rsync (available for Unix and Windows) allows more control but make sure to use the right arguments;
+
+    -   tar is not suited because it creates archives instead of synchronizing folders.
+
+3.  Use a scheduler (Unices: cron, Windows: Task Scheduler) to automate the synchronization (step 1/2).
+
+::: callout-note
+When the Project drive is used from different computers, point 2 becomes very difficult because the "standard" tools only work one-way (i.e. they will only copy newer local files to the project drive but not synchronize newer files on the project drive to your local computer). Of course you can run the tools both ways, but that breaks horribly when you delete a file locally or revert to an older version, and the synchronization then happily restores the (newer) file from the project drive.
+:::
+
+::: callout-note
+This is not easy/perfect/suitable for everyone, it is not a one script fits all solution. You will probably want to tweak it for your own set up.
+:::
+
+## Manual backup
+
+-   Unison: does two-way synchronisation and asks the user in case of conflicts (changes from multiple sides/users)
+
+-   FileZilla and WinSCP can also do folder comparisons and show differences

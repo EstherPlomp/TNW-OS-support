@@ -1,0 +1,58 @@
+---
+title: "Why share data?"
+author: "Esther Plomp"
+date: "2022-09-02"
+categories: [Licenses, Software, Citation]
+image: "image.jpg"
+---
+
+## Why share data?
+
+-   Prevent data loss/unfindable files
+
+-   Can you still use data when people leave?
+
+-   Recognition for all research outputs
+
+-   Collaboration
+
+-   Increases quality of scientific practice
+
+-   Cost/time efficient
+
+-   Prevents retractions
+
+## Example: Majorana retraction
+
+The authors of the 2018 article Quantized Majorana conductance have retracted this article. The authors were alerted to problems by two scientists in the same research area and then went on to re-examine their earlier measurements. In doing so, they found that the main conclusion had not been adequately substantiated.
+
+Summary of the investigation by experts:
+
+-   Authors **selected data that supported the phenomenon** they were looking for
+
+-   Authors **omitted data** that could have raised questions about the conclusions
+
+::: callout-important
+"*It is a good thing that independent experts have looked at this as part of the integrity investigation," says Tim van der Hagen, Rector Magnificus of TU Delft. "Science always involves looking critically at results, questioning and challenging them*." [source](https://www.tudelft.nl/en/2021/tu-delft/retraction-nature-article-quantized-majorana-conductance)
+:::
+
+-   [Authors retract Nature Majorana paper, apologize for "insufficient scientific rigour"](https://retractionwatch.com/2021/03/08/authors-retract-nature-majorana-paper-apologize-for-insufficient-scientific-rigour/)
+
+-   [Quantum computing's reproducibility crisis: Majorana fermions](https://doi.org/10.1038/d41586-021-00954-8)
+
+-   [About our Majorana fermion paper](https://espressospin.org/2012/04/12/background-information-for-our-majorana-fermion-paper/)
+
+-   [Microsoft-Led Team Retracts Disputed Quantum-Computing Paper](https://www.wired.com/story/microsoft-retracts-disputed-quantum-computing-paper/)
+
+## Reproducibility concerns 
+
+-   [Does Chemical Engineering Research Have a Reproducibility Problem?](https://doi.org/10.1146/annurev-chembioeng-060718-030323)
+
+-   [How Reproducible Are Isotherm Measurements in Metal−Organic Frameworks?](http://dx.doi.org/10.1021/acs.chemmater.7b04287)
+
+-   [Does repeat synthesis in materials chemistry obey a power law?](https://www.pnas.org/cgi/doi/10.1073/pnas.1918484117)
+
+## More information
+
+-   See also the posts on [licensing](https://estherplomp.github.io/TNW-OS-support/posts/licenses/), good enough FAIR software
+-   

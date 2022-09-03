@@ -1,0 +1,61 @@
+---
+title: "How to share data?"
+author: "Esther Plomp"
+date: "2022-09-03"
+categories: [Open Data]
+image: "image.jpg"
+---
+
+How to share data?
+
+## Use standard or open file formats
+
+Using standard or open data formats ensures longer-term usability of data
+
+-   **Standard Data Formats**: "widely accepted" formats such as .xls .xlsx
+
+-   **Open Data Formats**: Free to use such as .csv .tab
+
+Convert files into standard open formats for long term preservation of the data
+
+## Preferred (sustainable) file formats: 
+
+Text Plain text, XML, HTML, PDF (PDF/A-1), JSON, PDB (Protein Data Bank), XYZ (all formats should be encoded in UTF-8)
+
+Spreadsheets CSV (Comma-separated values), Tab-delimited values, PDF (PDF/A-1)
+
+Images JPEG, TIFF, PNG, SVG
+
+Geospatial GML (Geographical Mark-up Language), KML (Keyhole Mark-up Language), ESRI Shapefile, Geo-referenced TIFF
+
+**Numerical** NetCDF, CSV, JSON
+
+**Video** No sustainable format established
+
+**Audio** Waveform Audio File Format (WAVE)
+
+**Databases** Delimited Flat File w/DDL
+
+**Archives** ZIP, TAR, GZIP, 7Z
+
+Full overview: <https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf>
+
+## Data repositories
+
+Access
+
+DOI = more citations/visibility
+
+Long term preservation
+
+File format support
+
+[The Push to Replace Journal Supplements with Repositories](https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296)
+
+## [![](images/paste-8C43FE3F.png)](https://twitter.com/MadS100tist/status/1366103674989277185)
+
+## More information
+
+-   
+
+-   
