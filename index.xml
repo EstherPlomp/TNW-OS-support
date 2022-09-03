@@ -271,6 +271,99 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>TU Delft GitLab or GitHub / 4TU.ResearchData integration</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/Git-4TU-integration/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>1. Login to <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> with your NetID</p>
+<p>2. Select ‘<strong>Application</strong>’ from the menu by clicking on the circle with your initials in the top right corner</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Git-4TU-integration/images/paste-A89C2926.png" class="img-fluid" width="293"></p>
+<p>3. Click the ‘Connect’ button under the GitHub or GitLab icon</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Git-4TU-integration/images/paste-A3FB4C4F.png" class="img-fluid" width="395"></p>
+<p>4. Sign into GitHub/Gitlab with Figshare</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Git-4TU-integration/images/paste-36BF3F60.png" class="img-fluid" width="278"></p>
+<p>5. Select the green ‘<strong>Authorize figshare</strong>’ button</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Git-4TU-integration/images/paste-9E9E61BF.png" class="img-fluid" width="430"></p>
+<p>6. A window should open on 4TU.ResearchData that shows your GitHub/GitLab account. When you click on your connected account you will see the repositories which you can import (alternatively you can do this by going to upload and then click the GitHub/GitLab icon to import repositories).</p>
+<p>7. Select the tick box in front of the repository/repositories that you want to import and select ‘<strong>Import selected repos</strong>’.</p>
+<ul>
+<li><p>If your repository has multiple releases, you can select which release you want to import</p></li>
+<li><p>If your repository has no releases yet, the latest commit will be imported.</p></li>
+</ul>
+<p>8. If you turn the sync on by clicking on ‘<strong>OFF</strong>’, your upload will automatically generate a new version for every <u>release</u> of your repository. You can switch this sync back off.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Git-4TU-integration/images/paste-E1808C0A.png" class="img-fluid" width="538"></p>
+<p>When you login another time through 4TU.ResearchData you should see the GitHub/GitLab logo which you can select to import repositories!</p>
+
+
+
+ ]]></description>
+  <category>GitHub</category>
+  <category>4TU.ResearchData</category>
+  <category>GitLab</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Git-4TU-integration/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Git-4TU-integration/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Data Management Plan - 5 things to check</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-5-things/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>As part of the Go/No-Go of a PhD a Data Management Plan is required (PhDs that started after 1st of January 2020).</p>
+<p>To help you check the Data Management Plan, this posts describes five things to consider. This post is based on the <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-plans">guidance note on reviewing Data Management Plans</a>.</p>
+<section id="was-a-data-steward-consulted" class="level2">
+<h2 class="anchored" data-anchor-id="was-a-data-steward-consulted">1. Was a Data Steward consulted?</h2>
+<p>You are not obliged to ask the Data Steward for support on a DMP, but they can provide you with valuable input on the DMP and check whether the answers make sense</p>
+</section>
+<section id="are-you-happy-with-how-the-datacode-is-stored" class="level2">
+<h2 class="anchored" data-anchor-id="are-you-happy-with-how-the-datacode-is-stored">2. Are you happy with how the data/code is stored?</h2>
+<p>Ensure that the data will be stored using a storage solution that is automatically backed up and that all project members have access to the data they need to have access to (especially important that access is restricted when working with personal data or confidential data - see number 4).</p>
+</section>
+<section id="is-the-data-properly-organised-and-documented" class="level2">
+<h2 class="anchored" data-anchor-id="is-the-data-properly-organised-and-documented">3. Is the data properly organised and documented?</h2>
+<p>Can you easily figure out which file is what? If you open some of the files, are they properly labelled and described? If the individual responsible for data collection would leave the university, can you still make sense of the data without their input? See the data organisation/documentation post for more information.</p>
+</section>
+<section id="is-your-student-working-with-confidential-data" class="level2">
+<h2 class="anchored" data-anchor-id="is-your-student-working-with-confidential-data">4. Is your student working with confidential data?</h2>
+<p>And are they handling this confidential data properly? Here the advise of the Data Steward can come in extra handy and is required for personal data (as part of the <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics">HREC application</a>).</p>
+<p>Confidential data can contain:</p>
+<ul>
+<li><p>personal information which can allow the identification of living individuals</p></li>
+<li><p>commercially-confidential information (e.g.&nbsp;something you might want to patent, or data belonging to a third party)</p></li>
+<li><p>Information related to national security , export control regulations etc.</p></li>
+</ul>
+</section>
+<section id="is-there-a-clear-strategy-for-data-sharing" class="level2">
+<h2 class="anchored" data-anchor-id="is-there-a-clear-strategy-for-data-sharing">5. Is there a clear strategy for data sharing?</h2>
+<p>TU Delft <a href="https://doi.org/10.5281/zenodo.2573159">Research Data Framework Policy</a> requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate .</p>
+<ul>
+<li><p>Did the project team agree what data (and code), when and how will be shared? (See <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/">what data should be shared post</a>)</p></li>
+<li><p>Will there be any difficulties with data sharing (perhaps not all data is suitable for sharing)?</p></li>
+<li><p>What <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licence</a> will be the most suitable for the data (and code)?</p></li>
+</ul>
+<p>In principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a>, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise).</p>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+
+
+</section>
+
+ ]]></description>
+  <category>DMP</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-5-things/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-5-things/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Backup Project Drive</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/backup-project-drive/index.html</link>
