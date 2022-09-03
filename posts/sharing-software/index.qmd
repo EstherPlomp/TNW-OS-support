@@ -1,0 +1,39 @@
+---
+title: "Sharing Software"
+author: "Esther Plomp"
+date: "2022-09-02"
+categories: [Licenses, Software]
+image: "image.jpg"
+---
+
+Note that a pre-approved license by the [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629662): MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0 when you share your software.
+
+You can either use 4TU.ResearchData or another repository.
+
+## 4TU.ResearchData
+
+-   Log in right top using TU Delft credentials
+
+-   Create a new item or import from GitHub/GitLab
+
+-   Add relevant metadata in the information fields
+
+## Other repositories
+
+-   Upload your software in another repository (for example: [Zenodo](https://zenodo.org/)).
+
+-   Go to <https://pure.tudelft.nl/admin/> and log in using TU Delft credentials
+
+-   Select Datasets/Software -\> Software
+
+-   Fill out the metadata in the information fields and add DOI, select license and save the information
+
+## Feedback
+
+Before sharing your code/software in a data repository it can be helpful to ask a colleague or collaborator to review it.
+
+## More information
+
+-   Full [presentation](http://doi.org/10.5281/zenodo.4772235) +[recording](https://youtu.be/bPl5sdTvLMM?t=1394) of how to publish software (from 23:14 onwards)
+-   See also the [post on licensing](https://estherplomp.github.io/TNW-OS-support/posts/licenses/)
+-   

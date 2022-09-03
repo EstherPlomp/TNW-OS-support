@@ -1,0 +1,46 @@
+---
+title: "Software Citation"
+author: "Esther Plomp"
+date: "2022-09-02"
+categories: [Licenses, Software, Citation]
+image: "image.jpg"
+---
+
+## Software Citation Checklist for Authors [by Neil Chue Hong et al.](https://doi.org/10.5281/zenodo.3479199).
+
+-   Have I identified the software which makes a significant and specialised contribution to my academic work?
+
+-   Have I checked if the software has a recommended citation?
+
+    -   If this is to a paper, have I also cited the software directly?
+
+    -   If there's no recommended citation, have I created as complete a citation as possible?
+
+        -   Who created the software
+
+        -   When it was created
+
+        -   Title of the software (and version if available)
+
+        -   Where the software can be accessed
+
+-   Have I referenced the software appropriately in my academic work, complying with any citation formatting guidelines?
+
+## Software Citation Checklist for Developers [by Neil Chue Hong et al.](https://doi.org/10.5281/zenodo.3482769)
+
+-   Have I assigned an appropriate [**license**](https://estherplomp.github.io/TNW-OS-support/posts/licenses/) to my software?
+
+-   Have I **described my software properly**, using an appropriate metadata format, and included this metadata file with my software?
+
+    -   Have I given my software a clear **version number**?
+
+    -   Have I determined the **authors to be credited** for this release of my software, and included this in my metadata file?
+
+-   Have I procured a **persistent identifier** for this release of my software?
+
+-   Have I added my **recommended citation** to the documentation for my software?
+
+## More information
+
+-   See also the posts on [licensing](https://estherplomp.github.io/TNW-OS-support/posts/licenses/), good enough FAIR software
+-   
