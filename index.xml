@@ -255,6 +255,57 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>FAIR principles</title>
+  <dc:creator>Esther Plomp, Paula Martinez-Lavanchy, Pim van Schöll, Eirini Zormpa</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/FAIR/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This content is based on <a href="https://doi.org/10.5281/zenodo.6325919">Martinez-Lavanchy et al.&nbsp;2022</a>.</p>
+<section id="what-are-the-fair-principles" class="level2">
+<h2 class="anchored" data-anchor-id="what-are-the-fair-principles">What are the FAIR principles?</h2>
+<p>The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable <span class="citation" data-cites="wilkinson2016">[@wilkinson2016]</span>.</p>
+<ul>
+<li>Findable means that others (both human and machines) can discover the data</li>
+<li>Accessible means that the data can be made available to others</li>
+<li>Interoperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.</li>
+<li>Reusable means that the data can be used for new research</li>
+</ul>
+<p>These four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/FAIR/https:/the-turing-way.netlify.app/_images/fair-principles.jpg" class="img-fluid figure-img" style="width:75.0%"></p>
+<p></p><figcaption class="figure-caption">The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption><p></p>
+</figure>
+</div>
+<p>The FAIR Data principles are NOT:</p>
+<ul>
+<li>A standard. The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.</li>
+<li>Equivalent to Open Data. FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.</li>
+<li>Applied using a particular technology or tool. There might be different tools that enable FAIR data within different disciplines or research workflows.</li>
+</ul>
+<p>There are important elements to consider within your research workflows if you aim to make the data of your project FAIR:</p>
+<ul>
+<li><a href="https://youtu.be/q-NxFTlcKgs">Documentation &amp; Metadata</a></li>
+<li><a href="https://youtu.be/83Jnyd5_vxM">Interoperability</a></li>
+<li><a href="https://youtu.be/3TWye1ftR1w">Access to data</a></li>
+<li><a href="https://youtu.be/m-oWVp92xG0">Persistent identifiers</a></li>
+<li><a href="https://youtu.be/3nl_Z7Jt-Z4">Licences</a></li>
+</ul>
+<p>Scripts of the videos copied or adapted from <span class="citation" data-cites="holmstrand2019">[@holmstrand2019]</span>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>FAIR</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/FAIR/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/FAIR/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>What data to share?</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/index.html</link>
@@ -272,7 +323,7 @@
 </ul>
 <p><strong>Which data can be shared?</strong></p>
 <ul>
-<li>Data restrictions can apply depending on the type of data (personal) or by contractual agreements with third partners.</li>
+<li>Data restrictions can apply depending on the type of data (<a href="https://estherplomp.github.io/TNW-RDM-101/05-Essentials-for-Research-Data.html#personal-data">personal data</a>) or by contractual agreements with third partners (<a href="https://estherplomp.github.io/TNW-RDM-101/05-Essentials-for-Research-Data.html#confidential-data">confidential data</a>).</li>
 </ul>
 <p><strong>When can it be shared?</strong></p>
 <p>Generally it is easiest to share data at the same time as the publication/article. This way you can still correct errors if there are any, and you’re still familiar with the data organisation.</p>
@@ -283,38 +334,6 @@
 <section id="faculty-of-applied-sciences-research-data-management-policy" class="level2">
 <h2 class="anchored" data-anchor-id="faculty-of-applied-sciences-research-data-management-policy">Faculty of Applied Sciences <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf">Research Data Management Policy</a></h2>
 <p>The minimal requirement is the <strong>deposition of the numerical data (processed data) underlying the figures in academic papers and PhD theses</strong>. Deposition of datasets not directly linked with publications or raw data/software and processing scripts used to derive the processed data is encouraged.</p>
-<p>Using standard or open data formats ensures longer-term usability of data</p>
-<ul>
-<li><p><strong>Standard Data Formats</strong>: “widely accepted” formats such as .xls .xlsx</p></li>
-<li><p><strong>Open Data Formats</strong>: Free to use such as .csv .tab</p></li>
-</ul>
-<p>Convert files into standard open formats for long term preservation of the data</p>
-</section>
-<section id="preferred-sustainable-file-formats" class="level2">
-<h2 class="anchored" data-anchor-id="preferred-sustainable-file-formats">Preferred (sustainable) file formats:</h2>
-<p>Text Plain text, XML, HTML, PDF (PDF/A-1), JSON, PDB (Protein Data Bank), XYZ (all formats should be encoded in UTF-8)</p>
-<p>Spreadsheets CSV (Comma-separated values), Tab-delimited values, PDF (PDF/A-1)</p>
-<p>Images JPEG, TIFF, PNG, SVG</p>
-<p>Geospatial GML (Geographical Mark-up Language), KML (Keyhole Mark-up Language), ESRI Shapefile, Geo-referenced TIFF</p>
-<p><strong>Numerical</strong> NetCDF, CSV, JSON</p>
-<p><strong>Video</strong> No sustainable format established</p>
-<p><strong>Audio</strong> Waveform Audio File Format (WAVE)</p>
-<p><strong>Databases</strong> Delimited Flat File w/DDL</p>
-<p><strong>Archives</strong> ZIP, TAR, GZIP, 7Z</p>
-<p>Full overview: <a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf" class="uri">https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf</a></p>
-</section>
-<section id="data-repositories" class="level2">
-<h2 class="anchored" data-anchor-id="data-repositories">Data repositories</h2>
-<p>Access</p>
-<p>DOI = more citations/visibility</p>
-<p>Long term preservation</p>
-<p>File format support</p>
-<p><a href="https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296">The Push to Replace Journal Supplements with Repositories</a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://twitter.com/MadS100tist/status/1366103674989277185"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/images/paste-E057ECC8.png" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
 </section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
@@ -363,9 +382,10 @@
 
 
  ]]></description>
-  <category>GitHub</category>
+  <category>Git</category>
   <category>4TU.ResearchData</category>
-  <category>GitLab</category>
+  <category>Open Data</category>
+  <category>Open Software</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Git-4TU-integration/index.html</guid>
   <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Git-4TU-integration/image.jpg" medium="image" type="image/jpeg"/>
@@ -548,6 +568,17 @@ Important
 <li><p><a href="https://www.pnas.org/cgi/doi/10.1073/pnas.1918484117">Does repeat synthesis in materials chemistry obey a power law?</a></p></li>
 </ul>
 </section>
+<section id="five-selfish-reasons-to-work-reproducibly" class="level2">
+<h2 class="anchored" data-anchor-id="five-selfish-reasons-to-work-reproducibly">Five selfish reasons to work reproducibly</h2>
+<p>Florian Markowetz provides five selfish reasons in his <a href="https://doi.org/10.1186/s13059-015-0850-7">article</a> and <a href="https://youtu.be/1Y_oIjlH-yg?t=355">presentation</a> (50 min) to work more reproducible. Reproducibility:</p>
+<ol type="1">
+<li>helps to avoid disaster</li>
+<li>makes it easier to write papers</li>
+<li>helps reviewers see it your way</li>
+<li>enables continuity of your work</li>
+<li>helps to build your reputation</li>
+</ol>
+</section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
@@ -672,7 +703,7 @@ Important
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Transferring ownership of a Gitlab repo</title>
+  <title>Transferring ownership of a GitLab repo</title>
   <dc:creator>Esther Plomp, Lora Armstrong</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/index.html</link>
   <description><![CDATA[ 
@@ -1070,139 +1101,6 @@ Note
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Encryption/index.html</guid>
   <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Encryption/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Storage Solutions</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Overview of Available Data Storage Solutions <strong>during the project’s duration</strong> at TU Delft. These storage solutions are primarily for internal use, but can be shared with collaborators.</p>
-<p>Please see <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&amp;from=feffb489-e1f9-49cd-8223-53ae0b70b609">TopDesk</a> for an overview of all the storage solutions available to you. Below follow some more details for each storage solution.</p>
-<section id="tu-delft-network-drives" class="level2">
-<h2 class="anchored" data-anchor-id="tu-delft-network-drives">TU Delft network drives</h2>
-<table class="table">
-<colgroup>
-<col style="width: 23%">
-<col style="width: 23%">
-<col style="width: 23%">
-<col style="width: 29%">
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th>Personal Drive (H:)</th>
-<th>Staff Group Drive (M:)</th>
-<th>Project Drive (U:)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Purpose</td>
-<td>Private work files only (sharing not possible)</td>
-<td>Data shared within research group or department</td>
-<td>Data from individual projects, shared with project members</td>
-</tr>
-<tr class="even">
-<td>Suitable for confidential data?</td>
-<td>Yes</td>
-<td>No</td>
-<td>Yes</td>
-</tr>
-<tr class="odd">
-<td>Size</td>
-<td>8 GB</td>
-<td>&gt; 5TB</td>
-<td>&gt; 5TB</td>
-</tr>
-</tbody>
-</table>
-<p>The Project Drive is the recommended storage solution for research data.</p>
-<ul>
-<li><p>Project leaders or supervisors should request the drive to ensure that they also have access to the data (especially important for the long term storage of any data).</p></li>
-<li><p>Anyone with a NetID can be added to a Project Drive (for external collaborators this NetID will have to be generated so <a href="https://docs.google.com/spreadsheets/d/1sMhw4URTSdVl4d7a_QPnhWGboR3YDJJGaDNK3KZMaKU/">additional information</a> will need to be provided). To provide access to additional people you can add them when you <a href="https://tudelft.topdesk.net/tas/public/ssp/content/serviceflow?unid=21b6203ec6d74f00a45c32e6034dfc0c&amp;openedFromService=true">request the drive via Topdesk</a>, you can contact the Service Desk of your faculty (servicepuntTNW [at] tudelft.nl), or you can add them using <a href="https://drive.google.com/file/d/13loyAiVFRw8vhIjFfu6h88F947DW4hyk/view?usp=sharing">UMRA</a>.</p>
-<ul>
-<li>Note that anyone provide access to the Project Drive will have viewing or editing rights for the entire Project Drive, unless you’re using UMRA. If you want to easily manage access permissions it may be needed to request multiple Project Drives or work with alternative storage solutions such as SURF/OneDrive.</li>
-</ul></li>
-<li><p>The Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).</p></li>
-<li><p>To request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with ‘Change’ selected rather than ‘New’. For &gt;5 TB of space, you may be contacted by the faculty IT manager for approval.</p></li>
-</ul>
-<section id="network-drives-and-delft-hpc" class="level3">
-<h3 class="anchored" data-anchor-id="network-drives-and-delft-hpc">Network Drives and Delft HPC</h3>
-<p>Please see the <a href="https://doc.dhpc.tudelft.nl/delftblue/Data-transfer-to-DelftBlue/#network-drives">DelftBlue documentation</a> on the storage of data-transfer recommendations from the HPC clusters.</p>
-</section>
-</section>
-<section id="surfdrive" class="level2">
-<h2 class="anchored" data-anchor-id="surfdrive"><a href="http://surfdrive.surf.nl/">SURFdrive</a></h2>
-<ul>
-<li>Secure cloud storage</li>
-<li>30 days backup, synchronize and share data</li>
-<li><a href="https://wiki.surfnet.nl/display/SURFdrive/Downloads+voor+SURFdrive">Desktop app</a> for synchronization</li>
-<li>500 GB</li>
-<li>Share data with external collaborators
-<ul>
-<li>public link + with password protection + expiry date</li>
-<li>Check the manual</li>
-</ul></li>
-<li>Not suitable for long term storage as this is a personal storage space (account expires when you leave TU Delft)</li>
-<li>Students don’t have accounts but you can give access to folders/files (OneDrive may be more suitable when working with students)</li>
-<li>Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.</li>
-</ul>
-</section>
-<section id="onedrive" class="level2">
-<h2 class="anchored" data-anchor-id="onedrive">OneDrive</h2>
-<p>See the <a href="https://d1rkab7tlqy5f1.cloudfront.net/ICT%20Handleidingen/2%20-%20Nieuwe%20handleidingen/Microsoft%20365/Onedrive/Getting%20started%20with%20OneDrive_ENG.pdf">OneDrive manual</a> on how to get started.</p>
-<ul>
-<li>Secure cloud storage</li>
-<li>30 days backup, synchronize and share data</li>
-<li>1 TB</li>
-<li>Share data with external collaborators by specifying users one by one with their email address</li>
-<li>Not suitable for long term storage account as this is a personal storage space (expires when you leave TU Delft)</li>
-<li>Students also have accounts</li>
-<li>Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.</li>
-</ul>
-</section>
-<section id="sending-files" class="level2">
-<h2 class="anchored" data-anchor-id="sending-files">Sending files</h2>
-<p><a href="https://www.surf.nl/en/surffilesender-send-large-files-securely-and-encrypted">SURFfilesender</a> can be used to share files up to 1 TB (also with end-to-end encryption up to 2)</p>
-</section>
-<section id="tu-delft-gitlab" class="level2">
-<h2 class="anchored" data-anchor-id="tu-delft-gitlab">TU Delft GitLab</h2>
-<p>TU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared.</p>
-<p>For an overview of the options of differences between GitLab/GitHub/Gitea, see this <a href="https://doi.org/10.5281/zenodo.4710206">repository chooser guide</a>.</p>
-<p>GitLab repository can be requested through <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42">TopDesk</a> (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; GitLab TU Delft &gt; Request GitLab).</p>
-</section>
-<section id="subversion-at-tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="subversion-at-tu-delft">Subversion at TU Delft</h2>
-<p>TU Delft provided version control systems for data with backup facility. Access can be controlled by the repository owner.</p>
-<p>Subversion repository can be requested through TopDesk (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; Version Control Tools &gt; Report to Service Desk)</p>
-</section>
-<section id="electronic-lab-notebooks" class="level2">
-<h2 class="anchored" data-anchor-id="electronic-lab-notebooks">Electronic Lab Notebooks</h2>
-<ul>
-<li><p>Capture and organise data</p></li>
-<li><p>Backed up automatically</p></li>
-<li><p>Link your data and protocols</p></li>
-<li><p>Collaborate easily by sharing your documents and data directly in the notebook</p></li>
-<li><p>Export data in several formats</p></li>
-<li><p>Integration with other software/tools</p></li>
-<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">TU Delft offers licenses for RSpace and eLABjournal</a></p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-
-
-</section>
-
- ]]></description>
-  <category>Storage</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/index.html</guid>
-  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
