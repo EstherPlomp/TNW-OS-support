@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/data-costs/index.html",
       "/posts/good-enough-software/index.html",
       "/posts/data-sharing-how/index.html",
       "/posts/data-sharing-what/index.html",
@@ -11,6 +12,7 @@
       "/posts/data-sharing-why/index.html",
       "/posts/sharing-software/index.html",
       "/posts/licenses/index.html",
+      "/posts/software-GitLab-repo/index.html",
       "/posts/software-citation/index.html",
       "/posts/rights-retention-strategy/index.html",
       "/posts/access-project-drive/index.html",

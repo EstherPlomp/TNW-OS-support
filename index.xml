@@ -12,6 +12,68 @@
 <generator>quarto-1.1.179</generator>
 <lastBuildDate>Sat, 03 Sep 2022 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>Data Management Costs</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-costs/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="research-data-management-costs" class="level2">
+<h2 class="anchored" data-anchor-id="research-data-management-costs">Research Data Management Costs</h2>
+<p>In general TU Delft storage and sharing solutions should be sufficient for standard research Data Management needs. You can consider the costs of the following:</p>
+<p>Costs of data management might include:</p>
+</section>
+<section id="hardware-and-infrastructure-costs" class="level2">
+<h2 class="anchored" data-anchor-id="hardware-and-infrastructure-costs">Hardware and infrastructure costs</h2>
+<ul>
+<li><p>Costs of hardware for storing and backing up data.</p></li>
+<li><p>Costs of access to any specialist infrastructure, such as High Performance Computing.</p></li>
+<li><p>Cloud computing costs.</p></li>
+</ul>
+</section>
+<section id="software-costs" class="level2">
+<h2 class="anchored" data-anchor-id="software-costs">Software costs</h2>
+<ul>
+<li>Purchase of licences for software to support good data management, such as Electronic Lab Notebooks, or project management software.</li>
+</ul>
+</section>
+<section id="personnel-cost" class="level2">
+<h2 class="anchored" data-anchor-id="personnel-cost">Personnel cost</h2>
+<ul>
+<li><p>Time associated with the preparation of research data for archiving and publication including the relevant documentation.</p></li>
+<li><p>Cost of hiring a dedicated Data Manager or Data Analyst for the project.</p></li>
+</ul>
+</section>
+<section id="publishing-costs" class="level2">
+<h2 class="anchored" data-anchor-id="publishing-costs">Publishing costs</h2>
+<ul>
+<li><p>Data publication, where there is a charge associated with depositing in a data archive.</p>
+<ul>
+<li><a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> is free for TU Delft researchers up to 1 TB/per year/per researcher.</li>
+</ul></li>
+<li><p>Publication of papers about datasets or software in dedicated journals.</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>RDM</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-costs/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-costs/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Good enough FAIR software</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/good-enough-software/index.html</link>
@@ -563,7 +625,7 @@ Important
 
 
 
-<p>Licenses are a standardised way to share data/code and let anyone know what it is that they are allowed to do with it.</p>
+<p>Licenses are a standardised way to share data/code and let anyone know what it is that they are allowed to do with it. If you share your research without a license, you are not making clear how you wish the research to be used which might prevent it being used the way you intend.</p>
 <section id="data-licenses" class="level2">
 <h2 class="anchored" data-anchor-id="data-licenses">Data Licenses</h2>
 <p>Everything in the list with a CC in front of it is used for data (stands for <a href="https://creativecommons.org/">Creative Commons</a>).</p>
@@ -575,6 +637,11 @@ Important
 <li><p>ND means non-derivative, which means that reusers can only reuse the data in the same form (which is quite restrictive!).</p></li>
 </ul>
 <p><a href="https://chooser-beta.creativecommons.org/">Data license chooser</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/images/paste-60D9B79A.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
 </section>
 <section id="software" class="level2">
 <h2 class="anchored" data-anchor-id="software">Software</h2>
@@ -589,6 +656,9 @@ Important
 <ul>
 <li><a href="https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing">4TU.ResearchData licenses overview</a></li>
 <li><a href="https://the-turing-way.netlify.app/reproducible-research/licensing.html">The Turing Way: licensing</a></li>
+<li><a href="https://www.youtube.com/watch?v=xdBwuut6dRY&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=5">A Primer on Open License</a></li>
+<li><a href="https://www.youtube.com/watch?v=OskC2LNtPkU&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=10">Open Source in Research</a></li>
+<li></li>
 </ul>
 
 
@@ -600,6 +670,72 @@ Important
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/index.html</guid>
   <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Transferring ownership of a Gitlab repo</title>
+  <dc:creator>Esther Plomp, Lora Armstrong</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This guide on transferring ownership of a Gitlab repo has been set up <a href="https://docs.google.com/document/d/1y8VlQDJNsm6fkEtUzEXyUjvMggPeHa-zc_JZB2Emm8E/">by Lora Armstrong</a>.</p>
+<section id="what-happens-to-my-gitlab-projects-when-i-leave-tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="what-happens-to-my-gitlab-projects-when-i-leave-tu-delft">What happens to my GitLab projects when I leave TU Delft?</h2>
+<p>Currently there are no plans to delete your repositories (see <a href="https://gitlab.tudelft.nl/help" class="uri">https://gitlab.tudelft.nl/help</a>).</p>
+</section>
+<section id="can-my-supervisorcollaborators-still-access-my-gitlab-projects-when-i-leave" class="level2">
+<h2 class="anchored" data-anchor-id="can-my-supervisorcollaborators-still-access-my-gitlab-projects-when-i-leave">Can my supervisor/collaborators still access my GitLab projects when I leave?</h2>
+<p>If they have access to your projects, they will still have access after you leave. You can control who has access to your projects by going to Project Information &gt; Members in the sidebar of your repository. To be safe, transfer ownership of the projects to a current TU Delft employee when you leave!</p>
+</section>
+<section id="how-do-i-transfer-ownership-of-my-project-to-my-supervisor-or-someone-else-at-tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="how-do-i-transfer-ownership-of-my-project-to-my-supervisor-or-someone-else-at-tu-delft">How do I transfer ownership of my project to my supervisor or someone else at TU Delft?</h2>
+<p>You can transfer a project to another user’s <a href="https://docs.gitlab.com/ee/user/group/#namespaces">GitLab namespace</a>.</p>
+<p><strong>Summary</strong> (based on <a href="https://stackoverflow.com/questions/21579693/how-to-change-the-project-owner-in-gitlab">this Stack Overflow post</a>): ​​Move your project from your namespace to a group where both you and the other user are owners, then the other user can transfer it to their own namespace.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/images/paste-7F2DDF62.png" class="img-fluid"></p>
+<p>Instructions:</p>
+<ol type="1">
+<li>Create a new group if you don’t already have one that you want to use (<strong>Menu</strong> &gt; <strong>Groups</strong> &gt; <strong>Create group</strong>)</li>
+</ol>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/images/paste-39792A08.png" class="img-fluid"></p>
+<ol start="2" type="1">
+<li>Make sure that both the maintainer of the project repository, and the person who it will be transferred to, are members of the group and have the Owner role (to add a new owner: go to the group namespace, then from the sidebar choose <strong>Group information</strong> &gt; <strong>Members</strong> &gt; <strong>Invite members</strong>. Enter username or email of the person you want to invite and change the role to ‘Owner’. Click ‘<strong>Invite</strong>’.)</li>
+</ol>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/images/paste-B79DF3BF.png" class="img-fluid"></p>
+<ol start="3" type="1">
+<li>Have a maintainer of the project repository transfer it to the group namespace (go to the project namespace, then from the sidebar go to <strong>Settings</strong> &gt; <strong>General</strong> &gt; <strong>Advanced</strong> &gt; <strong>Transfer Project</strong>)</li>
+</ol>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/images/paste-9B291D83.png" class="img-fluid"></p>
+<ol start="4" type="1">
+<li>After doing this, the maintainer(s) of the project will get an email notifying that the project has been moved to a different location.</li>
+<li>Now the person who the project is being transferred to can move it to their own namespace (go to the project namespace, then from the sidebar, go to <strong>Settings</strong> &gt; <strong>General</strong> &gt; <strong>Advanced</strong> &gt; <strong>Transfer Project</strong> like before).</li>
+<li>If desired, the group can be deleted after the transfer is complete (go to the group namespace, then from the sidebar go to Settings &gt; General &gt; Advanced &gt; Remove Group)</li>
+</ol>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/images/paste-7598BCE4.png" class="img-fluid"></p>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Providing a more straightforward way to transfer ownership in Gitlab was raised as an <a href="https://gitlab.com/gitlab-org/gitlab/-/issues/14502">issue in 2016</a>, which is unfortunately still open.</p>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>GitLab</category>
+  <category>Software</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/index.html</guid>
+  <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Software Citation</title>
@@ -1067,27 +1203,6 @@ Important
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/index.html</guid>
   <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O'Malley</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/welcome/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/welcome/index.html</guid>
-  <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

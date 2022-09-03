@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Esther Plomp">
+<meta name="author" content="Esther Plomp, Lora Armstrong">
 <meta name="dcterms.date" content="2022-09-02">
 
-<title>TNW-OS-support - Licenses</title>
+<title>TNW-OS-support - Transferring ownership of a Gitlab repo</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -104,10 +104,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Licenses</h1>
+      <h1 class="title">Transferring ownership of a Gitlab repo</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">Licenses</div>
-                <div class="quarto-category">Copyright</div>
+                <div class="quarto-category">GitLab</div>
+                <div class="quarto-category">Software</div>
               </div>
                   </div>
   </div>
@@ -118,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Esther Plomp </p>
+               <p>Esther Plomp, Lora Armstrong </p>
             </div>
     </div>
       
@@ -142,41 +142,52 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Licenses are a standardised way to share data/code and let anyone know what it is that they are allowed to do with it. If you share your research without a license, you are not making clear how you wish the research to be used which might prevent it being used the way you intend.</p>
-<section id="data-licenses" class="level2">
-<h2 class="anchored" data-anchor-id="data-licenses">Data Licenses</h2>
-<p>Everything in the list with a CC in front of it is used for data (stands for <a href="https://creativecommons.org/">Creative Commons</a>).</p>
-<p>TU Delft recommends <strong>CC-BY</strong> (which is also quite standard in publishing articles)and allows reusers to cite the original work if they reuse it.</p>
-<p>The more letters these CC licenses have, the more restrictions they place on re-use.</p>
-<ul>
-<li><p>NC means non-commercial use is prohibited</p></li>
-<li><p>SA stands for share alike, which means that you have to apply the same license.</p></li>
-<li><p>ND means non-derivative, which means that reusers can only reuse the data in the same form (which is quite restrictive!).</p></li>
-</ul>
-<p><a href="https://chooser-beta.creativecommons.org/">Data license chooser</a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg"><img src="images/paste-60D9B79A.png" class="img-fluid figure-img"></a></p>
-</figure>
+<p>This guide on transferring ownership of a Gitlab repo has been set up <a href="https://docs.google.com/document/d/1y8VlQDJNsm6fkEtUzEXyUjvMggPeHa-zc_JZB2Emm8E/">by Lora Armstrong</a>.</p>
+<section id="what-happens-to-my-gitlab-projects-when-i-leave-tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="what-happens-to-my-gitlab-projects-when-i-leave-tu-delft">What happens to my GitLab projects when I leave TU Delft?</h2>
+<p>Currently there are no plans to delete your repositories (see <a href="https://gitlab.tudelft.nl/help" class="uri">https://gitlab.tudelft.nl/help</a>).</p>
+</section>
+<section id="can-my-supervisorcollaborators-still-access-my-gitlab-projects-when-i-leave" class="level2">
+<h2 class="anchored" data-anchor-id="can-my-supervisorcollaborators-still-access-my-gitlab-projects-when-i-leave">Can my supervisor/collaborators still access my GitLab projects when I leave?</h2>
+<p>If they have access to your projects, they will still have access after you leave. You can control who has access to your projects by going to Project Information &gt; Members in the sidebar of your repository. To be safe, transfer ownership of the projects to a current TU Delft employee when you leave!</p>
+</section>
+<section id="how-do-i-transfer-ownership-of-my-project-to-my-supervisor-or-someone-else-at-tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="how-do-i-transfer-ownership-of-my-project-to-my-supervisor-or-someone-else-at-tu-delft">How do I transfer ownership of my project to my supervisor or someone else at TU Delft?</h2>
+<p>You can transfer a project to another user’s <a href="https://docs.gitlab.com/ee/user/group/#namespaces">GitLab namespace</a>.</p>
+<p><strong>Summary</strong> (based on <a href="https://stackoverflow.com/questions/21579693/how-to-change-the-project-owner-in-gitlab">this Stack Overflow post</a>): ​​Move your project from your namespace to a group where both you and the other user are owners, then the other user can transfer it to their own namespace.</p>
+<p><img src="images/paste-7F2DDF62.png" class="img-fluid"></p>
+<p>Instructions:</p>
+<ol type="1">
+<li>Create a new group if you don’t already have one that you want to use (<strong>Menu</strong> &gt; <strong>Groups</strong> &gt; <strong>Create group</strong>)</li>
+</ol>
+<p><img src="images/paste-39792A08.png" class="img-fluid"></p>
+<ol start="2" type="1">
+<li>Make sure that both the maintainer of the project repository, and the person who it will be transferred to, are members of the group and have the Owner role (to add a new owner: go to the group namespace, then from the sidebar choose <strong>Group information</strong> &gt; <strong>Members</strong> &gt; <strong>Invite members</strong>. Enter username or email of the person you want to invite and change the role to ‘Owner’. Click ‘<strong>Invite</strong>’.)</li>
+</ol>
+<p><img src="images/paste-B79DF3BF.png" class="img-fluid"></p>
+<ol start="3" type="1">
+<li>Have a maintainer of the project repository transfer it to the group namespace (go to the project namespace, then from the sidebar go to <strong>Settings</strong> &gt; <strong>General</strong> &gt; <strong>Advanced</strong> &gt; <strong>Transfer Project</strong>)</li>
+</ol>
+<p><img src="images/paste-9B291D83.png" class="img-fluid"></p>
+<ol start="4" type="1">
+<li>After doing this, the maintainer(s) of the project will get an email notifying that the project has been moved to a different location.</li>
+<li>Now the person who the project is being transferred to can move it to their own namespace (go to the project namespace, then from the sidebar, go to <strong>Settings</strong> &gt; <strong>General</strong> &gt; <strong>Advanced</strong> &gt; <strong>Transfer Project</strong> like before).</li>
+<li>If desired, the group can be deleted after the transfer is complete (go to the group namespace, then from the sidebar go to Settings &gt; General &gt; Advanced &gt; Remove Group)</li>
+</ol>
+<p><img src="images/paste-7598BCE4.png" class="img-fluid"></p>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-</section>
-<section id="software" class="level2">
-<h2 class="anchored" data-anchor-id="software">Software</h2>
-<p>For software there are different licenses because you can execute software (which makes it a bit more complex). CC-BY and MIT/BSD work quite similar in that they only require citation. GPL is a copyleft license that requires any software that it touches to be shared under the same license which requires open sharing (so this might hamper industry collaboration). I hope this makes a bit more sense? I’m happy to try and clarify this further!</p>
-<ul>
-<li><p><a href="https://choosealicense.com/">Software license chooser</a></p></li>
-<li><p>Note that the following licenses are pre-approved by the <a href="https://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a>: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0</p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing">4TU.ResearchData licenses overview</a></li>
-<li><a href="https://the-turing-way.netlify.app/reproducible-research/licensing.html">The Turing Way: licensing</a></li>
-<li><a href="https://www.youtube.com/watch?v=xdBwuut6dRY&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=5">A Primer on Open License</a></li>
-<li><a href="https://www.youtube.com/watch?v=OskC2LNtPkU&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=10">Open Source in Research</a></li>
-<li></li>
-</ul>
+<div class="callout-caption-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Providing a more straightforward way to transfer ownership in Gitlab was raised as an <a href="https://gitlab.com/gitlab-org/gitlab/-/issues/14502">issue in 2016</a>, which is unfortunately still open.</p>
+</div>
+</div>
 
 
 </section>
