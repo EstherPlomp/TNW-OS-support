@@ -1,5 +1,5 @@
 ---
-title: "Transferring ownership of a Gitlab repo"
+title: "Transferring ownership of a GitLab repo"
 author: "Esther Plomp, Lora Armstrong"
 date: "2022-09-02"
 categories: [GitLab, Software]
