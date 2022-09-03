@@ -2,7 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/good-enough-software/index.html",
+      "/posts/sharing-software/index.html",
       "/posts/licenses/index.html",
+      "/posts/software-citation/index.html",
       "/posts/rights-retention-strategy/index.html",
       "/posts/access-project-drive/index.html",
       "/posts/Open-Access/index.html",

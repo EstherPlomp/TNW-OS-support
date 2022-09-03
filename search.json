@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "TNW Open Science support",
     "section": "",
-    "text": "Licenses\n\n\nCopyright\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\nBackup\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware\n\n\nCode\n\n\nLicenses\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEncryption\n\n\nSecurity\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nAug 25, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "FAIR\n\n\nLicenses\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\nCopyright\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\nSoftware\n\n\nCitation\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\nBackup\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware\n\n\nCode\n\n\nLicenses\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEncryption\n\n\nSecurity\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nAug 25, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/access-project-drive/index.html",
@@ -70,6 +70,34 @@
     "text": "More information"
   },
   {
+    "objectID": "posts/good-enough-software/index.html",
+    "href": "posts/good-enough-software/index.html",
+    "title": "Good enough FAIR software",
+    "section": "",
+    "text": "How to make your software good enough FAIR? Post based on presentation by Neil Chue Hong."
+  },
+  {
+    "objectID": "posts/good-enough-software/index.html#fair",
+    "href": "posts/good-enough-software/index.html#fair",
+    "title": "Good enough FAIR software",
+    "section": "FAIR",
+    "text": "FAIR\n\nFindable:\n\nMake your software easier to discover by using descriptive metadata.\nPublish a citation for your software.\nAdd it to a community registry, if one exists.\n\n\n\nAccessible:\nPut your source code in a code repository, and deposit major versions in a preservation repository to get a DOI.\n\n\nInteroperable:\n\nDescribe the functionality of your software.\nUse open data formats that meet domain-relevant community standards.\nUse libraries for common functionality.\nProvide references to associated research objects.\nModularise your code and document design.\n\n\n\nReusable:\n\nChoose a license and apply it to your software.\nDocument dependencies.\nEnsure that others can understand and execute your code."
+  },
+  {
+    "objectID": "posts/good-enough-software/index.html#software-publishing-options-by-neil-chue-hong",
+    "href": "posts/good-enough-software/index.html#software-publishing-options-by-neil-chue-hong",
+    "title": "Good enough FAIR software",
+    "section": "Software publishing options by Neil Chue Hong",
+    "text": "Software publishing options by Neil Chue Hong\n\n\n\n\nCode repository\nData repository\nProduce runnable version\nSoftware registry\nSoftware article\n\n\n\n\nExample\nSource code is in GitHub, GitLab or BitBucket with open license\nSource code deposited in Zenodo, 4TU.ResearchData\nJupyter Notebook in Binder, Capsule in CodeOcean, Docker or Singularity container, NextFlow workflow. Package for CRAN, PyPI, etc\nCreate an entry in a community registries e.g. CIG (geodynamics), RRID, swMath (mathematics). NLeSC RSD\nPublish software paper in JORS, JOSS, SoftwareX, etc.\nPublish executable research article in GigaByte\nOr choose a discipline specific journal.\n\n\nAdvantages\nDiscoverable\nFits with development workflow\nNo waiting before available\nArchived\nPersistent identifier and metadata\nLittle/no wait before available\nEnable direct reuse\nCan be given identifiers\nMakes available in location where users search\nIndexed\nEasier to find\nOften provides identifier\nMay show citations\nEasily citable\nPeer reviewed\nCan describe software design\nEasier for developers to write\nEasy to reach target audience\nUnderstood by promotion committees\n\n\nDisadvantages\nNot archived\nHarder to cite\nNot easy to find if poorly described / documented\nDirect software citations not accepted by all journals\nNormally requires additional effort / resources\nNot available in every domain\nSoftware not always archived\nPublishing in domain specific journals may take a long time"
+  },
+  {
+    "objectID": "posts/good-enough-software/index.html#more-information",
+    "href": "posts/good-enough-software/index.html#more-information",
+    "title": "Good enough FAIR software",
+    "section": "More information",
+    "text": "More information\n\nFull presentation +recording of how to publish software (from 23:14 onwards)\nSee also the post on licensing"
+  },
+  {
     "objectID": "posts/backup/index.html",
     "href": "posts/backup/index.html",
     "title": "Backup",
@@ -89,6 +117,41 @@
     "title": "TU Delft Approved Software Licenses",
     "section": "",
     "text": "Permissive: (commercial) use, copy, modify, merge, publish, distribute licensed works, modifications, and larger works may be distributed under different terms and without source code.\nExamples of TU Delft approved permissive licenses: MIT, BSD, Apache, CC0\nRestrictive/Copyleft: GPL, AGPL, LGPL, EUPL (slide 3)"
+  },
+  {
+    "objectID": "posts/sharing-software/index.html",
+    "href": "posts/sharing-software/index.html",
+    "title": "Sharing Software",
+    "section": "",
+    "text": "Note that a pre-approved license by the TU Delft Research Software Policy: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0 when you share your software.\nYou can either use 4TU.ResearchData or another repository."
+  },
+  {
+    "objectID": "posts/sharing-software/index.html#tu.researchdata",
+    "href": "posts/sharing-software/index.html#tu.researchdata",
+    "title": "Sharing Software",
+    "section": "4TU.ResearchData",
+    "text": "4TU.ResearchData\n\nLog in right top using TU Delft credentials\nCreate a new item or import from GitHub/GitLab\nAdd relevant metadata in the information fields"
+  },
+  {
+    "objectID": "posts/sharing-software/index.html#other-repositories",
+    "href": "posts/sharing-software/index.html#other-repositories",
+    "title": "Sharing Software",
+    "section": "Other repositories",
+    "text": "Other repositories\n\nUpload your software in another repository (for example: Zenodo).\nGo to https://pure.tudelft.nl/admin/ and log in using TU Delft credentials\nSelect Datasets/Software -> Software\nFill out the metadata in the information fields and add DOI, select license and save the information"
+  },
+  {
+    "objectID": "posts/sharing-software/index.html#feedback",
+    "href": "posts/sharing-software/index.html#feedback",
+    "title": "Sharing Software",
+    "section": "Feedback",
+    "text": "Feedback\nBefore sharing your code/software in a data repository it can be helpful to ask a colleague or collaborator to review it."
+  },
+  {
+    "objectID": "posts/sharing-software/index.html#more-information",
+    "href": "posts/sharing-software/index.html#more-information",
+    "title": "Sharing Software",
+    "section": "More information",
+    "text": "More information\n\nFull presentation +recording of how to publish software (from 23:14 onwards)\nSee also the post on licensing"
   },
   {
     "objectID": "posts/licenses/index.html",
@@ -201,6 +264,27 @@
     "title": "Storage Solutions",
     "section": "More information",
     "text": "More information"
+  },
+  {
+    "objectID": "posts/software-citation/index.html",
+    "href": "posts/software-citation/index.html",
+    "title": "Software Citation",
+    "section": "",
+    "text": "Have I identified the software which makes a significant and specialised contribution to my academic work?\nHave I checked if the software has a recommended citation?\n\nIf this is to a paper, have I also cited the software directly?\nIf there’s no recommended citation, have I created as complete a citation as possible?\n\nWho created the software\nWhen it was created\nTitle of the software (and version if available)\nWhere the software can be accessed\n\n\nHave I referenced the software appropriately in my academic work, complying with any citation formatting guidelines?"
+  },
+  {
+    "objectID": "posts/software-citation/index.html#software-citation-checklist-for-developers-by-neil-chue-hong-et-al.",
+    "href": "posts/software-citation/index.html#software-citation-checklist-for-developers-by-neil-chue-hong-et-al.",
+    "title": "Software Citation",
+    "section": "Software Citation Checklist for Developers by Neil Chue Hong et al.",
+    "text": "Software Citation Checklist for Developers by Neil Chue Hong et al.\n\nHave I assigned an appropriate license to my software?\nHave I described my software properly, using an appropriate metadata format, and included this metadata file with my software?\n\nHave I given my software a clear version number?\nHave I determined the authors to be credited for this release of my software, and included this in my metadata file?\n\nHave I procured a persistent identifier for this release of my software?\nHave I added my recommended citation to the documentation for my software?"
+  },
+  {
+    "objectID": "posts/software-citation/index.html#more-information",
+    "href": "posts/software-citation/index.html#more-information",
+    "title": "Software Citation",
+    "section": "More information",
+    "text": "More information\n\nSee also the posts on licensing, good enough FAIR software"
   },
   {
     "objectID": "posts/rights-retention-strategy/index.html",

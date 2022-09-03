@@ -10,7 +10,179 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.1.179</generator>
-<lastBuildDate>Fri, 02 Sep 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Sep 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Good enough FAIR software</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/good-enough-software/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>How to make your software good enough FAIR? Post based on <a href="https://doi.org/10.6084/m9.figshare.17094365.v1">presentation by Neil Chue Hong</a>.</p>
+<section id="fair" class="level2">
+<h2 class="anchored" data-anchor-id="fair">FAIR</h2>
+<section id="findable" class="level3">
+<h3 class="anchored" data-anchor-id="findable">Findable:</h3>
+<ul>
+<li><p>Make your software easier to discover by using descriptive metadata.</p></li>
+<li><p>Publish a citation for your software.</p></li>
+<li><p>Add it to a community registry, if one exists.</p></li>
+</ul>
+</section>
+<section id="accessible" class="level3">
+<h3 class="anchored" data-anchor-id="accessible">Accessible:</h3>
+<p>Put your source code in a code repository, and deposit major versions in a preservation repository to get a DOI.</p>
+</section>
+<section id="interoperable" class="level3">
+<h3 class="anchored" data-anchor-id="interoperable">Interoperable:</h3>
+<ul>
+<li><p>Describe the functionality of your software.</p></li>
+<li><p>Use open data formats that meet domain-relevant community standards.</p></li>
+<li><p>Use libraries for common functionality.</p></li>
+<li><p>Provide references to associated research objects.</p></li>
+<li><p>Modularise your code and document design.</p></li>
+</ul>
+</section>
+<section id="reusable" class="level3">
+<h3 class="anchored" data-anchor-id="reusable">Reusable:</h3>
+<ul>
+<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/post-with-code/">Choose a license</a> and apply it to your software.</p></li>
+<li><p>Document dependencies.</p></li>
+<li><p>Ensure that others can understand and execute your code.</p></li>
+</ul>
+</section>
+</section>
+<section id="software-publishing-options-by-neil-chue-hong" class="level2">
+<h2 class="anchored" data-anchor-id="software-publishing-options-by-neil-chue-hong">Software publishing options <a href="https://doi.org/10.6084/m9.figshare.17094365.v1">by Neil Chue Hong</a></h2>
+<table class="table">
+<thead>
+<tr class="header">
+<th></th>
+<th>Code repository</th>
+<th>Data repository</th>
+<th>Produce runnable version</th>
+<th>Software registry</th>
+<th>Software article</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Example</strong></td>
+<td>Source code is in GitHub, GitLab or BitBucket with open license</td>
+<td>Source code deposited in <a href="https://zenodo.org/">Zenodo</a>, 4TU.ResearchData</td>
+<td>Jupyter Notebook in <a href="https://mybinder.org/">Binder</a>, Capsule in <a href="https://codeocean.com/">CodeOcean</a>, <a href="https://www.docker.com/">Docker</a> or <a href="https://sylabs.io/singularity/">Singularity</a> container, <a href="https://www.nextflow.io/">NextFlow</a> workflow. Package for <a href="https://cran.r-project.org/">CRAN</a>, <a href="https://pypi.org/">PyPI</a>, etc</td>
+<td>Create an entry in a community registries e.g.&nbsp;<a href="https://geodynamics.org/cig/software/">CIG</a> (geodynamics), <a href="https://scicrunch.org/resources">RRID</a>, <a href="https://swmath.org/">swMath</a> (mathematics). NLeSC <a href="https://www.research-software.nl/">RSD</a></td>
+<td><p>Publish software paper in <a href="https://openresearchsoftware.metajnl.com/">JORS</a>, <a href="https://joss.theoj.org/">JOSS</a>, <a href="https://www.journals.elsevier.com/softwarex/">SoftwareX</a>, etc.</p>
+<p>Publish executable research article in <a href="https://gigabytejournal.com/">GigaByte</a></p>
+<p>Or <a href="http://bit.ly/softwarejournals">choose a discipline specific journal.</a></p></td>
+</tr>
+<tr class="even">
+<td><strong>Advantages</strong></td>
+<td><p>Discoverable</p>
+<p>Fits with development workflow</p>
+<p>No waiting before available</p></td>
+<td><p>Archived</p>
+<p>Persistent identifier and metadata</p>
+<p>Little/no wait before available</p></td>
+<td><p>Enable direct reuse</p>
+<p>Can be given identifiers</p>
+<p>Makes available in location where users search</p></td>
+<td><p>Indexed</p>
+<p>Easier to find</p>
+<p>Often provides identifier</p>
+<p>May show citations</p></td>
+<td><p>Easily citable</p>
+<p>Peer reviewed</p>
+<p>Can describe software design</p>
+<p>Easier for developers to write</p>
+<p>Easy to reach target audience</p>
+<p>Understood by promotion committees</p></td>
+</tr>
+<tr class="odd">
+<td><strong>Disadvantages</strong></td>
+<td><p>Not archived</p>
+<p>Harder to cite</p>
+<p>Not easy to find if poorly described / documented</p></td>
+<td>Direct software citations not accepted by all journals</td>
+<td>Normally requires additional effort / resources</td>
+<td>Not available in every domain</td>
+<td><p>Software not always archived</p>
+<p>Publishing in domain specific journals may take a long time</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li>Full <a href="http://doi.org/10.5281/zenodo.4772235">presentation</a> +<a href="https://youtu.be/bPl5sdTvLMM?t=1394">recording</a> of how to publish software (from 23:14 onwards)</li>
+<li>See also the <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">post on licensing</a></li>
+<li></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>FAIR</category>
+  <category>Licenses</category>
+  <category>Software</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/good-enough-software/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/good-enough-software/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Sharing Software</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/sharing-software/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Note that a pre-approved license by the <a href="https://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a>: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0 when you share your software.</p>
+<p>You can either use 4TU.ResearchData or another repository.</p>
+<section id="tu.researchdata" class="level2">
+<h2 class="anchored" data-anchor-id="tu.researchdata">4TU.ResearchData</h2>
+<ul>
+<li><p>Log in right top using TU Delft credentials</p></li>
+<li><p>Create a new item or import from GitHub/GitLab</p></li>
+<li><p>Add relevant metadata in the information fields</p></li>
+</ul>
+</section>
+<section id="other-repositories" class="level2">
+<h2 class="anchored" data-anchor-id="other-repositories">Other repositories</h2>
+<ul>
+<li><p>Upload your software in another repository (for example: <a href="https://zenodo.org/">Zenodo</a>).</p></li>
+<li><p>Go to <a href="https://pure.tudelft.nl/admin/" class="uri">https://pure.tudelft.nl/admin/</a> and log in using TU Delft credentials</p></li>
+<li><p>Select Datasets/Software -&gt; Software</p></li>
+<li><p>Fill out the metadata in the information fields and add DOI, select license and save the information</p></li>
+</ul>
+</section>
+<section id="feedback" class="level2">
+<h2 class="anchored" data-anchor-id="feedback">Feedback</h2>
+<p>Before sharing your code/software in a data repository it can be helpful to ask a colleague or collaborator to review it.</p>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li>Full <a href="http://doi.org/10.5281/zenodo.4772235">presentation</a> +<a href="https://youtu.be/bPl5sdTvLMM?t=1394">recording</a> of how to publish software (from 23:14 onwards)</li>
+<li>See also the <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">post on licensing</a></li>
+<li></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Licenses</category>
+  <category>Software</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/sharing-software/index.html</guid>
+  <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/sharing-software/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Licenses</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -57,6 +229,64 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/index.html</guid>
   <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Software Citation</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al.." class="level2">
+<h2 class="anchored" data-anchor-id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al..">Software Citation Checklist for Authors <a href="https://doi.org/10.5281/zenodo.3479199">by Neil Chue Hong et al.</a>.</h2>
+<ul>
+<li><p>Have I identified the software which makes a significant and specialised contribution to my academic work?</p></li>
+<li><p>Have I checked if the software has a recommended citation?</p>
+<ul>
+<li><p>If this is to a paper, have I also cited the software directly?</p></li>
+<li><p>If there’s no recommended citation, have I created as complete a citation as possible?</p>
+<ul>
+<li><p>Who created the software</p></li>
+<li><p>When it was created</p></li>
+<li><p>Title of the software (and version if available)</p></li>
+<li><p>Where the software can be accessed</p></li>
+</ul></li>
+</ul></li>
+<li><p>Have I referenced the software appropriately in my academic work, complying with any citation formatting guidelines?</p></li>
+</ul>
+</section>
+<section id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al." class="level2">
+<h2 class="anchored" data-anchor-id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al.">Software Citation Checklist for Developers <a href="https://doi.org/10.5281/zenodo.3482769">by Neil Chue Hong et al.</a></h2>
+<ul>
+<li><p>Have I assigned an appropriate <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/"><strong>license</strong></a> to my software?</p></li>
+<li><p>Have I <strong>described my software properly</strong>, using an appropriate metadata format, and included this metadata file with my software?</p>
+<ul>
+<li><p>Have I given my software a clear <strong>version number</strong>?</p></li>
+<li><p>Have I determined the <strong>authors to be credited</strong> for this release of my software, and included this in my metadata file?</p></li>
+</ul></li>
+<li><p>Have I procured a <strong>persistent identifier</strong> for this release of my software?</p></li>
+<li><p>Have I added my <strong>recommended citation</strong> to the documentation for my software?</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li>See also the posts on <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licensing</a>, good enough FAIR software</li>
+<li></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Licenses</category>
+  <category>Software</category>
+  <category>Citation</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</guid>
+  <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Rights Retention Strategy</title>
