@@ -1,0 +1,45 @@
+---
+title: "Data Management Costs"
+author: "Esther Plomp"
+date: "2022-09-03"
+categories: [Open Data, RDM]
+image: "image.jpg"
+---
+
+## Research Data Management Costs
+
+In general TU Delft storage and sharing solutions should be sufficient for standard research Data Management needs. You can consider the costs of the following:
+
+Costs of data management might include:
+
+## Hardware and infrastructure costs
+
+-   Costs of hardware for storing and backing up data.
+
+-   Costs of access to any specialist infrastructure, such as High Performance Computing.
+
+-   Cloud computing costs.
+
+## Software costs
+
+-   Purchase of licences for software to support good data management, such as Electronic Lab Notebooks, or project management software.
+
+## Personnel cost
+
+-   Time associated with the preparation of research data for archiving and publication including the relevant documentation.
+
+-   Cost of hiring a dedicated Data Manager or Data Analyst for the project.
+
+## Publishing costs
+
+-   Data publication, where there is a charge associated with depositing in a data archive.
+
+    -   [4TU.ResearchData](https://data.4tu.nl/info/en/) is free for TU Delft researchers up to 1 TB/per year/per researcher.
+
+-   Publication of papers about datasets or software in dedicated journals.
+
+## More information
+
+-   
+
+-   

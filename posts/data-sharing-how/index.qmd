@@ -18,7 +18,7 @@ Using standard or open data formats ensures longer-term usability of data
 
 Convert files into standard open formats for long term preservation of the data
 
-## Preferred (sustainable) file formats: 
+## Preferred (sustainable) file formats:
 
 Text Plain text, XML, HTML, PDF (PDF/A-1), JSON, PDB (Protein Data Bank), XYZ (all formats should be encoded in UTF-8)
 

@@ -6,7 +6,7 @@ categories: [Licenses, Copyright]
 image: "image.jpg"
 ---
 
-Licenses are a standardised way to share data/code and let anyone know what it is that they are allowed to do with it.
+Licenses are a standardised way to share data/code and let anyone know what it is that they are allowed to do with it. If you share your research without a license, you are not making clear how you wish the research to be used which might prevent it being used the way you intend.
 
 ## Data Licenses
 
@@ -24,6 +24,8 @@ The more letters these CC licenses have, the more restrictions they place on re-
 
 [Data license chooser](https://chooser-beta.creativecommons.org/)
 
+[![](images/paste-60D9B79A.png)](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg)
+
 ## Software
 
 For software there are different licenses because you can execute software (which makes it a bit more complex). CC-BY and MIT/BSD work quite similar in that they only require citation. GPL is a copyleft license that requires any software that it touches to be shared under the same license which requires open sharing (so this might hamper industry collaboration). I hope this makes a bit more sense? I'm happy to try and clarify this further!
@@ -36,3 +38,6 @@ For software there are different licenses because you can execute software (whic
 
 -   [4TU.ResearchData licenses overview](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing)
 -   [The Turing Way: licensing](https://the-turing-way.netlify.app/reproducible-research/licensing.html)
+-   [A Primer on Open License](https://www.youtube.com/watch?v=xdBwuut6dRY&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=5)
+-   [Open Source in Research](https://www.youtube.com/watch?v=OskC2LNtPkU&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=10)
+-   

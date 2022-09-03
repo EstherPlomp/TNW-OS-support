@@ -1,0 +1,50 @@
+---
+title: "Transferring ownership of a Gitlab repo"
+author: "Esther Plomp, Lora Armstrong"
+date: "2022-09-02"
+categories: [GitLab, Software]
+image: "image.jpg"
+---
+
+This guide on transferring ownership of a Gitlab repo has been set up [by Lora Armstrong](https://docs.google.com/document/d/1y8VlQDJNsm6fkEtUzEXyUjvMggPeHa-zc_JZB2Emm8E/).
+
+## What happens to my GitLab projects when I leave TU Delft?
+
+Currently there are no plans to delete your repositories (see <https://gitlab.tudelft.nl/help>).
+
+## Can my supervisor/collaborators still access my GitLab projects when I leave?
+
+If they have access to your projects, they will still have access after you leave. You can control who has access to your projects by going to Project Information \> Members in the sidebar of your repository. To be safe, transfer ownership of the projects to a current TU Delft employee when you leave!
+
+## How do I transfer ownership of my project to my supervisor or someone else at TU Delft?
+
+You can transfer a project to another user's [GitLab namespace](https://docs.gitlab.com/ee/user/group/#namespaces).
+
+**Summary** (based on [this Stack Overflow post](https://stackoverflow.com/questions/21579693/how-to-change-the-project-owner-in-gitlab)): ​​Move your project from your namespace to a group where both you and the other user are owners, then the other user can transfer it to their own namespace.
+
+![](images/paste-7F2DDF62.png)
+
+Instructions:
+
+1.  Create a new group if you don't already have one that you want to use (**Menu** \> **Groups** \> **Create group**)
+
+![](images/paste-39792A08.png)
+
+2.  Make sure that both the maintainer of the project repository, and the person who it will be transferred to, are members of the group and have the Owner role (to add a new owner: go to the group namespace, then from the sidebar choose **Group information** \> **Members** \> **Invite members**. Enter username or email of the person you want to invite and change the role to 'Owner'. Click '**Invite**'.)
+
+![](images/paste-B79DF3BF.png)
+
+3.  Have a maintainer of the project repository transfer it to the group namespace (go to the project namespace, then from the sidebar go to **Settings** \> **General** \> **Advanced** \> **Transfer Project**)
+
+![](images/paste-9B291D83.png)
+
+4.  After doing this, the maintainer(s) of the project will get an email notifying that the project has been moved to a different location.
+5.  Now the person who the project is being transferred to can move it to their own namespace (go to the project namespace, then from the sidebar, go to **Settings** \> **General** \> **Advanced** \> **Transfer Project** like before).
+6.  If desired, the group can be deleted after the transfer is complete (go to the group namespace, then from the sidebar go to Settings \> General \> Advanced \> Remove Group)
+
+![](images/paste-7598BCE4.png)
+
+::: callout-note
+
+Providing a more straightforward way to transfer ownership in Gitlab was raised as an [issue in 2016](https://gitlab.com/gitlab-org/gitlab/-/issues/14502), which is unfortunately still open.
+:::
