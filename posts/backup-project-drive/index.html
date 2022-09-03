@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Esther Plomp">
-<meta name="dcterms.date" content="2022-09-02">
+<meta name="dcterms.date" content="2022-09-03">
 
-<title>TNW-OS-support - Software Citation</title>
+<title>TNW-OS-support - Backup Project Drive</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -104,11 +104,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Software Citation</h1>
+      <h1 class="title">Backup Project Drive</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">Licenses</div>
-                <div class="quarto-category">Software</div>
-                <div class="quarto-category">Citation</div>
+                <div class="quarto-category">Storage</div>
+                <div class="quarto-category">Project Drive</div>
               </div>
                   </div>
   </div>
@@ -126,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">September 2, 2022</p>
+        <p class="date">September 3, 2022</p>
       </div>
     </div>
       
@@ -143,44 +142,51 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>https://guides.github.com/activities/citable-code/</p>
-<p>https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account</p>
-<section id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al.." class="level2">
-<h2 class="anchored" data-anchor-id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al..">Software Citation Checklist for Authors <a href="https://doi.org/10.5281/zenodo.3479199">by Neil Chue Hong et al.</a>.</h2>
+<p>This post describes how to automatically and manually backup files from the Project Drive to a local drive. Automatic backup is only possible if you are the only/single user of the Project Drive. Back up needs to happen manually if there are multiple users.</p>
+<section id="automatic-backup" class="level2">
+<h2 class="anchored" data-anchor-id="automatic-backup">Automatic backup</h2>
+<ol type="1">
+<li><p>Map/mount the project drive as a local drive/folder (use sshfs (rather than sftp) to mount the drives)</p></li>
+<li><p>Use a folder synchronization tool that can automatically synchronize newer files.</p>
 <ul>
-<li><p>Have I identified the software which makes a significant and specialised contribution to my academic work?</p></li>
-<li><p>Have I checked if the software has a recommended citation?</p>
-<ul>
-<li><p>If this is to a paper, have I also cited the software directly?</p></li>
-<li><p>If there’s no recommended citation, have I created as complete a citation as possible?</p>
-<ul>
-<li><p>Who created the software</p></li>
-<li><p>When it was created</p></li>
-<li><p>Title of the software (and version if available)</p></li>
-<li><p>Where the software can be accessed</p></li>
+<li><p>For Unices <code>cp --archive --update</code> is a start;</p></li>
+<li><p>rsync (available for Unix and Windows) allows more control but make sure to use the right arguments;</p></li>
+<li><p>tar is not suited because it creates archives instead of synchronizing folders.</p></li>
 </ul></li>
-</ul></li>
-<li><p>Have I referenced the software appropriately in my academic work, complying with any citation formatting guidelines?</p></li>
-</ul>
+<li><p>Use a scheduler (Unices: cron, Windows: Task Scheduler) to automate the synchronization (step 1/2).</p></li>
+</ol>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>When the Project drive is used from different computers, point 2 becomes very difficult because the “standard” tools only work one-way (i.e.&nbsp;they will only copy newer local files to the project drive but not synchronize newer files on the project drive to your local computer). Of course you can run the tools both ways, but that breaks horribly when you delete a file locally or revert to an older version, and the synchronization then happily restores the (newer) file from the project drive.</p>
+</div>
+</div>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This is not easy/perfect/suitable for everyone, it is not a one script fits all solution. You will probably want to tweak it for your own set up.</p>
+</div>
+</div>
 </section>
-<section id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al." class="level2">
-<h2 class="anchored" data-anchor-id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al.">Software Citation Checklist for Developers <a href="https://doi.org/10.5281/zenodo.3482769">by Neil Chue Hong et al.</a></h2>
+<section id="manual-backup" class="level2">
+<h2 class="anchored" data-anchor-id="manual-backup">Manual backup</h2>
 <ul>
-<li><p>Have I assigned an appropriate <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/"><strong>license</strong></a> to my software?</p></li>
-<li><p>Have I <strong>described my software properly</strong>, using an appropriate metadata format, and included this metadata file with my software?</p>
-<ul>
-<li><p>Have I given my software a clear <strong>version number</strong>?</p></li>
-<li><p>Have I determined the <strong>authors to be credited</strong> for this release of my software, and included this in my metadata file?</p></li>
-</ul></li>
-<li><p>Have I procured a <strong>persistent identifier</strong> for this release of my software?</p></li>
-<li><p>Have I added my <strong>recommended citation</strong> to the documentation for my software?</p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li>See also the posts on <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licensing</a>, good enough FAIR software</li>
-<li></li>
+<li><p>Unison: does two-way synchronisation and asks the user in case of conflicts (changes from multiple sides/users)</p></li>
+<li><p>FileZilla and WinSCP can also do folder comparisons and show differences</p></li>
 </ul>
 
 

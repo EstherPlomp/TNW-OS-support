@@ -134,6 +134,284 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/good-enough-software/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>How to share data?</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>How to share data?</p>
+<section id="use-standard-or-open-file-formats" class="level2">
+<h2 class="anchored" data-anchor-id="use-standard-or-open-file-formats">Use standard or open file formats</h2>
+<p>Using standard or open data formats ensures longer-term usability of data</p>
+<ul>
+<li><p><strong>Standard Data Formats</strong>: “widely accepted” formats such as .xls .xlsx</p></li>
+<li><p><strong>Open Data Formats</strong>: Free to use such as .csv .tab</p></li>
+</ul>
+<p>Convert files into standard open formats for long term preservation of the data</p>
+</section>
+<section id="preferred-sustainable-file-formats" class="level2">
+<h2 class="anchored" data-anchor-id="preferred-sustainable-file-formats">Preferred (sustainable) file formats:</h2>
+<p>Text Plain text, XML, HTML, PDF (PDF/A-1), JSON, PDB (Protein Data Bank), XYZ (all formats should be encoded in UTF-8)</p>
+<p>Spreadsheets CSV (Comma-separated values), Tab-delimited values, PDF (PDF/A-1)</p>
+<p>Images JPEG, TIFF, PNG, SVG</p>
+<p>Geospatial GML (Geographical Mark-up Language), KML (Keyhole Mark-up Language), ESRI Shapefile, Geo-referenced TIFF</p>
+<p><strong>Numerical</strong> NetCDF, CSV, JSON</p>
+<p><strong>Video</strong> No sustainable format established</p>
+<p><strong>Audio</strong> Waveform Audio File Format (WAVE)</p>
+<p><strong>Databases</strong> Delimited Flat File w/DDL</p>
+<p><strong>Archives</strong> ZIP, TAR, GZIP, 7Z</p>
+<p>Full overview: <a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf" class="uri">https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf</a></p>
+</section>
+<section id="data-repositories" class="level2">
+<h2 class="anchored" data-anchor-id="data-repositories">Data repositories</h2>
+<p>Access</p>
+<p>DOI = more citations/visibility</p>
+<p>Long term preservation</p>
+<p>File format support</p>
+<p><a href="https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296">The Push to Replace Journal Supplements with Repositories</a></p>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"><a href="https://twitter.com/MadS100tist/status/1366103674989277185"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/images/paste-8C43FE3F.png" class="img-fluid"></a></h2>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>What data to share?</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In order to determine what data should be openly shared ask yourself the following questions:</p>
+<p><strong>What information would another colleague need</strong> to understand</p>
+<ul>
+<li><p>what you did,</p></li>
+<li><p>how you did it and</p></li>
+<li><p>how the data can be reused?</p></li>
+</ul>
+<p><strong>Which data can be shared?</strong></p>
+<ul>
+<li>Data restrictions can apply depending on the type of data (personal) or by contractual agreements with third partners.</li>
+</ul>
+<p><strong>When can it be shared?</strong></p>
+<p>Generally it is easiest to share data at the same time as the publication/article. This way you can still correct errors if there are any, and you’re still familiar with the data organisation.</p>
+<section id="tu-delft-research-data-framework" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft-research-data-framework">TU Delft <a href="https://doi.org/10.5281/zenodo.2573159">Research Data Framework</a></h2>
+<p>Ensuring that research data, code and any other <strong>materials needed to reproduce research findings</strong> are appropriately documented, stored and shared in a research data repository … unless there are <a href="https://www.tudelft.nl/library/research-data-management/r/buttons/faqs#c547667">valid reasons</a> not to do so.</p>
+</section>
+<section id="faculty-of-applied-sciences-research-data-management-policy" class="level2">
+<h2 class="anchored" data-anchor-id="faculty-of-applied-sciences-research-data-management-policy">Faculty of Applied Sciences <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf">Research Data Management Policy</a></h2>
+<p>The minimal requirement is the <strong>deposition of the numerical data (processed data) underlying the figures in academic papers and PhD theses</strong>. Deposition of datasets not directly linked with publications or raw data/software and processing scripts used to derive the processed data is encouraged.</p>
+<p>Using standard or open data formats ensures longer-term usability of data</p>
+<ul>
+<li><p><strong>Standard Data Formats</strong>: “widely accepted” formats such as .xls .xlsx</p></li>
+<li><p><strong>Open Data Formats</strong>: Free to use such as .csv .tab</p></li>
+</ul>
+<p>Convert files into standard open formats for long term preservation of the data</p>
+</section>
+<section id="preferred-sustainable-file-formats" class="level2">
+<h2 class="anchored" data-anchor-id="preferred-sustainable-file-formats">Preferred (sustainable) file formats:</h2>
+<p>Text Plain text, XML, HTML, PDF (PDF/A-1), JSON, PDB (Protein Data Bank), XYZ (all formats should be encoded in UTF-8)</p>
+<p>Spreadsheets CSV (Comma-separated values), Tab-delimited values, PDF (PDF/A-1)</p>
+<p>Images JPEG, TIFF, PNG, SVG</p>
+<p>Geospatial GML (Geographical Mark-up Language), KML (Keyhole Mark-up Language), ESRI Shapefile, Geo-referenced TIFF</p>
+<p><strong>Numerical</strong> NetCDF, CSV, JSON</p>
+<p><strong>Video</strong> No sustainable format established</p>
+<p><strong>Audio</strong> Waveform Audio File Format (WAVE)</p>
+<p><strong>Databases</strong> Delimited Flat File w/DDL</p>
+<p><strong>Archives</strong> ZIP, TAR, GZIP, 7Z</p>
+<p>Full overview: <a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf" class="uri">https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf</a></p>
+</section>
+<section id="data-repositories" class="level2">
+<h2 class="anchored" data-anchor-id="data-repositories">Data repositories</h2>
+<p>Access</p>
+<p>DOI = more citations/visibility</p>
+<p>Long term preservation</p>
+<p>File format support</p>
+<p><a href="https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296">The Push to Replace Journal Supplements with Repositories</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://twitter.com/MadS100tist/status/1366103674989277185"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/images/paste-E057ECC8.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Backup Project Drive</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/backup-project-drive/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post describes how to automatically and manually backup files from the Project Drive to a local drive. Automatic backup is only possible if you are the only/single user of the Project Drive. Back up needs to happen manually if there are multiple users.</p>
+<section id="automatic-backup" class="level2">
+<h2 class="anchored" data-anchor-id="automatic-backup">Automatic backup</h2>
+<ol type="1">
+<li><p>Map/mount the project drive as a local drive/folder (use sshfs (rather than sftp) to mount the drives)</p></li>
+<li><p>Use a folder synchronization tool that can automatically synchronize newer files.</p>
+<ul>
+<li><p>For Unices <code>cp --archive --update</code> is a start;</p></li>
+<li><p>rsync (available for Unix and Windows) allows more control but make sure to use the right arguments;</p></li>
+<li><p>tar is not suited because it creates archives instead of synchronizing folders.</p></li>
+</ul></li>
+<li><p>Use a scheduler (Unices: cron, Windows: Task Scheduler) to automate the synchronization (step 1/2).</p></li>
+</ol>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>When the Project drive is used from different computers, point 2 becomes very difficult because the “standard” tools only work one-way (i.e.&nbsp;they will only copy newer local files to the project drive but not synchronize newer files on the project drive to your local computer). Of course you can run the tools both ways, but that breaks horribly when you delete a file locally or revert to an older version, and the synchronization then happily restores the (newer) file from the project drive.</p>
+</div>
+</div>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This is not easy/perfect/suitable for everyone, it is not a one script fits all solution. You will probably want to tweak it for your own set up.</p>
+</div>
+</div>
+</section>
+<section id="manual-backup" class="level2">
+<h2 class="anchored" data-anchor-id="manual-backup">Manual backup</h2>
+<ul>
+<li><p>Unison: does two-way synchronisation and asks the user in case of conflicts (changes from multiple sides/users)</p></li>
+<li><p>FileZilla and WinSCP can also do folder comparisons and show differences</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Storage</category>
+  <category>Project Drive</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/backup-project-drive/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/backup-project-drive/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Why share data?</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-why/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="why-share-data" class="level2">
+<h2 class="anchored" data-anchor-id="why-share-data">Why share data?</h2>
+<ul>
+<li><p>Prevent data loss/unfindable files</p></li>
+<li><p>Can you still use data when people leave?</p></li>
+<li><p>Recognition for all research outputs</p></li>
+<li><p>Collaboration</p></li>
+<li><p>Increases quality of scientific practice</p></li>
+<li><p>Cost/time efficient</p></li>
+<li><p>Prevents retractions</p></li>
+</ul>
+</section>
+<section id="example-majorana-retraction" class="level2">
+<h2 class="anchored" data-anchor-id="example-majorana-retraction">Example: Majorana retraction</h2>
+<p>The authors of the 2018 article Quantized Majorana conductance have retracted this article. The authors were alerted to problems by two scientists in the same research area and then went on to re-examine their earlier measurements. In doing so, they found that the main conclusion had not been adequately substantiated.</p>
+<p>Summary of the investigation by experts:</p>
+<ul>
+<li><p>Authors <strong>selected data that supported the phenomenon</strong> they were looking for</p></li>
+<li><p>Authors <strong>omitted data</strong> that could have raised questions about the conclusions</p></li>
+</ul>
+<div class="callout-important callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>“<em>It is a good thing that independent experts have looked at this as part of the integrity investigation,” says Tim van der Hagen, Rector Magnificus of TU Delft. ”Science always involves looking critically at results, questioning and challenging them</em>.” <a href="https://www.tudelft.nl/en/2021/tu-delft/retraction-nature-article-quantized-majorana-conductance">source</a></p>
+</div>
+</div>
+<ul>
+<li><p><a href="https://retractionwatch.com/2021/03/08/authors-retract-nature-majorana-paper-apologize-for-insufficient-scientific-rigour/">Authors retract Nature Majorana paper, apologize for “insufficient scientific rigour”</a></p></li>
+<li><p><a href="https://doi.org/10.1038/d41586-021-00954-8">Quantum computing’s reproducibility crisis: Majorana fermions</a></p></li>
+<li><p><a href="https://espressospin.org/2012/04/12/background-information-for-our-majorana-fermion-paper/">About our Majorana fermion&nbsp;paper</a></p></li>
+<li><p><a href="https://www.wired.com/story/microsoft-retracts-disputed-quantum-computing-paper/">Microsoft-Led Team Retracts Disputed Quantum-Computing Paper</a></p></li>
+</ul>
+</section>
+<section id="reproducibility-concerns" class="level2">
+<h2 class="anchored" data-anchor-id="reproducibility-concerns">Reproducibility concerns</h2>
+<ul>
+<li><p><a href="https://doi.org/10.1146/annurev-chembioeng-060718-030323">Does Chemical Engineering Research Have a Reproducibility Problem?</a></p></li>
+<li><p><a href="http://dx.doi.org/10.1021/acs.chemmater.7b04287">How Reproducible Are Isotherm Measurements in Metal−Organic Frameworks?</a></p></li>
+<li><p><a href="https://www.pnas.org/cgi/doi/10.1073/pnas.1918484117">Does repeat synthesis in materials chemistry obey a power law?</a></p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li>See also the posts on <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licensing</a>, good enough FAIR software</li>
+<li></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Licenses</category>
+  <category>Software</category>
+  <category>Citation</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-why/index.html</guid>
+  <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-why/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Sharing Software</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/sharing-software/index.html</link>
@@ -239,6 +517,8 @@
 
 
 
+<p>https://guides.github.com/activities/citable-code/</p>
+<p>https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account</p>
 <section id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al.." class="level2">
 <h2 class="anchored" data-anchor-id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al..">Software Citation Checklist for Authors <a href="https://doi.org/10.5281/zenodo.3479199">by Neil Chue Hong et al.</a>.</h2>
 <ul>
@@ -577,10 +857,10 @@
 <h2 class="anchored" data-anchor-id="tu-delft-network-drives">TU Delft network drives</h2>
 <table class="table">
 <colgroup>
-<col style="width: 17%">
-<col style="width: 25%">
-<col style="width: 25%">
-<col style="width: 31%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 29%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -670,6 +950,18 @@
 <h2 class="anchored" data-anchor-id="subversion-at-tu-delft">Subversion at TU Delft</h2>
 <p>TU Delft provided version control systems for data with backup facility. Access can be controlled by the repository owner.</p>
 <p>Subversion repository can be requested through TopDesk (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; Version Control Tools &gt; Report to Service Desk)</p>
+</section>
+<section id="electronic-lab-notebooks" class="level2">
+<h2 class="anchored" data-anchor-id="electronic-lab-notebooks">Electronic Lab Notebooks</h2>
+<ul>
+<li><p>Capture and organise data</p></li>
+<li><p>Backed up automatically</p></li>
+<li><p>Link your data and protocols</p></li>
+<li><p>Collaborate easily by sharing your documents and data directly in the notebook</p></li>
+<li><p>Export data in several formats</p></li>
+<li><p>Integration with other software/tools</p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">TU Delft offers licenses for RSpace and eLABjournal</a></p></li>
+</ul>
 </section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
