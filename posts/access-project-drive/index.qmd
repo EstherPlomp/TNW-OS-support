@@ -6,7 +6,9 @@ categories: [Storage]
 image: "image.jpg"
 ---
 
-This post describes how to access the Project Drive on your computer and how to access it outside of the TU Delft network. Please see the [Storage Solution post](/posts/storage-solutions-index.qmd) to learn how to request a Project Drive.
+This post describes how to access the Project Drive on your computer and how to access it outside of the TU Delft network.
+
+Please see the [Storage Solution post](/posts/storage-solutions-index.qmd) to learn how to request a Project Drive.
 
 ## Project Drive location on your computer
 

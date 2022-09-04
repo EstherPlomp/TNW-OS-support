@@ -2,7 +2,7 @@
 title: "Backup"
 author: "Esther Plomp"
 date: "2022-08-28"
-categories: [Storage, Backup]
+categories: [Storage, Research Data Management]
 image: "image.jpg"
 ---
 

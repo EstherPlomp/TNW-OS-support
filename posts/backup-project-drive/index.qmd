@@ -2,11 +2,13 @@
 title: "Backup Project Drive"
 author: "Esther Plomp"
 date: "2022-09-03"
-categories: [Storage, Project Drive]
+categories: [Storage, Research Data Management]
 image: "image.jpg"
 ---
 
-This post describes how to automatically and manually backup files from the Project Drive to a local drive. Automatic backup is only possible if you are the only/single user of the Project Drive. Back up needs to happen manually if there are multiple users.
+This post describes how to automatically and manually backup files from the Project Drive to a local drive.
+
+Automatic backup is only possible if you are the only/single user of the Project Drive. Back up needs to happen manually if there are multiple users.
 
 ## Automatic backup
 

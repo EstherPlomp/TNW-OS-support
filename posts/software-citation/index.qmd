@@ -6,7 +6,9 @@ categories: [Licenses, Software, Citation]
 image: "image.jpg"
 ---
 
-Software citation is important to receive credit for software outputs and to ensure permanent references to the software. While platforms such as GitHub/GitLab/Bitbucket are great for reuse and collaboration, they are no long-term solutions for software preservation. Instead, a snapshot of the software should be shared using a data repository. This data repository will provide you with a persistent identifier, or DOI, which is key for making the code citable.
+Software citation is important to receive credit for software outputs and to ensure permanent references to the software.
+
+While platforms such as GitHub/GitLab/Bitbucket are great for reuse and collaboration, they are no long-term solutions for software preservation. Instead, a snapshot of the software should be shared using a data repository. This data repository will provide you with a persistent identifier, or DOI, which is key for making the code citable.
 
 Some data repositories, such as Zenodo and 4TU.ResearchData, have integrations with GitHub so that you can easily share a release of your software repositories.
 
@@ -18,7 +20,7 @@ Once you shared your software on a data repository and received a DOI, it is imp
 
 ## CFFinit
 
-There is a tool that helps you create a CITATION.cff for your software: **[CFFinit](https://citation-file-format.github.io/cff-initializer-javascript).**
+There is a tool that helps you create a CITATION.cff for your software: [**CFFinit**](https://citation-file-format.github.io/cff-initializer-javascript)**.**
 
 ## Software citation: how to format?
 
@@ -34,8 +36,7 @@ The recommended format ([Katz et al. 2020](https://doi.org/10.12688/f1000researc
 
 • **Identifier:** a resolvable pointer to the software, preferentially, a PID that resolves to a landing page containing descriptive metadata about the software, similar to how a Digital Object Identifier (DOI) for a paper that points to a page about the paper rather than directly to a representation of the paper, such as the PDF.
 
-• **Version**: the identifier for the version of the software being referenced. If the version is unidentified or
-unknown, the date of access should be used.
+• **Version**: the identifier for the version of the software being referenced. If the version is unidentified or unknown, the date of access should be used.
 
 • **Type**: some citation styles (e.g., APA), require a bracketed description of the citation (e.g., \[Computer software\]) to be included.
 
