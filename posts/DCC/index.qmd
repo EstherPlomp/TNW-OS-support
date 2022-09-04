@@ -1,0 +1,47 @@
+---
+title: "Digital Competence Center"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Open Science, TU Delft]
+image: "dcc.png"
+---
+
+TU Delft has a Digital Competence Center (DCC) which consists of four Research Software Engineers, two Data Managers and a High Performance Computing Data Steward.
+
+The DCC helps you with practically applying the [FAIR principles](https://estherplomp.github.io/TNW-OS-support/posts/FAIR/) to your research data and code.
+
+The DCC helps any researcher at the TU Delft in the following two ways:
+
+1.  **Under 30 hour requests**
+
+    -   code reviews
+
+    -   repository reviews
+
+    -   quick data questions
+
+    -   tips & consults
+
+2.  **Dedicated part-time support**
+
+    -   a Data Manager or Research Software engineer joins a research group for up to 340 hours during 6 months
+
+    -   dependent on FAIR value add and expertise of DCC members
+
+    -   dedicated application form on DCC (next one likely September 2022)
+
+Support can look like:
+
+-   Find suitable solutions for data storage, access, back-up and automated processing
+
+-   Package, distribute and release research software
+
+-   Set up collaborative data and software development workflows with version control
+
+-   Implement automated software testing for continuous integration
+
+## More information
+
+-   [Digital Competence Center Website](https://dcc.tudelft.nl/)
+
+-   [DCC guides](https://tu-delft-dcc.github.io)

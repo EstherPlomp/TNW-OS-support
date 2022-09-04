@@ -1,0 +1,47 @@
+---
+title: "Reproducibility checklist"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Reproducibility, Checklist]
+image: "agile.png"
+---
+
+This post is a shortened version of the [Agile Reproducibility Checklist](https://osf.io/phmce/) for articles that you would like to submit (or review).
+
+## For all datasets included/produced in the paper, check if data:
+
+-   Is provided in a non-proprietary format
+
+-   Is documented for third parties to reuse
+
+-   Is accessible in a public repository and has an open data [licence](https://estherplomp.github.io/TNW-OS-support/posts/licenses/)
+
+## For all software tools/libraries/packages and computational workflows included/produced, check if: 
+
+-   Reproduction steps are explained in a README (plain text file), flowchart, or script
+
+-   Computational environments (including hardware) are documented or provided
+
+-   Versions of relevant software components (libraries, packages) are provided
+
+-   All parameters and expected execution times for the computational workflow are provided
+
+-   Software developed by the authors is available in a public repository and has an open licence
+
+-   There is a clear connection between tables, figures, maps, and statistical values and the data and code that they are based on, e.g., using file names or documentation in the README
+
+## In the Data and Software Availability section: 
+
+-   Include data/software availability statements (see [The Turing Way](https://the-turing-way.netlify.app/communication/citable/citable-cite.html?#data-availability-statement-examples) for examples)
+
+-   Include the reasons, if any, for not being able to share (parts of) data or code
+
+## For all data and software: 
+
+-   All datasets and code (used or mentioned) are assigned DOIs
+
+-   Datasets and code are cited throughout the paper
+
+## More information
+
+-   [Software citation checklist](https://estherplomp.github.io/TNW-OS-support/posts/software-citation/)

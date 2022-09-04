@@ -1,10 +1,32 @@
 ---
-title: "Open Science at TU Delft"
+title: "Open Science"
 author: "Esther Plomp"
 date: "2022-09-04"
 categories: [Open Science, TU Delft]
 image: "OS-TUD.png"
 ---
+
+## Open Science
+
+**Open Science** is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality. Several concepts belong under the umbrella term of 'Open Science' and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.
+
+## Benefits of Open Science
+
+-   Increased impact and visibility: Research will be accessible to anyone and it is easier to build on previous work
+
+-   Maximise research effort by making research and [educational](https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html) outputs reusable
+
+-   Improving the quality of research through more transparency (facilitating reproducibility) which will increase trust in research
+
+-   Increased citizen engagement with and participation in research
+
+-   Accelerates discovery and provides opportunity for collaborations
+
+-   Recognition for all contributions to research
+
+The Dutch position paper '[Room for everyone's talent](https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf)' aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.
+
+## TU Delft
 
 TU Delft has a long history of engagement with Open Science and it is TU Delft's ambition to be a frontrunner, as reflected in its [Open Science Programme 2020-2024, Research and Education in the Open Era](https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme) and the TU Delft Strategic Framework 2018-2024, with "openness" as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the [Code of Conduct](https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC EN.pdf). TU Delft established several policies and framework that fall under the Open Science umbrella:
 
