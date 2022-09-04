@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Esther Plomp, Lora Armstrong">
-<meta name="dcterms.date" content="2022-09-02">
+<meta name="author" content="Esther Plomp">
+<meta name="dcterms.date" content="2022-09-04">
 
-<title>TNW-OS-support - Transferring ownership of a GitLab repo</title>
+<title>TNW-OS-support - Spreadsheets</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -99,10 +99,9 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Transferring ownership of a GitLab repo</h1>
+      <h1 class="title">Spreadsheets</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">Git</div>
-                <div class="quarto-category">Software</div>
+                <div class="quarto-category">Research Data Management</div>
               </div>
                   </div>
   </div>
@@ -113,14 +112,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Esther Plomp, Lora Armstrong </p>
+               <p>Esther Plomp </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">September 2, 2022</p>
+        <p class="date">September 4, 2022</p>
       </div>
     </div>
       
@@ -137,52 +136,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>This guide on transferring ownership of a Gitlab repo has been set up <a href="https://docs.google.com/document/d/1y8VlQDJNsm6fkEtUzEXyUjvMggPeHa-zc_JZB2Emm8E/">by Lora Armstrong</a>.</p>
-<section id="what-happens-to-my-gitlab-projects-when-i-leave-tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="what-happens-to-my-gitlab-projects-when-i-leave-tu-delft">What happens to my GitLab projects when I leave TU Delft?</h2>
-<p>Currently there are no plans to delete your repositories (see <a href="https://gitlab.tudelft.nl/help" class="uri">https://gitlab.tudelft.nl/help</a>).</p>
-</section>
-<section id="can-my-supervisorcollaborators-still-access-my-gitlab-projects-when-i-leave" class="level2">
-<h2 class="anchored" data-anchor-id="can-my-supervisorcollaborators-still-access-my-gitlab-projects-when-i-leave">Can my supervisor/collaborators still access my GitLab projects when I leave?</h2>
-<p>If they have access to your projects, they will still have access after you leave. You can control who has access to your projects by going to Project Information &gt; Members in the sidebar of your repository. To be safe, transfer ownership of the projects to a current TU Delft employee when you leave!</p>
-</section>
-<section id="how-do-i-transfer-ownership-of-my-project-to-my-supervisor-or-someone-else-at-tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="how-do-i-transfer-ownership-of-my-project-to-my-supervisor-or-someone-else-at-tu-delft">How do I transfer ownership of my project to my supervisor or someone else at TU Delft?</h2>
-<p>You can transfer a project to another user’s <a href="https://docs.gitlab.com/ee/user/group/#namespaces">GitLab namespace</a>.</p>
-<p><strong>Summary</strong> (based on <a href="https://stackoverflow.com/questions/21579693/how-to-change-the-project-owner-in-gitlab">this Stack Overflow post</a>): ​​Move your project from your namespace to a group where both you and the other user are owners, then the other user can transfer it to their own namespace.</p>
-<p><img src="images/paste-7F2DDF62.png" class="img-fluid"></p>
-<p>Instructions:</p>
-<ol type="1">
-<li>Create a new group if you don’t already have one that you want to use (<strong>Menu</strong> &gt; <strong>Groups</strong> &gt; <strong>Create group</strong>)</li>
-</ol>
-<p><img src="images/paste-39792A08.png" class="img-fluid"></p>
-<ol start="2" type="1">
-<li>Make sure that both the maintainer of the project repository, and the person who it will be transferred to, are members of the group and have the Owner role (to add a new owner: go to the group namespace, then from the sidebar choose <strong>Group information</strong> &gt; <strong>Members</strong> &gt; <strong>Invite members</strong>. Enter username or email of the person you want to invite and change the role to ‘Owner’. Click ‘<strong>Invite</strong>’.)</li>
-</ol>
-<p><img src="images/paste-B79DF3BF.png" class="img-fluid"></p>
-<ol start="3" type="1">
-<li>Have a maintainer of the project repository transfer it to the group namespace (go to the project namespace, then from the sidebar go to <strong>Settings</strong> &gt; <strong>General</strong> &gt; <strong>Advanced</strong> &gt; <strong>Transfer Project</strong>)</li>
-</ol>
-<p><img src="images/paste-9B291D83.png" class="img-fluid"></p>
-<ol start="4" type="1">
-<li>After doing this, the maintainer(s) of the project will get an email notifying that the project has been moved to a different location.</li>
-<li>Now the person who the project is being transferred to can move it to their own namespace (go to the project namespace, then from the sidebar, go to <strong>Settings</strong> &gt; <strong>General</strong> &gt; <strong>Advanced</strong> &gt; <strong>Transfer Project</strong> like before).</li>
-<li>If desired, the group can be deleted after the transfer is complete (go to the group namespace, then from the sidebar go to Settings &gt; General &gt; Advanced &gt; Remove Group)</li>
-</ol>
-<p><img src="images/paste-7598BCE4.png" class="img-fluid"></p>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Providing a more straightforward way to transfer ownership in Gitlab was raised as an <a href="https://gitlab.com/gitlab-org/gitlab/-/issues/14502">issue in 2016</a>, which is unfortunately still open.</p>
-</div>
-</div>
+<section id="using-schemas-to-check-your-tabular-data" class="level2">
+<h2 class="anchored" data-anchor-id="using-schemas-to-check-your-tabular-data">Using schemas to check your tabular data:</h2>
+<p>try.goodtables.io (or python library github.com/frictionlessdata/goodtables-py / github.com/frictionlessdata/tableschema-py) (see <a href="https://www.youtube.com/watch?v=vZAi4OnfH-Q&amp;feature=youtu.be">this presentation on YouTube</a>)</p>
 
 
 </section>

@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Esther Plomp, Lora Armstrong">
-<meta name="dcterms.date" content="2022-09-02">
+<meta name="author" content="Esther Plomp">
+<meta name="dcterms.date" content="2022-09-04">
 
-<title>TNW-OS-support - Transferring ownership of a GitLab repo</title>
+<title>TNW-OS-support - Data Documentation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -99,10 +99,9 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Transferring ownership of a GitLab repo</h1>
+      <h1 class="title">Data Documentation</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">Git</div>
-                <div class="quarto-category">Software</div>
+                <div class="quarto-category">Research Data Management</div>
               </div>
                   </div>
   </div>
@@ -113,14 +112,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Esther Plomp, Lora Armstrong </p>
+               <p>Esther Plomp </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">September 2, 2022</p>
+        <p class="date">September 4, 2022</p>
       </div>
     </div>
       
@@ -137,51 +136,69 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>This guide on transferring ownership of a Gitlab repo has been set up <a href="https://docs.google.com/document/d/1y8VlQDJNsm6fkEtUzEXyUjvMggPeHa-zc_JZB2Emm8E/">by Lora Armstrong</a>.</p>
-<section id="what-happens-to-my-gitlab-projects-when-i-leave-tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="what-happens-to-my-gitlab-projects-when-i-leave-tu-delft">What happens to my GitLab projects when I leave TU Delft?</h2>
-<p>Currently there are no plans to delete your repositories (see <a href="https://gitlab.tudelft.nl/help" class="uri">https://gitlab.tudelft.nl/help</a>).</p>
+<p>This post provides information about documentation, file naming and metadata.</p>
+<section id="documentation" class="level2">
+<h2 class="anchored" data-anchor-id="documentation">Documentation</h2>
+<ul>
+<li><p><a href="https://doi.org/10.5281/zenodo.1914401">Guide for data documentation</a></p></li>
+<li><p><a href="https://uf-repro.github.io/data-organization/slides.html">Data organisation in spreadsheets</a>&nbsp;(see also the <a href="https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary">Open Science Framework guidance</a>)</p></li>
+<li><p><a href="https://libguides.library.kent.edu/SPSS/Codebooks">Code Book</a></p></li>
+<li><p><a href="https://doi.org/10.1177/2515245920928007">Guide on how to create data dictionaries</a></p></li>
+<li><p>check the README post</p></li>
+</ul>
 </section>
-<section id="can-my-supervisorcollaborators-still-access-my-gitlab-projects-when-i-leave" class="level2">
-<h2 class="anchored" data-anchor-id="can-my-supervisorcollaborators-still-access-my-gitlab-projects-when-i-leave">Can my supervisor/collaborators still access my GitLab projects when I leave?</h2>
-<p>If they have access to your projects, they will still have access after you leave. You can control who has access to your projects by going to Project Information &gt; Members in the sidebar of your repository. To be safe, transfer ownership of the projects to a current TU Delft employee when you leave!</p>
+<section id="file-naming-convention" class="level2">
+<h2 class="anchored" data-anchor-id="file-naming-convention">File naming convention</h2>
+<p>Structure your file names and set up a template for this. It is very useful to start with the date (when the file was generated: YYYYMMDD) which will sort your files chronologically and also creates a unique identifier for each file. (It will be immediately clear if there are multiple files generated on the same day that will have to be given a version number –or “A, B”-, because otherwise overwriting would occurs if you store these files in the proper folder).</p>
+<p>Examples:<br>
+<strong>20190607_ImPhys_RDMTemplate_v001_eng</strong></p>
+<ul>
+<li><p>Date or date range of experiment: YYYYMMDD</p></li>
+<li><p>File type (or language such as the example above)</p></li>
+<li><p>Researcher name/initials</p></li>
+<li><p>Version number of file (v001, v002)</p></li>
+<li><p>Don’t make file names too long (30-70 characters should do the trick)</p></li>
+<li><p>Avoid special characters (?\!@*%{[&lt;&gt;) and spaces</p></li>
+</ul>
+<p>You can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean.</p>
+<section id="more-information-on-file-naming" class="level3">
+<h3 class="anchored" data-anchor-id="more-information-on-file-naming">More information on file naming</h3>
+<ul>
+<li><p><a href="https://speakerdeck.com/jennybc/how-to-name-files">Jenny Bryan’s ‘naming things’ presentation</a></p></li>
+<li><p><a href="https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247">8 step guide</a> on how to set up your file naming convention</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=u6MiDFvAs9w&amp;list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&amp;index=2">Danielle Navarro’s videos</a> about file naming and project structure</p></li>
+</ul>
 </section>
-<section id="how-do-i-transfer-ownership-of-my-project-to-my-supervisor-or-someone-else-at-tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="how-do-i-transfer-ownership-of-my-project-to-my-supervisor-or-someone-else-at-tu-delft">How do I transfer ownership of my project to my supervisor or someone else at TU Delft?</h2>
-<p>You can transfer a project to another user’s <a href="https://docs.gitlab.com/ee/user/group/#namespaces">GitLab namespace</a>.</p>
-<p><strong>Summary</strong> (based on <a href="https://stackoverflow.com/questions/21579693/how-to-change-the-project-owner-in-gitlab">this Stack Overflow post</a>): ​​Move your project from your namespace to a group where both you and the other user are owners, then the other user can transfer it to their own namespace.</p>
-<p><img src="images/paste-7F2DDF62.png" class="img-fluid"></p>
-<p>Instructions:</p>
-<ol type="1">
-<li>Create a new group if you don’t already have one that you want to use (<strong>Menu</strong> &gt; <strong>Groups</strong> &gt; <strong>Create group</strong>)</li>
-</ol>
-<p><img src="images/paste-39792A08.png" class="img-fluid"></p>
-<ol start="2" type="1">
-<li>Make sure that both the maintainer of the project repository, and the person who it will be transferred to, are members of the group and have the Owner role (to add a new owner: go to the group namespace, then from the sidebar choose <strong>Group information</strong> &gt; <strong>Members</strong> &gt; <strong>Invite members</strong>. Enter username or email of the person you want to invite and change the role to ‘Owner’. Click ‘<strong>Invite</strong>’.)</li>
-</ol>
-<p><img src="images/paste-B79DF3BF.png" class="img-fluid"></p>
-<ol start="3" type="1">
-<li>Have a maintainer of the project repository transfer it to the group namespace (go to the project namespace, then from the sidebar go to <strong>Settings</strong> &gt; <strong>General</strong> &gt; <strong>Advanced</strong> &gt; <strong>Transfer Project</strong>)</li>
-</ol>
-<p><img src="images/paste-9B291D83.png" class="img-fluid"></p>
-<ol start="4" type="1">
-<li>After doing this, the maintainer(s) of the project will get an email notifying that the project has been moved to a different location.</li>
-<li>Now the person who the project is being transferred to can move it to their own namespace (go to the project namespace, then from the sidebar, go to <strong>Settings</strong> &gt; <strong>General</strong> &gt; <strong>Advanced</strong> &gt; <strong>Transfer Project</strong> like before).</li>
-<li>If desired, the group can be deleted after the transfer is complete (go to the group namespace, then from the sidebar go to Settings &gt; General &gt; Advanced &gt; Remove Group)</li>
-</ol>
-<p><img src="images/paste-7598BCE4.png" class="img-fluid"></p>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Providing a more straightforward way to transfer ownership in Gitlab was raised as an <a href="https://gitlab.com/gitlab-org/gitlab/-/issues/14502">issue in 2016</a>, which is unfortunately still open.</p>
-</div>
+<section id="bulk-renaming-tools-use-with-care" class="level3">
+<h3 class="anchored" data-anchor-id="bulk-renaming-tools-use-with-care">Bulk renaming tools (use with care!):</h3>
+<ul>
+<li><p>Windows: <a href="http://www.antp.be/software/renamer">Ant Renamer</a>, <a href="sourceforge.net/prpjects/renameit">RenameIT</a>, <a href="http://www.bulkrenameutility.co.uk/">Bulk Rename Utility</a></p></li>
+<li><p>Mac: <a href="https://renamer.com/">Renamer</a>, <a href="https://mrrsoftware.com/namechanger/">Name Changer</a></p></li>
+<li><p>Linux: <a href="https://gcmd.github.io/">GNOME Commander</a>, <a href="http://gprename.sourceforge.net/">GPRename</a></p></li>
+<li><p>Unix: Using the grep command to search for regular expressions</p></li>
+</ul>
+</section>
+</section>
+<section id="metadata" class="level2">
+<h2 class="anchored" data-anchor-id="metadata">Metadata</h2>
+<p>Metadata is information about your data, such as the title of the dataset, the date, creator(s) and keywords that describe the data. Metadata standards with defined fields ensure machine readability. To look for disciplinary standards you can use the resources below:</p>
+<p>• <a href="https://fairsharing.org/">FAIRsharing.org</a></p>
+<p>• <a href="https://rd-alliance.github.io/metadata-directory/standards/">Research Data Alliance metadata directory</a></p>
+<p>• <a href="http://www.dcc.ac.uk/resources/metadata-standards">Digital Curation Center</a></p>
+<section id="tools-available-for-metadata-creation" class="level3">
+<h3 class="anchored" data-anchor-id="tools-available-for-metadata-creation">Tools available for metadata creation:</h3>
+<p><a href="https://frictionlessdata.io/" class="uri">https://frictionlessdata.io/</a> create.frictionlessdata.io (Data Package Creator) (JSON) (or through Python, <a href="https://github.com/frictionlessdata/datapackage-pipelines">github.com/frictionlessdata/datapackage-pipelines</a>) (see <a href="https://www.youtube.com/watch?v=vZAi4OnfH-Q&amp;feature=youtu.be">this presentation on YouTube</a>)</p>
+</section>
+</section>
+<section id="physical-samples" class="level2">
+<h2 class="anchored" data-anchor-id="physical-samples">Physical samples</h2>
+<p>Reference your samples: dates in notebooks + supplier’s name/code</p>
+<p>Add any relevant notes:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-C1DEDF1E.png" class="img-fluid figure-img" alt="An excel sheet with physical sample organisation. The first column describes sample names, the second the accompanying data in the labbook, the third column the amount of samples left (if there are multiple), the fourth one is the sample sizes and the last column contains any notes about the sample."></p>
+<p></p><figcaption class="figure-caption">(copyright by Marta Teperek)</figcaption><p></p>
+</figure>
 </div>
 
 
