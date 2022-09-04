@@ -56,6 +56,10 @@ File format support
 
 https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories
 
+## Link your data with your publication
+
+See The Turing Way for more information about how to [link your research outputs](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
+
 ## More information
 
 -   

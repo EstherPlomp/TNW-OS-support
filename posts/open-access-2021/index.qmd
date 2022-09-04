@@ -1,0 +1,82 @@
+---
+title: "Publishing articles in 2021"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Open Data, Data Management Plan, Open Software, FAIR, Plan S]
+image: "Plan-S.png"
+---
+
+## Publishing articles in 2021
+
+This post is based on an earlier [blogpost](https://openworking.wordpress.com/2020/11/19/publishing-articles-in-2021/).
+
+**Plan S**, an initiative for open access science publishing launched in 2018, requires researchers who are funded by signatories such as the Dutch Research Council (**NWO**) to publish in open repositories/journals by 2021. The European Commission is a supporter of Plan S and has similar requirements for their **Horizon Europe** projects.
+
+## NWO projects which are funded by calls from 1st of Jan 2021 onward and Horizon Europe projects\* have the following requirements:
+
+-   Articles should be Open Access upon publication**: No embargo period** is allowed.
+
+    -   Books and book chapters are still beyond the scope of Plan S. NWO allows an
+        embargo period of 12 months for these research outputs.
+
+-   Authors should **retain copyright**.
+
+-   Authors should use a **CC-BY license** in order to allow as much reuse of scholarly publications as possible.
+
+    -   For books and book chapters CC-BY-ND/NC is still allowed.
+
+    -   NWO allows exceptions for CC-BY-ND for articles.
+
+    -   See the [Creative Commons website](https://creativecommons.org/licenses/) for more information about these licenses.
+
+-   You can **use project funding** for Article Processing Charges but:
+
+    -   For **NWO** the journal needs to be registered in the [Directory of Open Access Journals](http://doaj.org/). If the journal is not registered in this directory you can still publish in the journal but you cannot use funding for the fees.
+
+    -   For **Horizon Europe** you are eligible for funding if the article is published in a full open access venue (hybrid journals are not allowed).
+
+    ```{=html}
+    <!-- -->
+    ```
+    -   See also the TU Delft [Open Access Fund](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding)!
+
+-   The manuscript needs to be **peer reviewed**. Preferably the Version of Record from the publisher is made available, but the Author Accepted Manuscript (postprint that is peer reviewed but
+    not yet formatted by the journal) is also accepted.
+
+-   **Compliance is monitored** by NWO/Horizon Europe.
+
+A first version of the [**Journal Checker Tool**](http://www.journalcheckertool.org)is now available, so that you can now easily check yourself whether your preferred journal is in compliance with Plan S!
+
+![](images/paste-9536397F.png)
+
+## Researchers at Dutch institutes have **several options to publish Open Access for Plan S**:
+
+![](https://openworking.files.wordpress.com/2020/11/journalchecker2-1.jpg?w=396){alt=""}
+
+-   Thanks to **deals** (transformative agreements) with the bigger publishers, you do not have to pay Article Processing Fees for publishing open access with, for example, Elsevier ([at a national cost of €80,5 million over 5 years](https://www.scienceguide.nl/2020/06/vooral-elsevier-profiteert-van-nieuwe-open-science-deal/)). You can check whether you can publish open access at no additional costs to you using the [**Journal Browser**](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser).
+
+-   You can find **open access journals** using the [Directory of Open Access Journals](http://doaj.org/).
+
+-   You can **archive a postprint** using repositories/preprint servers: Check [Sherpa/Romeo](https://v2.sherpa.ac.uk/romeo/) to see which version of the manuscript you can make available and if they allow for immediate open access (if there is an embargo period required this route is not Plan S compliant!).
+
+-   [Horizon Europe is developing an **Open Access Platform**](https://open-research-europe.ec.europa.eu/) where their projects can choose to publish in order to make articles freely available.
+
+-   You can use the [**TU Delft Open Publishing Platform**](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing/): [The Evolving Scholar](https://journals.open.tudelft.nl/thes) is now live and open for submissions!
+
+## If you would like to **make your work available from projects before 2021** (or if you\'re not funded by NWO/Horizon Europe) you can also make use of these additional options:
+
+-   Through the project [\'You Share, We Take Care\'](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care) you can make articles and book chapters published from 2018 onwards available after an embargo period of six months. You can now [participate through this online form](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care/participation)!
+
+-   You can always post a postprint using repositories/preprint servers: Check [Sherpa/Romeo](https://v2.sherpa.ac.uk/romeo/) to see which version of the manuscript you can make available and for the length of embargo periods.
+
+**Resources that go into more detail:**
+
+[TU Delft Open Access Infographic](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/Library%20voor%20wetenschappers/Publiceren%20en%20verspreiden/OPEN%20SCIENCE%20TUD%20DEF.pdf)\
+[Horizon Europe -- Open Access](https://ec.europa.eu/research/openscience/index.cfm?pg=openaccess) \
+[NWO Plan S Implementation Guidelines](https://www.nwo.nl/en/implementation-guidelines-plan-s) \
+[KNAW Webinar Implementation of Plan S](https://www.youtube.com/watch?v=OCfRV-8MYto) \
+[Nine routes towards Plan S compliance](https://101innovations.wordpress.com/2019/06/15/nine-routes-towards-plan-s-compliance-updated/) \
+[Open Access policies for Dutch researchers](https://docs.google.com/spreadsheets/d/1XODQVAfxpRgCBdeXmqWSmghIoAIBBi5R5P_DBZINY5U/edit#gid=0) \
+[What will change in Horizon Europe?](https://www.youtube.com/watch?v=0YSqUNF_5wY) \
+[Open Science in Horizon Europe: what to expect?](https://dariahopen.hypotheses.org/968)\
+[Open-Access.nl](http://www.openaccess.nl)

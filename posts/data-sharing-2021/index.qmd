@@ -1,0 +1,96 @@
+---
+title: "Managing and Sharing Data in 2021"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Open Data, Data Management Plan, Open Software, FAIR]
+image: "open-data-fountain.jpg"
+---
+
+## Managing and Sharing Data in 2021
+
+This post is based on an earlier [blogpost](https://openworking.wordpress.com/2021/09/17/managing-and-sharing-data-in-2021/).
+
+## **NWO/Horizon Europe projects have the following requirements:**
+
+**Data management** should follow the [FAIR principles](https://estherplomp.github.io/TNW-OS-support/posts/FAIR/) to maximise the effectiveness and reproducibility of the research undertaken. 
+
+-   The **FAIR principles** recommend that scientific data are: 
+
+    -   \'**F**indable\' thanks to their persistent identifier that is assigned to your dataset when it is shared using a data repository (see below).
+
+    -   \'**A**ccessible\' so that the data and metadata can be examined; FAIR data is not necessarily open data, but the metadata could still be shared to ensure that the data is still FAIR.
+
+    -   \'**I**nteroperable\' so that comparable data can be analysed and integrated through the use of common vocabulary and formats.
+
+    -   \'**R**eusable\' as a result of appropriate documentation and provision of a [license](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing) that tells others what they can do with the data. 
+
+![Illustration by [The Turing Way/Scriberia](https://doi.org/10.5281/zenodo.3332807)](https://openworking.files.wordpress.com/2021/09/1728_turi_book-sprint_8-fair-principles_040619-1.jpg?w=526){alt=""}
+
+## **Proposals**
+
+-   Proposals have a data section that asks about how you will manage and share your data.
+
+-   Consider any [data management costs](https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-costs) that need to be included in the project\'s budget. Also keep in mind that you may need a budget to [publish articles](https://openworking.wordpress.com/2020/11/19/publishing-articles-in-2021/). 
+
+-   See the [TU Delft guidance](https://www.tudelft.nl/en/library/research-data-management/r/plan/grant-proposals/data-management-sections-for-grant-proposals) for help or [contact your Faculty\'s Data Steward](https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact). 
+
+## **Data Management Plans**
+
+**Data Management Plans (DMP) are required** for projects funded by NWO (within four months after the awarding of the grant) and Horizon Europe (within 6 months of the project\'s start). 
+
+-   DMP templates are available on the websites of [NWO](https://www.nwo.nl/en/research-data-management) and [Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx), as well as on the platform [DMPonline](https://dmponline.tudelft.nl/) that you can use with your netID. 
+
+    -   DMPonline has TU Delft specific guidance that will help you to set up your DMP more efficiently. 
+
+    -   You can also use the [TU Delft template available through DMPonline](https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline) (although this will need some additions for Horizon Europe as this template is more extensive). It is especially efficient to use the TU Delft template if your project needs [HREC approval](https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics) (for example, working with [personal data](https://www.tudelft.nl/en/privacy-security/privacy)).
+
+-   A DMP should be a living document, which is updated as the project evolves. Horizon Europe expects you to update the template throughout the project.
+
+## **Data sharing**
+
+**Data should be shared through a trusted repository**, for example: [4TU.ResearchData](https://data.4tu.nl/info//en/).
+
+-   **Data underpinning a scientific publication** should be deposited at the latest **at the time of publication.**
+
+-   Data is **in principle open**, unless restricted access is needed for legitimate reasons
+
+    -   Access can be restricted when it concerns aspects such as privacy, public security, ethical limitations, property rights and commercial interest.
+
+-   For Horizon Europe, the data should be licensed using CC-BY or CC0 (or an equivalent license), and metadata of the datasets should be CC0 licensed. 
+
+    -   For [CC-BY](https://creativecommons.org/licenses/by/4.0/) it means that others should cite the work when they reuse the data. 
+
+    -   [CC0](https://creativecommons.org/publicdomain/zero/1.0/) waives any rights, with citation still being expected as this follows best scientific practises. 
+
+    -   Note that some Horizon Europe calls may require additional obligations for the validations of scientific publications. 
+
+-   These requirements are in line with the [TU Delft Research Data Framework Policy](https://doi.org/10.5281/zenodo.2573159), stating that \"*research data, code and any other materials needed to reproduce research findings are appropriately documented and shared in a research data repository in accordance with the FAIR principles for at least 10 years from the end of the research project, unless there are valid reasons not to do so*.\" (NWO also expects data preservation for at least ten years, unless legal provisions or discipline-specific guidelines dictate otherwise). 
+
+![Illustration by [The Turing Way/Scriberia](https://doi.org/10.5281/zenodo.3332807)](https://openworking.files.wordpress.com/2021/09/fountain-of-open-data-with-text-1.jpg?w=576){alt=""}
+
+## **Software**
+
+**Software** is seen as a separate research output from data:
+
+-   Horizon Europe recommends sharing software (under an Open Source license).
+
+-   NWO expects that software that is needed to access and interpret the data is made available, following the[ Five Recommendations for FAIR Software](https://fair-software.nl/).
+
+-   See the [TU Delft Research Software Policy](http://doi.org/10.5281/zenodo.4629662) for more information on how to share your research software. 
+
+    -   TU Delft encourages you to share your code/software through[ 4TU.ResearchData](https://data.4tu.nl/info/en/)
+        choosing one of the TU Delft approved licenses (Apache, MIT, BSD, EUPL,
+        AGPL, LGPL, GPL, CC0). You can also choose another data repository,
+        such as[ Zenodo](https://zenodo.org/), but then you have to ensure that the output is correctly registered in PURE yourself. See the [TU Delft Guidelines on Research Software](http://doi.org/10.5281/zenodo.4629635) or [this recording](https://youtu.be/bPl5sdTvLMM?t=1394) for more information on sharing your software/code.
+
+## Resources
+
+-   [Horizon Europe Programme Guide ](https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/horizon-europe-programme-guide-released-2021-06-20_en)(pages 41 -- 46)
+
+-   [Annotated Horizon Europe Grant Agreement ](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf)(Annex 5, pages 152-153)
+
+-   [NWO: Research Data Management](https://www.nwo.nl/en/research-data-management)
+
+-   [TU Delft: Research Data Management](https://www.tudelft.nl/library/research-data-management)
+
+-   [TU Delft & Faculty policies (data/software)](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/)
