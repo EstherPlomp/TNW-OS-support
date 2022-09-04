@@ -40,4 +40,4 @@ For software there are different licenses because you can execute software (whic
 -   [The Turing Way: licensing](https://the-turing-way.netlify.app/reproducible-research/licensing.html)
 -   [A Primer on Open License](https://www.youtube.com/watch?v=xdBwuut6dRY&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=5)
 -   [Open Source in Research](https://www.youtube.com/watch?v=OskC2LNtPkU&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=10)
--   
+-   [Guide to Creative Commons for Scholarly Publications and Educational Resources](https://doi.org/10.5281/zenodo.4090922) by the VSNU/NWO

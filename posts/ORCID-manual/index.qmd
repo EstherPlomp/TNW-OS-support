@@ -1,0 +1,33 @@
+---
+title: "ORCID - PURE integration"
+author: "Esther Plomp"
+date: "2022-09-03"
+categories: [DMP]
+image: "image.jpg"
+---
+
+How to set up a Pure -- ORCID integration:
+
+1\. Go to the [Pure portal](http://pure.tudelft.nl/) and log in with your netID (scroll down and click the '**log in to Pure**' button at the right bottom of the page).
+
+2\. Once you are logged in, select the '**Personal overview**' menu and click '**edit profile**'
+
+![](images/edit-profile.jpg){width="521"}
+
+3\. In **Edit profile** you can click on '**Create or Connect your ORCID ID**'. There will be a pop-up that explains that you are directed to the [ORCID webpage](https://orcid.org/) where you can log-in to ORCID or create an ORCID ID. Click Proceed.
+
+![](images/add-orcid.jpg)
+
+4\. In ORCID, you can create your ORCID or you can log in if you already have an ORCID. After you are logged in you can give TU Delft -- Pure permission to access your ORCID account by clicking '**Authorize**'.
+
+![](images/authorize-Pure.jpg){width="472"}
+
+5\. After this authorization, you are redirected back to Pure. Your ORCID will appear in your profile page. Click the blue 'Save' button at the bottom of your screen to apply the changes.
+
+## **More information**
+
+-   Contact the library\[at\]tudelft.nl or your Faculty Data Steward
+
+-   [TU Delft information on ORCID](https://www.tudelft.nl/library/orcid)
+
+-   [ORCID integration with PURE video](https://youtu.be/QzDITepzH-g?t=93) (from 1:35 onwards)

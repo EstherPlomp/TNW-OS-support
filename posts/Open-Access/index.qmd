@@ -15,3 +15,7 @@ https://youtu.be/L5rVH1KGBCY
 -   **Post-print** (or Author Accepted Manuscript - AAM): version of the article after peer review
 
 -   **Publishers version** (Version of Record - VOR): fully formatted version published by the publisher
+
+![](images/paste-4A0F3BC6.png)
+
+![](images/article_repositories.png)

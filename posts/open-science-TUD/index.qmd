@@ -1,0 +1,25 @@
+---
+title: "Open Science at TU Delft"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Open Science, TU Delft]
+image: "OS-TUD.png"
+---
+
+TU Delft has a long history of engagement with Open Science and it is TU Delft's ambition to be a frontrunner, as reflected in its [Open Science Programme 2020-2024, Research and Education in the Open Era](https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme) and the TU Delft Strategic Framework 2018-2024, with "openness" as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the [Code of Conduct](https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC EN.pdf). TU Delft established several policies and framework that fall under the Open Science umbrella:
+
+•	TU Delft Policy on [Open Access Publishing](https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf) (2016)
+
+•	TU Delft [Research Data Policy Framework](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf) (2019, 2021)
+
+•	TU Delft [Research Software Policy](https://doi.org/10.5281/zenodo.4629662) (2021)
+
+•	TU Delft [Diversity & Inclusion Office](https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/diversity-policy) (2021)
+
+•	TU Delft [Vision on Integrity](https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU Delft Vision on Integrity 2018-2024.pdf) 2018-2024
+
+•	TU Delft [Recognition & Rewards Perspective](https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen en Waarderen - recognition and reward/TU Delft Recognition and Rewards perspective def.pdf) 2021 -- 2024
+
+•	TU Delft Policy on Open Educational Resources (2022, under construction)
+
+You can find more information on [Open Science at TU Delft](https://www.tudelft.nl/open-science).

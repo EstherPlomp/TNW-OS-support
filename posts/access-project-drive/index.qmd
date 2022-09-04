@@ -24,7 +24,8 @@ Sign into [EduVPN](https://tudelft.topdesk.net/tas/public/ssp/content/detail/ser
 
 **Windows**
 
-Install [WebDrive](https://webdata.tudelft.nl/) and open it. Click on sftp.tudelft.nl. Click on staff-umbrella (this is the Project Drive)
+Install [WebDrive](https://webdata.tudelft.nl/) and open it. Click on sftp.tudelft.nl. Click on staff-umbrella (this is the Project Drive).\
+External employees/students have to use FileZilla.
 
 **Mac**
 
