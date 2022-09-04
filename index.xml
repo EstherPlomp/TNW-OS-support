@@ -12,7 +12,7 @@
 <generator>quarto-1.1.179</generator>
 <lastBuildDate>Sun, 04 Sep 2022 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Open Science at TU Delft</title>
+  <title>Open Science</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</link>
   <description><![CDATA[ 
@@ -20,6 +20,24 @@
 
 
 
+<section id="open-science" class="level2">
+<h2 class="anchored" data-anchor-id="open-science">Open Science</h2>
+<p><strong>Open Science</strong> is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality. Several concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.</p>
+</section>
+<section id="benefits-of-open-science" class="level2">
+<h2 class="anchored" data-anchor-id="benefits-of-open-science">Benefits of Open Science</h2>
+<ul>
+<li><p>Increased impact and visibility: Research will be accessible to anyone and it is easier to build on previous work</p></li>
+<li><p>Maximise research effort by making research and <a href="https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html">educational</a> outputs reusable</p></li>
+<li><p>Improving the quality of research through more transparency (facilitating reproducibility) which will increase trust in research</p></li>
+<li><p>Increased citizen engagement with and participation in research</p></li>
+<li><p>Accelerates discovery and provides opportunity for collaborations</p></li>
+<li><p>Recognition for all contributions to research</p></li>
+</ul>
+<p>The Dutch position paper ‘<a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone’s talent</a>’ aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.</p>
+</section>
+<section id="tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft">TU Delft</h2>
 <p>TU Delft has a long history of engagement with Open Science and it is TU Delft’s ambition to be a frontrunner, as reflected in its <a href="https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme">Open Science Programme 2020-2024, Research and Education in the Open Era</a> and the TU Delft Strategic Framework 2018-2024, with “openness” as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC%20EN.pdf">Code of Conduct</a>. TU Delft established several policies and framework that fall under the Open Science umbrella:</p>
 <p>• TU Delft Policy on <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf">Open Access Publishing</a> (2016)</p>
 <p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf">Research Data Policy Framework</a> (2019, 2021)</p>
@@ -31,6 +49,7 @@
 <p>You can find more information on <a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a>.</p>
 
 
+</section>
 
  ]]></description>
   <category>Open Science</category>
@@ -38,6 +57,116 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Digital Competence Center</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>TU Delft has a Digital Competence Center (DCC) which consists of four Research Software Engineers, two Data Managers and a High Performance Computing Data Steward.</p>
+<p>The DCC helps you with practically applying the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a> to your research data and code.</p>
+<p>The DCC helps any researcher at the TU Delft in the following two ways:</p>
+<ol type="1">
+<li><p><strong>Under 30 hour requests</strong></p>
+<ul>
+<li><p>code reviews</p></li>
+<li><p>repository reviews</p></li>
+<li><p>quick data questions</p></li>
+<li><p>tips &amp; consults</p></li>
+</ul></li>
+<li><p><strong>Dedicated part-time support</strong></p>
+<ul>
+<li><p>a Data Manager or Research Software engineer joins a research group for up to 340 hours during 6 months</p></li>
+<li><p>dependent on FAIR value add and expertise of DCC members</p></li>
+<li><p>dedicated application form on DCC (next one likely September 2022)</p></li>
+</ul></li>
+</ol>
+<p>Support can look like:</p>
+<ul>
+<li><p>Find suitable solutions for data storage, access, back-up and automated processing</p></li>
+<li><p>Package, distribute and release research software</p></li>
+<li><p>Set up collaborative data and software development workflows with version control</p></li>
+<li><p>Implement automated software testing for continuous integration</p></li>
+</ul>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><p><a href="https://dcc.tudelft.nl/">Digital Competence Center Website</a></p></li>
+<li><p><a href="https://tu-delft-dcc.github.io">DCC guides</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/dcc.png" medium="image" type="image/png" height="92" width="144"/>
+</item>
+<item>
+  <title>Reproducibility checklist</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post is a shortened version of the <a href="https://osf.io/phmce/">Agile Reproducibility Checklist</a> for articles that you would like to submit (or review).</p>
+<section id="for-all-datasets-includedproduced-in-the-paper-check-if-data" class="level2">
+<h2 class="anchored" data-anchor-id="for-all-datasets-includedproduced-in-the-paper-check-if-data">For all datasets included/produced in the paper, check if data:</h2>
+<ul>
+<li><p>Is provided in a non-proprietary format</p></li>
+<li><p>Is documented for third parties to reuse</p></li>
+<li><p>Is accessible in a public repository and has an open data <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licence</a></p></li>
+</ul>
+</section>
+<section id="for-all-software-toolslibrariespackages-and-computational-workflows-includedproduced-check-if" class="level2">
+<h2 class="anchored" data-anchor-id="for-all-software-toolslibrariespackages-and-computational-workflows-includedproduced-check-if">For all software tools/libraries/packages and computational workflows included/produced, check if:</h2>
+<ul>
+<li><p>Reproduction steps are explained in a README (plain text file), flowchart, or script</p></li>
+<li><p>Computational environments (including hardware) are documented or provided</p></li>
+<li><p>Versions of relevant software components (libraries, packages) are provided</p></li>
+<li><p>All parameters and expected execution times for the computational workflow are provided</p></li>
+<li><p>Software developed by the authors is available in a public repository and has an open licence</p></li>
+<li><p>There is a clear connection between tables, figures, maps, and statistical values and the data and code that they are based on, e.g., using file names or documentation in the README</p></li>
+</ul>
+</section>
+<section id="in-the-data-and-software-availability-section" class="level2">
+<h2 class="anchored" data-anchor-id="in-the-data-and-software-availability-section">In the Data and Software Availability section:</h2>
+<ul>
+<li><p>Include data/software availability statements (see <a href="https://the-turing-way.netlify.app/communication/citable/citable-cite.html?#data-availability-statement-examples">The Turing Way</a> for examples)</p></li>
+<li><p>Include the reasons, if any, for not being able to share (parts of) data or code</p></li>
+</ul>
+</section>
+<section id="for-all-data-and-software" class="level2">
+<h2 class="anchored" data-anchor-id="for-all-data-and-software">For all data and software:</h2>
+<ul>
+<li><p>All datasets and code (used or mentioned) are assigned DOIs</p></li>
+<li><p>Datasets and code are cited throughout the paper</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/software-citation/">Software citation checklist</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Reproducibility</category>
+  <category>Checklist</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/agile.png" medium="image" type="image/png" height="37" width="144"/>
 </item>
 <item>
   <title>Data Management Costs</title>
@@ -1043,84 +1172,6 @@ External employees/students have to use FileZilla.</p>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/access-project-drive/index.html</guid>
   <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/access-project-drive/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Open Access</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-Access/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Explanation preprint, postprint etc. Link with sherpa romeo</p>
-<p>https://youtu.be/L5rVH1KGBCY</p>
-<ul>
-<li><p><strong>Preprint</strong>: version of the article before peer review</p></li>
-<li><p><strong>Post-print</strong> (or Author Accepted Manuscript - AAM): version of the article after peer review</p></li>
-<li><p><strong>Publishers version</strong> (Version of Record - VOR): fully formatted version published by the publisher</p></li>
-</ul>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-Access/images/paste-4A0F3BC6.png" class="img-fluid"></p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-Access/images/article_repositories.png" class="img-fluid"></p>
-
-
-
- ]]></description>
-  <category>Open Access</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-Access/index.html</guid>
-  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-Access/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Public sharing solutions</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/public-sharing-solutions/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Overview of available data sharing solutions <strong>after the project</strong>. These solutions are publicly accessible and not suitable for any confidential data/code.</p>
-<section id="general-repositories" class="level2">
-<h2 class="anchored" data-anchor-id="general-repositories">General repositories</h2>
-<section id="tu.researchdata" class="level3">
-<h3 class="anchored" data-anchor-id="tu.researchdata"><a href="http://researchdata.4tu.nl/home/">4TU.ResearchData</a></h3>
-<ul>
-<li><p>Archiving of finalized datasets (open accessible, unless you specify an embargo period up to two years)</p></li>
-<li><p>Obtain a DOI for your dataset and <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">link it with your publication</a></p></li>
-<li><p>Free up to 1 TB per TU Delft researcher per year</p></li>
-</ul>
-</section>
-<section id="zenodo" class="level3">
-<h3 class="anchored" data-anchor-id="zenodo"><a href="https://zenodo.org/">Zenodo</a></h3>
-<ul>
-<li><p>Zenodo is a general repository which has an integration with GitHub and thus allows you to get DOI’s for your code/software.</p></li>
-<li><p>You can also store presentations, education materials etc.</p></li>
-<li><p>You can set up communities for your projects/section/department so all research outputs are easily findable. You can find an example community of the Data Stewards <a href="https://zenodo.org/communities/datastewards/">here</a>.</p></li>
-<li><p>Zenodo is free to use and has a file size limit per record is 50GB (with exemptions on a case-by-case basis).</p></li>
-</ul>
-</section>
-</section>
-<section id="disciplinary-specific-data-repositories" class="level2">
-<h2 class="anchored" data-anchor-id="disciplinary-specific-data-repositories">Disciplinary specific data repositories</h2>
-<p>you can use <a href="https://fairsharing.org/">FAIRsharing</a> to look up a suitable repository for your data. Use the same keywords you would use to find articles of your research disicpline.</p>
-<p>These sources contain recommended disciplinary specific data repositories:</p>
-<ul>
-<li><p><a href="https://elixir-europe.org/platforms/data/elixir-deposition-databases">Elixir Databases for Biomolecular Data</a></p></li>
-<li><p>Springer Nature <a href="https://www.nature.com/sdata/policies/repositorieshttps://www.springernature.com/gp/authors/research-data-policy/recommended-repositories">Data Repository Guidance</a></p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-
-
-</section>
-
- ]]></description>
-  <category>Storage</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/public-sharing-solutions/index.html</guid>
-  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/public-sharing-solutions/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
