@@ -9,7 +9,7 @@
 <link>https://github.com/EstherPlomp/TNW-OS-support/index.html</link>
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.1.179</generator>
+<generator>quarto-1.1.189</generator>
 <lastBuildDate>Sun, 04 Sep 2022 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Open Science</title>
@@ -501,6 +501,191 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/agile.png" medium="image" type="image/png" height="37" width="144"/>
+</item>
+<item>
+  <title>Data Citation</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-should-i-citerefer-to-data-in-my-paper" class="level2">
+<h2 class="anchored" data-anchor-id="how-should-i-citerefer-to-data-in-my-paper">How should I cite/refer to data in my paper?</h2>
+<p>A dataset citation includes all of the same components as any other citation:</p>
+<p>● author</p>
+<p>● title</p>
+<p>● year of publication</p>
+<p>● publisher (for data, this is often the repository where it is housed, such as <a href="https://researchdata.4tu.nl/en/">4TU.ResearchData</a>)</p>
+<p>● version (if indicated)</p>
+<p>● access information (a URL or DOI)</p>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>APA style example:</strong><br>
+Author/Rightsholder. (Year). Title of data set (Version number) [Description of form]. [Retrieved from https://] <em>OR</em> [DOI]</p>
+<p><strong>DataCite citation style:<br>
+</strong>Creator (PublicationYear). Title. Version. Publisher. ResourceType. Identifier (Version and ResourceType are optional)</p>
+<p>Example:<br>
+Heydarian, H. (Hamidreza); Schueder, F. (Florian); Strauss, M.T. (Maximilian); van Werkhoven, B. (Ben); Fazel, M. (Mohamadreza); Lidke, K.A. (Keith); Jungmann, R. (Ralf); Stallinga, S. (Sjoerd); Rieger, B. (Bernd) (2018) Single-Molecule Localization Microscopy (SMLM) 2D TU Delft logos. TU Delft. Dataset. https://doi.org/10.4121/uuid:0d42a28f-f625-41a3-ba77-25e397685466</p>
+</div>
+</div>
+<p>At <a href="https://researchdata.4tu.nl/en/">4TU.ResearchData</a> you can click on the “Cite” button to get a suggested citation and to obtain the DOI of the dataset:</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/images/paste-A17BCDA3.png" class="img-fluid" width="499"></p>
+<p>You can also check <a href="http://citeas.org/" class="uri">http://citeas.org/</a> to see how you should cite a resource.</p>
+<p>You should cite your dataset directly in the paper in places where it is relevant, and include a citation in your reference list, as well as include a <strong>Data availability statement</strong> at the end of the paper (before the acknowledgement section). See below for some examples. <u>It is important to cite the software, as the data availability statement does not count as a citation!</u></p>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Examples data availability statements
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The data that support the findings of this study are openly available in [repository name] at <a href="http://doi.org/%5Bdoi" class="uri">http://doi.org/%5Bdoi</a>].<br>
+</p>
+<p>If no DOI is issued:</p>
+<p>The data that support the findings of this study are openly available in [repository name] at [URL], reference number [reference number].</p>
+<section id="when-there-is-an-embargo-period-you-can-reserve-your-doiand-still-include-a-reference-to-the-dataset-in-your-paper" class="level2">
+<h2 class="anchored" data-anchor-id="when-there-is-an-embargo-period-you-can-reserve-your-doiand-still-include-a-reference-to-the-dataset-in-your-paper">When there is an <strong>embargo</strong> period you can <a href="https://surfdrive.surf.nl/files/index.php/s/NmfhUd73BgaQfVW/download">reserve your DOI</a>and still include a reference to the dataset in your paper:</h2>
+<p>The data that support the findings will be available in [repository name] at [URL / DOI] following a [6 month] embargo from the date of publication to allow for commercialisation of research findings.</p>
+</section>
+<section id="when-data-cannot-be-made-available" class="level2">
+<h2 class="anchored" data-anchor-id="when-data-cannot-be-made-available">When data cannot be made available:</h2>
+<p>Restrictions apply to the data/software that support the findings of this study. [Explain nature of restrictions e.g.&nbsp;the data contains information that could compromise the privacy of research participants, NDA, licensing, agreements] Data are available upon reasonable request by contacting [name and contact details] and with permission of [third party name].</p>
+<p>The data that support the findings of this study are available upon request. Access conditions and procedures can be found at [URL to restricted access repository such as <a href="https://researchdata.4tu.nl/en/">4TU.ResearchData</a>].</p>
+<p>See <a href="https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/">here for some more examples of Data Availability Statements</a>.</p>
+</section>
+</div>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/images/paste-6825A73F.png" class="img-fluid figure-img" width="627"></p>
+<p></p><figcaption class="figure-caption"><a href="https://nyu-dataservices.github.io/Intro-RDM/index.html#/23">Slide</a> by Vicky Steeves.</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li>See also the post on <a href="https://estherplomp.github.io/TNW-OS-support/posts/software-citation/">software citation</a>.</li>
+<li>For more information about the practicalities and timing in <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">linking your research outputs, see The Turing Way</a>.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Data</category>
+  <category>Citation</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Software Citation</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Software citation is important to receive credit for software outputs and to ensure permanent references to the software. While platforms such as GitHub/GitLab/Bitbucket are great for reuse and collaboration, they are no long-term solutions for software preservation. Instead, a snapshot of the software should be shared using a data repository. This data repository will provide you with a persistent identifier, or DOI, which is key for making the code citable.</p>
+<p>Some data repositories, such as Zenodo and 4TU.ResearchData, have integrations with GitHub so that you can easily share a release of your software repositories.</p>
+<ul>
+<li><p><a href="https://guides.github.com/activities/citable-code/">Zenodo &amp; GitHub</a></p></li>
+<li><p><a href="https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account">Figshare &amp; GitHub</a></p></li>
+</ul>
+<p>Once you shared your software on a data repository and received a DOI, it is important to let others know how they should cite your data. If you’re reusing software of others, you should also properly cite their work.</p>
+<section id="cffinit" class="level2">
+<h2 class="anchored" data-anchor-id="cffinit">CFFinit</h2>
+<p>There is a tool that helps you create a CITATION.cff for your software: <strong><a href="https://citation-file-format.github.io/cff-initializer-javascript">CFFinit</a>.</strong></p>
+</section>
+<section id="software-citation-how-to-format" class="level2">
+<h2 class="anchored" data-anchor-id="software-citation-how-to-format">Software citation: how to format?</h2>
+<p>The recommended format (<a href="https://doi.org/10.12688/f1000research.26932.1">Katz et al.&nbsp;2020</a>; for software citation is to include:</p>
+<p><strong>• Creator(s):</strong> the authors or project that developed the software.</p>
+<p>• <strong>Title:</strong> the name of the software.</p>
+<p>• <strong>Publication venue:</strong> the publication venue of the software, preferentially, an archive or repository that provides persistent identifiers.</p>
+<p>• <strong>Date</strong>: the date the software was published.</p>
+<p>• <strong>Identifier:</strong> a resolvable pointer to the software, preferentially, a PID that resolves to a landing page containing descriptive metadata about the software, similar to how a Digital Object Identifier (DOI) for a paper that points to a page about the paper rather than directly to a representation of the paper, such as the PDF.</p>
+<p>• <strong>Version</strong>: the identifier for the version of the software being referenced. If the version is unidentified or unknown, the date of access should be used.</p>
+<p>• <strong>Type</strong>: some citation styles (e.g., APA), require a bracketed description of the citation (e.g., [Computer software]) to be included.</p>
+<p>If a published article exists that describes the software, it should be cited as an additional reference.</p>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example (APA):</strong> Developer, A. A., Developer, B. B., &amp; Developer, C. C. (yyyy) 1. Title of the software: Subtitle (Version #.#) 2. [Computer software] 3. Publisher 4. <a href="https://URL5" class="uri">https://URL5</a></p>
+<p>See <a href="https://doi.org/10.12688/f1000research.26932.1">Katz et al.&nbsp;2020</a>) for more examples.</p>
+</div>
+</div>
+</section>
+<section id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al.." class="level2">
+<h2 class="anchored" data-anchor-id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al..">Software Citation Checklist for Authors <a href="https://doi.org/10.5281/zenodo.3479199">by Neil Chue Hong et al.</a>.</h2>
+<ul>
+<li><p>Have I identified the software which makes a significant and specialised contribution to my academic work?</p></li>
+<li><p>Have I checked if the software has a recommended citation?</p>
+<ul>
+<li><p>If this is to a paper, have I also cited the software directly?</p></li>
+<li><p>If there’s no recommended citation, have I created as complete a citation as possible?</p>
+<ul>
+<li><p>Who created the software</p></li>
+<li><p>When it was created</p></li>
+<li><p>Title of the software (and version if available)</p></li>
+<li><p>Where the software can be accessed</p></li>
+</ul></li>
+</ul></li>
+<li><p>Have I referenced the software appropriately in my academic work, complying with any citation formatting guidelines?</p></li>
+</ul>
+</section>
+<section id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al." class="level2">
+<h2 class="anchored" data-anchor-id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al.">Software Citation Checklist for Developers <a href="https://doi.org/10.5281/zenodo.3482769">by Neil Chue Hong et al.</a></h2>
+<ul>
+<li><p>Have I assigned an appropriate <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/"><strong>license</strong></a> to my software?</p></li>
+<li><p>Have I <strong>described my software properly</strong>, using an appropriate metadata format, and included this metadata file with my software?</p>
+<ul>
+<li><p>Have I given my software a clear <strong>version number</strong>?</p></li>
+<li><p>Have I determined the <strong>authors to be credited</strong> for this release of my software, and included this in my metadata file?</p></li>
+</ul></li>
+<li><p>Have I procured a <strong>persistent identifier</strong> for this release of my software?</p></li>
+<li><p>Have I added my <strong>recommended citation</strong> to the documentation for my software?</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li>See also the posts on <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licensing</a>, <a href="https://estherplomp.github.io/TNW-OS-support/posts/good-enough-software/">good enough FAIR software</a></li>
+<li>For more information about the practicalities and timing in <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">linking your research outputs, see The Turing Way</a>.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Licenses</category>
+  <category>Software</category>
+  <category>Citation</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Publishing a Data Article</title>
@@ -1321,111 +1506,6 @@ Important
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-why/index.html</guid>
   <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-why/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Sharing Software</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/sharing-software/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Note that a pre-approved license by the <a href="https://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a>: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0 when you share your software.</p>
-<p>You can either use 4TU.ResearchData or another repository.</p>
-<section id="tu.researchdata" class="level2">
-<h2 class="anchored" data-anchor-id="tu.researchdata">4TU.ResearchData</h2>
-<ul>
-<li><p>Log in right top using TU Delft credentials</p></li>
-<li><p>Create a new item or import from GitHub/GitLab</p></li>
-<li><p>Add relevant metadata in the information fields</p></li>
-</ul>
-</section>
-<section id="other-repositories" class="level2">
-<h2 class="anchored" data-anchor-id="other-repositories">Other repositories</h2>
-<ul>
-<li><p>Upload your software in another repository (for example: <a href="https://zenodo.org/">Zenodo</a>).</p></li>
-<li><p>Go to <a href="https://pure.tudelft.nl/admin/" class="uri">https://pure.tudelft.nl/admin/</a> and log in using TU Delft credentials</p></li>
-<li><p>Select Datasets/Software -&gt; Software</p></li>
-<li><p>Fill out the metadata in the information fields and add DOI, select license and save the information</p></li>
-</ul>
-</section>
-<section id="feedback" class="level2">
-<h2 class="anchored" data-anchor-id="feedback">Feedback</h2>
-<p>Before sharing your code/software in a data repository it can be helpful to ask a colleague or collaborator to review it.</p>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li>Full <a href="http://doi.org/10.5281/zenodo.4772235">presentation</a> +<a href="https://youtu.be/bPl5sdTvLMM?t=1394">recording</a> of how to publish software (from 23:14 onwards)</li>
-<li>See also the <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">post on licensing</a></li>
-<li></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Licenses</category>
-  <category>Software</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/sharing-software/index.html</guid>
-  <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/sharing-software/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Licenses</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Licenses are a standardised way to share data/code and let anyone know what it is that they are allowed to do with it. If you share your research without a license, you are not making clear how you wish the research to be used which might prevent it being used the way you intend.</p>
-<section id="data-licenses" class="level2">
-<h2 class="anchored" data-anchor-id="data-licenses">Data Licenses</h2>
-<p>Everything in the list with a CC in front of it is used for data (stands for <a href="https://creativecommons.org/">Creative Commons</a>).</p>
-<p>TU Delft recommends <strong>CC-BY</strong> (which is also quite standard in publishing articles)and allows reusers to cite the original work if they reuse it.</p>
-<p>The more letters these CC licenses have, the more restrictions they place on re-use.</p>
-<ul>
-<li><p>NC means non-commercial use is prohibited</p></li>
-<li><p>SA stands for share alike, which means that you have to apply the same license.</p></li>
-<li><p>ND means non-derivative, which means that reusers can only reuse the data in the same form (which is quite restrictive!).</p></li>
-</ul>
-<p><a href="https://chooser-beta.creativecommons.org/">Data license chooser</a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/images/paste-60D9B79A.png" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-</section>
-<section id="software" class="level2">
-<h2 class="anchored" data-anchor-id="software">Software</h2>
-<p>For software there are different licenses because you can execute software (which makes it a bit more complex). CC-BY and MIT/BSD work quite similar in that they only require citation. GPL is a copyleft license that requires any software that it touches to be shared under the same license which requires open sharing (so this might hamper industry collaboration). I hope this makes a bit more sense? I’m happy to try and clarify this further!</p>
-<ul>
-<li><p><a href="https://choosealicense.com/">Software license chooser</a></p></li>
-<li><p>Note that the following licenses are pre-approved by the <a href="https://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a>: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0</p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing">4TU.ResearchData licenses overview</a></li>
-<li><a href="https://the-turing-way.netlify.app/reproducible-research/licensing.html">The Turing Way: licensing</a></li>
-<li><a href="https://www.youtube.com/watch?v=xdBwuut6dRY&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=5">A Primer on Open License</a></li>
-<li><a href="https://www.youtube.com/watch?v=OskC2LNtPkU&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=10">Open Source in Research</a></li>
-<li><a href="https://doi.org/10.5281/zenodo.4090922">Guide to Creative Commons for Scholarly Publications and Educational Resources</a> by the VSNU/NWO</li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Licenses</category>
-  <category>Copyright</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/index.html</guid>
-  <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

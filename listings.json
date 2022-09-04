@@ -8,6 +8,8 @@
       "/posts/data-sharing-2021/index.html",
       "/posts/DCC/index.html",
       "/posts/reproducibility-checklist/index.html",
+      "/posts/data-citation/index.html",
+      "/posts/software-citation/index.html",
       "/posts/data-sharing-article/index.html",
       "/posts/data-costs/index.html",
       "/posts/good-enough-software/index.html",
@@ -20,19 +22,17 @@
       "/posts/ORCID-manual/index.html",
       "/posts/DMP-templates/index.html",
       "/posts/data-sharing-why/index.html",
-      "/posts/sharing-software/index.html",
       "/posts/licenses/index.html",
       "/posts/software-GitLab-repo/index.html",
-      "/posts/software-citation/index.html",
-      "/posts/rights-retention-strategy/index.html",
+      "/posts/software-sharing/index.html",
+      "/posts/open-access-rights-retention/index.html",
       "/posts/access-project-drive/index.html",
+      "/posts/software-licenses/index.html",
       "/posts/Open-Access/index.html",
       "/posts/public-sharing-solutions/index.html",
       "/posts/backup/index.html",
-      "/posts/post-with-code/index.html",
       "/posts/Encryption/index.html",
-      "/posts/storage-solutions/index.html",
-      "/posts/welcome/index.html"
+      "/posts/storage-solutions/index.html"
     ]
   }
 ]
