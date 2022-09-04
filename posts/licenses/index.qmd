@@ -24,7 +24,7 @@ The more letters these CC licenses have, the more restrictions they place on re-
 
 [Data license chooser](https://chooser-beta.creativecommons.org/)
 
-[![](images/paste-60D9B79A.png)](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg)
+![[Creative Commons licenses](http://foter.com/blog/how-to-attribute-creative-commons-photos/) by Foter (CC-BY-SA)](images/paste-9A9546B6.png)
 
 ## Software
 
@@ -33,6 +33,8 @@ For software there are different licenses because you can execute software (whic
 -   [Software license chooser](https://choosealicense.com/)
 
 -   Note that the following licenses are pre-approved by the [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629662): MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0
+
+![<https://moqod.com/understanding-open-source-and-free-software-licensing/>](images/paste-F8565422.png)
 
 ## More information
 

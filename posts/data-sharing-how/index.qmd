@@ -20,25 +20,27 @@ Convert files into standard open formats for long term preservation of the data
 
 ## Preferred (sustainable) file formats:
 
-Text Plain text, XML, HTML, PDF (PDF/A-1), JSON, PDB (Protein Data Bank), XYZ (all formats should be encoded in UTF-8)
+The following file formats are [recommended by 4TU.ResearchData](https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf).
 
-Spreadsheets CSV (Comma-separated values), Tab-delimited values, PDF (PDF/A-1)
+-   **Text Plain** text, XML, HTML, PDF (PDF/A-1), JSON, PDB (Protein Data Bank), XYZ (all formats should be encoded in UTF-8)
 
-Images JPEG, TIFF, PNG, SVG
+-   **Spreadsheets** CSV (Comma-separated values), Tab-delimited values, PDF (PDF/A-1)
 
-Geospatial GML (Geographical Mark-up Language), KML (Keyhole Mark-up Language), ESRI Shapefile, Geo-referenced TIFF
+-   **Images** JPEG, TIFF, PNG, SVG
 
-**Numerical** NetCDF, CSV, JSON
+-   **Geospatial** GML (Geographical Mark-up Language), KML (Keyhole Mark-up Language), ESRI Shapefile, Geo-referenced TIFF
 
-**Video** No sustainable format established
+-   **Numerical** NetCDF, CSV, JSON
 
-**Audio** Waveform Audio File Format (WAVE)
+-   **Video** No sustainable format established
 
-**Databases** Delimited Flat File w/DDL
+-   **Audio** Waveform Audio File Format (WAVE)
 
-**Archives** ZIP, TAR, GZIP, 7Z
+-   **Databases** Delimited Flat File w/DDL
 
-Full overview: <https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf>
+-   **Archives** ZIP, TAR, GZIP, 7Z
+
+See also [DANS file format recommendations](https://dans.knaw.nl/en/file-formats/).
 
 ## Data repositories
 
@@ -53,6 +55,8 @@ File format support
 [The Push to Replace Journal Supplements with Repositories](https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296)
 
 ## [![](images/paste-8C43FE3F.png)](https://twitter.com/MadS100tist/status/1366103674989277185)
+
+https://data.4tu.nl/info/fileadmin/user_upload/Documenten/Deposit_Guidelines_2020.pdf
 
 https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories
 

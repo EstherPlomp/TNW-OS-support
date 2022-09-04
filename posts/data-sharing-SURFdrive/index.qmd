@@ -1,0 +1,45 @@
+---
+title: "SURFdrive sharing"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Storage]
+image: "SURFdrive.jpg"
+---
+
+## Sharing Data with SURFdrive
+
+You can share data with SURFdrive through the 1) browser or the 2) application.
+
+## SURFdrive browser
+
+1.  Log into your SURFdrive account through the webbrowser: [surfdrive.surf.nl/](https://surfdrive.surf.nl)
+
+2.  Select the share button:
+
+![](images/paste-EF8FDCD2.png){width="382"}
+
+3.  Select '**Public Links**' (students will not show up in the users section)
+4.  Select '**Create public link**'
+5.  You will see a pop up where you can adjust the link name of your folder, file folder permissions, add a password and select an expiration date of the link. Below you can send the link to an email address or you can retrieve the link later.
+
+![](images/paste-A2C02F3B.png)
+
+6.  Select '**Share**' to continue.
+
+Your map now has a link image on it and you can copy, edit, share or delete your link:
+
+![](images/paste-C4F1544F.png)
+
+See also [SURFdrive's tutorial](https://www.youtube.com/watch?v=nwkJB5IRn4k).
+
+## SURFdrive application
+
+You can also share your folders/files through the SURFdrive application. Right click on any folder or file that you have within your SURFdrive folder on your computer and select: SURFdrive \> Share . You will see this pop up window:
+
+![](images/paste-09D11D36.png)
+
+Through '**Users and Groups**' you can directly share your files with colleagues that are based at Dutch institutes by typing in their names or email addresses.
+
+You can also generate '**Public Links**' by selecting '**create new**' and '**create**'. Don't forget to set a password for the link and an expiration date if needed. Once you have created this link you can copy it through right clicking the file: SURFdrive \> Copy public link to clipboard.
+
+*Note that your SURFdrive application has to be running in the background to be able to generate and copy these links.*

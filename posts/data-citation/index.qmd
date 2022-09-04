@@ -2,7 +2,7 @@
 title: "Data Citation"
 author: "Esther Plomp"
 date: "2022-09-04"
-categories: [Data, Citation]
+categories: [Open Data, Citation]
 image: "image.jpg"
 ---
 
@@ -10,26 +10,26 @@ image: "image.jpg"
 
 A dataset citation includes all of the same components as any other citation:
 
-●	author
+● author
 
-●	title
+● title
 
-●	year of publication
+● year of publication
 
-●	publisher (for data, this is often the repository where it is housed, such as [4TU.ResearchData](https://researchdata.4tu.nl/en/))
+● publisher (for data, this is often the repository where it is housed, such as [4TU.ResearchData](https://researchdata.4tu.nl/en/))
 
-●	version (if indicated)
+● version (if indicated)
 
-●	access information (a URL or DOI)
+● access information (a URL or DOI)
 
 ::: callout-note
-**APA style example:** \
+**APA style example:**\
 Author/Rightsholder. (Year). Title of data set (Version number) \[Description of form\]. \[Retrieved from https://\] *OR* \[DOI\]
 
 **DataCite citation style:\
 **Creator (PublicationYear). Title. Version. Publisher. ResourceType. Identifier (Version and ResourceType are optional)
 
-Example: \
+Example:\
 Heydarian, H. (Hamidreza); Schueder, F. (Florian); Strauss, M.T. (Maximilian); van Werkhoven, B. (Ben); Fazel, M. (Mohamadreza); Lidke, K.A. (Keith); Jungmann, R. (Ralf); Stallinga, S. (Sjoerd); Rieger, B. (Bernd) (2018) Single-Molecule Localization Microscopy (SMLM) 2D TU Delft logos. TU Delft. Dataset. https://doi.org/10.4121/uuid:0d42a28f-f625-41a3-ba77-25e397685466
 :::
 
@@ -44,17 +44,17 @@ You should cite your dataset directly in the paper in places where it is relevan
 ::: callout-note
 # Examples data availability statements
 
-The data that support the findings of this study are openly available in \[repository name\] at <http://doi.org/%5Bdoi>\]. \
+The data that support the findings of this study are openly available in \[repository name\] at <http://doi.org/%5Bdoi>\].\
 
 If no DOI is issued:
 
 The data that support the findings of this study are openly available in \[repository name\] at \[URL\], reference number \[reference number\].
 
-## When there is an **embargo** period you can [reserve your DOI ](https://surfdrive.surf.nl/files/index.php/s/NmfhUd73BgaQfVW/download)and still include a reference to the dataset in your paper: 
+## When there is an **embargo** period you can [reserve your DOI](https://surfdrive.surf.nl/files/index.php/s/NmfhUd73BgaQfVW/download)and still include a reference to the dataset in your paper:
 
 The data that support the findings will be available in \[repository name\] at \[URL / DOI\] following a \[6 month\] embargo from the date of publication to allow for commercialisation of research findings.
 
-## When data cannot be made available: 
+## When data cannot be made available:
 
 Restrictions apply to the data/software that support the findings of this study. \[Explain nature of restrictions e.g. the data contains information that could compromise the privacy of research participants, NDA, licensing, agreements\] Data are available upon reasonable request by contacting \[name and contact details\] and with permission of \[third party name\].
 

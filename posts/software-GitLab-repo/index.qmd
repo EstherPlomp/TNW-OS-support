@@ -2,7 +2,7 @@
 title: "Transferring ownership of a GitLab repo"
 author: "Esther Plomp, Lora Armstrong"
 date: "2022-09-02"
-categories: [GitLab, Software]
+categories: [Git, Software]
 image: "image.jpg"
 ---
 
@@ -45,6 +45,5 @@ Instructions:
 ![](images/paste-7598BCE4.png)
 
 ::: callout-note
-
 Providing a more straightforward way to transfer ownership in Gitlab was raised as an [issue in 2016](https://gitlab.com/gitlab-org/gitlab/-/issues/14502), which is unfortunately still open.
 :::

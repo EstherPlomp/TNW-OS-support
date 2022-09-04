@@ -16,13 +16,21 @@ In order to determine what data should be openly shared ask yourself the followi
 
 -   how the data can be reused?
 
-**Which data can be shared?**
+## **Which data can be shared?**
 
 -   Data restrictions can apply depending on the type of data ([personal data](https://estherplomp.github.io/TNW-RDM-101/05-Essentials-for-Research-Data.html#personal-data)) or by contractual agreements with third partners ([confidential data](https://estherplomp.github.io/TNW-RDM-101/05-Essentials-for-Research-Data.html#confidential-data)).
+-   Sometimes data is too large to be shared (more than TBs)
+-   See [valid reasons to not share data](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667 ).
 
-**When can it be shared?**
+## **When can it be shared?**
 
 Generally it is easiest to share data at the same time as the publication/article. This way you can still correct errors if there are any, and you're still familiar with the data organisation.
+
+## If the data cannot be shared:
+
+-   Consider sharing the metadata about the data in a repository Increases findability/discoverability.
+
+-   Explain to others what they have to do to request access. For example, [4TU.ResearchData](https://data.4tu.nl/info//en/) offers restricted access and a way to request access to these restricted datasets.
 
 ## TU Delft [Research Data Framework](https://doi.org/10.5281/zenodo.2573159)
 

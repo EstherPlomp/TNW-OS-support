@@ -1,0 +1,83 @@
+---
+title: "Data Documentation"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Research Data Management]
+image: "open-data-fountain.jpg"
+---
+
+This post provides information about documentation, file naming and metadata.
+
+## Documentation
+
+-   [Guide for data documentation](https://doi.org/10.5281/zenodo.1914401)
+
+-   [Data organisation in spreadsheets](https://uf-repro.github.io/data-organization/slides.html) (see also the [Open Science Framework guidance](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary))
+
+-   [Code Book](https://libguides.library.kent.edu/SPSS/Codebooks)
+
+-   [Guide on how to create data dictionaries](https://doi.org/10.1177/2515245920928007)
+
+-   check the README post
+
+## File naming convention
+
+Structure your file names and set up a template for this. It is very useful to start with the date (when the file was generated: YYYYMMDD) which will sort your files chronologically and also creates a unique identifier for each file. (It will be immediately clear if there are multiple files generated on the same day that will have to be given a version number --or "A, B"-, because otherwise overwriting would occurs if you store these files in the proper folder).
+
+Examples:\
+**20190607_ImPhys_RDMTemplate_v001_eng**
+
+-   Date or date range of experiment: YYYYMMDD
+
+-   File type (or language such as the example above)
+
+-   Researcher name/initials
+
+-   Version number of file (v001, v002)
+
+-   Don't make file names too long (30-70 characters should do the trick)
+
+-   Avoid special characters (?\\!\@\*%{\[\<\>) and spaces
+
+You can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean.
+
+### More information on file naming
+
+-   [Jenny Bryan's 'naming things' presentation](https://speakerdeck.com/jennybc/how-to-name-files)
+
+-   [8 step guide](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247) on how to set up your file naming convention
+
+-   [Danielle Navarro's videos](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=2) about file naming and project structure
+
+### Bulk renaming tools (use with care!):
+
+-   Windows: [Ant Renamer](http://www.antp.be/software/renamer), [RenameIT](sourceforge.net/prpjects/renameit), [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/)
+
+-   Mac: [Renamer](https://renamer.com/), [Name Changer](https://mrrsoftware.com/namechanger/)
+
+-   Linux: [GNOME Commander](https://gcmd.github.io/), [GPRename](http://gprename.sourceforge.net/)
+
+-   Unix: Using the grep command to search for regular expressions
+
+## Metadata
+
+Metadata is information about your data, such as the title of the dataset, the date, creator(s) and keywords that describe the data. Metadata standards with defined fields ensure machine readability. To look for disciplinary standards you can use the resources below:
+
+• [FAIRsharing.org](https://fairsharing.org/)
+
+• [Research Data Alliance metadata directory](https://rd-alliance.github.io/metadata-directory/standards/)
+
+• [Digital Curation Center](http://www.dcc.ac.uk/resources/metadata-standards)
+
+### Tools available for metadata creation:
+
+<https://frictionlessdata.io/> create.frictionlessdata.io (Data
+Package Creator) (JSON) (or through Python, [github.com/frictionlessdata/datapackage-pipelines](https://github.com/frictionlessdata/datapackage-pipelines)) (see [this presentation on YouTube](https://www.youtube.com/watch?v=vZAi4OnfH-Q&feature=youtu.be))
+
+## Physical samples
+
+Reference your samples: dates in notebooks + supplier's name/code
+
+Add any relevant notes:
+
+![(copyright by Marta Teperek)](images/paste-C1DEDF1E.png){alt="(copyright by Marta Teperek)" fig-alt="An excel sheet with physical sample organisation. The first column describes sample names, the second the accompanying data in the labbook, the third column the amount of samples left (if there are multiple), the fourth one is the sample sizes and the last column contains any notes about the sample."}

@@ -1,0 +1,47 @@
+---
+title: "Readme files"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Open Data, Open Software, FAIR]
+image: "readme.png"
+---
+
+## How to set up your readme file
+
+A readme file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A readme file is generally submitted when sharing data and is the landing page of your software repository.
+
+Readme text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used, etc.). See <https://www.makeareadme.com/> for more information on why readme files are important and how you can set up your own readme files.
+
+## Readme for data
+
+Best practices
+
+-   Create one readme file for each dataset
+
+-   Name the file README
+
+-   Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.
+
+Example templates for data:
+
+-   <https://cornell.app.box.com/v/ReadmeTemplate>
+
+-   [4TU.ResearchData's guidelines for readme files](https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf) (pdf).
+
+-   <https://datamanagement.hms.harvard.edu/collect/readme-files>
+
+## Readme for software
+
+See this [short presentation by Carlos Martinez](https://www.youtube.com/watch?v=Jgv34Kwgga8&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=7) about the importance of README files for software.
+
+Example templates for software:
+
+-   <https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md>
+
+-   <https://github.com/benmarwick/rrtools>
+
+-   <https://gist.github.com/jxson/1784669>
+
+-   <https://ha0ye.github.io/CW21-README-tips/template_README.html>
+
+-   <https://github.com/othneildrew/Best-README-Template>

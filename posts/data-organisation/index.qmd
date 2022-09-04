@@ -1,0 +1,45 @@
+---
+title: "Data organisation"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Research Data Management]
+image: "open-data-fountain.jpg"
+---
+
+## Folder structures
+
+Examples
+
+![](images/paste-480EB3EE.png){width="589"}
+
+<http://nikola.me/folder_structure.html> (folder structure download available on the website)
+
+[Folder structure template for research repositories](https://doi.org/10.5281/zenodo.4410128)
+
+Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don\'t belong or stored in large quantities in a single folder (which makes it hard to find the files).
+
+Make sure the folder structure is clear: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.
+
+See also: [Find Files Faster: How to Organize Files and Folders](https://zapier.com/blog/organize-files-folders/)
+
+## Cookie Cutter templates
+
+Use the [cookiecutter](https://github.com/cookiecutter/cookiecutter) templates to download folder structures through GitHub. The template by Barbara Vreede follows the template proposed by [Wilson *et al.*](https://doi.org/10.1371/journal.pcbi.1005510) (2017): <https://github.com/bvreede/good-enough-project>
+
+-   See [this video for more information](https://vimeo.com/462773031)
+
+-   Follow the instructions here if you need more guidance.
+
+In general it is good practise to:
+
+-   have one folder/directory per project
+
+-   to save your raw data separately (and make it read only to ensure that it is not accidentally altered)
+
+-   to create a subdirectory for your output (for example: Manuscript output, figures, numerical output)
+
+![](images/paste-B5D16106.png){width="602"}
+
+## More information
+
+[The Turing Way - Data storage and organisation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html)

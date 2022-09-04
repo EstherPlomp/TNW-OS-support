@@ -1,0 +1,91 @@
+---
+title: "Metadata standards and repositories for Applied Sciences/TNW"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Open Data, Research Data Management, FAIR]
+image: "open-data-fountain.jpg"
+---
+
+## Relevant metadata standards
+
+[ISA-Tab](http://rd-alliance.github.io/metadata-directory/standards/isa-tab.html)
+
+[MIBBI (Minimum Information for Biological and Biomedical Investigations)](http://rd-alliance.github.io/metadata-directory/standards/mibbi-minimum-information-biological-and-biomedical-investigations.html)
+
+[NeXus](http://rd-alliance.github.io/metadata-directory/standards/nexus.html)
+
+[OME-XML (Open Microscopy Environment XML)](http://rd-alliance.github.io/metadata-directory/standards/ome-xml-open-microscopy-environment-xml.html)
+
+[PDBx/mmCIF (Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework)](http://rd-alliance.github.io/metadata-directory/standards/pdbx-mmcif.html)
+
+[CIF (Crystallographic Information Framework)](http://rd-alliance.github.io/metadata-directory/standards/cif-crystallographic-information-framework.html)
+
+[QuDEx (Qualitative Data Exchange Format)](http://rd-alliance.github.io/metadata-directory/standards/qudex-qualitative-data-exchange-format.html)
+
+[SDMX (Statistical Data and Metadata Exchange)](http://rd-alliance.github.io/metadata-directory/standards/sdmx-statistical-data-and-metadata-exchange.html)
+
+## Potentially relevant metadata standards
+
+[Genome Metadata](http://rd-alliance.github.io/metadata-directory/standards/genome-metadata.html)
+
+[CF (Climate and Forecast) Metadata Conventions](http://rd-alliance.github.io/metadata-directory/standards/cf-climate-and-forecast-metadata-conventions.html)
+
+[CIM (Common Information Model)](http://rd-alliance.github.io/metadata-directory/standards/cim-common-information-model.html)
+
+[CSMD (Core Scientific Metadata Model)](http://rd-alliance.github.io/metadata-directory/standards/csmd-cclrc-core-scientific-metadata-model.html)
+
+[DIF (Directory Interchange Format)](http://rd-alliance.github.io/metadata-directory/standards/dif-directory-interchange-format.html)
+
+[ISO 19115](http://rd-alliance.github.io/metadata-directory/standards/iso-19115.html)
+
+[Observations and Measurements](http://rd-alliance.github.io/metadata-directory/standards/observations-and-measurements.html)
+
+[CERIF (Common European Research Information Format)](http://rd-alliance.github.io/metadata-directory/standards/cerif.html)
+
+[Data Package](http://rd-alliance.github.io/metadata-directory/standards/data-package.html)
+
+[ABCD (Access to Biological Collection Data)](http://rd-alliance.github.io/metadata-directory/standards/abcd-access-biological-collection-data.html)
+
+[MODS (Metadata Object Description Schema)](http://rd-alliance.github.io/metadata-directory/standards/mods.html)
+
+[EDAM-bioimaging](https://github.com/edamontology/edam-bioimaging/blob/master/README.md)
+
+## 
+
+Repositories
+
+[**IDR**](https://idr.openmicroscopy.org/)
+
+[DNA DataBank of Japan (DDBJ)](http://www.ddbj.nig.ac.jp/)
+
+[European Nucleotide Archive (ENA)](http://www.ebi.ac.uk/ena/)
+
+[GenBank](http://www.ncbi.nlm.nih.gov/genbank/)
+
+[dbSNP](http://www.ncbi.nlm.nih.gov/snp)
+
+[**European Variation Archive (EVA)**](https://www.ebi.ac.uk/eva/)
+
+[dbVar](http://www.ncbi.nlm.nih.gov/dbvar/)
+
+[Database of Genomic Variants Archive (DGVa)](http://www.ebi.ac.uk/dgva/)
+
+[EBI Metagenomics](http://www.ebi.ac.uk/metagenomics)
+
+[NCBI Trace Archive](http://www.ncbi.nlm.nih.gov/Traces/home/)
+
+[**NCBI Sequence Read Archive (SRA)**](http://www.ncbi.nlm.nih.gov/sra)
+
+[NCBI Assembly](http://www.ncbi.nlm.nih.gov/assembly)
+
+[Structural Biology Data Grid](http://data.sbgrid.org/)
+
+[Worldwide Protein Data Bank (wwPDB)](http://wwpdb.org/)
+
+[UniProtKB](http://www.uniprot.org)
+
+[Biological Magnetic Resonance Data Bank (BMRB)](http://www.bmrb.wisc.edu/)
+
+[Electron Microscopy Data Bank (EMDB)](http://www.emdatabank.org/)
+
+[**EMPIAR**](https://www.ebi.ac.uk/pdbe/emdb/empiar/)
