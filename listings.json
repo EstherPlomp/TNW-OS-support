@@ -3,8 +3,12 @@
     "listing": "/index.html",
     "items": [
       "/posts/open-science-TUD/index.html",
+      "/posts/open-access-2021/index.html",
+      "/posts/open-science-buffet/index.html",
+      "/posts/data-sharing-2021/index.html",
       "/posts/DCC/index.html",
       "/posts/reproducibility-checklist/index.html",
+      "/posts/data-sharing-article/index.html",
       "/posts/data-costs/index.html",
       "/posts/good-enough-software/index.html",
       "/posts/data-sharing-how/index.html",

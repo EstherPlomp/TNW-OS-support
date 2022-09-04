@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.1.179">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Esther Plomp">
+<meta name="dcterms.date" content="2022-09-04">
+
+<title>TNW-OS-support - Managing and Sharing Data in 2021</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">TNW-OS-support</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html">About</a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/EstherPlomp/TNW-OS-support"><i class="bi bi-github" role="img">
+</i> 
+ </a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Managing and Sharing Data in 2021</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">Open Data</div>
+                <div class="quarto-category">Data Management Plan</div>
+                <div class="quarto-category">Open Software</div>
+                <div class="quarto-category">FAIR</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Esther Plomp </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">September 4, 2022</p>
+      </div>
+    </div>
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<section id="managing-and-sharing-data-in-2021" class="level2">
+<h2 class="anchored" data-anchor-id="managing-and-sharing-data-in-2021">Managing and Sharing Data in 2021</h2>
+<p>This post is based on an earlier <a href="https://openworking.wordpress.com/2021/09/17/managing-and-sharing-data-in-2021/">blogpost</a>.</p>
+</section>
+<section id="nwohorizon-europe-projects-have-the-following-requirements" class="level2">
+<h2 class="anchored" data-anchor-id="nwohorizon-europe-projects-have-the-following-requirements"><strong>NWO/Horizon Europe projects have the following requirements:</strong></h2>
+<p><strong>Data management</strong> should follow the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a> to maximise the effectiveness and reproducibility of the research undertaken.&nbsp;</p>
+<ul>
+<li><p>The <strong>FAIR principles</strong> recommend that scientific data are:&nbsp;</p>
+<ul>
+<li><p>'<strong>F</strong>indable' thanks to their persistent identifier that is assigned to your dataset when it is shared using a data repository (see below).</p></li>
+<li><p>'<strong>A</strong>ccessible' so that the data and metadata can be examined; FAIR data is not necessarily open data, but the metadata could still be shared to ensure that the data is still FAIR.</p></li>
+<li><p>'<strong>I</strong>nteroperable' so that comparable data can be analysed and integrated through the use of common vocabulary and formats.</p></li>
+<li><p>'<strong>R</strong>eusable' as a result of appropriate documentation and provision of a <a href="https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing">license</a> that tells others what they can do with the data.&nbsp;</p></li>
+</ul></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://openworking.files.wordpress.com/2021/09/1728_turi_book-sprint_8-fair-principles_040619-1.jpg?w=526" class="img-fluid figure-img" alt=""></p>
+<p></p><figcaption class="figure-caption">Illustration by <a href="https://doi.org/10.5281/zenodo.3332807">The Turing Way/Scriberia</a></figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="proposals" class="level2">
+<h2 class="anchored" data-anchor-id="proposals"><strong>Proposals</strong></h2>
+<ul>
+<li><p>Proposals have a data section that asks about how you will manage and share your data.</p></li>
+<li><p>Consider any <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-costs">data management costs</a> that need to be included in the project's budget. Also keep in mind that you may need a budget to <a href="https://openworking.wordpress.com/2020/11/19/publishing-articles-in-2021/">publish articles</a>.&nbsp;</p></li>
+<li><p>See the <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/grant-proposals/data-management-sections-for-grant-proposals">TU Delft guidance</a> for help or <a href="https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact">contact your Faculty's Data Steward</a>.&nbsp;</p></li>
+</ul>
+</section>
+<section id="data-management-plans" class="level2">
+<h2 class="anchored" data-anchor-id="data-management-plans"><strong>Data Management Plans</strong></h2>
+<p><strong>Data Management Plans (DMP) are required</strong> for projects funded by NWO (within four months after the awarding of the grant) and Horizon Europe (within 6 months of the project's start).&nbsp;</p>
+<ul>
+<li><p>DMP templates are available on the websites of <a href="https://www.nwo.nl/en/research-data-management">NWO</a> and <a href="https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx">Horizon Europe</a>, as well as on the platform <a href="https://dmponline.tudelft.nl/">DMPonline</a> that you can use with your netID.&nbsp;</p>
+<ul>
+<li><p>DMPonline has TU Delft specific guidance that will help you to set up your DMP more efficiently.&nbsp;</p></li>
+<li><p>You can also use the <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline">TU Delft template available through DMPonline</a> (although this will need some additions for Horizon Europe as this template is more extensive). It is especially efficient to use the TU Delft template if your project needs <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics">HREC approval</a> (for example, working with <a href="https://www.tudelft.nl/en/privacy-security/privacy">personal data</a>).</p></li>
+</ul></li>
+<li><p>A DMP should be a living document, which is updated as the project evolves. Horizon Europe expects you to update the template throughout the project.</p></li>
+</ul>
+</section>
+<section id="data-sharing" class="level2">
+<h2 class="anchored" data-anchor-id="data-sharing"><strong>Data sharing</strong></h2>
+<p><strong>Data should be shared through a trusted repository</strong>, for example: <a href="https://data.4tu.nl/info//en/">4TU.ResearchData</a>.</p>
+<ul>
+<li><p><strong>Data underpinning a scientific publication</strong> should be deposited at the latest <strong>at the time of publication.</strong></p></li>
+<li><p>Data is <strong>in principle open</strong>, unless restricted access is needed for legitimate reasons</p>
+<ul>
+<li>Access can be restricted when it concerns aspects such as privacy, public security, ethical limitations, property rights and commercial interest.</li>
+</ul></li>
+<li><p>For Horizon Europe, the data should be licensed using CC-BY or CC0 (or an equivalent license), and metadata of the datasets should be CC0 licensed.&nbsp;</p>
+<ul>
+<li><p>For <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> it means that others should cite the work when they reuse the data.&nbsp;</p></li>
+<li><p><a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> waives any rights, with citation still being expected as this follows best scientific practises.&nbsp;</p></li>
+<li><p>Note that some Horizon Europe calls may require additional obligations for the validations of scientific publications.&nbsp;</p></li>
+</ul></li>
+<li><p>These requirements are in line with the <a href="https://doi.org/10.5281/zenodo.2573159">TU Delft Research Data Framework Policy</a>, stating that "<em>research data, code and any other materials needed to reproduce research findings are appropriately documented and shared in a research data repository in accordance with the FAIR principles for at least 10 years from the end of the research project, unless there are valid reasons not to do so</em>." (NWO also expects data preservation for at least ten years, unless legal provisions or discipline-specific guidelines dictate otherwise).&nbsp;</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://openworking.files.wordpress.com/2021/09/fountain-of-open-data-with-text-1.jpg?w=576" class="img-fluid figure-img" alt=""></p>
+<p></p><figcaption class="figure-caption">Illustration by <a href="https://doi.org/10.5281/zenodo.3332807">The Turing Way/Scriberia</a></figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="software" class="level2">
+<h2 class="anchored" data-anchor-id="software"><strong>Software</strong></h2>
+<p><strong>Software</strong> is seen as a separate research output from data:</p>
+<ul>
+<li><p>Horizon Europe recommends sharing software (under an Open Source license).</p></li>
+<li><p>NWO expects that software that is needed to access and interpret the data is made available, following the<a href="https://fair-software.nl/">Five Recommendations for FAIR Software</a>.</p></li>
+<li><p>See the <a href="http://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a> for more information on how to share your research software.&nbsp;</p>
+<ul>
+<li>TU Delft encourages you to share your code/software through<a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> choosing one of the TU Delft approved licenses (Apache, MIT, BSD, EUPL, AGPL, LGPL, GPL, CC0). You can also choose another data repository, such as<a href="https://zenodo.org/">Zenodo</a>, but then you have to ensure that the output is correctly registered in PURE yourself. See the <a href="http://doi.org/10.5281/zenodo.4629635">TU Delft Guidelines on Research Software</a> or <a href="https://youtu.be/bPl5sdTvLMM?t=1394">this recording</a> for more information on sharing your software/code.</li>
+</ul></li>
+</ul>
+</section>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<ul>
+<li><p><a href="https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/horizon-europe-programme-guide-released-2021-06-20_en">Horizon Europe Programme Guide</a>(pages 41 – 46)</p></li>
+<li><p><a href="https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf">Annotated Horizon Europe Grant Agreement</a>(Annex 5, pages 152-153)</p></li>
+<li><p><a href="https://www.nwo.nl/en/research-data-management">NWO: Research Data Management</a></p></li>
+<li><p><a href="https://www.tudelft.nl/library/research-data-management">TU Delft: Research Data Management</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/">TU Delft &amp; Faculty policies (data/software)</a></p></li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

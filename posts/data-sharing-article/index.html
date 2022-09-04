@@ -9,7 +9,7 @@
 <meta name="author" content="Esther Plomp">
 <meta name="dcterms.date" content="2022-09-03">
 
-<title>TNW-OS-support - How to share data?</title>
+<title>TNW-OS-support - Publishing a Data Article</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -99,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">How to share data?</h1>
+      <h1 class="title">Publishing a Data Article</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">Open Data</div>
               </div>
@@ -136,51 +136,123 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>How to share data?</p>
-<section id="use-standard-or-open-file-formats" class="level2">
-<h2 class="anchored" data-anchor-id="use-standard-or-open-file-formats">Use standard or open file formats</h2>
-<p>Using standard or open data formats ensures longer-term usability of data</p>
-<ul>
-<li><p><strong>Standard Data Formats</strong>: “widely accepted” formats such as .xls .xlsx</p></li>
-<li><p><strong>Open Data Formats</strong>: Free to use such as .csv .tab</p></li>
-</ul>
-<p>Convert files into standard open formats for long term preservation of the data</p>
+<section id="publishing-a-data-article" class="level2">
+<h2 class="anchored" data-anchor-id="publishing-a-data-article">Publishing a Data Article</h2>
+<p>This post has been adapted from the Turing Way (The Turing Way Community, The Turing Way: A Handbook for Reproducible Data Science. <a href="https://doi.org/10.5281/zenodo.3233853">10.5281/zenodo.3233853</a>) and a <a href="https://openworking.wordpress.com/2022/02/17/publishing-a-data-article/">blogpost on Open Working</a> under a CC-BY 4.0 licence.</p>
+<p>A <strong>Data Article</strong> (also known as a Data Paper/Note/Release, or Database article) is a publication that is focused on the description of a dataset. It uses the traditional journal article structure, but focuses on the data-collection and methodological aspects and generally not on the interpretation or discussion of the results. Data articles are in line with the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a>, especially since most publishers will encourage you to share the data through a <a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-sharing.html#rr-rdm-sharing">data repository</a>. The benefit of a Data Article is that your output will be peer reviewed, something which is generally not the case for datasets that are archived on data repositories. It also facilitates recognition for datasets through research assessment procedures that are more traditionally focused on publication output. Publishing a data paper will therefore increase the visibility, credibility and usability of the data, as well as giving you credit as a data producer (The Turing Way Community 2022).</p>
 </section>
-<section id="preferred-sustainable-file-formats" class="level2">
-<h2 class="anchored" data-anchor-id="preferred-sustainable-file-formats">Preferred (sustainable) file formats:</h2>
-<p>Text Plain text, XML, HTML, PDF (PDF/A-1), JSON, PDB (Protein Data Bank), XYZ (all formats should be encoded in UTF-8)</p>
-<p>Spreadsheets CSV (Comma-separated values), Tab-delimited values, PDF (PDF/A-1)</p>
-<p>Images JPEG, TIFF, PNG, SVG</p>
-<p>Geospatial GML (Geographical Mark-up Language), KML (Keyhole Mark-up Language), ESRI Shapefile, Geo-referenced TIFF</p>
-<p><strong>Numerical</strong> NetCDF, CSV, JSON</p>
-<p><strong>Video</strong> No sustainable format established</p>
-<p><strong>Audio</strong> Waveform Audio File Format (WAVE)</p>
-<p><strong>Databases</strong> Delimited Flat File w/DDL</p>
-<p><strong>Archives</strong> ZIP, TAR, GZIP, 7Z</p>
-<p>Full overview: <a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf" class="uri">https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf</a></p>
-</section>
-<section id="data-repositories" class="level2">
-<h2 class="anchored" data-anchor-id="data-repositories">Data repositories</h2>
-<p>Access</p>
-<p>DOI = more citations/visibility</p>
-<p>Long term preservation</p>
-<p>File format support</p>
-<p><a href="https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296">The Push to Replace Journal Supplements with Repositories</a></p>
-</section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"><a href="https://twitter.com/MadS100tist/status/1366103674989277185"><img src="images/paste-8C43FE3F.png" class="img-fluid"></a></h2>
-<p>https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories</p>
-</section>
-<section id="link-your-data-with-your-publication" class="level2">
-<h2 class="anchored" data-anchor-id="link-your-data-with-your-publication">Link your data with your publication</h2>
-<p>See The Turing Way for more information about how to <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">link your research outputs</a>.</p>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li></li>
-<li></li>
-</ul>
+<section id="options-to-publish-a-data-article" class="level2">
+<h2 class="anchored" data-anchor-id="options-to-publish-a-data-article">Options to publish a Data Article</h2>
+<p>Below you can find some journals that publish data articles. The costs information was collected in February 2022.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Discipline</th>
+<th>Publisher/Journal</th>
+<th>Cost estimate</th>
+<th>Deals for TU Delft</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://www.cambridge.org/core/journals/experimental-results">Experimental Results</a></td>
+<td><a href="https://www.cambridge.org/core/journals/experimental-results/information/instructions-for-authors#articleprocessingcharges">£775</a> / €928</td>
+<td>100% APC discount for TUD authors</td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="https://www.nature.com/sdata/">Scientific Data</a></td>
+<td><a href="https://www.nature.com/sdata/oa">€1790</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://www.journals.elsevier.com/data-in-brief">Data in Brief</a></td>
+<td><a href="https://www.journals.elsevier.com/data-in-brief">USD&nbsp;500</a> / €440</td>
+<td>100% APC discount for TUD authors</td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="http://www.csdata.org/">China Scientific Data</a></td>
+<td><a href="http://www.csdata.org/en/p/static/1329/">RMB&nbsp;3000</a> / €416</td>
+<td>No</td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://datascience.codata.org/">Data Science Journal</a></td>
+<td><a href="https://datascience.codata.org/about/submissions/">£650</a> / €778</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="https://www.mdpi.com/journal/data">Data</a></td>
+<td><a href="https://www.mdpi.com/journal/data/apc">CHF 1400</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://academic.oup.com/gigascience">GigaScience</a></td>
+<td><a href="https://academic.oup.com/gigascience/pages/charges_licensing_and_self_archiving">€1089</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="https://gigabytejournal.com/information-for-authors">Gigabyte</a></td>
+<td><a href="https://gigabytejournal.com/open-access-and-apc#article-processing-charges">USD&nbsp;350</a> / €308</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://think.f1000research.com/about-data-notes/">F1000Research</a></td>
+<td><a href="https://f1000research.com/for-authors/article-processing-charges">USD&nbsp;800</a> / €704</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="even">
+<td>Archaeology</td>
+<td><a href="https://openarchaeologydata.metajnl.com/">Journal of Open Archaeology Data</a></td>
+<td>£100 / €120</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>Archaeology</td>
+<td><a href="https://www.openquaternary.com/about/">Open Quaternary</a></td>
+<td><a href="https://www.openquaternary.com/about/submissions/">£300</a> / €359</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Chemistry</td>
+<td><a href="https://jcheminf.biomedcentral.com/submission-guidelines/preparing-your-manuscript/data-note">Journal of Cheminformatics</a></td>
+<td>0</td>
+<td>NA</td>
+</tr>
+<tr class="odd">
+<td>Computer Science</td>
+<td><a href="https://www.sadio.org.ar/jaiio/">Jaiio</a></td>
+<td><a href="https://50jaiio.sadio.org.ar/aranceles">variable</a></td>
+<td>No</td>
+</tr>
+<tr class="even">
+<td>Earth Sciences</td>
+<td><a href="https://rmets-onlinelibrary-wiley-com.tudelft.idm.oclc.org/journal/20496060">Geoscience Data Journal</a></td>
+<td><a href="https://rmets.onlinelibrary.wiley.com/hub/journal/20496060/article-publication-charge">€1450</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>Earth Sciences</td>
+<td><a href="https://www.earth-system-science-data.net/">Earth System Science Data</a></td>
+<td>0</td>
+<td>NA</td>
+</tr>
+<tr class="even">
+<td>Earth Sciences</td>
+<td><a href="https://www.tandfonline.com/action/authorSubmission">Big Earth Data</a></td>
+<td><a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=tbed20&amp;#apc">€910</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+</tbody>
+</table>
+<p>For more journals that offer the Data Article format you can see the <a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html">‘Data Article’ section in The Turing Way</a>.</p>
 
 
 </section>

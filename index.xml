@@ -59,6 +59,340 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
+  <title>Publishing articles in 2021</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="publishing-articles-in-2021" class="level2">
+<h2 class="anchored" data-anchor-id="publishing-articles-in-2021">Publishing articles in 2021</h2>
+<p>This post is based on an earlier <a href="https://openworking.wordpress.com/2020/11/19/publishing-articles-in-2021/">blogpost</a>.</p>
+<p><strong>Plan S</strong>, an initiative for open access science publishing launched in 2018, requires researchers who are funded by signatories such as the Dutch Research Council (<strong>NWO</strong>) to publish in open repositories/journals by 2021. The European Commission is a supporter of Plan S and has similar requirements for their <strong>Horizon Europe</strong> projects.</p>
+</section>
+<section id="nwo-projects-which-are-funded-by-calls-from-1st-of-jan-2021-onward-and-horizon-europe-projects-have-the-following-requirements" class="level2">
+<h2 class="anchored" data-anchor-id="nwo-projects-which-are-funded-by-calls-from-1st-of-jan-2021-onward-and-horizon-europe-projects-have-the-following-requirements">NWO projects which are funded by calls from 1st of Jan 2021 onward and Horizon Europe projects* have the following requirements:</h2>
+<ul>
+<li><p>Articles should be Open Access upon publication<strong>: No embargo period</strong> is allowed.</p>
+<ul>
+<li>Books and book chapters are still beyond the scope of Plan S. NWO allows an embargo period of 12 months for these research outputs.</li>
+</ul></li>
+<li><p>Authors should <strong>retain copyright</strong>.</p></li>
+<li><p>Authors should use a <strong>CC-BY license</strong> in order to allow as much reuse of scholarly publications as possible.</p>
+<ul>
+<li><p>For books and book chapters CC-BY-ND/NC is still allowed.</p></li>
+<li><p>NWO allows exceptions for CC-BY-ND for articles.</p></li>
+<li><p>See the <a href="https://creativecommons.org/licenses/">Creative Commons website</a> for more information about these licenses.</p></li>
+</ul></li>
+<li><p>You can <strong>use project funding</strong> for Article Processing Charges but:</p>
+<ul>
+<li><p>For <strong>NWO</strong> the journal needs to be registered in the <a href="http://doaj.org/">Directory of Open Access Journals</a>. If the journal is not registered in this directory you can still publish in the journal but you cannot use funding for the fees.</p></li>
+<li><p>For <strong>Horizon Europe</strong> you are eligible for funding if the article is published in a full open access venue (hybrid journals are not allowed).</p></li>
+</ul>
+<!-- -->
+<ul>
+<li>See also the TU Delft <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">Open Access Fund</a>!</li>
+</ul></li>
+<li><p>The manuscript needs to be <strong>peer reviewed</strong>. Preferably the Version of Record from the publisher is made available, but the Author Accepted Manuscript (postprint that is peer reviewed but not yet formatted by the journal) is also accepted.</p></li>
+<li><p><strong>Compliance is monitored</strong> by NWO/Horizon Europe.</p></li>
+</ul>
+<p>A first version of the <a href="http://www.journalcheckertool.org"><strong>Journal Checker Tool</strong></a>is now available, so that you can now easily check yourself whether your preferred journal is in compliance with Plan S!</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/images/paste-9536397F.png" class="img-fluid"></p>
+</section>
+<section id="researchers-at-dutch-institutes-have-several-options-to-publish-open-access-for-plan-s" class="level2">
+<h2 class="anchored" data-anchor-id="researchers-at-dutch-institutes-have-several-options-to-publish-open-access-for-plan-s">Researchers at Dutch institutes have <strong>several options to publish Open Access for Plan S</strong>:</h2>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/https:/openworking.files.wordpress.com/2020/11/journalchecker2-1.jpg?w=396" class="img-fluid" alt=""></p>
+<ul>
+<li><p>Thanks to <strong>deals</strong> (transformative agreements) with the bigger publishers, you do not have to pay Article Processing Fees for publishing open access with, for example, Elsevier (<a href="https://www.scienceguide.nl/2020/06/vooral-elsevier-profiteert-van-nieuwe-open-science-deal/">at a national cost of €80,5 million over 5 years</a>). You can check whether you can publish open access at no additional costs to you using the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser"><strong>Journal Browser</strong></a>.</p></li>
+<li><p>You can find <strong>open access journals</strong> using the <a href="http://doaj.org/">Directory of Open Access Journals</a>.</p></li>
+<li><p>You can <strong>archive a postprint</strong> using repositories/preprint servers: Check <a href="https://v2.sherpa.ac.uk/romeo/">Sherpa/Romeo</a> to see which version of the manuscript you can make available and if they allow for immediate open access (if there is an embargo period required this route is not Plan S compliant!).</p></li>
+<li><p><a href="https://open-research-europe.ec.europa.eu/">Horizon Europe is developing an <strong>Open Access Platform</strong></a> where their projects can choose to publish in order to make articles freely available.</p></li>
+<li><p>You can use the <a href="https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing/"><strong>TU Delft Open Publishing Platform</strong></a>: <a href="https://journals.open.tudelft.nl/thes">The Evolving Scholar</a> is now live and open for submissions!</p></li>
+</ul>
+</section>
+<section id="if-you-would-like-to-make-your-work-available-from-projects-before-2021-or-if-youre-not-funded-by-nwohorizon-europe-you-can-also-make-use-of-these-additional-options" class="level2">
+<h2 class="anchored" data-anchor-id="if-you-would-like-to-make-your-work-available-from-projects-before-2021-or-if-youre-not-funded-by-nwohorizon-europe-you-can-also-make-use-of-these-additional-options">If you would like to <strong>make your work available from projects before 2021</strong> (or if you're not funded by NWO/Horizon Europe) you can also make use of these additional options:</h2>
+<ul>
+<li><p>Through the project <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care">'You Share, We Take Care'</a> you can make articles and book chapters published from 2018 onwards available after an embargo period of six months. You can now <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care/participation">participate through this online form</a>!</p></li>
+<li><p>You can always post a postprint using repositories/preprint servers: Check <a href="https://v2.sherpa.ac.uk/romeo/">Sherpa/Romeo</a> to see which version of the manuscript you can make available and for the length of embargo periods.</p></li>
+</ul>
+<p><strong>Resources that go into more detail:</strong></p>
+<p><a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/Library%20voor%20wetenschappers/Publiceren%20en%20verspreiden/OPEN%20SCIENCE%20TUD%20DEF.pdf">TU Delft Open Access Infographic</a><br>
+<a href="https://ec.europa.eu/research/openscience/index.cfm?pg=openaccess">Horizon Europe – Open Access</a><br>
+<a href="https://www.nwo.nl/en/implementation-guidelines-plan-s">NWO Plan S Implementation Guidelines</a><br>
+<a href="https://www.youtube.com/watch?v=OCfRV-8MYto">KNAW Webinar Implementation of Plan S</a><br>
+<a href="https://101innovations.wordpress.com/2019/06/15/nine-routes-towards-plan-s-compliance-updated/">Nine routes towards Plan S compliance</a><br>
+<a href="https://docs.google.com/spreadsheets/d/1XODQVAfxpRgCBdeXmqWSmghIoAIBBi5R5P_DBZINY5U/edit#gid=0">Open Access policies for Dutch researchers</a><br>
+<a href="https://www.youtube.com/watch?v=0YSqUNF_5wY">What will change in Horizon Europe?</a><br>
+<a href="https://dariahopen.hypotheses.org/968">Open Science in Horizon Europe: what to expect?</a><br>
+<a href="http://www.openaccess.nl">Open-Access.nl</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>Data Management Plan</category>
+  <category>Open Software</category>
+  <category>FAIR</category>
+  <category>Plan S</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/Plan-S.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>Open Science Buffet</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-buffet/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Open Science is like a buffet*: take what you can and what benefits you now – come back for more!</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-buffet/images/paste-437BF19E.png" class="img-fluid"></p>
+<p>This overview highlights resources that are available for TU Delft researchers in their Open Science journey. Please see the <a href="https://doi.org/10.5281/zenodo.6752865">poster</a> for the full visual representation with the links embedded.</p>
+<section id="open-data" class="level2">
+<h2 class="anchored" data-anchor-id="open-data">Open Data</h2>
+<ul>
+<li><p><a href="https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact">Data Steward</a> &amp; <a href="https://osc-delft.github.io/initiatives#data-champions">Data Champions</a></p></li>
+<li><p>Research Support TU Delft Library</p></li>
+<li><p>Training (<a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101">Research Data Management 101</a> &amp; <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/mooc-open-science-sharing-your-research-with-the-world">Open Science MOOC</a>)</p></li>
+<li><p><a href="https://dmponline.tudelft.nl/">DMPonline</a></p></li>
+<li><p><a href="https://www.tudelft.nl/library/research-data-management">Research Data Management website</a></p></li>
+<li><p><a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a></p></li>
+<li><p><a href="https://community.data.4tu.nl/2021/01/25/fair-data-fund-2020-call-for-applications/">data refinement fund</a></p></li>
+<li><p><a href="https://www.tudelft.nl/index.php?id=67120&amp;L=1/">Digital Competence Center</a> (Data Managers)</p></li>
+<li><p><a href="https://openworking.wordpress.com/2021/09/17/managing-and-sharing-data-in-2021/">Managing and Sharing Data in 2021</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/">Policy: Research Data at TU Delft &amp; Faculties</a></p></li>
+</ul>
+</section>
+<section id="open-software" class="level2">
+<h2 class="anchored" data-anchor-id="open-software">Open Software</h2>
+<ul>
+<li><p><a href="https://github.com/">GitHub</a>/<a href="https://gitlab.tudelft.nl/">GitLab</a> (&amp; <a href="https://data.4tu.nl/info/en/about-your-data/getting-started">4TU.ResearchData</a>/<a href="https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content">Zenodo</a> integration)</p></li>
+<li><p>Support from the <a href="https://www.tudelft.nl/index.php?id=67120&amp;L=1/">Digital Competence Center</a> (Research Software Engineers)</p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/">Training: Carpentries/Code Refinery</a></p></li>
+<li><p><a href="https://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a> facilitates sharing of Research Software</p></li>
+</ul>
+</section>
+<section id="open-engagement" class="level2">
+<h2 class="anchored" data-anchor-id="open-engagement">Open Engagement</h2>
+<ul>
+<li><p>Engagement is part of the TU Delft Core values (DIRECT)</p></li>
+<li><p>'Outreach and public engagement are core elements' (<a href="https://www.tudelft.nl/over-tu-delft/strategie">TU Delft strategic priorities 2022</a>)</p></li>
+<li><p>Online discussion and presentation platforms such as the <a href="https://virtualscienceforum.org/">Virtual Science Forum</a></p></li>
+</ul>
+</section>
+<section id="open-education" class="level2">
+<h2 class="anchored" data-anchor-id="open-education">Open Education</h2>
+<ul>
+<li><p>A new policy on Open Educational Resources will be 'a starting to point to make Open Education the default approach for teaching at TU Delft' – <a href="https://www.tudelft.nl/en/about-tu-delft/strategy">TU Delft Strategic Priorities 2022</a></p></li>
+<li><p><a href="https://online-learning.tudelft.nl/courses/">MOOCs</a> / <a href="https://ocw.tudelft.nl/">Open Course Ware</a></p></li>
+</ul>
+</section>
+<section id="open-publishing" class="level2">
+<h2 class="anchored" data-anchor-id="open-publishing">Open Publishing</h2>
+<ul>
+<li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/creating-your-publishing-strategy/open-access-publishing">82% Open Access</a></p></li>
+<li><p><a href="https://www.tudelft.nl/library/actuele-themas/open-publishing">TU Delft Open Publishing</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft Open Access Fund</a> (up to €2000 for gold open access)</p></li>
+<li><p>Publishing deals (check the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser">Journal Browser</a>)</p></li>
+<li><p>Support for sustainable publishing (<a href="https://scipost.org/">SciPost</a>)</p></li>
+<li><p><a href="https://openworking.wordpress.com/2020/11/19/publishing-articles-in-2021/">How to publish Plan S compliant?</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care">You share, we take care (Taverne)</a></p></li>
+</ul>
+</section>
+<section id="open-participation" class="level2">
+<h2 class="anchored" data-anchor-id="open-participation">Open Participation</h2>
+<ul>
+<li><p>'There is no open science if science is not open to all' (<a href="https://hdl.handle.net/2066/226397">Whitaker and Guest 2020</a>)</p></li>
+<li><p><a href="https://osc-delft.github.io/">Open Science Community TU Delft</a> (<a href="https://twitter.com/OSCDelft">@OSCDelft</a>)</p></li>
+<li><p><a href="https://www.tudelft.nl/en/about-tu-delft/strategy/diversity-inclusion">Diversity and Inclusion at TU Delft</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/scd/waterlab/join-our-research/what-is-citizen-science">Citizen Science</a></p></li>
+</ul>
+</section>
+<section id="open-methods" class="level2">
+<h2 class="anchored" data-anchor-id="open-methods">Open Methods</h2>
+<ul>
+<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">Electronic lab Notebooks (RSpace/eLABjournal)</a></p></li>
+<li><p><a href="https://www.protocols.io/">protocols.io</a> (<a href="https://plos.org/open-science/open-methods/">PLOS</a>)</p></li>
+</ul>
+</section>
+<section id="open-evaluation" class="level2">
+<h2 class="anchored" data-anchor-id="open-evaluation">Open Evaluation</h2>
+<ul>
+<li><p>'Open science and education can play an important role in improving the quality of our work and stimulating the use of our knowledge and findings by others' – <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/recognition-rewards-perspective">TU Delft Recognition &amp; Rewards Perspective 2021 – 2024</a></p></li>
+<li><p>The Dutch position paper <a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone's talent</a> aims to recognise a wider range of academic contributions</p></li>
+<li><p><a href="https://www.vsnu.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf">Strategy Evaluation Protocol (SEP) – 2021-2027</a> has Open Science as a main assessment criteria</p></li>
+</ul>
+</section>
+<section id="open-hardware" class="level2">
+<h2 class="anchored" data-anchor-id="open-hardware">Open Hardware</h2>
+<ul>
+<li><a href="https://osc-delft.github.io/initiatives#delft-open-hardware">Open Hardware Community Delft</a> (<a href="https://twitter.com/delftopenhw">@DelftOpenHW</a>)</li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information:</h2>
+<ul>
+<li><a href="https://doi.org/10.4233/uuid:984f605e-1d08-4b8f-bafa-e351634e19a0">TU Delft Open Science Programme 2020-2024</a></li>
+</ul>
+<p><a href="https://www.tudelft.nl/open-science">tudelf</a><a href="https://osc-delft.github.io/">t.nl/open-science</a></p>
+<p><a href="https://the-turing-way.netlify.app/welcome">the-turing-way.netlify.app</a></p>
+<p><a href="https://openlifesci.org/">openlifesci.org</a></p>
+<p>*The term Open Science Buffet has been coined by <a href="https://twitter.com/chbergma/status/1461199447531085829">Christina Bergmann</a> in <a href="https://hdl.handle.net/2066/226397">2019</a>.</p>
+</section>
+<section id="open-science" class="level2">
+<h2 class="anchored" data-anchor-id="open-science">Open Science</h2>
+<p><strong>Open Science</strong> is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality. Several concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.</p>
+</section>
+<section id="benefits-of-open-science" class="level2">
+<h2 class="anchored" data-anchor-id="benefits-of-open-science">Benefits of Open Science</h2>
+<ul>
+<li><p>Increased impact and visibility: Research will be accessible to anyone and it is easier to build on previous work</p></li>
+<li><p>Maximise research effort by making research and <a href="https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html">educational</a> outputs reusable</p></li>
+<li><p>Improving the quality of research through more transparency (facilitating reproducibility) which will increase trust in research</p></li>
+<li><p>Increased citizen engagement with and participation in research</p></li>
+<li><p>Accelerates discovery and provides opportunity for collaborations</p></li>
+<li><p>Recognition for all contributions to research</p></li>
+</ul>
+<p>The Dutch position paper ‘<a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone’s talent</a>’ aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.</p>
+</section>
+<section id="tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft">TU Delft</h2>
+<p>TU Delft has a long history of engagement with Open Science and it is TU Delft’s ambition to be a frontrunner, as reflected in its <a href="https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme">Open Science Programme 2020-2024, Research and Education in the Open Era</a> and the TU Delft Strategic Framework 2018-2024, with “openness” as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC%20EN.pdf">Code of Conduct</a>. TU Delft established several policies and framework that fall under the Open Science umbrella:</p>
+<p>• TU Delft Policy on <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf">Open Access Publishing</a> (2016)</p>
+<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf">Research Data Policy Framework</a> (2019, 2021)</p>
+<p>• TU Delft <a href="https://doi.org/10.5281/zenodo.4629662">Research Software Policy</a> (2021)</p>
+<p>• TU Delft <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/diversity-policy">Diversity &amp; Inclusion Office</a> (2021)</p>
+<p>• TU Delft <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Vision%20on%20Integrity%202018-2024.pdf">Vision on Integrity</a> 2018-2024</p>
+<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen%20en%20Waarderen%20-%20recognition%20and%20reward/TU%20Delft%20Recognition%20and%20Rewards%20perspective%20def.pdf">Recognition &amp; Rewards Perspective</a> 2021 – 2024</p>
+<p>• TU Delft Policy on Open Educational Resources (2022, under construction)</p>
+<p>You can find more information on <a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-buffet/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-buffet/OS-buffet.png" medium="image" type="image/png" height="102" width="144"/>
+</item>
+<item>
+  <title>Managing and Sharing Data in 2021</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="managing-and-sharing-data-in-2021" class="level2">
+<h2 class="anchored" data-anchor-id="managing-and-sharing-data-in-2021">Managing and Sharing Data in 2021</h2>
+<p>This post is based on an earlier <a href="https://openworking.wordpress.com/2021/09/17/managing-and-sharing-data-in-2021/">blogpost</a>.</p>
+</section>
+<section id="nwohorizon-europe-projects-have-the-following-requirements" class="level2">
+<h2 class="anchored" data-anchor-id="nwohorizon-europe-projects-have-the-following-requirements"><strong>NWO/Horizon Europe projects have the following requirements:</strong></h2>
+<p><strong>Data management</strong> should follow the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a> to maximise the effectiveness and reproducibility of the research undertaken.&nbsp;</p>
+<ul>
+<li><p>The <strong>FAIR principles</strong> recommend that scientific data are:&nbsp;</p>
+<ul>
+<li><p>'<strong>F</strong>indable' thanks to their persistent identifier that is assigned to your dataset when it is shared using a data repository (see below).</p></li>
+<li><p>'<strong>A</strong>ccessible' so that the data and metadata can be examined; FAIR data is not necessarily open data, but the metadata could still be shared to ensure that the data is still FAIR.</p></li>
+<li><p>'<strong>I</strong>nteroperable' so that comparable data can be analysed and integrated through the use of common vocabulary and formats.</p></li>
+<li><p>'<strong>R</strong>eusable' as a result of appropriate documentation and provision of a <a href="https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing">license</a> that tells others what they can do with the data.&nbsp;</p></li>
+</ul></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/https:/openworking.files.wordpress.com/2021/09/1728_turi_book-sprint_8-fair-principles_040619-1.jpg?w=526" class="img-fluid figure-img" alt=""></p>
+<p></p><figcaption class="figure-caption">Illustration by <a href="https://doi.org/10.5281/zenodo.3332807">The Turing Way/Scriberia</a></figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="proposals" class="level2">
+<h2 class="anchored" data-anchor-id="proposals"><strong>Proposals</strong></h2>
+<ul>
+<li><p>Proposals have a data section that asks about how you will manage and share your data.</p></li>
+<li><p>Consider any <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-costs">data management costs</a> that need to be included in the project's budget. Also keep in mind that you may need a budget to <a href="https://openworking.wordpress.com/2020/11/19/publishing-articles-in-2021/">publish articles</a>.&nbsp;</p></li>
+<li><p>See the <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/grant-proposals/data-management-sections-for-grant-proposals">TU Delft guidance</a> for help or <a href="https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact">contact your Faculty's Data Steward</a>.&nbsp;</p></li>
+</ul>
+</section>
+<section id="data-management-plans" class="level2">
+<h2 class="anchored" data-anchor-id="data-management-plans"><strong>Data Management Plans</strong></h2>
+<p><strong>Data Management Plans (DMP) are required</strong> for projects funded by NWO (within four months after the awarding of the grant) and Horizon Europe (within 6 months of the project's start).&nbsp;</p>
+<ul>
+<li><p>DMP templates are available on the websites of <a href="https://www.nwo.nl/en/research-data-management">NWO</a> and <a href="https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx">Horizon Europe</a>, as well as on the platform <a href="https://dmponline.tudelft.nl/">DMPonline</a> that you can use with your netID.&nbsp;</p>
+<ul>
+<li><p>DMPonline has TU Delft specific guidance that will help you to set up your DMP more efficiently.&nbsp;</p></li>
+<li><p>You can also use the <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline">TU Delft template available through DMPonline</a> (although this will need some additions for Horizon Europe as this template is more extensive). It is especially efficient to use the TU Delft template if your project needs <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics">HREC approval</a> (for example, working with <a href="https://www.tudelft.nl/en/privacy-security/privacy">personal data</a>).</p></li>
+</ul></li>
+<li><p>A DMP should be a living document, which is updated as the project evolves. Horizon Europe expects you to update the template throughout the project.</p></li>
+</ul>
+</section>
+<section id="data-sharing" class="level2">
+<h2 class="anchored" data-anchor-id="data-sharing"><strong>Data sharing</strong></h2>
+<p><strong>Data should be shared through a trusted repository</strong>, for example: <a href="https://data.4tu.nl/info//en/">4TU.ResearchData</a>.</p>
+<ul>
+<li><p><strong>Data underpinning a scientific publication</strong> should be deposited at the latest <strong>at the time of publication.</strong></p></li>
+<li><p>Data is <strong>in principle open</strong>, unless restricted access is needed for legitimate reasons</p>
+<ul>
+<li>Access can be restricted when it concerns aspects such as privacy, public security, ethical limitations, property rights and commercial interest.</li>
+</ul></li>
+<li><p>For Horizon Europe, the data should be licensed using CC-BY or CC0 (or an equivalent license), and metadata of the datasets should be CC0 licensed.&nbsp;</p>
+<ul>
+<li><p>For <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> it means that others should cite the work when they reuse the data.&nbsp;</p></li>
+<li><p><a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> waives any rights, with citation still being expected as this follows best scientific practises.&nbsp;</p></li>
+<li><p>Note that some Horizon Europe calls may require additional obligations for the validations of scientific publications.&nbsp;</p></li>
+</ul></li>
+<li><p>These requirements are in line with the <a href="https://doi.org/10.5281/zenodo.2573159">TU Delft Research Data Framework Policy</a>, stating that "<em>research data, code and any other materials needed to reproduce research findings are appropriately documented and shared in a research data repository in accordance with the FAIR principles for at least 10 years from the end of the research project, unless there are valid reasons not to do so</em>." (NWO also expects data preservation for at least ten years, unless legal provisions or discipline-specific guidelines dictate otherwise).&nbsp;</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/https:/openworking.files.wordpress.com/2021/09/fountain-of-open-data-with-text-1.jpg?w=576" class="img-fluid figure-img" alt=""></p>
+<p></p><figcaption class="figure-caption">Illustration by <a href="https://doi.org/10.5281/zenodo.3332807">The Turing Way/Scriberia</a></figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="software" class="level2">
+<h2 class="anchored" data-anchor-id="software"><strong>Software</strong></h2>
+<p><strong>Software</strong> is seen as a separate research output from data:</p>
+<ul>
+<li><p>Horizon Europe recommends sharing software (under an Open Source license).</p></li>
+<li><p>NWO expects that software that is needed to access and interpret the data is made available, following the<a href="https://fair-software.nl/">Five Recommendations for FAIR Software</a>.</p></li>
+<li><p>See the <a href="http://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a> for more information on how to share your research software.&nbsp;</p>
+<ul>
+<li>TU Delft encourages you to share your code/software through<a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> choosing one of the TU Delft approved licenses (Apache, MIT, BSD, EUPL, AGPL, LGPL, GPL, CC0). You can also choose another data repository, such as<a href="https://zenodo.org/">Zenodo</a>, but then you have to ensure that the output is correctly registered in PURE yourself. See the <a href="http://doi.org/10.5281/zenodo.4629635">TU Delft Guidelines on Research Software</a> or <a href="https://youtu.be/bPl5sdTvLMM?t=1394">this recording</a> for more information on sharing your software/code.</li>
+</ul></li>
+</ul>
+</section>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<ul>
+<li><p><a href="https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/horizon-europe-programme-guide-released-2021-06-20_en">Horizon Europe Programme Guide</a>(pages 41 – 46)</p></li>
+<li><p><a href="https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf">Annotated Horizon Europe Grant Agreement</a>(Annex 5, pages 152-153)</p></li>
+<li><p><a href="https://www.nwo.nl/en/research-data-management">NWO: Research Data Management</a></p></li>
+<li><p><a href="https://www.tudelft.nl/library/research-data-management">TU Delft: Research Data Management</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/">TU Delft &amp; Faculty policies (data/software)</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>Data Management Plan</category>
+  <category>Open Software</category>
+  <category>FAIR</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Digital Competence Center</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</link>
@@ -167,6 +501,142 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/agile.png" medium="image" type="image/png" height="37" width="144"/>
+</item>
+<item>
+  <title>Publishing a Data Article</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-article/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="publishing-a-data-article" class="level2">
+<h2 class="anchored" data-anchor-id="publishing-a-data-article">Publishing a Data Article</h2>
+<p>This post has been adapted from the Turing Way (The Turing Way Community, The Turing Way: A Handbook for Reproducible Data Science. <a href="https://doi.org/10.5281/zenodo.3233853">10.5281/zenodo.3233853</a>) and a <a href="https://openworking.wordpress.com/2022/02/17/publishing-a-data-article/">blogpost on Open Working</a> under a CC-BY 4.0 licence.</p>
+<p>A <strong>Data Article</strong> (also known as a Data Paper/Note/Release, or Database article) is a publication that is focused on the description of a dataset. It uses the traditional journal article structure, but focuses on the data-collection and methodological aspects and generally not on the interpretation or discussion of the results. Data articles are in line with the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a>, especially since most publishers will encourage you to share the data through a <a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-sharing.html#rr-rdm-sharing">data repository</a>. The benefit of a Data Article is that your output will be peer reviewed, something which is generally not the case for datasets that are archived on data repositories. It also facilitates recognition for datasets through research assessment procedures that are more traditionally focused on publication output. Publishing a data paper will therefore increase the visibility, credibility and usability of the data, as well as giving you credit as a data producer (The Turing Way Community 2022).</p>
+</section>
+<section id="options-to-publish-a-data-article" class="level2">
+<h2 class="anchored" data-anchor-id="options-to-publish-a-data-article">Options to publish a Data Article</h2>
+<p>Below you can find some journals that publish data articles. The costs information was collected in February 2022.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Discipline</th>
+<th>Publisher/Journal</th>
+<th>Cost estimate</th>
+<th>Deals for TU Delft</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://www.cambridge.org/core/journals/experimental-results">Experimental Results</a></td>
+<td><a href="https://www.cambridge.org/core/journals/experimental-results/information/instructions-for-authors#articleprocessingcharges">£775</a> / €928</td>
+<td>100% APC discount for TUD authors</td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="https://www.nature.com/sdata/">Scientific Data</a></td>
+<td><a href="https://www.nature.com/sdata/oa">€1790</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://www.journals.elsevier.com/data-in-brief">Data in Brief</a></td>
+<td><a href="https://www.journals.elsevier.com/data-in-brief">USD&nbsp;500</a> / €440</td>
+<td>100% APC discount for TUD authors</td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="http://www.csdata.org/">China Scientific Data</a></td>
+<td><a href="http://www.csdata.org/en/p/static/1329/">RMB&nbsp;3000</a> / €416</td>
+<td>No</td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://datascience.codata.org/">Data Science Journal</a></td>
+<td><a href="https://datascience.codata.org/about/submissions/">£650</a> / €778</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="https://www.mdpi.com/journal/data">Data</a></td>
+<td><a href="https://www.mdpi.com/journal/data/apc">CHF 1400</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://academic.oup.com/gigascience">GigaScience</a></td>
+<td><a href="https://academic.oup.com/gigascience/pages/charges_licensing_and_self_archiving">€1089</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="https://gigabytejournal.com/information-for-authors">Gigabyte</a></td>
+<td><a href="https://gigabytejournal.com/open-access-and-apc#article-processing-charges">USD&nbsp;350</a> / €308</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://think.f1000research.com/about-data-notes/">F1000Research</a></td>
+<td><a href="https://f1000research.com/for-authors/article-processing-charges">USD&nbsp;800</a> / €704</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="even">
+<td>Archaeology</td>
+<td><a href="https://openarchaeologydata.metajnl.com/">Journal of Open Archaeology Data</a></td>
+<td>£100 / €120</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>Archaeology</td>
+<td><a href="https://www.openquaternary.com/about/">Open Quaternary</a></td>
+<td><a href="https://www.openquaternary.com/about/submissions/">£300</a> / €359</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Chemistry</td>
+<td><a href="https://jcheminf.biomedcentral.com/submission-guidelines/preparing-your-manuscript/data-note">Journal of Cheminformatics</a></td>
+<td>0</td>
+<td>NA</td>
+</tr>
+<tr class="odd">
+<td>Computer Science</td>
+<td><a href="https://www.sadio.org.ar/jaiio/">Jaiio</a></td>
+<td><a href="https://50jaiio.sadio.org.ar/aranceles">variable</a></td>
+<td>No</td>
+</tr>
+<tr class="even">
+<td>Earth Sciences</td>
+<td><a href="https://rmets-onlinelibrary-wiley-com.tudelft.idm.oclc.org/journal/20496060">Geoscience Data Journal</a></td>
+<td><a href="https://rmets.onlinelibrary.wiley.com/hub/journal/20496060/article-publication-charge">€1450</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>Earth Sciences</td>
+<td><a href="https://www.earth-system-science-data.net/">Earth System Science Data</a></td>
+<td>0</td>
+<td>NA</td>
+</tr>
+<tr class="even">
+<td>Earth Sciences</td>
+<td><a href="https://www.tandfonline.com/action/authorSubmission">Big Earth Data</a></td>
+<td><a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=tbed20&amp;#apc">€910</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+</tbody>
+</table>
+<p>For more journals that offer the Data Article format you can see the <a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html">‘Data Article’ section in The Turing Way</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-article/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-article/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Data Management Costs</title>
@@ -395,6 +865,10 @@
 <section id="section" class="level2">
 <h2 class="anchored" data-anchor-id="section"><a href="https://twitter.com/MadS100tist/status/1366103674989277185"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/images/paste-8C43FE3F.png" class="img-fluid"></a></h2>
 <p>https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories</p>
+</section>
+<section id="link-your-data-with-your-publication" class="level2">
+<h2 class="anchored" data-anchor-id="link-your-data-with-your-publication">Link your data with your publication</h2>
+<p>See The Turing Way for more information about how to <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">link your research outputs</a>.</p>
 </section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
@@ -952,226 +1426,6 @@ Important
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/index.html</guid>
   <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/licenses/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Transferring ownership of a GitLab repo</title>
-  <dc:creator>Esther Plomp, Lora Armstrong</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This guide on transferring ownership of a Gitlab repo has been set up <a href="https://docs.google.com/document/d/1y8VlQDJNsm6fkEtUzEXyUjvMggPeHa-zc_JZB2Emm8E/">by Lora Armstrong</a>.</p>
-<section id="what-happens-to-my-gitlab-projects-when-i-leave-tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="what-happens-to-my-gitlab-projects-when-i-leave-tu-delft">What happens to my GitLab projects when I leave TU Delft?</h2>
-<p>Currently there are no plans to delete your repositories (see <a href="https://gitlab.tudelft.nl/help" class="uri">https://gitlab.tudelft.nl/help</a>).</p>
-</section>
-<section id="can-my-supervisorcollaborators-still-access-my-gitlab-projects-when-i-leave" class="level2">
-<h2 class="anchored" data-anchor-id="can-my-supervisorcollaborators-still-access-my-gitlab-projects-when-i-leave">Can my supervisor/collaborators still access my GitLab projects when I leave?</h2>
-<p>If they have access to your projects, they will still have access after you leave. You can control who has access to your projects by going to Project Information &gt; Members in the sidebar of your repository. To be safe, transfer ownership of the projects to a current TU Delft employee when you leave!</p>
-</section>
-<section id="how-do-i-transfer-ownership-of-my-project-to-my-supervisor-or-someone-else-at-tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="how-do-i-transfer-ownership-of-my-project-to-my-supervisor-or-someone-else-at-tu-delft">How do I transfer ownership of my project to my supervisor or someone else at TU Delft?</h2>
-<p>You can transfer a project to another user’s <a href="https://docs.gitlab.com/ee/user/group/#namespaces">GitLab namespace</a>.</p>
-<p><strong>Summary</strong> (based on <a href="https://stackoverflow.com/questions/21579693/how-to-change-the-project-owner-in-gitlab">this Stack Overflow post</a>): ​​Move your project from your namespace to a group where both you and the other user are owners, then the other user can transfer it to their own namespace.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/images/paste-7F2DDF62.png" class="img-fluid"></p>
-<p>Instructions:</p>
-<ol type="1">
-<li>Create a new group if you don’t already have one that you want to use (<strong>Menu</strong> &gt; <strong>Groups</strong> &gt; <strong>Create group</strong>)</li>
-</ol>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/images/paste-39792A08.png" class="img-fluid"></p>
-<ol start="2" type="1">
-<li>Make sure that both the maintainer of the project repository, and the person who it will be transferred to, are members of the group and have the Owner role (to add a new owner: go to the group namespace, then from the sidebar choose <strong>Group information</strong> &gt; <strong>Members</strong> &gt; <strong>Invite members</strong>. Enter username or email of the person you want to invite and change the role to ‘Owner’. Click ‘<strong>Invite</strong>’.)</li>
-</ol>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/images/paste-B79DF3BF.png" class="img-fluid"></p>
-<ol start="3" type="1">
-<li>Have a maintainer of the project repository transfer it to the group namespace (go to the project namespace, then from the sidebar go to <strong>Settings</strong> &gt; <strong>General</strong> &gt; <strong>Advanced</strong> &gt; <strong>Transfer Project</strong>)</li>
-</ol>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/images/paste-9B291D83.png" class="img-fluid"></p>
-<ol start="4" type="1">
-<li>After doing this, the maintainer(s) of the project will get an email notifying that the project has been moved to a different location.</li>
-<li>Now the person who the project is being transferred to can move it to their own namespace (go to the project namespace, then from the sidebar, go to <strong>Settings</strong> &gt; <strong>General</strong> &gt; <strong>Advanced</strong> &gt; <strong>Transfer Project</strong> like before).</li>
-<li>If desired, the group can be deleted after the transfer is complete (go to the group namespace, then from the sidebar go to Settings &gt; General &gt; Advanced &gt; Remove Group)</li>
-</ol>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/images/paste-7598BCE4.png" class="img-fluid"></p>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Providing a more straightforward way to transfer ownership in Gitlab was raised as an <a href="https://gitlab.com/gitlab-org/gitlab/-/issues/14502">issue in 2016</a>, which is unfortunately still open.</p>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>GitLab</category>
-  <category>Software</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/index.html</guid>
-  <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-GitLab-repo/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Software Citation</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>https://guides.github.com/activities/citable-code/</p>
-<p>https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account</p>
-<section id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al.." class="level2">
-<h2 class="anchored" data-anchor-id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al..">Software Citation Checklist for Authors <a href="https://doi.org/10.5281/zenodo.3479199">by Neil Chue Hong et al.</a>.</h2>
-<ul>
-<li><p>Have I identified the software which makes a significant and specialised contribution to my academic work?</p></li>
-<li><p>Have I checked if the software has a recommended citation?</p>
-<ul>
-<li><p>If this is to a paper, have I also cited the software directly?</p></li>
-<li><p>If there’s no recommended citation, have I created as complete a citation as possible?</p>
-<ul>
-<li><p>Who created the software</p></li>
-<li><p>When it was created</p></li>
-<li><p>Title of the software (and version if available)</p></li>
-<li><p>Where the software can be accessed</p></li>
-</ul></li>
-</ul></li>
-<li><p>Have I referenced the software appropriately in my academic work, complying with any citation formatting guidelines?</p></li>
-</ul>
-</section>
-<section id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al." class="level2">
-<h2 class="anchored" data-anchor-id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al.">Software Citation Checklist for Developers <a href="https://doi.org/10.5281/zenodo.3482769">by Neil Chue Hong et al.</a></h2>
-<ul>
-<li><p>Have I assigned an appropriate <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/"><strong>license</strong></a> to my software?</p></li>
-<li><p>Have I <strong>described my software properly</strong>, using an appropriate metadata format, and included this metadata file with my software?</p>
-<ul>
-<li><p>Have I given my software a clear <strong>version number</strong>?</p></li>
-<li><p>Have I determined the <strong>authors to be credited</strong> for this release of my software, and included this in my metadata file?</p></li>
-</ul></li>
-<li><p>Have I procured a <strong>persistent identifier</strong> for this release of my software?</p></li>
-<li><p>Have I added my <strong>recommended citation</strong> to the documentation for my software?</p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li>See also the posts on <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licensing</a>, good enough FAIR software</li>
-<li></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Licenses</category>
-  <category>Software</category>
-  <category>Citation</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</guid>
-  <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Rights Retention Strategy</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/rights-retention-strategy/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Rights Retention Strategy was initiated by cOAlition S to ensure that the researchers they fund can publish Open Access, but is a strategy that can be applied by any researcher when submitting a manuscript to a journal.</p>
-<p>By employing the Rights Retention Strategy you retain your rights on the manuscripts, which gives you the right to share the author’s version of the article, after peerreview, through a repository. This is Green Open Access, but then without the embargo period (generally 6-48 months) that journals usually place on this version of the article.</p>
-<p>Copyright transfer has only been <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2019/06/03/what-the-history-of-copyright-in-academic-publishing-tells-us-about-open-research/">introduced relatively recent</a> and is not something that is essential for the publishing process.</p>
-<p><em>“As author(s) and original copyright holder(s) of this submission, I/we have applied a Creative Commons Attribution (CC BY) licence to any Author Accepted Manuscript (AAM) version arising from this submission. If the article is accepted for publication, I/we will make the AAM available without embargo in a repository. Please confirm by return that the author(s) will NOT be required to sign a contract that prevents this action. If I/we do not hear from you before DD/MM/YYYY, I/we will seek a different journal that will accept my/our manuscript under these conditions.”</em></p>
-<p><em>“For the purpose of open access, the author has applied a CC BY public copyright licence to any Author Accepted Manuscript version arising from this submission.”</em></p>
-<p>Examples of articles that used the Rights Retention Strategy (from <a href="https://doi.org/10.5281/zenodo.7030990">Mounce 2022</a>)</p>
-<ul>
-<li><p>Zipser 2021 (<a href="https://doi.org/10.19272%2F202020501003">Publisher</a> / <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610590/">Author</a>)</p></li>
-<li><p>Tu et al.&nbsp;2021 (<a href="https://doi.org/10.1177/14644207211010836">Publisher</a> / <a href="https://aran.library.nuigalway.ie/handle/10379/16760">Author</a>)</p></li>
-<li><p>Drews et al.&nbsp;2022 (<a href="https://doi.org/10.1038/s41586-022-04789-9">Publisher</a> / <a href="https://europepmc.org/article/MED/35705807">Author</a>)</p></li>
-<li><p>Moreno et al.&nbsp;2021 (<a href="https://doi.org/10.1038/s41388-021-01748-y">Publisher</a> / <a href="https://europepmc.org/article/MED/33742126">Author</a>)</p></li>
-<li><p>Barker 2021 (<a href="https://doi.org/10.1002/mdc3.13314">Publisher</a> / <a href="https://europepmc.org/article/MED/34765685">Author</a>)</p></li>
-<li><p>Lezmy et al.&nbsp;2021 (<a href="https://doi.org/10.1016/j.neuropharm.2021.108727">Publisher</a> / <a href="https://discovery.ucl.ac.uk/id/eprint/10131970/">Author</a>)</p></li>
-<li><p>Welch 2021 (<a href="https://doi.org/10.1080/01459740.2021.1961247">Publisher</a> / <a href="https://europepmc.org/article/MED/34383573">Author</a>)</p></li>
-<li><p>Leeson 2021 (<a href="https://doi.org/10.1021/acs.jmedchem.1c00416">Publisher</a> / <a href="https://europepmc.org/article/MED/33983732">Author</a>)</p></li>
-</ul>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><p>Stephen Eglen’s (2021) <a href="http://doi.org/10.5281/zenodo.4668132">Primer on the Rights Retention Strategy</a></p></li>
-<li><p><a href="https://www.coalition-s.org/resources/rights-retention-strategy/">cOAlition S rights retention strategy website</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Access</category>
-  <category>Plan S</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/rights-retention-strategy/index.html</guid>
-  <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/rights-retention-strategy/RSS.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Access Project Drive</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/access-project-drive/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This post describes how to access the Project Drive on your computer and how to access it outside of the TU Delft network. Please see the <a href="../../posts/storage-solutions-index.qmd">Storage Solution post</a> to learn how to request a Project Drive.</p>
-<section id="project-drive-location-on-your-computer" class="level2">
-<h2 class="anchored" data-anchor-id="project-drive-location-on-your-computer">Project Drive location on your computer</h2>
-<p>The Project Drive is on ‘This PC’, the same location as your home drive:</p>
-<p>U: or \\tudelft.net\staff-umbrella\ (Windows) or /tudelft.net/staff-umbrella/ (Linux servers) or sftp.tudelft.nl:/staff-umbrella/</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/access-project-drive/images/paste-39E3CBB8.png" class="img-fluid"></p>
-<p>You can check the Project Drives that you have access to via webdrive: https://webdata.tudelft.nl/staff-umbrella/</p>
-</section>
-<section id="access-project-drive-outside-tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="access-project-drive-outside-tu-delft">Access Project Drive outside TU Delft</h2>
-<p>Sign into <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=c8cdd52059fd4e9a8b7ca402572e3225">EduVPN</a>.</p>
-<p><strong>Windows</strong></p>
-<p>Install <a href="https://webdata.tudelft.nl/">WebDrive</a> and open it. Click on sftp.tudelft.nl. Click on staff-umbrella (this is the Project Drive).<br>
-External employees/students have to use FileZilla.</p>
-<p><strong>Mac</strong></p>
-<p>You can try to use WebDrive as described for Windows. If this does not work: In the Finder, type ⌘K or choose Go &gt; Connect to Server; enter server address(smb://tudelft.net/staff-umbrella/) and click ‘Connect’. (Add the address to your ‘Favorite Servers’ list to easily connect later)</p>
-<p>Alternatively, users can connect via sftp:</p>
-<p>- The terminal: <code>sftp yournetid@sftp.tudelft.nl</code> - <code>cd staff-umbrella</code></p>
-<p>- An ftp client such as FileZilla or <a href="https://cyberduck.io/">CyberDuck</a>.</p>
-<p><strong>Linux</strong></p>
-<p>If Ubuntu or CentOS installed by ICT:</p>
-<ul>
-<li><p>Terminal: <code>cd /tudelft.nl/staff-umbrella /project</code></p></li>
-<li><p>File manager (nautilus or dolphin): Other locations -&gt; Computer -&gt; tudelft.net -&gt; staff-umbrella -&gt; project</p></li>
-</ul>
-<p>If Linux installed by user:</p>
-<ul>
-<li><p>Terminal: <code>sftp netid@sftp.tudelft.nl</code> - <code>cd staff-umbrella/project</code></p></li>
-<li><p>Filemanager: Other locations -&gt; Connect to server -&gt; sftp://sftp.tudelft.nl/staff-umbrella -&gt; project -&gt; Login when needed with your netid and password</p></li>
-</ul>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section"></h3>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>Storage</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/access-project-drive/index.html</guid>
-  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/access-project-drive/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
