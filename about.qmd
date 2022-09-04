@@ -6,13 +6,17 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/PhDToothFAIRy
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/estherplomp/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/EstherPlomp
 ---
 
-About this blog
+This website is maintained by Esther Plomp, the Data Steward of the Faculty of Applied Sciences.
+
+More information: intranet page on [Data Stewardship at Applied Sciences](https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences)
+
+If you're based at another faculty at TU Delft, you may want to reach out to your [Faculty's Data Steward.](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact)

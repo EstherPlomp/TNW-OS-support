@@ -1,14 +1,51 @@
 ---
 title: "Software Citation"
 author: "Esther Plomp"
-date: "2022-09-02"
+date: "2022-09-04"
 categories: [Licenses, Software, Citation]
 image: "image.jpg"
 ---
 
-https://guides.github.com/activities/citable-code/
+Software citation is important to receive credit for software outputs and to ensure permanent references to the software. While platforms such as GitHub/GitLab/Bitbucket are great for reuse and collaboration, they are no long-term solutions for software preservation. Instead, a snapshot of the software should be shared using a data repository. This data repository will provide you with a persistent identifier, or DOI, which is key for making the code citable.
 
-https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account
+Some data repositories, such as Zenodo and 4TU.ResearchData, have integrations with GitHub so that you can easily share a release of your software repositories.
+
+-   [Zenodo & GitHub](https://guides.github.com/activities/citable-code/)
+
+-   [Figshare & GitHub](https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account)
+
+Once you shared your software on a data repository and received a DOI, it is important to let others know how they should cite your data. If you're reusing software of others, you should also properly cite their work.
+
+## CFFinit
+
+There is a tool that helps you create a CITATION.cff for your software: **[CFFinit](https://citation-file-format.github.io/cff-initializer-javascript).**
+
+## Software citation: how to format?
+
+The recommended format ([Katz et al. 2020](https://doi.org/10.12688/f1000research.26932.1); for software citation is to include:
+
+**• Creator(s):** the authors or project that developed the software.
+
+• **Title:** the name of the software.
+
+• **Publication venue:** the publication venue of the software, preferentially, an archive or repository that provides persistent identifiers.
+
+• **Date**: the date the software was published.
+
+• **Identifier:** a resolvable pointer to the software, preferentially, a PID that resolves to a landing page containing descriptive metadata about the software, similar to how a Digital Object Identifier (DOI) for a paper that points to a page about the paper rather than directly to a representation of the paper, such as the PDF.
+
+• **Version**: the identifier for the version of the software being referenced. If the version is unidentified or
+unknown, the date of access should be used.
+
+• **Type**: some citation styles (e.g., APA), require a bracketed description of the citation (e.g., \[Computer software\]) to be included.
+
+If a published article exists that describes the software, it should be cited as an additional reference.
+
+::: callout-note
+**Example (APA):** Developer, A. A., Developer, B. B., & Developer, C. C. (yyyy) 1. Title of the software: Subtitle (Version #.#) 2. \[Computer software\] 3. Publisher 4. <https://URL5>
+
+See [Katz et al. 2020](https://doi.org/10.12688/f1000research.26932.1)) for more examples.
+:::
 
 ## Software Citation Checklist for Authors [by Neil Chue Hong et al.](https://doi.org/10.5281/zenodo.3479199).
 
@@ -46,5 +83,5 @@ https://help.figshare.com/article/how-to-connect-figshare-with-your-github-accou
 
 ## More information
 
--   See also the posts on [licensing](https://estherplomp.github.io/TNW-OS-support/posts/licenses/), good enough FAIR software
--   
+-   See also the posts on [licensing](https://estherplomp.github.io/TNW-OS-support/posts/licenses/), [good enough FAIR software](https://estherplomp.github.io/TNW-OS-support/posts/good-enough-software/)
+-   For more information about the practicalities and timing in [linking your research outputs, see The Turing Way](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
