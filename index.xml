@@ -10,7 +10,35 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.1.179</generator>
-<lastBuildDate>Sat, 03 Sep 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Sep 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Open Science at TU Delft</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>TU Delft has a long history of engagement with Open Science and it is TU Delft’s ambition to be a frontrunner, as reflected in its <a href="https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme">Open Science Programme 2020-2024, Research and Education in the Open Era</a> and the TU Delft Strategic Framework 2018-2024, with “openness” as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC%20EN.pdf">Code of Conduct</a>. TU Delft established several policies and framework that fall under the Open Science umbrella:</p>
+<p>• TU Delft Policy on <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf">Open Access Publishing</a> (2016)</p>
+<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf">Research Data Policy Framework</a> (2019, 2021)</p>
+<p>• TU Delft <a href="https://doi.org/10.5281/zenodo.4629662">Research Software Policy</a> (2021)</p>
+<p>• TU Delft <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/diversity-policy">Diversity &amp; Inclusion Office</a> (2021)</p>
+<p>• TU Delft <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Vision%20on%20Integrity%202018-2024.pdf">Vision on Integrity</a> 2018-2024</p>
+<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen%20en%20Waarderen%20-%20recognition%20and%20reward/TU%20Delft%20Recognition%20and%20Rewards%20perspective%20def.pdf">Recognition &amp; Rewards Perspective</a> 2021 – 2024</p>
+<p>• TU Delft Policy on Open Educational Resources (2022, under construction)</p>
+<p>You can find more information on <a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a>.</p>
+
+
+
+ ]]></description>
+  <category>Open Science</category>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>Data Management Costs</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -237,6 +265,7 @@
 </section>
 <section id="section" class="level2">
 <h2 class="anchored" data-anchor-id="section"><a href="https://twitter.com/MadS100tist/status/1366103674989277185"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/images/paste-8C43FE3F.png" class="img-fluid"></a></h2>
+<p>https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories</p>
 </section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
@@ -512,6 +541,99 @@ Note
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/backup-project-drive/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>ORCID - PURE integration</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>How to set up a Pure – ORCID integration:</p>
+<p>1. Go to the <a href="http://pure.tudelft.nl/">Pure portal</a> and log in with your netID (scroll down and click the ‘<strong>log in to Pure</strong>’ button at the right bottom of the page).</p>
+<p>2. Once you are logged in, select the ‘<strong>Personal overview</strong>’ menu and click ‘<strong>edit profile</strong>’</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/images/edit-profile.jpg" class="img-fluid" width="521"></p>
+<p>3. In <strong>Edit profile</strong> you can click on ‘<strong>Create or Connect your ORCID ID</strong>’. There will be a pop-up that explains that you are directed to the <a href="https://orcid.org/">ORCID webpage</a> where you can log-in to ORCID or create an ORCID ID. Click Proceed.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/images/add-orcid.jpg" class="img-fluid"></p>
+<p>4. In ORCID, you can create your ORCID or you can log in if you already have an ORCID. After you are logged in you can give TU Delft – Pure permission to access your ORCID account by clicking ‘<strong>Authorize</strong>’.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/images/authorize-Pure.jpg" class="img-fluid" width="472"></p>
+<p>5. After this authorization, you are redirected back to Pure. Your ORCID will appear in your profile page. Click the blue ‘Save’ button at the bottom of your screen to apply the changes.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><p>Contact the library[at]tudelft.nl or your Faculty Data Steward</p></li>
+<li><p><a href="https://www.tudelft.nl/library/orcid">TU Delft information on ORCID</a></p></li>
+<li><p><a href="https://youtu.be/QzDITepzH-g?t=93">ORCID integration with PURE video</a> (from 1:35 onwards)</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>DMP</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Data Management Plan templates and guidance</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-templates/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Please find below some Data Management Plan templates by funding agencies. Each template has some guidance. You can also use our online platform, DMPonline, to fill out your Data Management Plan.</p>
+<p>Main differences between the online platform and word templates:</p>
+<ul>
+<li><p>The online platform makes collaboration on templates easier as everyone will have access to the latest version</p></li>
+<li><p>Word templates keep the original format of the template, which looks nicer.</p></li>
+</ul>
+<section id="nwo" class="level2">
+<h2 class="anchored" data-anchor-id="nwo">NWO</h2>
+</section>
+<section id="zonmw" class="level2">
+<h2 class="anchored" data-anchor-id="zonmw">ZonMw</h2>
+<p>Ensure that the data will be stored using a storage solution that is automatically backed up and that all project members have access to the data they need to have access to (especially important that access is restricted when working with personal data or confidential data - see number 4).</p>
+</section>
+<section id="is-the-data-properly-organised-and-documented" class="level2">
+<h2 class="anchored" data-anchor-id="is-the-data-properly-organised-and-documented">3. Is the data properly organised and documented?</h2>
+<p>Can you easily figure out which file is what? If you open some of the files, are they properly labelled and described? If the individual responsible for data collection would leave the university, can you still make sense of the data without their input? See the data organisation/documentation post for more information.</p>
+</section>
+<section id="is-your-student-working-with-confidential-data" class="level2">
+<h2 class="anchored" data-anchor-id="is-your-student-working-with-confidential-data">4. Is your student working with confidential data?</h2>
+<p>And are they handling this confidential data properly? Here the advise of the Data Steward can come in extra handy and is required for personal data (as part of the <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics">HREC application</a>).</p>
+<p>Confidential data can contain:</p>
+<ul>
+<li><p>personal information which can allow the identification of living individuals</p></li>
+<li><p>commercially-confidential information (e.g.&nbsp;something you might want to patent, or data belonging to a third party)</p></li>
+<li><p>Information related to national security , export control regulations etc.</p></li>
+</ul>
+</section>
+<section id="is-there-a-clear-strategy-for-data-sharing" class="level2">
+<h2 class="anchored" data-anchor-id="is-there-a-clear-strategy-for-data-sharing">5. Is there a clear strategy for data sharing?</h2>
+<p>TU Delft <a href="https://doi.org/10.5281/zenodo.2573159">Research Data Framework Policy</a> requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate .</p>
+<ul>
+<li><p>Did the project team agree what data (and code), when and how will be shared? (See <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/">what data should be shared post</a>)</p></li>
+<li><p>Will there be any difficulties with data sharing (perhaps not all data is suitable for sharing)?</p></li>
+<li><p>What <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licence</a> will be the most suitable for the data (and code)?</p></li>
+</ul>
+<p>In principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a>, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise).</p>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+
+
+</section>
+
+ ]]></description>
+  <category>DMP</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-templates/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-templates/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Why share data?</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-why/index.html</link>
@@ -689,7 +811,7 @@ Important
 <li><a href="https://the-turing-way.netlify.app/reproducible-research/licensing.html">The Turing Way: licensing</a></li>
 <li><a href="https://www.youtube.com/watch?v=xdBwuut6dRY&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=5">A Primer on Open License</a></li>
 <li><a href="https://www.youtube.com/watch?v=OskC2LNtPkU&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=10">Open Source in Research</a></li>
-<li></li>
+<li><a href="https://doi.org/10.5281/zenodo.4090922">Guide to Creative Commons for Scholarly Publications and Educational Resources</a> by the VSNU/NWO</li>
 </ul>
 
 
@@ -891,7 +1013,8 @@ Note
 <h2 class="anchored" data-anchor-id="access-project-drive-outside-tu-delft">Access Project Drive outside TU Delft</h2>
 <p>Sign into <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=c8cdd52059fd4e9a8b7ca402572e3225">EduVPN</a>.</p>
 <p><strong>Windows</strong></p>
-<p>Install <a href="https://webdata.tudelft.nl/">WebDrive</a> and open it. Click on sftp.tudelft.nl. Click on staff-umbrella (this is the Project Drive)</p>
+<p>Install <a href="https://webdata.tudelft.nl/">WebDrive</a> and open it. Click on sftp.tudelft.nl. Click on staff-umbrella (this is the Project Drive).<br>
+External employees/students have to use FileZilla.</p>
 <p><strong>Mac</strong></p>
 <p>You can try to use WebDrive as described for Windows. If this does not work: In the Finder, type ⌘K or choose Go &gt; Connect to Server; enter server address(smb://tudelft.net/staff-umbrella/) and click ‘Connect’. (Add the address to your ‘Favorite Servers’ list to easily connect later)</p>
 <p>Alternatively, users can connect via sftp:</p>
@@ -937,6 +1060,8 @@ Note
 <li><p><strong>Post-print</strong> (or Author Accepted Manuscript - AAM): version of the article after peer review</p></li>
 <li><p><strong>Publishers version</strong> (Version of Record - VOR): fully formatted version published by the publisher</p></li>
 </ul>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-Access/images/paste-4A0F3BC6.png" class="img-fluid"></p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-Access/images/article_repositories.png" class="img-fluid"></p>
 
 
 
@@ -996,111 +1121,6 @@ Note
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/public-sharing-solutions/index.html</guid>
   <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/public-sharing-solutions/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Backup</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/backup/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>To avoid losing your data, you should follow recommended <strong>backup practices</strong>:</p>
-<ul>
-<li><p>You should have 2 or 3 copies of your files, stored on</p></li>
-<li><p>at least 2 different storage media,</p></li>
-<li><p>in different (physical) locations.</p></li>
-</ul>
-<p>The more important the data and the more often the datasets change, the more frequently you should back them up.</p>
-<p>Automatic backup is preferred!</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html#backups">The Turing Way on backups</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>Storage</category>
-  <category>Backup</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/backup/index.html</guid>
-  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/backup/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>TU Delft Approved Software Licenses</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/post-with-code/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>There’s a broad distinction between permissive and restrictive/copyleft software licenses:</p>
-<p>Permissive: (commercial) use, copy, modify, merge, publish, distribute licensed works, modifications, and larger works may be distributed under different terms and without source code.</p>
-<p>Examples of TU Delft approved permissive licenses: MIT, BSD, Apache, CC0</p>
-<p>Restrictive/Copyleft: GPL, AGPL, LGPL, EUPL (slide 3)</p>
-
-
-
- ]]></description>
-  <category>Software</category>
-  <category>Code</category>
-  <category>Licenses</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/post-with-code/index.html</guid>
-  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Encryption</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/Encryption/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Encryption provides protection by ensuring that only someone with the relevant encryption key (or password) will be able to access the contents.</p>
-<ul>
-<li><strong>Disk level</strong>: <em>Bitlocker</em> for Windows, <em>FileVault</em> for MacOS</li>
-<li><strong>“container” level</strong> (a folder containing multiple files): <em>Veracrypt</em> for Windows, <em>Archive</em> for MacOS (see also Disk Utilities, <a href="https://www.intego.com/mac-security-blog/how-to-use-apples-built-in-features-to-encrypt-files-and-folders">more information</a>)</li>
-<li><strong>Portable storage</strong>: <em>Bitlocker</em></li>
-<li><strong>File level / Exchange information</strong>
-<ul>
-<li><p><em>MS Office encryption</em> from Office 2016 onward uses AES-256 and is considered secure.</p>
-<ul>
-<li><p>Alternative for multiple files: <em>7zip</em> (AES-256 encryption), and pack with a password</p></li>
-<li><p>More complicated to setup: <em>PGP tooling</em> (can also be used to securely send email)</p></li>
-</ul></li>
-</ul></li>
-<li>For very sensitive data you can use <em>LANCrypt</em> (which only works on campus and you will need support from IT).</li>
-</ul>
-<section id="password-managers" class="level2">
-<h2 class="anchored" data-anchor-id="password-managers"><strong>Password managers*</strong></h2>
-<ul>
-<li><a href="https://www.lastpass.com">LastPass</a></li>
-<li><a href="https://www.dashlane.com/">Dashlane</a></li>
-<li><a href="https://keepass.info/">KeePass</a></li>
-</ul>
-<p>*Information taken from the TU Delft guidance on <a href="https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/ICT/ICT%20Security/2.1_Work_Safe_-_NetID_en_Passwords.pdf">NetIDs and passwords (pdf)</a></p>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><p><a href="https://www.tudelft.nl/en/it-manuals/working-remotely/encryption" class="uri">https://www.tudelft.nl/en/it-manuals/working-remotely/encryption</a></p></li>
-<li><p><a href="https://osf.io/nx8km/">Ghent University Encryption manual with detailed steps for Veracrypt</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Encryption</category>
-  <category>Security</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Encryption/index.html</guid>
-  <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Encryption/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Esther Plomp">
-<meta name="dcterms.date" content="2022-08-28">
+<meta name="dcterms.date" content="2022-09-04">
 
-<title>TNW-OS-support - Access Project Drive</title>
+<title>TNW-OS-support - Open Science at TU Delft</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -99,9 +99,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Access Project Drive</h1>
+      <h1 class="title">Open Science at TU Delft</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">Storage</div>
+                <div class="quarto-category">Open Science</div>
+                <div class="quarto-category">TU Delft</div>
               </div>
                   </div>
   </div>
@@ -119,7 +120,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">August 28, 2022</p>
+        <p class="date">September 4, 2022</p>
       </div>
     </div>
       
@@ -136,42 +137,17 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>This post describes how to access the Project Drive on your computer and how to access it outside of the TU Delft network. Please see the <a href="../../posts/storage-solutions-index.qmd">Storage Solution post</a> to learn how to request a Project Drive.</p>
-<section id="project-drive-location-on-your-computer" class="level2">
-<h2 class="anchored" data-anchor-id="project-drive-location-on-your-computer">Project Drive location on your computer</h2>
-<p>The Project Drive is on ‘This PC’, the same location as your home drive:</p>
-<p>U: or \\tudelft.net\staff-umbrella\ (Windows) or /tudelft.net/staff-umbrella/ (Linux servers) or sftp.tudelft.nl:/staff-umbrella/</p>
-<p><img src="images/paste-39E3CBB8.png" class="img-fluid"></p>
-<p>You can check the Project Drives that you have access to via webdrive: https://webdata.tudelft.nl/staff-umbrella/</p>
-</section>
-<section id="access-project-drive-outside-tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="access-project-drive-outside-tu-delft">Access Project Drive outside TU Delft</h2>
-<p>Sign into <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=c8cdd52059fd4e9a8b7ca402572e3225">EduVPN</a>.</p>
-<p><strong>Windows</strong></p>
-<p>Install <a href="https://webdata.tudelft.nl/">WebDrive</a> and open it. Click on sftp.tudelft.nl. Click on staff-umbrella (this is the Project Drive).<br>
-External employees/students have to use FileZilla.</p>
-<p><strong>Mac</strong></p>
-<p>You can try to use WebDrive as described for Windows. If this does not work: In the Finder, type ⌘K or choose Go &gt; Connect to Server; enter server address(smb://tudelft.net/staff-umbrella/) and click ‘Connect’. (Add the address to your ‘Favorite Servers’ list to easily connect later)</p>
-<p>Alternatively, users can connect via sftp:</p>
-<p>- The terminal: <code>sftp yournetid@sftp.tudelft.nl</code> - <code>cd staff-umbrella</code></p>
-<p>- An ftp client such as FileZilla or <a href="https://cyberduck.io/">CyberDuck</a>.</p>
-<p><strong>Linux</strong></p>
-<p>If Ubuntu or CentOS installed by ICT:</p>
-<ul>
-<li><p>Terminal: <code>cd /tudelft.nl/staff-umbrella /project</code></p></li>
-<li><p>File manager (nautilus or dolphin): Other locations -&gt; Computer -&gt; tudelft.net -&gt; staff-umbrella -&gt; project</p></li>
-</ul>
-<p>If Linux installed by user:</p>
-<ul>
-<li><p>Terminal: <code>sftp netid@sftp.tudelft.nl</code> - <code>cd staff-umbrella/project</code></p></li>
-<li><p>Filemanager: Other locations -&gt; Connect to server -&gt; sftp://sftp.tudelft.nl/staff-umbrella -&gt; project -&gt; Login when needed with your netid and password</p></li>
-</ul>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section"></h3>
+<p>TU Delft has a long history of engagement with Open Science and it is TU Delft’s ambition to be a frontrunner, as reflected in its <a href="https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme">Open Science Programme 2020-2024, Research and Education in the Open Era</a> and the TU Delft Strategic Framework 2018-2024, with “openness” as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC%20EN.pdf">Code of Conduct</a>. TU Delft established several policies and framework that fall under the Open Science umbrella:</p>
+<p>• TU Delft Policy on <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf">Open Access Publishing</a> (2016)</p>
+<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf">Research Data Policy Framework</a> (2019, 2021)</p>
+<p>• TU Delft <a href="https://doi.org/10.5281/zenodo.4629662">Research Software Policy</a> (2021)</p>
+<p>• TU Delft <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/diversity-policy">Diversity &amp; Inclusion Office</a> (2021)</p>
+<p>• TU Delft <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Vision%20on%20Integrity%202018-2024.pdf">Vision on Integrity</a> 2018-2024</p>
+<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen%20en%20Waarderen%20-%20recognition%20and%20reward/TU%20Delft%20Recognition%20and%20Rewards%20perspective%20def.pdf">Recognition &amp; Rewards Perspective</a> 2021 – 2024</p>
+<p>• TU Delft Policy on Open Educational Resources (2022, under construction)</p>
+<p>You can find more information on <a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a>.</p>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
