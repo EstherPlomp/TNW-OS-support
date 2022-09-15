@@ -20,7 +20,7 @@ In order to determine what data should be openly shared ask yourself the followi
 
 -   Data restrictions can apply depending on the type of data ([personal data](https://estherplomp.github.io/TNW-RDM-101/05-Essentials-for-Research-Data.html#personal-data)) or by contractual agreements with third partners ([confidential data](https://estherplomp.github.io/TNW-RDM-101/05-Essentials-for-Research-Data.html#confidential-data)).
 -   Sometimes data is too large to be shared (more than TBs)
--   See [valid reasons to not share data](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667 ).
+-   See [valid reasons to not share data](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667).
 
 ## **When can it be shared?**
 
