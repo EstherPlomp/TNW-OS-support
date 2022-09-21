@@ -879,7 +879,14 @@
     "href": "posts/storage-solutions/index.html#tu-delft-network-drives",
     "title": "Storage Solutions",
     "section": "TU Delft network drives",
-    "text": "TU Delft network drives\n\n\n\n\n\n\n\n\n\n\nPersonal Drive (H:)\nStaff Group Drive (M:)\nProject Drive (U:)\n\n\n\n\nPurpose\nPrivate work files only (sharing not possible)\nData shared within research group or department\nData from individual projects, shared with project members\n\n\nSuitable for confidential data?\nYes\nNo\nYes\n\n\nSize\n8 GB\n> 5TB\n> 5TB\n\n\n\nThe Project Drive is the recommended storage solution for research data.\n\nProject leaders or supervisors should request the drive to ensure that they also have access to the data (especially important for the long term storage of any data).\nAnyone with a NetID can be added to a Project Drive (for external collaborators this NetID will have to be generated so additional information will need to be provided). To provide access to additional people you can add them when you request the drive via Topdesk, you can contact the Service Desk of your faculty (servicepuntTNW [at] tudelft.nl), or you can add them using UMRA (see TU Delft ICT for more UMRA manuals).\n\nNote that anyone provide access to the Project Drive will have viewing or editing rights for the entire Project Drive, unless you’re using UMRA. If you want to easily manage access permissions it may be needed to request multiple Project Drives or work with alternative storage solutions such as SURF/OneDrive.\n\nThe Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).\nTo request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with ‘Change’ selected rather than ‘New’. For >5 TB of space, you may be contacted by the faculty IT manager for approval.\n\n\nNetwork Drives and Delft HPC\nPlease see the DelftBlue documentation on the storage of data-transfer recommendations from the HPC clusters."
+    "text": "TU Delft network drives\n\n\n\n\n\n\n\n\n\n\nPersonal Drive (H:)\nStaff Group Drive (M:)\nProject Drive (U:)\n\n\n\n\nPurpose\nPrivate work files only (sharing not possible)\nData shared within research group or department\nData from individual projects, shared with project members\n\n\nSuitable for confidential data?\nYes\nNo\nYes\n\n\nSize\n8 GB\n> 5TB\n> 5TB"
+  },
+  {
+    "objectID": "posts/storage-solutions/index.html#project-drive",
+    "href": "posts/storage-solutions/index.html#project-drive",
+    "title": "Storage Solutions",
+    "section": "Project Drive",
+    "text": "Project Drive\nThe Project Drive is the recommended storage solution for research data.\n\nProject leaders or supervisors should request the drive to ensure that they also have access to the data (especially important for the long term storage of any data).\nAnyone with a NetID can be added to a Project Drive (for external collaborators this NetID will have to be generated so additional information will need to be provided). To provide access to additional people you can add them when you request the drive via Topdesk, you can contact the Service Desk of your faculty (servicepuntTNW [at] tudelft.nl), or you can add them using UMRA (see TU Delft ICT for more UMRA manuals).\n\nNote that anyone provide access to the Project Drive will have viewing or editing rights for the entire Project Drive, unless you’re using UMRA. If you want to easily manage access permissions it may be needed to request multiple Project Drives or work with alternative storage solutions such as SURF/OneDrive.\n\nThe Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).\nTo request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with ‘Change’ selected rather than ‘New’. For >5 TB of space, you may be contacted by the faculty IT manager for approval.\n\n\nNetwork Drives and Delft HPC\nPlease see the DelftBlue documentation on the storage of data-transfer recommendations from the HPC clusters."
   },
   {
     "objectID": "posts/storage-solutions/index.html#surfdrive",
@@ -1061,21 +1068,14 @@
     "href": "posts/software-sharing/index.html",
     "title": "Sharing Software",
     "section": "",
-    "text": "Note that a pre-approved license by the TU Delft Research Software Policy: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0 when you share your software.\nYou can either use 4TU.ResearchData or another repository."
+    "text": "Accelerates innovation as it is easier to receive feedback that you can learn from and use to improve the software\nProvide evidence for your scientific claims and increases the reproducibility of your work\nIncreases impact and visibility of your research (software can also be cited!)\nFacilitates collaboration\nImproves sustainability as you’re not the only one who can maintain the software and contributions can be made by community members\nOpen Source Software is encouraged by the UNESCO recommendations\nYour funder may require you to share the underlying software/code of your publications\nYour work is probably relying on open source software to a certain degree, so it would be good to contribute back to the community!"
   },
   {
-    "objectID": "posts/software-sharing/index.html#tu.researchdata",
-    "href": "posts/software-sharing/index.html#tu.researchdata",
+    "objectID": "posts/software-sharing/index.html#tu-delft-and-open-software",
+    "href": "posts/software-sharing/index.html#tu-delft-and-open-software",
     "title": "Sharing Software",
-    "section": "4TU.ResearchData",
-    "text": "4TU.ResearchData\n\nLog in right top using TU Delft credentials\nCreate a new item or import from GitHub/GitLab\nAdd relevant metadata in the information fields"
-  },
-  {
-    "objectID": "posts/software-sharing/index.html#other-repositories",
-    "href": "posts/software-sharing/index.html#other-repositories",
-    "title": "Sharing Software",
-    "section": "Other repositories",
-    "text": "Other repositories\n\nUpload your software in another repository (for example: Zenodo).\nGo to https://pure.tudelft.nl/admin/ and log in using TU Delft credentials\nSelect Datasets/Software -> Software\nFill out the metadata in the information fields and add DOI, select license and save the information"
+    "section": "TU Delft and Open Software",
+    "text": "TU Delft and Open Software\nTU Delft encourages sharing of your software/code and the TU Delft Research Software Policy preapproves the following licenses: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0 when you share your software.\nYou can either use 4TU.ResearchData or another repository to share your software/code\n\n4TU.ResearchData\n\nLog in right top using TU Delft credentials\nCreate a new item or import from GitHub/GitLab\nAdd relevant metadata in the information fields\n\n\n\nOther repositories\n\nUpload your software in another repository (for example: Zenodo).\nGo to https://pure.tudelft.nl/admin/ and log in using TU Delft credentials\nSelect Datasets/Software -> Software\nFill out the metadata in the information fields and add DOI, select license and save the information"
   },
   {
     "objectID": "posts/software-sharing/index.html#feedback",
