@@ -6,11 +6,31 @@ categories: [Licenses, Software]
 image: "image.jpg"
 ---
 
-Note that a pre-approved license by the [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629662): MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0 when you share your software.
+## Why share your software/code?
 
-You can either use 4TU.ResearchData or another repository.
+-   Accelerates innovation as it is easier to receive feedback that you can learn from and use to improve the software
 
-## 4TU.ResearchData
+-   Provide evidence for your scientific claims and increases the reproducibility of your work
+
+-   Increases impact and visibility of your research ([software can also be cited](https://estherplomp.github.io/TNW-OS-support/posts/software-citation/)!)
+
+-   Facilitates collaboration
+
+-   Improves sustainability as you're not the only one who can maintain the software and contributions can be made by community members
+
+-   Open Source Software is encouraged by the [UNESCO recommendations](https://www.unesco.org/en/communication-information/open-solutions)
+
+-   Your funder may require you to share the underlying software/code of your publications
+
+-   Your work is probably relying on open source software to a certain degree, so it would be good to contribute back to the community!
+
+## TU Delft and Open Software
+
+TU Delft encourages sharing of your software/code and the [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629662) preapproves the following licenses: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0 when you share your software.
+
+You can either use 4TU.ResearchData or another repository to share your software/code
+
+### 4TU.ResearchData
 
 -   Log in right top using TU Delft credentials
 
@@ -18,7 +38,7 @@ You can either use 4TU.ResearchData or another repository.
 
 -   Add relevant metadata in the information fields
 
-## Other repositories
+### Other repositories
 
 -   Upload your software in another repository (for example: [Zenodo](https://zenodo.org/)).
 

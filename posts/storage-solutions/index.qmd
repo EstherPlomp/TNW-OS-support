@@ -18,6 +18,8 @@ Please see [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/s
 | Suitable for confidential data? | Yes                                            | No                                              | Yes                                                        |
 | Size                            | 8 GB                                           | \> 5TB                                          | \> 5TB                                                     |
 
+## Project Drive
+
 The Project Drive is the recommended storage solution for research data.
 
 -   Project leaders or supervisors should request the drive to ensure that they also have access to the data (especially important for the long term storage of any data).
