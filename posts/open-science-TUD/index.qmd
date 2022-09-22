@@ -44,6 +44,6 @@ TU Delft has a long history of engagement with Open Science and it is TU Delft's
 
 • TU Delft [Recognition & Rewards Perspective](https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen%20en%20Waarderen%20-%20recognition%20and%20reward/TU%20Delft%20Recognition%20and%20Rewards%20perspective%20def.pdf) 2021 -- 2024
 
-• TU Delft Policy on Open Educational Resources (2022, under construction)
+• TU Delft [Policy on Open Educational Resources](https://doi.org/10.4233/uuid:68a07efc-fc4d-4a57-8e93-88a3af37465a) (2021)
 
 You can find more information on [Open Science at TU Delft](https://www.tudelft.nl/open-science).
