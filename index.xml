@@ -1433,7 +1433,7 @@ Note
 <p>This content is based on <a href="https://doi.org/10.5281/zenodo.6325919">Martinez-Lavanchy et al.&nbsp;2022</a>.</p>
 <section id="what-are-the-fair-principles" class="level2">
 <h2 class="anchored" data-anchor-id="what-are-the-fair-principles">What are the FAIR principles?</h2>
-<p>The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable <span class="citation" data-cites="wilkinson2016">[@wilkinson2016]</span>.</p>
+<p>The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable (<a href="https://doi.org/10.1038/sdata.2016.18">Wilkinson et al.&nbsp;2016</a>).</p>
 <ul>
 <li>Findable means that others (both human and machines) can discover the data</li>
 <li>Accessible means that the data can be made available to others</li>
@@ -1447,7 +1447,7 @@ Note
 <p></p><figcaption class="figure-caption">The Turing Way illustration by Scriberia. CC-BY 4.0. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">10.5281/zenodo.3332807</a></figcaption><p></p>
 </figure>
 </div>
-<p>The FAIR Data principles are NOT:</p>
+<p><strong>The FAIR Data principles are NOT:</strong></p>
 <ul>
 <li>A standard. The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.</li>
 <li>Equivalent to Open Data. FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.</li>
@@ -1461,7 +1461,6 @@ Note
 <li><a href="https://youtu.be/m-oWVp92xG0">Persistent identifiers</a></li>
 <li><a href="https://youtu.be/3nl_Z7Jt-Z4">Licences</a></li>
 </ul>
-<p>Scripts of the videos copied or adapted from <span class="citation" data-cites="holmstrand2019">[@holmstrand2019]</span>.</p>
 
 
 </section>
