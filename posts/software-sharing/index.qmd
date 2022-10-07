@@ -12,7 +12,7 @@ image: "image.jpg"
 
 -   Provide evidence for your scientific claims and increases the reproducibility of your work
 
--   [Increases impact](https://openforumeurope.org/open-source-impact-study/)and visibility of your research ([software can also be cited](https://estherplomp.github.io/TNW-OS-support/posts/software-citation/)!)
+-   [Increases impact](https://openforumeurope.org/open-source-impact-study/) and visibility of your research ([software can also be cited](https://estherplomp.github.io/TNW-OS-support/posts/software-citation/)!)
 
 -   Facilitates collaboration
 

@@ -39,3 +39,5 @@ Examples of articles that used the Rights Retention Strategy (from [Mounce 2022]
 -   Stephen Eglen's (2021) [Primer on the Rights Retention Strategy](http://doi.org/10.5281/zenodo.4668132)
 
 -   [cOAlition S rights retention strategy website](https://www.coalition-s.org/resources/rights-retention-strategy/)
+
+-   [Preliminary publisher responses from the Cambridge pilot](https://unlockingresearch-blog.lib.cam.ac.uk/?p=3361)
