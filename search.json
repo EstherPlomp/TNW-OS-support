@@ -228,7 +228,7 @@
     "href": "posts/open-science-TUD/index.html",
     "title": "Open Science",
     "section": "",
-    "text": "Open Science is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.\nSeveral concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science."
+    "text": "Open Science is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.\nOpen Science is defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO) as “an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”\nSeveral concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science."
   },
   {
     "objectID": "posts/open-science-TUD/index.html#benefits-of-open-science",
@@ -243,6 +243,20 @@
     "title": "Open Science",
     "section": "TU Delft",
     "text": "TU Delft\nTU Delft has a long history of engagement with Open Science and it is TU Delft’s ambition to be a frontrunner, as reflected in its Open Science Programme 2020-2024, Research and Education in the Open Era and the TU Delft Strategic Framework 2018-2024, with “openness” as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the Code of Conduct. TU Delft established several policies and framework that fall under the Open Science umbrella:\n• TU Delft Policy on Open Access Publishing (2016)\n• TU Delft Research Data Policy Framework (2019, 2021)\n• TU Delft Research Software Policy (2021)\n• TU Delft Diversity & Inclusion Office (2021)\n• TU Delft Vision on Integrity 2018-2024\n• TU Delft Recognition & Rewards Perspective 2021 – 2024\n• TU Delft Policy on Open Educational Resources (2021)\nYou can find more information on Open Science at TU Delft."
+  },
+  {
+    "objectID": "posts/open-science-TUD/index.html#the-netherlands",
+    "href": "posts/open-science-TUD/index.html#the-netherlands",
+    "title": "Open Science",
+    "section": "the Netherlands",
+    "text": "the Netherlands\n\nIn the Netherlands Open Science is an important component of the Recognition & Rewards movement.\nDutch research funder NWO supports new forms of evaluation and requires 100% Open Access.\nThe ‘Strategic Evaluation Protocol’ that universities use to periodically evaluate their research has a strong focus Open Science practices and outputs."
+  },
+  {
+    "objectID": "posts/open-science-TUD/index.html#internationally",
+    "href": "posts/open-science-TUD/index.html#internationally",
+    "title": "Open Science",
+    "section": "Internationally",
+    "text": "Internationally\n\nThe San Francisco Declaration on Research Assessment (to which all Dutch universities adhere to).\nThe ‘Reforming research assessment’ agreement by the European Union. Open Science has for years been promoted by the European Commission.\nUNESCO adopted a recommendation on Open Science.\nThe White House also committed the United States to Open Science, which pushes for Open Access, and FAIR data and code sharing."
   },
   {
     "objectID": "posts/software-sharing/index.html",
