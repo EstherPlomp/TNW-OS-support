@@ -10,6 +10,8 @@ image: "OS-TUD.png"
 
 **Open Science** is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.
 
+**Open Science** is [defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO)](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en) as *"an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community."*
+
 Several concepts belong under the umbrella term of 'Open Science' and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.
 
 ## Benefits of Open Science
@@ -47,3 +49,25 @@ TU Delft has a long history of engagement with Open Science and it is TU Delft's
 • TU Delft [Policy on Open Educational Resources](https://doi.org/10.4233/uuid:68a07efc-fc4d-4a57-8e93-88a3af37465a) (2021)
 
 You can find more information on [Open Science at TU Delft](https://www.tudelft.nl/open-science).
+
+## the Netherlands
+
+-   In the Netherlands Open Science is an important component of the [Recognition & Rewards](https://recognitionrewards.nl/) movement.
+
+-   Dutch research funder [NWO supports](https://www.nwo.nl/en/open-science) new forms of evaluation and requires 100% Open Access.
+
+-   The ['Strategic Evaluation Protocol'](https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf) that universities use to periodically evaluate their research has a strong focus Open Science practices and outputs.
+
+## Internationally
+
+-   The [San Francisco Declaration on Research Assessment](https://sfdora.org/) (to which all Dutch universities adhere to).
+
+-   The ['Reforming research assessment'](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/reforming-research-assessment-agreement-now-final-2022-07-20_en) agreement by the European Union. Open Science has for years been promoted by the European Commission.
+
+-   UNESCO adopted a [recommendation](https://en.unesco.org/science-sustainable-future/open-science/recommendation) on Open Science.
+
+-   The [White House also committed](https://cen.acs.org/policy/publishing/White-House-mandates-immediate-open/100/web/2022/08#:~:text=All%20US%20federally%2Dfunded%20research,31%2C%202025.) the United States to Open Science, which pushes for Open Access, and FAIR data and code sharing.
+
+
+
+
