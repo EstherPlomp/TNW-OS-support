@@ -1,0 +1,34 @@
+---
+title: "Preprint"
+author: "Esther Plomp"
+date: "2022-10-11"
+categories: [Open Access]
+image: "image.jpg"
+---
+
+A **preprint** is the version of the article before peer review.
+
+You can share your preprint on a preprint server or repository even before you have submitted it to a journal. Before you share a preprint, check if the journal allows sharing of preprints via [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/).
+
+## Why should I share a preprint?
+
+-   You can immediately share a preprint, instead of waiting for the review/publishing process.
+
+-   Preprinted articles have increased citations of the published versions, because people are able to read your work earlier and incorporate it.
+
+## Where to share a preprint?
+
+-   Preprint servers such as [arXiv](https://arxiv.org/) (Physics) and [bioRxiv](https://www.biorxiv.org/) (Biology)
+
+-   Repositories such as [OSF](https://osf.io/preprints/), [Zenodo](https://zenodo.org/)
+
+-   TU Delft Open.
+
+## 
+Terminology
+
+-   **Preprint**: version of the article before peer review
+
+-   **Post-print** (or Author Accepted Manuscript - AAM): version of the article after peer review
+
+-   **Publishers version** (Version of Record - VOR): fully formatted version published by the publisher
