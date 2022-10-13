@@ -557,7 +557,7 @@
     "href": "posts/licenses/index.html#data-licenses",
     "title": "Licenses",
     "section": "Data Licenses",
-    "text": "Data Licenses\nEverything in the list with a CC in front of it is used for data (stands for Creative Commons).\nTU Delft recommends CC-BY (which is also quite standard in publishing articles)and allows reusers to cite the original work if they reuse it.\nThe more letters these CC licenses have, the more restrictions they place on re-use.\n\nNC means non-commercial use is prohibited\nSA stands for share alike, which means that you have to apply the same license.\nND means non-derivative, which means that reusers can only reuse the data in the same form (which is quite restrictive!).\n\nData license chooser\n\n\n\nCreative Commons licenses by Foter (CC-BY-SA)"
+    "text": "Data Licenses\nEverything in the list with a CC in front of it is used for data (stands for Creative Commons).\nTU Delft recommends CC-BY (which is also quite standard in publishing articles)and allows reusers to cite the original work if they reuse it.\nThe more letters these CC licenses have, the more restrictions they place on re-use.\n\nNC means commercial use is prohibited\nSA stands for share alike, which means that you have to apply the same license.\nND means non-derivative, which means that reusers can only reuse the data in the same form (which is quite restrictive!).\n\nData license chooser\n\n\n\nCreative Commons licenses by Foter (CC-BY-SA)"
   },
   {
     "objectID": "posts/licenses/index.html#software",
