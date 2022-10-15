@@ -67,7 +67,3 @@ You can find more information on [Open Science at TU Delft](https://www.tudelft.
 -   UNESCO adopted a [recommendation](https://en.unesco.org/science-sustainable-future/open-science/recommendation) on Open Science.
 
 -   The [White House also committed](https://cen.acs.org/policy/publishing/White-House-mandates-immediate-open/100/web/2022/08#:~:text=All%20US%20federally%2Dfunded%20research,31%2C%202025.) the United States to Open Science, which pushes for Open Access, and FAIR data and code sharing.
-
-
-
-
