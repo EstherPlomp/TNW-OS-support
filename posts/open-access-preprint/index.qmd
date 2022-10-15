@@ -24,8 +24,7 @@ You can share your preprint on a preprint server or repository even before you
 
 -   TU Delft Open.
 
-## 
-Terminology
+## Terminology
 
 -   **Preprint**: version of the article before peer review
 
