@@ -56,320 +56,167 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-preprint/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Data organisation</title>
+  <title>Spreadsheets</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/spreadsheets/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="folder-structures" class="level2">
-<h2 class="anchored" data-anchor-id="folder-structures">Folder structures</h2>
-<p>Examples</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/images/paste-480EB3EE.png" class="img-fluid" width="589"></p>
-<p><a href="http://nikola.me/folder_structure.html" class="uri">http://nikola.me/folder_structure.html</a> (folder structure download available on the website)</p>
-<p><a href="https://doi.org/10.5281/zenodo.4410128">Folder structure template for research repositories</a></p>
-<p>Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don't belong or stored in large quantities in a single folder (which makes it hard to find the files).</p>
-<p>Make sure the folder structure is clear: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.</p>
-<p>See also: <a href="https://zapier.com/blog/organize-files-folders/">Find Files Faster: How to Organize Files and Folders</a></p>
+<section id="using-schemas-to-check-your-tabular-data" class="level2">
+<h2 class="anchored" data-anchor-id="using-schemas-to-check-your-tabular-data">Using schemas to check your tabular data:</h2>
+<p>try.goodtables.io (or python library github.com/frictionlessdata/goodtables-py / github.com/frictionlessdata/tableschema-py) (see <a href="https://www.youtube.com/watch?v=vZAi4OnfH-Q&amp;feature=youtu.be">this presentation on YouTube</a>)</p>
+
+
 </section>
-<section id="cookie-cutter-templates" class="level2">
-<h2 class="anchored" data-anchor-id="cookie-cutter-templates">Cookie Cutter templates</h2>
-<p>Use the <a href="https://github.com/cookiecutter/cookiecutter">cookiecutter</a> templates to download folder structures through GitHub. The template by Barbara Vreede follows the template proposed by <a href="https://doi.org/10.1371/journal.pcbi.1005510">Wilson <em>et al.</em></a> (2017): <a href="https://github.com/bvreede/good-enough-project" class="uri">https://github.com/bvreede/good-enough-project</a></p>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/spreadsheets/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/spreadsheets/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Digital Competence Center</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>TU Delft has a Digital Competence Center (DCC) which consists of four Research Software Engineers, two Data Managers and a High Performance Computing Data Steward.</p>
+<p>The DCC helps you with practically applying the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a> to your research data and code.</p>
+<p>The DCC helps any researcher at the TU Delft in the following two ways:</p>
+<ol type="1">
+<li><p><strong>Under 30 hour requests</strong></p>
 <ul>
-<li><p>See <a href="https://vimeo.com/462773031">this video for more information</a></p></li>
-<li><p>Follow the instructions here if you need more guidance.</p></li>
-</ul>
-<p>In general it is good practise to:</p>
+<li><p>code reviews</p></li>
+<li><p>repository reviews</p></li>
+<li><p>quick data questions</p></li>
+<li><p>tips &amp; consults</p></li>
+</ul></li>
+<li><p><strong>Dedicated part-time support</strong></p>
 <ul>
-<li><p>have one folder/directory per project</p></li>
-<li><p>to save your raw data separately (and make it read only to ensure that it is not accidentally altered)</p></li>
-<li><p>to create a subdirectory for your output (for example: Manuscript output, figures, numerical output)</p></li>
+<li><p>a Data Manager or Research Software engineer joins a research group for up to 340 hours during 6 months</p></li>
+<li><p>dependent on FAIR value add and expertise of DCC members</p></li>
+<li><p>dedicated application form on DCC (next one likely September 2022)</p></li>
+</ul></li>
+</ol>
+<p>Support can look like:</p>
+<ul>
+<li><p>Find suitable solutions for data storage, access, back-up and automated processing</p></li>
+<li><p>Package, distribute and release research software</p></li>
+<li><p>Set up collaborative data and software development workflows with version control</p></li>
+<li><p>Implement automated software testing for continuous integration</p></li>
 </ul>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/images/paste-B5D16106.png" class="img-fluid" width="602"></p>
-</section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html">The Turing Way - Data storage and organisation</a></p>
+<ul>
+<li><p><a href="https://dcc.tudelft.nl/">Digital Competence Center Website</a></p></li>
+<li><p><a href="https://tu-delft-dcc.github.io">DCC guides</a></p></li>
+</ul>
 
 
 </section>
 
  ]]></description>
-  <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/index.html</guid>
+  <category>Open Science</category>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/dcc.png" medium="image" type="image/png" height="92" width="144"/>
 </item>
 <item>
-  <title>SURFdrive sharing</title>
+  <title>Metadata standards and repositories for Applied Sciences/TNW</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-TNW/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="sharing-data-with-surfdrive" class="level2">
-<h2 class="anchored" data-anchor-id="sharing-data-with-surfdrive">Sharing Data with SURFdrive</h2>
-<p>You can share data with SURFdrive through the 1) browser or the 2) application.</p>
+<section id="relevant-metadata-standards" class="level2">
+<h2 class="anchored" data-anchor-id="relevant-metadata-standards">Relevant metadata standards</h2>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/isa-tab.html">ISA-Tab</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/mibbi-minimum-information-biological-and-biomedical-investigations.html">MIBBI (Minimum Information for Biological and Biomedical Investigations)</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/nexus.html">NeXus</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/ome-xml-open-microscopy-environment-xml.html">OME-XML (Open Microscopy Environment XML)</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/pdbx-mmcif.html">PDBx/mmCIF (Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework)</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/cif-crystallographic-information-framework.html">CIF (Crystallographic Information Framework)</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/qudex-qualitative-data-exchange-format.html">QuDEx (Qualitative Data Exchange Format)</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/sdmx-statistical-data-and-metadata-exchange.html">SDMX (Statistical Data and Metadata Exchange)</a></p>
 </section>
-<section id="surfdrive-browser" class="level2">
-<h2 class="anchored" data-anchor-id="surfdrive-browser">SURFdrive browser</h2>
-<ol type="1">
-<li><p>Log into your SURFdrive account through the webbrowser: <a href="https://surfdrive.surf.nl">surfdrive.surf.nl/</a></p></li>
-<li><p>Select the share button:</p></li>
-</ol>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-EF8FDCD2.png" class="img-fluid" width="382"></p>
-<ol start="3" type="1">
-<li>Select ‘<strong>Public Links</strong>’ (students will not show up in the users section)</li>
-<li>Select ‘<strong>Create public link</strong>’</li>
-<li>You will see a pop up where you can adjust the link name of your folder, file folder permissions, add a password and select an expiration date of the link. Below you can send the link to an email address or you can retrieve the link later.</li>
-</ol>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-A2C02F3B.png" class="img-fluid"></p>
-<ol start="6" type="1">
-<li>Select ‘<strong>Share</strong>’ to continue.</li>
-</ol>
-<p>Your map now has a link image on it and you can copy, edit, share or delete your link:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-C4F1544F.png" class="img-fluid"></p>
-<p>See also <a href="https://www.youtube.com/watch?v=nwkJB5IRn4k">SURFdrive’s tutorial</a>.</p>
+<section id="potentially-relevant-metadata-standards" class="level2">
+<h2 class="anchored" data-anchor-id="potentially-relevant-metadata-standards">Potentially relevant metadata standards</h2>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/genome-metadata.html">Genome Metadata</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/cf-climate-and-forecast-metadata-conventions.html">CF (Climate and Forecast) Metadata Conventions</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/cim-common-information-model.html">CIM (Common Information Model)</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/csmd-cclrc-core-scientific-metadata-model.html">CSMD (Core Scientific Metadata Model)</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/dif-directory-interchange-format.html">DIF (Directory Interchange Format)</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/iso-19115.html">ISO 19115</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/observations-and-measurements.html">Observations and Measurements</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/cerif.html">CERIF (Common European Research Information Format)</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/data-package.html">Data Package</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/abcd-access-biological-collection-data.html">ABCD (Access to Biological Collection Data)</a></p>
+<p><a href="http://rd-alliance.github.io/metadata-directory/standards/mods.html">MODS (Metadata Object Description Schema)</a></p>
+<p><a href="https://github.com/edamontology/edam-bioimaging/blob/master/README.md">EDAM-bioimaging</a></p>
 </section>
-<section id="surfdrive-application" class="level2">
-<h2 class="anchored" data-anchor-id="surfdrive-application">SURFdrive application</h2>
-<p>You can also share your folders/files through the SURFdrive application. Right click on any folder or file that you have within your SURFdrive folder on your computer and select: SURFdrive &gt; Share . You will see this pop up window:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-09D11D36.png" class="img-fluid"></p>
-<p>Through ‘<strong>Users and Groups</strong>’ you can directly share your files with colleagues that are based at Dutch institutes by typing in their names or email addresses.</p>
-<p>You can also generate ‘<strong>Public Links</strong>’ by selecting ‘<strong>create new</strong>’ and ‘<strong>create</strong>’. Don’t forget to set a password for the link and an expiration date if needed. Once you have created this link you can copy it through right clicking the file: SURFdrive &gt; Copy public link to clipboard.</p>
-<p><em>Note that your SURFdrive application has to be running in the background to be able to generate and copy these links.</em></p>
-
-
-</section>
-
- ]]></description>
-  <category>Storage</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/SURFdrive.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Data Documentation</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This post provides information about documentation, file naming and metadata.</p>
-<section id="documentation" class="level2">
-<h2 class="anchored" data-anchor-id="documentation">Documentation</h2>
-<ul>
-<li><p><a href="https://doi.org/10.5281/zenodo.1914401">Guide for data documentation</a></p></li>
-<li><p><a href="https://uf-repro.github.io/data-organization/slides.html">Data organisation in spreadsheets</a>&nbsp;(see also the <a href="https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary">Open Science Framework guidance</a>)</p></li>
-<li><p><a href="https://libguides.library.kent.edu/SPSS/Codebooks">Code Book</a></p></li>
-<li><p><a href="https://doi.org/10.1177/2515245920928007">Guide on how to create data dictionaries</a></p></li>
-<li><p>check the README post</p></li>
-</ul>
-</section>
-<section id="file-naming-convention" class="level2">
-<h2 class="anchored" data-anchor-id="file-naming-convention">File naming convention</h2>
-<p>Structure your file names and set up a template for this. It is very useful to start with the date (when the file was generated: YYYYMMDD) which will sort your files chronologically and also creates a unique identifier for each file. (It will be immediately clear if there are multiple files generated on the same day that will have to be given a version number –or “A, B”-, because otherwise overwriting would occurs if you store these files in the proper folder).</p>
-<p>Examples:<br>
-<strong>20190607_ImPhys_RDMTemplate_v001_eng</strong></p>
-<ul>
-<li><p>Date or date range of experiment: YYYYMMDD</p></li>
-<li><p>File type (or language such as the example above)</p></li>
-<li><p>Researcher name/initials</p></li>
-<li><p>Version number of file (v001, v002)</p></li>
-<li><p>Don’t make file names too long (30-70 characters should do the trick)</p></li>
-<li><p>Avoid special characters (?\!@*%{[&lt;&gt;) and spaces</p></li>
-</ul>
-<p>You can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean.</p>
-<section id="more-information-on-file-naming" class="level3">
-<h3 class="anchored" data-anchor-id="more-information-on-file-naming">More information on file naming</h3>
-<ul>
-<li><p><a href="https://speakerdeck.com/jennybc/how-to-name-files">Jenny Bryan’s ‘naming things’ presentation</a></p></li>
-<li><p><a href="https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247">8 step guide</a> on how to set up your file naming convention</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=u6MiDFvAs9w&amp;list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&amp;index=2">Danielle Navarro’s videos</a> about file naming and project structure</p></li>
-</ul>
-</section>
-<section id="bulk-renaming-tools-use-with-care" class="level3">
-<h3 class="anchored" data-anchor-id="bulk-renaming-tools-use-with-care">Bulk renaming tools (use with care!):</h3>
-<ul>
-<li><p>Windows: <a href="http://www.antp.be/software/renamer">Ant Renamer</a>, <a href="sourceforge.net/prpjects/renameit">RenameIT</a>, <a href="http://www.bulkrenameutility.co.uk/">Bulk Rename Utility</a></p></li>
-<li><p>Mac: <a href="https://renamer.com/">Renamer</a>, <a href="https://mrrsoftware.com/namechanger/">Name Changer</a></p></li>
-<li><p>Linux: <a href="https://gcmd.github.io/">GNOME Commander</a>, <a href="http://gprename.sourceforge.net/">GPRename</a></p></li>
-<li><p>Unix: Using the grep command to search for regular expressions</p></li>
-</ul>
-</section>
-</section>
-<section id="metadata" class="level2">
-<h2 class="anchored" data-anchor-id="metadata">Metadata</h2>
-<p>Metadata is information about your data, such as the title of the dataset, the date, creator(s) and keywords that describe the data. Metadata standards with defined fields ensure machine readability. To look for disciplinary standards you can use the resources below:</p>
-<p>• <a href="https://fairsharing.org/">FAIRsharing.org</a></p>
-<p>• <a href="https://rd-alliance.github.io/metadata-directory/standards/">Research Data Alliance metadata directory</a></p>
-<p>• <a href="http://www.dcc.ac.uk/resources/metadata-standards">Digital Curation Center</a></p>
-<section id="tools-available-for-metadata-creation" class="level3">
-<h3 class="anchored" data-anchor-id="tools-available-for-metadata-creation">Tools available for metadata creation:</h3>
-<p><a href="https://frictionlessdata.io/" class="uri">https://frictionlessdata.io/</a> create.frictionlessdata.io (Data Package Creator) (JSON) (or through Python, <a href="https://github.com/frictionlessdata/datapackage-pipelines">github.com/frictionlessdata/datapackage-pipelines</a>) (see <a href="https://www.youtube.com/watch?v=vZAi4OnfH-Q&amp;feature=youtu.be">this presentation on YouTube</a>)</p>
-</section>
-</section>
-<section id="physical-samples" class="level2">
-<h2 class="anchored" data-anchor-id="physical-samples">Physical samples</h2>
-<p>Reference your samples: dates in notebooks + supplier’s name/code</p>
-<p>Add any relevant notes:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/images/paste-C1DEDF1E.png" class="img-fluid figure-img" alt="An excel sheet with physical sample organisation. The first column describes sample names, the second the accompanying data in the labbook, the third column the amount of samples left (if there are multiple), the fourth one is the sample sizes and the last column contains any notes about the sample."></p>
-<p></p><figcaption class="figure-caption">(copyright by Marta Teperek)</figcaption><p></p>
-</figure>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Publishing articles in 2021</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="publishing-articles-in-2021" class="level2">
-<h2 class="anchored" data-anchor-id="publishing-articles-in-2021">Publishing articles in 2021</h2>
-<p>This post is based on an earlier <a href="https://openworking.wordpress.com/2020/11/19/publishing-articles-in-2021/">blogpost</a>.</p>
-<p><strong>Plan S</strong>, an initiative for open access science publishing launched in 2018, requires researchers who are funded by signatories such as the Dutch Research Council (<strong>NWO</strong>) to publish in open repositories/journals by 2021. The European Commission is a supporter of Plan S and has similar requirements for their <strong>Horizon Europe</strong> projects.</p>
-</section>
-<section id="nwo-projects-which-are-funded-by-calls-from-1st-of-jan-2021-onward-and-horizon-europe-projects-have-the-following-requirements" class="level2">
-<h2 class="anchored" data-anchor-id="nwo-projects-which-are-funded-by-calls-from-1st-of-jan-2021-onward-and-horizon-europe-projects-have-the-following-requirements">NWO projects which are funded by calls from 1st of Jan 2021 onward and Horizon Europe projects* have the following requirements:</h2>
-<ul>
-<li><p>Articles should be Open Access upon publication<strong>: No embargo period</strong> is allowed.</p>
-<ul>
-<li>Books and book chapters are still beyond the scope of Plan S. NWO allows an embargo period of 12 months for these research outputs.</li>
-</ul></li>
-<li><p>Authors should <strong>retain copyright</strong>.</p></li>
-<li><p>Authors should use a <strong>CC-BY license</strong> in order to allow as much reuse of scholarly publications as possible.</p>
-<ul>
-<li><p>For books and book chapters CC-BY-ND/NC is still allowed.</p></li>
-<li><p>NWO allows exceptions for CC-BY-ND for articles.</p></li>
-<li><p>See the <a href="https://creativecommons.org/licenses/">Creative Commons website</a> for more information about these licenses.</p></li>
-</ul></li>
-<li><p>You can <strong>use project funding</strong> for Article Processing Charges but:</p>
-<ul>
-<li><p>For <strong>NWO</strong> the journal needs to be registered in the <a href="http://doaj.org/">Directory of Open Access Journals</a>. If the journal is not registered in this directory you can still publish in the journal but you cannot use funding for the fees.</p></li>
-<li><p>For <strong>Horizon Europe</strong> you are eligible for funding if the article is published in a full open access venue (hybrid journals are not allowed).</p></li>
-</ul>
-<!-- -->
-<ul>
-<li>See also the TU Delft <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">Open Access Fund</a>!</li>
-</ul></li>
-<li><p>The manuscript needs to be <strong>peer reviewed</strong>. Preferably the Version of Record from the publisher is made available, but the Author Accepted Manuscript (postprint that is peer reviewed but not yet formatted by the journal) is also accepted.</p></li>
-<li><p><strong>Compliance is monitored</strong> by NWO/Horizon Europe.</p></li>
-</ul>
-<p>A first version of the <a href="http://www.journalcheckertool.org"><strong>Journal Checker Tool</strong></a>is now available, so that you can now easily check yourself whether your preferred journal is in compliance with Plan S!</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/images/paste-9536397F.png" class="img-fluid"></p>
-</section>
-<section id="researchers-at-dutch-institutes-have-several-options-to-publish-open-access-for-plan-s" class="level2">
-<h2 class="anchored" data-anchor-id="researchers-at-dutch-institutes-have-several-options-to-publish-open-access-for-plan-s">Researchers at Dutch institutes have <strong>several options to publish Open Access for Plan S</strong>:</h2>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/https:/openworking.files.wordpress.com/2020/11/journalchecker2-1.jpg?w=396" class="img-fluid" alt=""></p>
-<ul>
-<li><p>Thanks to <strong>deals</strong> (transformative agreements) with the bigger publishers, you do not have to pay Article Processing Fees for publishing open access with, for example, Elsevier (<a href="https://www.scienceguide.nl/2020/06/vooral-elsevier-profiteert-van-nieuwe-open-science-deal/">at a national cost of €80,5 million over 5 years</a>). You can check whether you can publish open access at no additional costs to you using the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser"><strong>Journal Browser</strong></a>.</p></li>
-<li><p>You can find <strong>open access journals</strong> using the <a href="http://doaj.org/">Directory of Open Access Journals</a>.</p></li>
-<li><p>You can <strong>archive a postprint</strong> using repositories/preprint servers: Check <a href="https://v2.sherpa.ac.uk/romeo/">Sherpa/Romeo</a> to see which version of the manuscript you can make available and if they allow for immediate open access (if there is an embargo period required this route is not Plan S compliant!).</p></li>
-<li><p><a href="https://open-research-europe.ec.europa.eu/">Horizon Europe is developing an <strong>Open Access Platform</strong></a> where their projects can choose to publish in order to make articles freely available.</p></li>
-<li><p>You can use the <a href="https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing/"><strong>TU Delft Open Publishing Platform</strong></a>: <a href="https://journals.open.tudelft.nl/thes">The Evolving Scholar</a> is now live and open for submissions!</p></li>
-</ul>
-</section>
-<section id="if-you-would-like-to-make-your-work-available-from-projects-before-2021-or-if-youre-not-funded-by-nwohorizon-europe-you-can-also-make-use-of-these-additional-options" class="level2">
-<h2 class="anchored" data-anchor-id="if-you-would-like-to-make-your-work-available-from-projects-before-2021-or-if-youre-not-funded-by-nwohorizon-europe-you-can-also-make-use-of-these-additional-options">If you would like to <strong>make your work available from projects before 2021</strong> (or if you're not funded by NWO/Horizon Europe) you can also make use of these additional options:</h2>
-<ul>
-<li><p>Through the project <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care">'You Share, We Take Care'</a> you can make articles and book chapters published from 2018 onwards available after an embargo period of six months. You can now <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care/participation">participate through this online form</a>!</p></li>
-<li><p>You can always post a postprint using repositories/preprint servers: Check <a href="https://v2.sherpa.ac.uk/romeo/">Sherpa/Romeo</a> to see which version of the manuscript you can make available and for the length of embargo periods.</p></li>
-</ul>
-<p><strong>Resources that go into more detail:</strong></p>
-<p><a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/Library%20voor%20wetenschappers/Publiceren%20en%20verspreiden/OPEN%20SCIENCE%20TUD%20DEF.pdf">TU Delft Open Access Infographic</a><br>
-<a href="https://ec.europa.eu/research/openscience/index.cfm?pg=openaccess">Horizon Europe – Open Access</a><br>
-<a href="https://www.nwo.nl/en/implementation-guidelines-plan-s">NWO Plan S Implementation Guidelines</a><br>
-<a href="https://www.youtube.com/watch?v=OCfRV-8MYto">KNAW Webinar Implementation of Plan S</a><br>
-<a href="https://101innovations.wordpress.com/2019/06/15/nine-routes-towards-plan-s-compliance-updated/">Nine routes towards Plan S compliance</a><br>
-<a href="https://docs.google.com/spreadsheets/d/1XODQVAfxpRgCBdeXmqWSmghIoAIBBi5R5P_DBZINY5U/edit#gid=0">Open Access policies for Dutch researchers</a><br>
-<a href="https://www.youtube.com/watch?v=0YSqUNF_5wY">What will change in Horizon Europe?</a><br>
-<a href="https://dariahopen.hypotheses.org/968">Open Science in Horizon Europe: what to expect?</a><br>
-<a href="http://www.openaccess.nl">Open-Access.nl</a></p>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+<p>Repositories</p>
+<p><a href="https://idr.openmicroscopy.org/"><strong>IDR</strong></a></p>
+<p><a href="http://www.ddbj.nig.ac.jp/">DNA DataBank of Japan (DDBJ)</a></p>
+<p><a href="http://www.ebi.ac.uk/ena/">European Nucleotide Archive (ENA)</a></p>
+<p><a href="http://www.ncbi.nlm.nih.gov/genbank/">GenBank</a></p>
+<p><a href="http://www.ncbi.nlm.nih.gov/snp">dbSNP</a></p>
+<p><a href="https://www.ebi.ac.uk/eva/"><strong>European Variation Archive (EVA)</strong></a></p>
+<p><a href="http://www.ncbi.nlm.nih.gov/dbvar/">dbVar</a></p>
+<p><a href="http://www.ebi.ac.uk/dgva/">Database of Genomic Variants Archive (DGVa)</a></p>
+<p><a href="http://www.ebi.ac.uk/metagenomics">EBI Metagenomics</a></p>
+<p><a href="http://www.ncbi.nlm.nih.gov/Traces/home/">NCBI Trace Archive</a></p>
+<p><a href="http://www.ncbi.nlm.nih.gov/sra"><strong>NCBI Sequence Read Archive (SRA)</strong></a></p>
+<p><a href="http://www.ncbi.nlm.nih.gov/assembly">NCBI Assembly</a></p>
+<p><a href="http://data.sbgrid.org/">Structural Biology Data Grid</a></p>
+<p><a href="http://wwpdb.org/">Worldwide Protein Data Bank (wwPDB)</a></p>
+<p><a href="http://www.uniprot.org">UniProtKB</a></p>
+<p><a href="http://www.bmrb.wisc.edu/">Biological Magnetic Resonance Data Bank (BMRB)</a></p>
+<p><a href="http://www.emdatabank.org/">Electron Microscopy Data Bank (EMDB)</a></p>
+<p><a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/"><strong>EMPIAR</strong></a></p>
 
 
 </section>
 
  ]]></description>
   <category>Open Data</category>
-  <category>Data Management Plan</category>
-  <category>Open Software</category>
+  <category>Research Data Management</category>
   <category>FAIR</category>
-  <category>Plan S</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/index.html</guid>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-TNW/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/Plan-S.png" medium="image" type="image/png" height="72" width="144"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-TNW/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Readme files</title>
+  <title>Mistakes</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/mistakes/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="how-to-set-up-your-readme-file" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your readme file</h2>
-<p>A readme file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A readme file is generally submitted when sharing data and is the landing page of your software repository.</p>
-<p>Readme text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used, etc.). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why readme files are important and how you can set up your own readme files.</p>
-</section>
-<section id="readme-for-data" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-data">Readme for data</h2>
-<p>Best practices</p>
-<ul>
-<li><p>Create one readme file for each dataset</p></li>
-<li><p>Name the file README</p></li>
-<li><p>Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.</p></li>
-</ul>
-<p>Example templates for data:</p>
-<ul>
-<li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
-<li><p><a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf).</p></li>
-<li><p><a href="https://datamanagement.hms.harvard.edu/collect/readme-files" class="uri">https://datamanagement.hms.harvard.edu/collect/readme-files</a></p></li>
-</ul>
-</section>
-<section id="readme-for-software" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-software">Readme for software</h2>
-<p>See this <a href="https://www.youtube.com/watch?v=Jgv34Kwgga8&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=7">short presentation by Carlos Martinez</a> about the importance of README files for software.</p>
-<p>Example templates for software:</p>
-<ul>
-<li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
-<li><p><a href="https://github.com/benmarwick/rrtools" class="uri">https://github.com/benmarwick/rrtools</a></p></li>
-<li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
-<li><p><a href="https://ha0ye.github.io/CW21-README-tips/template_README.html" class="uri">https://ha0ye.github.io/CW21-README-tips/template_README.html</a></p></li>
-<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
-</ul>
+<section id="mistakes" class="level2">
+<h2 class="anchored" data-anchor-id="mistakes">Mistakes</h2>
+<p><a href="https://www.carleton.edu/perception-lab/open-science/error-tight/">Error Tight</a> – Exercises for lab groups to prevent research mistakes</p>
 
 
 </section>
 
  ]]></description>
-  <category>Open Data</category>
-  <category>Open Software</category>
-  <category>FAIR</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</guid>
+  <category>Mistakes</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/mistakes/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/mistakes/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Data Citation</title>
@@ -462,44 +309,59 @@ Examples data availability statements
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Digital Competence Center</title>
+  <title>Open Science</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>TU Delft has a Digital Competence Center (DCC) which consists of four Research Software Engineers, two Data Managers and a High Performance Computing Data Steward.</p>
-<p>The DCC helps you with practically applying the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a> to your research data and code.</p>
-<p>The DCC helps any researcher at the TU Delft in the following two ways:</p>
-<ol type="1">
-<li><p><strong>Under 30 hour requests</strong></p>
+<section id="open-science" class="level2">
+<h2 class="anchored" data-anchor-id="open-science">Open Science</h2>
+<p><strong>Open Science</strong> is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.</p>
+<p><strong>Open Science</strong> is <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en">defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO)</a> as <em>“an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”</em></p>
+<p>Several concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.</p>
+</section>
+<section id="benefits-of-open-science" class="level2">
+<h2 class="anchored" data-anchor-id="benefits-of-open-science">Benefits of Open Science</h2>
 <ul>
-<li><p>code reviews</p></li>
-<li><p>repository reviews</p></li>
-<li><p>quick data questions</p></li>
-<li><p>tips &amp; consults</p></li>
-</ul></li>
-<li><p><strong>Dedicated part-time support</strong></p>
-<ul>
-<li><p>a Data Manager or Research Software engineer joins a research group for up to 340 hours during 6 months</p></li>
-<li><p>dependent on FAIR value add and expertise of DCC members</p></li>
-<li><p>dedicated application form on DCC (next one likely September 2022)</p></li>
-</ul></li>
-</ol>
-<p>Support can look like:</p>
-<ul>
-<li><p>Find suitable solutions for data storage, access, back-up and automated processing</p></li>
-<li><p>Package, distribute and release research software</p></li>
-<li><p>Set up collaborative data and software development workflows with version control</p></li>
-<li><p>Implement automated software testing for continuous integration</p></li>
+<li><p>Increased impact and visibility: Research will be accessible to anyone and it is easier to build on previous work</p></li>
+<li><p>Maximise research effort by making research and <a href="https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html">educational</a> outputs reusable</p></li>
+<li><p>Improving the quality of research through more transparency (facilitating reproducibility) which will increase trust in research</p></li>
+<li><p>Increased citizen engagement with and participation in research</p></li>
+<li><p>Accelerates discovery and provides opportunity for collaborations</p></li>
+<li><p>Recognition for all contributions to research</p></li>
 </ul>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<p>The Dutch position paper ‘<a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone’s talent</a>’ aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.</p>
+</section>
+<section id="tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft">TU Delft</h2>
+<p>TU Delft has a long history of engagement with Open Science and it is TU Delft’s ambition to be a frontrunner, as reflected in its <a href="https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme">Open Science Programme 2020-2024, Research and Education in the Open Era</a> and the TU Delft Strategic Framework 2018-2024, with “openness” as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC%20EN.pdf">Code of Conduct</a>. TU Delft established several policies and framework that fall under the Open Science umbrella:</p>
+<p>• TU Delft Policy on <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf">Open Access Publishing</a> (2016)</p>
+<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf">Research Data Policy Framework</a> (2019, 2021)</p>
+<p>• TU Delft <a href="https://doi.org/10.5281/zenodo.4629662">Research Software Policy</a> (2021)</p>
+<p>• TU Delft <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/diversity-policy">Diversity &amp; Inclusion Office</a> (2021)</p>
+<p>• TU Delft <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Vision%20on%20Integrity%202018-2024.pdf">Vision on Integrity</a> 2018-2024</p>
+<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen%20en%20Waarderen%20-%20recognition%20and%20reward/TU%20Delft%20Recognition%20and%20Rewards%20perspective%20def.pdf">Recognition &amp; Rewards Perspective</a> 2021 – 2024</p>
+<p>• TU Delft <a href="https://doi.org/10.4233/uuid:68a07efc-fc4d-4a57-8e93-88a3af37465a">Policy on Open Educational Resources</a> (2021)</p>
+<p>You can find more information on <a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a>.</p>
+</section>
+<section id="the-netherlands" class="level2">
+<h2 class="anchored" data-anchor-id="the-netherlands">the Netherlands</h2>
 <ul>
-<li><p><a href="https://dcc.tudelft.nl/">Digital Competence Center Website</a></p></li>
-<li><p><a href="https://tu-delft-dcc.github.io">DCC guides</a></p></li>
+<li><p>In the Netherlands Open Science is an important component of the <a href="https://recognitionrewards.nl/">Recognition &amp; Rewards</a> movement.</p></li>
+<li><p>Dutch research funder <a href="https://www.nwo.nl/en/open-science">NWO supports</a> new forms of evaluation and requires 100% Open Access.</p></li>
+<li><p>The <a href="https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf">‘Strategic Evaluation Protocol’</a> that universities use to periodically evaluate their research has a strong focus Open Science practices and outputs.</p></li>
+</ul>
+</section>
+<section id="internationally" class="level2">
+<h2 class="anchored" data-anchor-id="internationally">Internationally</h2>
+<ul>
+<li><p>The <a href="https://sfdora.org/">San Francisco Declaration on Research Assessment</a> (to which all Dutch universities adhere to).</p></li>
+<li><p>The <a href="https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/reforming-research-assessment-agreement-now-final-2022-07-20_en">‘Reforming research assessment’</a> agreement by the European Union. Open Science has for years been promoted by the European Commission.</p></li>
+<li><p>UNESCO adopted a <a href="https://en.unesco.org/science-sustainable-future/open-science/recommendation">recommendation</a> on Open Science.</p></li>
+<li><p>The <a href="https://cen.acs.org/policy/publishing/White-House-mandates-immediate-open/100/web/2022/08#:~:text=All%20US%20federally%2Dfunded%20research,31%2C%202025.">White House also committed</a> the United States to Open Science, which pushes for Open Access, and FAIR data and code sharing.</p></li>
 </ul>
 
 
@@ -508,9 +370,92 @@ Examples data availability statements
  ]]></description>
   <category>Open Science</category>
   <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</guid>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/dcc.png" medium="image" type="image/png" height="92" width="144"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Data Documentation</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post provides information about documentation, file naming and metadata.</p>
+<section id="documentation" class="level2">
+<h2 class="anchored" data-anchor-id="documentation">Documentation</h2>
+<ul>
+<li><p><a href="https://doi.org/10.5281/zenodo.1914401">Guide for data documentation</a></p></li>
+<li><p><a href="https://uf-repro.github.io/data-organization/slides.html">Data organisation in spreadsheets</a>&nbsp;(see also the <a href="https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary">Open Science Framework guidance</a>)</p></li>
+<li><p><a href="https://libguides.library.kent.edu/SPSS/Codebooks">Code Book</a></p></li>
+<li><p><a href="https://doi.org/10.1177/2515245920928007">Guide on how to create data dictionaries</a></p></li>
+<li><p>check the README post</p></li>
+</ul>
+</section>
+<section id="file-naming-convention" class="level2">
+<h2 class="anchored" data-anchor-id="file-naming-convention">File naming convention</h2>
+<p>Structure your file names and set up a template for this. It is very useful to start with the date (when the file was generated: YYYYMMDD) which will sort your files chronologically and also creates a unique identifier for each file. (It will be immediately clear if there are multiple files generated on the same day that will have to be given a version number –or “A, B”-, because otherwise overwriting would occurs if you store these files in the proper folder).</p>
+<p>Examples:<br>
+<strong>20190607_ImPhys_RDMTemplate_v001_eng</strong></p>
+<ul>
+<li><p>Date or date range of experiment: YYYYMMDD</p></li>
+<li><p>File type (or language such as the example above)</p></li>
+<li><p>Researcher name/initials</p></li>
+<li><p>Version number of file (v001, v002)</p></li>
+<li><p>Don’t make file names too long (30-70 characters should do the trick)</p></li>
+<li><p>Avoid special characters (?\!@*%{[&lt;&gt;) and spaces</p></li>
+</ul>
+<p>You can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean.</p>
+<section id="more-information-on-file-naming" class="level3">
+<h3 class="anchored" data-anchor-id="more-information-on-file-naming">More information on file naming</h3>
+<ul>
+<li><p><a href="https://speakerdeck.com/jennybc/how-to-name-files">Jenny Bryan’s ‘naming things’ presentation</a></p></li>
+<li><p><a href="https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247">8 step guide</a> on how to set up your file naming convention</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=u6MiDFvAs9w&amp;list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&amp;index=2">Danielle Navarro’s videos</a> about file naming and project structure</p></li>
+</ul>
+</section>
+<section id="bulk-renaming-tools-use-with-care" class="level3">
+<h3 class="anchored" data-anchor-id="bulk-renaming-tools-use-with-care">Bulk renaming tools (use with care!):</h3>
+<ul>
+<li><p>Windows: <a href="http://www.antp.be/software/renamer">Ant Renamer</a>, <a href="sourceforge.net/prpjects/renameit">RenameIT</a>, <a href="http://www.bulkrenameutility.co.uk/">Bulk Rename Utility</a></p></li>
+<li><p>Mac: <a href="https://renamer.com/">Renamer</a>, <a href="https://mrrsoftware.com/namechanger/">Name Changer</a></p></li>
+<li><p>Linux: <a href="https://gcmd.github.io/">GNOME Commander</a>, <a href="http://gprename.sourceforge.net/">GPRename</a></p></li>
+<li><p>Unix: Using the grep command to search for regular expressions</p></li>
+</ul>
+</section>
+</section>
+<section id="metadata" class="level2">
+<h2 class="anchored" data-anchor-id="metadata">Metadata</h2>
+<p>Metadata is information about your data, such as the title of the dataset, the date, creator(s) and keywords that describe the data. Metadata standards with defined fields ensure machine readability. To look for disciplinary standards you can use the resources below:</p>
+<p>• <a href="https://fairsharing.org/">FAIRsharing.org</a></p>
+<p>• <a href="https://rd-alliance.github.io/metadata-directory/standards/">Research Data Alliance metadata directory</a></p>
+<p>• <a href="http://www.dcc.ac.uk/resources/metadata-standards">Digital Curation Center</a></p>
+<section id="tools-available-for-metadata-creation" class="level3">
+<h3 class="anchored" data-anchor-id="tools-available-for-metadata-creation">Tools available for metadata creation:</h3>
+<p><a href="https://frictionlessdata.io/" class="uri">https://frictionlessdata.io/</a> create.frictionlessdata.io (Data Package Creator) (JSON) (or through Python, <a href="https://github.com/frictionlessdata/datapackage-pipelines">github.com/frictionlessdata/datapackage-pipelines</a>) (see <a href="https://www.youtube.com/watch?v=vZAi4OnfH-Q&amp;feature=youtu.be">this presentation on YouTube</a>)</p>
+</section>
+</section>
+<section id="physical-samples" class="level2">
+<h2 class="anchored" data-anchor-id="physical-samples">Physical samples</h2>
+<p>Reference your samples: dates in notebooks + supplier’s name/code</p>
+<p>Add any relevant notes:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/images/paste-C1DEDF1E.png" class="img-fluid figure-img" alt="An excel sheet with physical sample organisation. The first column describes sample names, the second the accompanying data in the labbook, the third column the amount of samples left (if there are multiple), the fourth one is the sample sizes and the last column contains any notes about the sample."></p>
+<p></p><figcaption class="figure-caption">(copyright by Marta Teperek)</figcaption><p></p>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Managing and Sharing Data in 2021</title>
@@ -621,6 +566,295 @@ Examples data availability statements
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Software Citation</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Software citation is important to receive credit for software outputs and to ensure permanent references to the software.</p>
+<p>While platforms such as GitHub/GitLab/Bitbucket are great for reuse and collaboration, they are no long-term solutions for software preservation. Instead, a snapshot of the software should be shared using a data repository. This data repository will provide you with a persistent identifier, or DOI, which is key for making the code citable.</p>
+<p>Some data repositories, such as Zenodo and 4TU.ResearchData, have integrations with GitHub so that you can easily share a release of your software repositories.</p>
+<ul>
+<li><p><a href="https://guides.github.com/activities/citable-code/">Zenodo &amp; GitHub</a></p></li>
+<li><p><a href="https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account">Figshare &amp; GitHub</a></p></li>
+</ul>
+<p>Once you shared your software on a data repository and received a DOI, it is important to let others know how they should cite your data. If you’re reusing software of others, you should also properly cite their work.</p>
+<section id="cffinit" class="level2">
+<h2 class="anchored" data-anchor-id="cffinit">CFFinit</h2>
+<p>There is a tool that helps you create a CITATION.cff for your software: <a href="https://citation-file-format.github.io/cff-initializer-javascript"><strong>CFFinit</strong></a><strong>.</strong></p>
+</section>
+<section id="software-citation-how-to-format" class="level2">
+<h2 class="anchored" data-anchor-id="software-citation-how-to-format">Software citation: how to format?</h2>
+<p>The recommended format (<a href="https://doi.org/10.12688/f1000research.26932.1">Katz et al.&nbsp;2020</a>) for software citation is to include:</p>
+<p><strong>• Creator(s):</strong> the authors or project that developed the software.</p>
+<p>• <strong>Title:</strong> the name of the software.</p>
+<p>• <strong>Publication venue:</strong> the publication venue of the software, preferentially, an archive or repository that provides persistent identifiers.</p>
+<p>• <strong>Date</strong>: the date the software was published.</p>
+<p>• <strong>Identifier:</strong> a resolvable pointer to the software, preferentially, a PID that resolves to a landing page containing descriptive metadata about the software, similar to how a Digital Object Identifier (DOI) for a paper that points to a page about the paper rather than directly to a representation of the paper, such as the PDF.</p>
+<p>• <strong>Version</strong>: the identifier for the version of the software being referenced. If the version is unidentified or unknown, the date of access should be used.</p>
+<p>• <strong>Type</strong>: some citation styles (e.g., APA), require a bracketed description of the citation (e.g., [Computer software]) to be included.</p>
+<p>If a published article exists that describes the software, it should be cited as an additional reference.</p>
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example (APA):</strong> Developer, A. A., Developer, B. B., &amp; Developer, C. C. (yyyy) 1. Title of the software: Subtitle (Version #.#) 2. [Computer software] 3. Publisher 4. <a href="https://URL5" class="uri">https://URL5</a></p>
+<p>See <a href="https://doi.org/10.12688/f1000research.26932.1">Katz et al.&nbsp;2020</a>) for more examples.</p>
+</div>
+</div>
+</section>
+<section id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al.." class="level2">
+<h2 class="anchored" data-anchor-id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al..">Software Citation Checklist for Authors <a href="https://doi.org/10.5281/zenodo.3479199">by Neil Chue Hong et al.</a>.</h2>
+<ul>
+<li><p>Have I identified the software which makes a significant and specialised contribution to my academic work?</p></li>
+<li><p>Have I checked if the software has a recommended citation?</p>
+<ul>
+<li><p>If this is to a paper, have I also cited the software directly?</p></li>
+<li><p>If there’s no recommended citation, have I created as complete a citation as possible?</p>
+<ul>
+<li><p>Who created the software</p></li>
+<li><p>When it was created</p></li>
+<li><p>Title of the software (and version if available)</p></li>
+<li><p>Where the software can be accessed</p></li>
+</ul></li>
+</ul></li>
+<li><p>Have I referenced the software appropriately in my academic work, complying with any citation formatting guidelines?</p></li>
+</ul>
+</section>
+<section id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al." class="level2">
+<h2 class="anchored" data-anchor-id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al.">Software Citation Checklist for Developers <a href="https://doi.org/10.5281/zenodo.3482769">by Neil Chue Hong et al.</a></h2>
+<ul>
+<li><p>Have I assigned an appropriate <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/"><strong>license</strong></a> to my software?</p></li>
+<li><p>Have I <strong>described my software properly</strong>, using an appropriate metadata format, and included this metadata file with my software?</p>
+<ul>
+<li><p>Have I given my software a clear <strong>version number</strong>?</p></li>
+<li><p>Have I determined the <strong>authors to be credited</strong> for this release of my software, and included this in my metadata file?</p></li>
+</ul></li>
+<li><p>Have I procured a <strong>persistent identifier</strong> for this release of my software?</p></li>
+<li><p>Have I added my <strong>recommended citation</strong> to the documentation for my software?</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li>See also the posts on <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licensing</a>, <a href="https://estherplomp.github.io/TNW-OS-support/posts/good-enough-software/">good enough FAIR software</a></li>
+<li>For more information about the practicalities and timing in <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">linking your research outputs, see The Turing Way</a>.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Licenses</category>
+  <category>Software</category>
+  <category>Citation</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>SURFdrive sharing</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="sharing-data-with-surfdrive" class="level2">
+<h2 class="anchored" data-anchor-id="sharing-data-with-surfdrive">Sharing Data with SURFdrive</h2>
+<p>You can share data with SURFdrive through the 1) browser or the 2) application.</p>
+</section>
+<section id="surfdrive-browser" class="level2">
+<h2 class="anchored" data-anchor-id="surfdrive-browser">SURFdrive browser</h2>
+<ol type="1">
+<li><p>Log into your SURFdrive account through the webbrowser: <a href="https://surfdrive.surf.nl">surfdrive.surf.nl/</a></p></li>
+<li><p>Select the share button:</p></li>
+</ol>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-EF8FDCD2.png" class="img-fluid" width="382"></p>
+<ol start="3" type="1">
+<li>Select ‘<strong>Public Links</strong>’ (students will not show up in the users section)</li>
+<li>Select ‘<strong>Create public link</strong>’</li>
+<li>You will see a pop up where you can adjust the link name of your folder, file folder permissions, add a password and select an expiration date of the link. Below you can send the link to an email address or you can retrieve the link later.</li>
+</ol>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-A2C02F3B.png" class="img-fluid"></p>
+<ol start="6" type="1">
+<li>Select ‘<strong>Share</strong>’ to continue.</li>
+</ol>
+<p>Your map now has a link image on it and you can copy, edit, share or delete your link:</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-C4F1544F.png" class="img-fluid"></p>
+<p>See also <a href="https://www.youtube.com/watch?v=nwkJB5IRn4k">SURFdrive’s tutorial</a>.</p>
+</section>
+<section id="surfdrive-application" class="level2">
+<h2 class="anchored" data-anchor-id="surfdrive-application">SURFdrive application</h2>
+<p>You can also share your folders/files through the SURFdrive application. Right click on any folder or file that you have within your SURFdrive folder on your computer and select: SURFdrive &gt; Share . You will see this pop up window:</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-09D11D36.png" class="img-fluid"></p>
+<p>Through ‘<strong>Users and Groups</strong>’ you can directly share your files with colleagues that are based at Dutch institutes by typing in their names or email addresses.</p>
+<p>You can also generate ‘<strong>Public Links</strong>’ by selecting ‘<strong>create new</strong>’ and ‘<strong>create</strong>’. Don’t forget to set a password for the link and an expiration date if needed. Once you have created this link you can copy it through right clicking the file: SURFdrive &gt; Copy public link to clipboard.</p>
+<p><em>Note that your SURFdrive application has to be running in the background to be able to generate and copy these links.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Storage</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/SURFdrive.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Publishing articles in 2021</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="publishing-articles-in-2021" class="level2">
+<h2 class="anchored" data-anchor-id="publishing-articles-in-2021">Publishing articles in 2021</h2>
+<p>This post is based on an earlier <a href="https://openworking.wordpress.com/2020/11/19/publishing-articles-in-2021/">blogpost</a>.</p>
+<p><strong>Plan S</strong>, an initiative for open access science publishing launched in 2018, requires researchers who are funded by signatories such as the Dutch Research Council (<strong>NWO</strong>) to publish in open repositories/journals by 2021. The European Commission is a supporter of Plan S and has similar requirements for their <strong>Horizon Europe</strong> projects.</p>
+</section>
+<section id="nwo-projects-which-are-funded-by-calls-from-1st-of-jan-2021-onward-and-horizon-europe-projects-have-the-following-requirements" class="level2">
+<h2 class="anchored" data-anchor-id="nwo-projects-which-are-funded-by-calls-from-1st-of-jan-2021-onward-and-horizon-europe-projects-have-the-following-requirements">NWO projects which are funded by calls from 1st of Jan 2021 onward and Horizon Europe projects* have the following requirements:</h2>
+<ul>
+<li><p>Articles should be Open Access upon publication<strong>: No embargo period</strong> is allowed.</p>
+<ul>
+<li>Books and book chapters are still beyond the scope of Plan S. NWO allows an embargo period of 12 months for these research outputs.</li>
+</ul></li>
+<li><p>Authors should <strong>retain copyright</strong>.</p></li>
+<li><p>Authors should use a <strong>CC-BY license</strong> in order to allow as much reuse of scholarly publications as possible.</p>
+<ul>
+<li><p>For books and book chapters CC-BY-ND/NC is still allowed.</p></li>
+<li><p>NWO allows exceptions for CC-BY-ND for articles.</p></li>
+<li><p>See the <a href="https://creativecommons.org/licenses/">Creative Commons website</a> for more information about these licenses.</p></li>
+</ul></li>
+<li><p>You can <strong>use project funding</strong> for Article Processing Charges but:</p>
+<ul>
+<li><p>For <strong>NWO</strong> the journal needs to be registered in the <a href="http://doaj.org/">Directory of Open Access Journals</a>. If the journal is not registered in this directory you can still publish in the journal but you cannot use funding for the fees.</p></li>
+<li><p>For <strong>Horizon Europe</strong> you are eligible for funding if the article is published in a full open access venue (hybrid journals are not allowed).</p></li>
+</ul>
+<!-- -->
+<ul>
+<li>See also the TU Delft <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">Open Access Fund</a>!</li>
+</ul></li>
+<li><p>The manuscript needs to be <strong>peer reviewed</strong>. Preferably the Version of Record from the publisher is made available, but the Author Accepted Manuscript (postprint that is peer reviewed but not yet formatted by the journal) is also accepted.</p></li>
+<li><p><strong>Compliance is monitored</strong> by NWO/Horizon Europe.</p></li>
+</ul>
+<p>A first version of the <a href="http://www.journalcheckertool.org"><strong>Journal Checker Tool</strong></a>is now available, so that you can now easily check yourself whether your preferred journal is in compliance with Plan S!</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/images/paste-9536397F.png" class="img-fluid"></p>
+</section>
+<section id="researchers-at-dutch-institutes-have-several-options-to-publish-open-access-for-plan-s" class="level2">
+<h2 class="anchored" data-anchor-id="researchers-at-dutch-institutes-have-several-options-to-publish-open-access-for-plan-s">Researchers at Dutch institutes have <strong>several options to publish Open Access for Plan S</strong>:</h2>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/https:/openworking.files.wordpress.com/2020/11/journalchecker2-1.jpg?w=396" class="img-fluid" alt=""></p>
+<ul>
+<li><p>Thanks to <strong>deals</strong> (transformative agreements) with the bigger publishers, you do not have to pay Article Processing Fees for publishing open access with, for example, Elsevier (<a href="https://www.scienceguide.nl/2020/06/vooral-elsevier-profiteert-van-nieuwe-open-science-deal/">at a national cost of €80,5 million over 5 years</a>). You can check whether you can publish open access at no additional costs to you using the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser"><strong>Journal Browser</strong></a>.</p></li>
+<li><p>You can find <strong>open access journals</strong> using the <a href="http://doaj.org/">Directory of Open Access Journals</a>.</p></li>
+<li><p>You can <strong>archive a postprint</strong> using repositories/preprint servers: Check <a href="https://v2.sherpa.ac.uk/romeo/">Sherpa/Romeo</a> to see which version of the manuscript you can make available and if they allow for immediate open access (if there is an embargo period required this route is not Plan S compliant!).</p></li>
+<li><p><a href="https://open-research-europe.ec.europa.eu/">Horizon Europe is developing an <strong>Open Access Platform</strong></a> where their projects can choose to publish in order to make articles freely available.</p></li>
+<li><p>You can use the <a href="https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing/"><strong>TU Delft Open Publishing Platform</strong></a>: <a href="https://journals.open.tudelft.nl/thes">The Evolving Scholar</a> is now live and open for submissions!</p></li>
+</ul>
+</section>
+<section id="if-you-would-like-to-make-your-work-available-from-projects-before-2021-or-if-youre-not-funded-by-nwohorizon-europe-you-can-also-make-use-of-these-additional-options" class="level2">
+<h2 class="anchored" data-anchor-id="if-you-would-like-to-make-your-work-available-from-projects-before-2021-or-if-youre-not-funded-by-nwohorizon-europe-you-can-also-make-use-of-these-additional-options">If you would like to <strong>make your work available from projects before 2021</strong> (or if you're not funded by NWO/Horizon Europe) you can also make use of these additional options:</h2>
+<ul>
+<li><p>Through the project <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care">'You Share, We Take Care'</a> you can make articles and book chapters published from 2018 onwards available after an embargo period of six months. You can now <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care/participation">participate through this online form</a>!</p></li>
+<li><p>You can always post a postprint using repositories/preprint servers: Check <a href="https://v2.sherpa.ac.uk/romeo/">Sherpa/Romeo</a> to see which version of the manuscript you can make available and for the length of embargo periods.</p></li>
+</ul>
+<p><strong>Resources that go into more detail:</strong></p>
+<p><a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/Library%20voor%20wetenschappers/Publiceren%20en%20verspreiden/OPEN%20SCIENCE%20TUD%20DEF.pdf">TU Delft Open Access Infographic</a><br>
+<a href="https://ec.europa.eu/research/openscience/index.cfm?pg=openaccess">Horizon Europe – Open Access</a><br>
+<a href="https://www.nwo.nl/en/implementation-guidelines-plan-s">NWO Plan S Implementation Guidelines</a><br>
+<a href="https://www.youtube.com/watch?v=OCfRV-8MYto">KNAW Webinar Implementation of Plan S</a><br>
+<a href="https://101innovations.wordpress.com/2019/06/15/nine-routes-towards-plan-s-compliance-updated/">Nine routes towards Plan S compliance</a><br>
+<a href="https://docs.google.com/spreadsheets/d/1XODQVAfxpRgCBdeXmqWSmghIoAIBBi5R5P_DBZINY5U/edit#gid=0">Open Access policies for Dutch researchers</a><br>
+<a href="https://www.youtube.com/watch?v=0YSqUNF_5wY">What will change in Horizon Europe?</a><br>
+<a href="https://dariahopen.hypotheses.org/968">Open Science in Horizon Europe: what to expect?</a><br>
+<a href="http://www.openaccess.nl">Open-Access.nl</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>Data Management Plan</category>
+  <category>Open Software</category>
+  <category>FAIR</category>
+  <category>Plan S</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/Plan-S.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>Reproducibility checklist</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post is a shortened version of the <a href="https://osf.io/phmce/">Agile Reproducibility Checklist</a> for articles that you would like to submit (or review).</p>
+<section id="for-all-datasets-includedproduced-in-the-paper-check-if-data" class="level2">
+<h2 class="anchored" data-anchor-id="for-all-datasets-includedproduced-in-the-paper-check-if-data">For all datasets included/produced in the paper, check if data:</h2>
+<ul>
+<li><p>Is provided in a non-proprietary format</p></li>
+<li><p>Is documented for third parties to reuse</p></li>
+<li><p>Is accessible in a public repository and has an open data <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licence</a></p></li>
+</ul>
+</section>
+<section id="for-all-software-toolslibrariespackages-and-computational-workflows-includedproduced-check-if" class="level2">
+<h2 class="anchored" data-anchor-id="for-all-software-toolslibrariespackages-and-computational-workflows-includedproduced-check-if">For all software tools/libraries/packages and computational workflows included/produced, check if:</h2>
+<ul>
+<li><p>Reproduction steps are explained in a README (plain text file), flowchart, or script</p></li>
+<li><p>Computational environments (including hardware) are documented or provided</p></li>
+<li><p>Versions of relevant software components (libraries, packages) are provided</p></li>
+<li><p>All parameters and expected execution times for the computational workflow are provided</p></li>
+<li><p>Software developed by the authors is available in a public repository and has an open licence</p></li>
+<li><p>There is a clear connection between tables, figures, maps, and statistical values and the data and code that they are based on, e.g., using file names or documentation in the README</p></li>
+</ul>
+</section>
+<section id="in-the-data-and-software-availability-section" class="level2">
+<h2 class="anchored" data-anchor-id="in-the-data-and-software-availability-section">In the Data and Software Availability section:</h2>
+<ul>
+<li><p>Include data/software availability statements (see <a href="https://the-turing-way.netlify.app/communication/citable/citable-cite.html?#data-availability-statement-examples">The Turing Way</a> for examples)</p></li>
+<li><p>Include the reasons, if any, for not being able to share (parts of) data or code</p></li>
+</ul>
+</section>
+<section id="for-all-data-and-software" class="level2">
+<h2 class="anchored" data-anchor-id="for-all-data-and-software">For all data and software:</h2>
+<ul>
+<li><p>All datasets and code (used or mentioned) are assigned DOIs</p></li>
+<li><p>Datasets and code are cited throughout the paper</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/software-citation/">Software citation checklist</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Reproducibility</category>
+  <category>Checklist</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/agile.png" medium="image" type="image/png" height="37" width="144"/>
 </item>
 <item>
   <title>Open Science Buffet</title>
@@ -763,404 +997,193 @@ Examples data availability statements
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-buffet/OS-buffet.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 <item>
-  <title>Software Citation</title>
+  <title>Data organisation</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>Software citation is important to receive credit for software outputs and to ensure permanent references to the software.</p>
-<p>While platforms such as GitHub/GitLab/Bitbucket are great for reuse and collaboration, they are no long-term solutions for software preservation. Instead, a snapshot of the software should be shared using a data repository. This data repository will provide you with a persistent identifier, or DOI, which is key for making the code citable.</p>
-<p>Some data repositories, such as Zenodo and 4TU.ResearchData, have integrations with GitHub so that you can easily share a release of your software repositories.</p>
-<ul>
-<li><p><a href="https://guides.github.com/activities/citable-code/">Zenodo &amp; GitHub</a></p></li>
-<li><p><a href="https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account">Figshare &amp; GitHub</a></p></li>
-</ul>
-<p>Once you shared your software on a data repository and received a DOI, it is important to let others know how they should cite your data. If you’re reusing software of others, you should also properly cite their work.</p>
-<section id="cffinit" class="level2">
-<h2 class="anchored" data-anchor-id="cffinit">CFFinit</h2>
-<p>There is a tool that helps you create a CITATION.cff for your software: <a href="https://citation-file-format.github.io/cff-initializer-javascript"><strong>CFFinit</strong></a><strong>.</strong></p>
+<section id="folder-structures" class="level2">
+<h2 class="anchored" data-anchor-id="folder-structures">Folder structures</h2>
+<p>Examples</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/images/paste-480EB3EE.png" class="img-fluid" width="589"></p>
+<p><a href="http://nikola.me/folder_structure.html" class="uri">http://nikola.me/folder_structure.html</a> (folder structure download available on the website)</p>
+<p><a href="https://doi.org/10.5281/zenodo.4410128">Folder structure template for research repositories</a></p>
+<p>Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don't belong or stored in large quantities in a single folder (which makes it hard to find the files).</p>
+<p>Make sure the folder structure is clear: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.</p>
+<p>See also: <a href="https://zapier.com/blog/organize-files-folders/">Find Files Faster: How to Organize Files and Folders</a></p>
 </section>
-<section id="software-citation-how-to-format" class="level2">
-<h2 class="anchored" data-anchor-id="software-citation-how-to-format">Software citation: how to format?</h2>
-<p>The recommended format (<a href="https://doi.org/10.12688/f1000research.26932.1">Katz et al.&nbsp;2020</a>) for software citation is to include:</p>
-<p><strong>• Creator(s):</strong> the authors or project that developed the software.</p>
-<p>• <strong>Title:</strong> the name of the software.</p>
-<p>• <strong>Publication venue:</strong> the publication venue of the software, preferentially, an archive or repository that provides persistent identifiers.</p>
-<p>• <strong>Date</strong>: the date the software was published.</p>
-<p>• <strong>Identifier:</strong> a resolvable pointer to the software, preferentially, a PID that resolves to a landing page containing descriptive metadata about the software, similar to how a Digital Object Identifier (DOI) for a paper that points to a page about the paper rather than directly to a representation of the paper, such as the PDF.</p>
-<p>• <strong>Version</strong>: the identifier for the version of the software being referenced. If the version is unidentified or unknown, the date of access should be used.</p>
-<p>• <strong>Type</strong>: some citation styles (e.g., APA), require a bracketed description of the citation (e.g., [Computer software]) to be included.</p>
-<p>If a published article exists that describes the software, it should be cited as an additional reference.</p>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Example (APA):</strong> Developer, A. A., Developer, B. B., &amp; Developer, C. C. (yyyy) 1. Title of the software: Subtitle (Version #.#) 2. [Computer software] 3. Publisher 4. <a href="https://URL5" class="uri">https://URL5</a></p>
-<p>See <a href="https://doi.org/10.12688/f1000research.26932.1">Katz et al.&nbsp;2020</a>) for more examples.</p>
-</div>
-</div>
-</section>
-<section id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al.." class="level2">
-<h2 class="anchored" data-anchor-id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al..">Software Citation Checklist for Authors <a href="https://doi.org/10.5281/zenodo.3479199">by Neil Chue Hong et al.</a>.</h2>
+<section id="cookie-cutter-templates" class="level2">
+<h2 class="anchored" data-anchor-id="cookie-cutter-templates">Cookie Cutter templates</h2>
+<p>Use the <a href="https://github.com/cookiecutter/cookiecutter">cookiecutter</a> templates to download folder structures through GitHub. The template by Barbara Vreede follows the template proposed by <a href="https://doi.org/10.1371/journal.pcbi.1005510">Wilson <em>et al.</em></a> (2017): <a href="https://github.com/bvreede/good-enough-project" class="uri">https://github.com/bvreede/good-enough-project</a></p>
 <ul>
-<li><p>Have I identified the software which makes a significant and specialised contribution to my academic work?</p></li>
-<li><p>Have I checked if the software has a recommended citation?</p>
-<ul>
-<li><p>If this is to a paper, have I also cited the software directly?</p></li>
-<li><p>If there’s no recommended citation, have I created as complete a citation as possible?</p>
-<ul>
-<li><p>Who created the software</p></li>
-<li><p>When it was created</p></li>
-<li><p>Title of the software (and version if available)</p></li>
-<li><p>Where the software can be accessed</p></li>
-</ul></li>
-</ul></li>
-<li><p>Have I referenced the software appropriately in my academic work, complying with any citation formatting guidelines?</p></li>
+<li><p>See <a href="https://vimeo.com/462773031">this video for more information</a></p></li>
+<li><p>Follow the instructions here if you need more guidance.</p></li>
 </ul>
-</section>
-<section id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al." class="level2">
-<h2 class="anchored" data-anchor-id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al.">Software Citation Checklist for Developers <a href="https://doi.org/10.5281/zenodo.3482769">by Neil Chue Hong et al.</a></h2>
+<p>In general it is good practise to:</p>
 <ul>
-<li><p>Have I assigned an appropriate <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/"><strong>license</strong></a> to my software?</p></li>
-<li><p>Have I <strong>described my software properly</strong>, using an appropriate metadata format, and included this metadata file with my software?</p>
-<ul>
-<li><p>Have I given my software a clear <strong>version number</strong>?</p></li>
-<li><p>Have I determined the <strong>authors to be credited</strong> for this release of my software, and included this in my metadata file?</p></li>
-</ul></li>
-<li><p>Have I procured a <strong>persistent identifier</strong> for this release of my software?</p></li>
-<li><p>Have I added my <strong>recommended citation</strong> to the documentation for my software?</p></li>
+<li><p>have one folder/directory per project</p></li>
+<li><p>to save your raw data separately (and make it read only to ensure that it is not accidentally altered)</p></li>
+<li><p>to create a subdirectory for your output (for example: Manuscript output, figures, numerical output)</p></li>
 </ul>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/images/paste-B5D16106.png" class="img-fluid" width="602"></p>
 </section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li>See also the posts on <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licensing</a>, <a href="https://estherplomp.github.io/TNW-OS-support/posts/good-enough-software/">good enough FAIR software</a></li>
-<li>For more information about the practicalities and timing in <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">linking your research outputs, see The Turing Way</a>.</li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Licenses</category>
-  <category>Software</category>
-  <category>Citation</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Open Science</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="open-science" class="level2">
-<h2 class="anchored" data-anchor-id="open-science">Open Science</h2>
-<p><strong>Open Science</strong> is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.</p>
-<p><strong>Open Science</strong> is <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en">defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO)</a> as <em>“an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”</em></p>
-<p>Several concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.</p>
-</section>
-<section id="benefits-of-open-science" class="level2">
-<h2 class="anchored" data-anchor-id="benefits-of-open-science">Benefits of Open Science</h2>
-<ul>
-<li><p>Increased impact and visibility: Research will be accessible to anyone and it is easier to build on previous work</p></li>
-<li><p>Maximise research effort by making research and <a href="https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html">educational</a> outputs reusable</p></li>
-<li><p>Improving the quality of research through more transparency (facilitating reproducibility) which will increase trust in research</p></li>
-<li><p>Increased citizen engagement with and participation in research</p></li>
-<li><p>Accelerates discovery and provides opportunity for collaborations</p></li>
-<li><p>Recognition for all contributions to research</p></li>
-</ul>
-<p>The Dutch position paper ‘<a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone’s talent</a>’ aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.</p>
-</section>
-<section id="tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="tu-delft">TU Delft</h2>
-<p>TU Delft has a long history of engagement with Open Science and it is TU Delft’s ambition to be a frontrunner, as reflected in its <a href="https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme">Open Science Programme 2020-2024, Research and Education in the Open Era</a> and the TU Delft Strategic Framework 2018-2024, with “openness” as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC%20EN.pdf">Code of Conduct</a>. TU Delft established several policies and framework that fall under the Open Science umbrella:</p>
-<p>• TU Delft Policy on <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf">Open Access Publishing</a> (2016)</p>
-<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf">Research Data Policy Framework</a> (2019, 2021)</p>
-<p>• TU Delft <a href="https://doi.org/10.5281/zenodo.4629662">Research Software Policy</a> (2021)</p>
-<p>• TU Delft <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/diversity-policy">Diversity &amp; Inclusion Office</a> (2021)</p>
-<p>• TU Delft <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Vision%20on%20Integrity%202018-2024.pdf">Vision on Integrity</a> 2018-2024</p>
-<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen%20en%20Waarderen%20-%20recognition%20and%20reward/TU%20Delft%20Recognition%20and%20Rewards%20perspective%20def.pdf">Recognition &amp; Rewards Perspective</a> 2021 – 2024</p>
-<p>• TU Delft <a href="https://doi.org/10.4233/uuid:68a07efc-fc4d-4a57-8e93-88a3af37465a">Policy on Open Educational Resources</a> (2021)</p>
-<p>You can find more information on <a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a>.</p>
-</section>
-<section id="the-netherlands" class="level2">
-<h2 class="anchored" data-anchor-id="the-netherlands">the Netherlands</h2>
-<ul>
-<li><p>In the Netherlands Open Science is an important component of the <a href="https://recognitionrewards.nl/">Recognition &amp; Rewards</a> movement.</p></li>
-<li><p>Dutch research funder <a href="https://www.nwo.nl/en/open-science">NWO supports</a> new forms of evaluation and requires 100% Open Access.</p></li>
-<li><p>The <a href="https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf">‘Strategic Evaluation Protocol’</a> that universities use to periodically evaluate their research has a strong focus Open Science practices and outputs.</p></li>
-</ul>
-</section>
-<section id="internationally" class="level2">
-<h2 class="anchored" data-anchor-id="internationally">Internationally</h2>
-<ul>
-<li><p>The <a href="https://sfdora.org/">San Francisco Declaration on Research Assessment</a> (to which all Dutch universities adhere to).</p></li>
-<li><p>The <a href="https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/reforming-research-assessment-agreement-now-final-2022-07-20_en">‘Reforming research assessment’</a> agreement by the European Union. Open Science has for years been promoted by the European Commission.</p></li>
-<li><p>UNESCO adopted a <a href="https://en.unesco.org/science-sustainable-future/open-science/recommendation">recommendation</a> on Open Science.</p></li>
-<li><p>The <a href="https://cen.acs.org/policy/publishing/White-House-mandates-immediate-open/100/web/2022/08#:~:text=All%20US%20federally%2Dfunded%20research,31%2C%202025.">White House also committed</a> the United States to Open Science, which pushes for Open Access, and FAIR data and code sharing.</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Reproducibility checklist</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This post is a shortened version of the <a href="https://osf.io/phmce/">Agile Reproducibility Checklist</a> for articles that you would like to submit (or review).</p>
-<section id="for-all-datasets-includedproduced-in-the-paper-check-if-data" class="level2">
-<h2 class="anchored" data-anchor-id="for-all-datasets-includedproduced-in-the-paper-check-if-data">For all datasets included/produced in the paper, check if data:</h2>
-<ul>
-<li><p>Is provided in a non-proprietary format</p></li>
-<li><p>Is documented for third parties to reuse</p></li>
-<li><p>Is accessible in a public repository and has an open data <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licence</a></p></li>
-</ul>
-</section>
-<section id="for-all-software-toolslibrariespackages-and-computational-workflows-includedproduced-check-if" class="level2">
-<h2 class="anchored" data-anchor-id="for-all-software-toolslibrariespackages-and-computational-workflows-includedproduced-check-if">For all software tools/libraries/packages and computational workflows included/produced, check if:</h2>
-<ul>
-<li><p>Reproduction steps are explained in a README (plain text file), flowchart, or script</p></li>
-<li><p>Computational environments (including hardware) are documented or provided</p></li>
-<li><p>Versions of relevant software components (libraries, packages) are provided</p></li>
-<li><p>All parameters and expected execution times for the computational workflow are provided</p></li>
-<li><p>Software developed by the authors is available in a public repository and has an open licence</p></li>
-<li><p>There is a clear connection between tables, figures, maps, and statistical values and the data and code that they are based on, e.g., using file names or documentation in the README</p></li>
-</ul>
-</section>
-<section id="in-the-data-and-software-availability-section" class="level2">
-<h2 class="anchored" data-anchor-id="in-the-data-and-software-availability-section">In the Data and Software Availability section:</h2>
-<ul>
-<li><p>Include data/software availability statements (see <a href="https://the-turing-way.netlify.app/communication/citable/citable-cite.html?#data-availability-statement-examples">The Turing Way</a> for examples)</p></li>
-<li><p>Include the reasons, if any, for not being able to share (parts of) data or code</p></li>
-</ul>
-</section>
-<section id="for-all-data-and-software" class="level2">
-<h2 class="anchored" data-anchor-id="for-all-data-and-software">For all data and software:</h2>
-<ul>
-<li><p>All datasets and code (used or mentioned) are assigned DOIs</p></li>
-<li><p>Datasets and code are cited throughout the paper</p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/software-citation/">Software citation checklist</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Reproducibility</category>
-  <category>Checklist</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/agile.png" medium="image" type="image/png" height="37" width="144"/>
-</item>
-<item>
-  <title>Spreadsheets</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/spreadsheets/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="using-schemas-to-check-your-tabular-data" class="level2">
-<h2 class="anchored" data-anchor-id="using-schemas-to-check-your-tabular-data">Using schemas to check your tabular data:</h2>
-<p>try.goodtables.io (or python library github.com/frictionlessdata/goodtables-py / github.com/frictionlessdata/tableschema-py) (see <a href="https://www.youtube.com/watch?v=vZAi4OnfH-Q&amp;feature=youtu.be">this presentation on YouTube</a>)</p>
+<p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html">The Turing Way - Data storage and organisation</a></p>
 
 
 </section>
 
  ]]></description>
   <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/spreadsheets/index.html</guid>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/spreadsheets/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Metadata standards and repositories for Applied Sciences/TNW</title>
+  <title>Readme files</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-TNW/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="relevant-metadata-standards" class="level2">
-<h2 class="anchored" data-anchor-id="relevant-metadata-standards">Relevant metadata standards</h2>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/isa-tab.html">ISA-Tab</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/mibbi-minimum-information-biological-and-biomedical-investigations.html">MIBBI (Minimum Information for Biological and Biomedical Investigations)</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/nexus.html">NeXus</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/ome-xml-open-microscopy-environment-xml.html">OME-XML (Open Microscopy Environment XML)</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/pdbx-mmcif.html">PDBx/mmCIF (Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework)</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/cif-crystallographic-information-framework.html">CIF (Crystallographic Information Framework)</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/qudex-qualitative-data-exchange-format.html">QuDEx (Qualitative Data Exchange Format)</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/sdmx-statistical-data-and-metadata-exchange.html">SDMX (Statistical Data and Metadata Exchange)</a></p>
+<section id="how-to-set-up-your-readme-file" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your readme file</h2>
+<p>A readme file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A readme file is generally submitted when sharing data and is the landing page of your software repository.</p>
+<p>Readme text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used, etc.). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why readme files are important and how you can set up your own readme files.</p>
 </section>
-<section id="potentially-relevant-metadata-standards" class="level2">
-<h2 class="anchored" data-anchor-id="potentially-relevant-metadata-standards">Potentially relevant metadata standards</h2>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/genome-metadata.html">Genome Metadata</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/cf-climate-and-forecast-metadata-conventions.html">CF (Climate and Forecast) Metadata Conventions</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/cim-common-information-model.html">CIM (Common Information Model)</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/csmd-cclrc-core-scientific-metadata-model.html">CSMD (Core Scientific Metadata Model)</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/dif-directory-interchange-format.html">DIF (Directory Interchange Format)</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/iso-19115.html">ISO 19115</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/observations-and-measurements.html">Observations and Measurements</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/cerif.html">CERIF (Common European Research Information Format)</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/data-package.html">Data Package</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/abcd-access-biological-collection-data.html">ABCD (Access to Biological Collection Data)</a></p>
-<p><a href="http://rd-alliance.github.io/metadata-directory/standards/mods.html">MODS (Metadata Object Description Schema)</a></p>
-<p><a href="https://github.com/edamontology/edam-bioimaging/blob/master/README.md">EDAM-bioimaging</a></p>
+<section id="readme-for-data" class="level2">
+<h2 class="anchored" data-anchor-id="readme-for-data">Readme for data</h2>
+<p>Best practices</p>
+<ul>
+<li><p>Create one readme file for each dataset</p></li>
+<li><p>Name the file README</p></li>
+<li><p>Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.</p></li>
+</ul>
+<p>Example templates for data:</p>
+<ul>
+<li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
+<li><p><a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf).</p></li>
+<li><p><a href="https://datamanagement.hms.harvard.edu/collect/readme-files" class="uri">https://datamanagement.hms.harvard.edu/collect/readme-files</a></p></li>
+</ul>
 </section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
-<p>Repositories</p>
-<p><a href="https://idr.openmicroscopy.org/"><strong>IDR</strong></a></p>
-<p><a href="http://www.ddbj.nig.ac.jp/">DNA DataBank of Japan (DDBJ)</a></p>
-<p><a href="http://www.ebi.ac.uk/ena/">European Nucleotide Archive (ENA)</a></p>
-<p><a href="http://www.ncbi.nlm.nih.gov/genbank/">GenBank</a></p>
-<p><a href="http://www.ncbi.nlm.nih.gov/snp">dbSNP</a></p>
-<p><a href="https://www.ebi.ac.uk/eva/"><strong>European Variation Archive (EVA)</strong></a></p>
-<p><a href="http://www.ncbi.nlm.nih.gov/dbvar/">dbVar</a></p>
-<p><a href="http://www.ebi.ac.uk/dgva/">Database of Genomic Variants Archive (DGVa)</a></p>
-<p><a href="http://www.ebi.ac.uk/metagenomics">EBI Metagenomics</a></p>
-<p><a href="http://www.ncbi.nlm.nih.gov/Traces/home/">NCBI Trace Archive</a></p>
-<p><a href="http://www.ncbi.nlm.nih.gov/sra"><strong>NCBI Sequence Read Archive (SRA)</strong></a></p>
-<p><a href="http://www.ncbi.nlm.nih.gov/assembly">NCBI Assembly</a></p>
-<p><a href="http://data.sbgrid.org/">Structural Biology Data Grid</a></p>
-<p><a href="http://wwpdb.org/">Worldwide Protein Data Bank (wwPDB)</a></p>
-<p><a href="http://www.uniprot.org">UniProtKB</a></p>
-<p><a href="http://www.bmrb.wisc.edu/">Biological Magnetic Resonance Data Bank (BMRB)</a></p>
-<p><a href="http://www.emdatabank.org/">Electron Microscopy Data Bank (EMDB)</a></p>
-<p><a href="https://www.ebi.ac.uk/pdbe/emdb/empiar/"><strong>EMPIAR</strong></a></p>
+<section id="readme-for-software" class="level2">
+<h2 class="anchored" data-anchor-id="readme-for-software">Readme for software</h2>
+<p>See this <a href="https://www.youtube.com/watch?v=Jgv34Kwgga8&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=7">short presentation by Carlos Martinez</a> about the importance of README files for software.</p>
+<p>Example templates for software:</p>
+<ul>
+<li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
+<li><p><a href="https://github.com/benmarwick/rrtools" class="uri">https://github.com/benmarwick/rrtools</a></p></li>
+<li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
+<li><p><a href="https://ha0ye.github.io/CW21-README-tips/template_README.html" class="uri">https://ha0ye.github.io/CW21-README-tips/template_README.html</a></p></li>
+<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
+</ul>
 
 
 </section>
 
  ]]></description>
   <category>Open Data</category>
-  <category>Research Data Management</category>
+  <category>Open Software</category>
   <category>FAIR</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-TNW/index.html</guid>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-TNW/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
-  <title>Mistakes</title>
+  <title>Data Management Plan - 5 things to check</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/mistakes/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-5-things/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="mistakes" class="level2">
-<h2 class="anchored" data-anchor-id="mistakes">Mistakes</h2>
-<p><a href="https://www.carleton.edu/perception-lab/open-science/error-tight/">Error Tight</a> – Exercises for lab groups to prevent research mistakes</p>
+<p>As part of the Go/No-Go of a PhD a Data Management Plan is required (PhDs that started after 1st of January 2020).</p>
+<p>To help you check the Data Management Plan, this posts describes five things to consider. This post is based on the <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-plans">guidance note on reviewing Data Management Plans</a>.</p>
+<section id="was-a-data-steward-consulted" class="level2">
+<h2 class="anchored" data-anchor-id="was-a-data-steward-consulted">1. Was a Data Steward consulted?</h2>
+<p>You are not obliged to ask the Data Steward for support on a DMP, but they can provide you with valuable input on the DMP and check whether the answers make sense</p>
+</section>
+<section id="are-you-happy-with-how-the-datacode-is-stored" class="level2">
+<h2 class="anchored" data-anchor-id="are-you-happy-with-how-the-datacode-is-stored">2. Are you happy with how the data/code is stored?</h2>
+<p>Ensure that the data will be stored using a storage solution that is automatically backed up and that all project members have access to the data they need to have access to (especially important that access is restricted when working with personal data or confidential data - see number 4).</p>
+</section>
+<section id="is-the-data-properly-organised-and-documented" class="level2">
+<h2 class="anchored" data-anchor-id="is-the-data-properly-organised-and-documented">3. Is the data properly organised and documented?</h2>
+<p>Can you easily figure out which file is what? If you open some of the files, are they properly labelled and described? If the individual responsible for data collection would leave the university, can you still make sense of the data without their input? See the data organisation/documentation post for more information.</p>
+</section>
+<section id="is-your-student-working-with-confidential-data" class="level2">
+<h2 class="anchored" data-anchor-id="is-your-student-working-with-confidential-data">4. Is your student working with confidential data?</h2>
+<p>And are they handling this confidential data properly? Here the advise of the Data Steward can come in extra handy and is required for personal data (as part of the <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics">HREC application</a>).</p>
+<p>Confidential data can contain:</p>
+<ul>
+<li><p>personal information which can allow the identification of living individuals</p></li>
+<li><p>commercially-confidential information (e.g.&nbsp;something you might want to patent, or data belonging to a third party)</p></li>
+<li><p>Information related to national security , export control regulations etc.</p></li>
+</ul>
+</section>
+<section id="is-there-a-clear-strategy-for-data-sharing" class="level2">
+<h2 class="anchored" data-anchor-id="is-there-a-clear-strategy-for-data-sharing">5. Is there a clear strategy for data sharing?</h2>
+<p>TU Delft <a href="https://doi.org/10.5281/zenodo.2573159">Research Data Framework Policy</a> requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate .</p>
+<ul>
+<li><p>Did the project team agree what data (and code), when and how will be shared? (See <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/">what data should be shared post</a>)</p></li>
+<li><p>Will there be any difficulties with data sharing (perhaps not all data is suitable for sharing)?</p></li>
+<li><p>What <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licence</a> will be the most suitable for the data (and code)?</p></li>
+</ul>
+<p>In principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a>, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise).</p>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 
 
 </section>
 
  ]]></description>
-  <category>Mistakes</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/mistakes/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/mistakes/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+  <category>DMP</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-5-things/index.html</guid>
+  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-5-things/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Backup Project Drive</title>
+  <title>ORCID - PURE integration</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/backup-project-drive/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>This post describes how to automatically and manually backup files from the Project Drive to a local drive.</p>
-<p>Automatic backup is only possible if you are the only/single user of the Project Drive. Back up needs to happen manually if there are multiple users.</p>
-<section id="automatic-backup" class="level2">
-<h2 class="anchored" data-anchor-id="automatic-backup">Automatic backup</h2>
-<ol type="1">
-<li><p>Map/mount the project drive as a local drive/folder (use sshfs (rather than sftp) to mount the drives)</p></li>
-<li><p>Use a folder synchronization tool that can automatically synchronize newer files.</p>
+<p>How to set up a Pure – ORCID integration:</p>
+<p>1. Go to the <a href="http://pure.tudelft.nl/">Pure portal</a> and log in with your netID (scroll down and click the ‘<strong>log in to Pure</strong>’ button at the right bottom of the page).</p>
+<p>2. Once you are logged in, select the ‘<strong>Personal overview</strong>’ menu and click ‘<strong>edit profile</strong>’</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/images/edit-profile.jpg" class="img-fluid" width="521"></p>
+<p>3. In <strong>Edit profile</strong> you can click on ‘<strong>Create or Connect your ORCID ID</strong>’. There will be a pop-up that explains that you are directed to the <a href="https://orcid.org/">ORCID webpage</a> where you can log-in to ORCID or create an ORCID ID. Click Proceed.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/images/add-orcid.jpg" class="img-fluid"></p>
+<p>4. In ORCID, you can create your ORCID or you can log in if you already have an ORCID. After you are logged in you can give TU Delft – Pure permission to access your ORCID account by clicking ‘<strong>Authorize</strong>’.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/images/authorize-Pure.jpg" class="img-fluid" width="472"></p>
+<p>5. After this authorization, you are redirected back to Pure. Your ORCID will appear in your profile page. Click the blue ‘Save’ button at the bottom of your screen to apply the changes.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 <ul>
-<li><p>For Unices <code>cp --archive --update</code> is a start;</p></li>
-<li><p>rsync (available for Unix and Windows) allows more control but make sure to use the right arguments;</p></li>
-<li><p>tar is not suited because it creates archives instead of synchronizing folders.</p></li>
-</ul></li>
-<li><p>Use a scheduler (Unices: cron, Windows: Task Scheduler) to automate the synchronization (step 1/2).</p></li>
-</ol>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>When the Project drive is used from different computers, point 2 becomes very difficult because the “standard” tools only work one-way (i.e.&nbsp;they will only copy newer local files to the project drive but not synchronize newer files on the project drive to your local computer). Of course you can run the tools both ways, but that breaks horribly when you delete a file locally or revert to an older version, and the synchronization then happily restores the (newer) file from the project drive.</p>
-</div>
-</div>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>This is not easy/perfect/suitable for everyone, it is not a one script fits all solution. You will probably want to tweak it for your own set up.</p>
-</div>
-</div>
-</section>
-<section id="manual-backup" class="level2">
-<h2 class="anchored" data-anchor-id="manual-backup">Manual backup</h2>
-<ul>
-<li><p>Unison: does two-way synchronisation and asks the user in case of conflicts (changes from multiple sides/users)</p></li>
-<li><p>FileZilla and WinSCP can also do folder comparisons and show differences</p></li>
+<li><p>Contact the library[at]tudelft.nl or your Faculty Data Steward</p></li>
+<li><p><a href="https://www.tudelft.nl/library/orcid">TU Delft information on ORCID</a></p></li>
+<li><p><a href="https://youtu.be/QzDITepzH-g?t=93">ORCID integration with PURE video</a> (from 1:35 onwards)</p></li>
 </ul>
 
 
 </section>
 
  ]]></description>
-  <category>Storage</category>
-  <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/backup-project-drive/index.html</guid>
+  <category>DMP</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/index.html</guid>
   <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/backup-project-drive/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>TU Delft GitLab or GitHub / 4TU.ResearchData integration</title>
@@ -1202,98 +1225,140 @@ Note
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Git-4TU-integration/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>ORCID - PURE integration</title>
+  <title>Publishing a Data Article</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-article/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>How to set up a Pure – ORCID integration:</p>
-<p>1. Go to the <a href="http://pure.tudelft.nl/">Pure portal</a> and log in with your netID (scroll down and click the ‘<strong>log in to Pure</strong>’ button at the right bottom of the page).</p>
-<p>2. Once you are logged in, select the ‘<strong>Personal overview</strong>’ menu and click ‘<strong>edit profile</strong>’</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/images/edit-profile.jpg" class="img-fluid" width="521"></p>
-<p>3. In <strong>Edit profile</strong> you can click on ‘<strong>Create or Connect your ORCID ID</strong>’. There will be a pop-up that explains that you are directed to the <a href="https://orcid.org/">ORCID webpage</a> where you can log-in to ORCID or create an ORCID ID. Click Proceed.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/images/add-orcid.jpg" class="img-fluid"></p>
-<p>4. In ORCID, you can create your ORCID or you can log in if you already have an ORCID. After you are logged in you can give TU Delft – Pure permission to access your ORCID account by clicking ‘<strong>Authorize</strong>’.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/images/authorize-Pure.jpg" class="img-fluid" width="472"></p>
-<p>5. After this authorization, you are redirected back to Pure. Your ORCID will appear in your profile page. Click the blue ‘Save’ button at the bottom of your screen to apply the changes.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><p>Contact the library[at]tudelft.nl or your Faculty Data Steward</p></li>
-<li><p><a href="https://www.tudelft.nl/library/orcid">TU Delft information on ORCID</a></p></li>
-<li><p><a href="https://youtu.be/QzDITepzH-g?t=93">ORCID integration with PURE video</a> (from 1:35 onwards)</p></li>
-</ul>
-
-
+<section id="publishing-a-data-article" class="level2">
+<h2 class="anchored" data-anchor-id="publishing-a-data-article">Publishing a Data Article</h2>
+<p>This post has been adapted from the Turing Way (The Turing Way Community, The Turing Way: A Handbook for Reproducible Data Science. <a href="https://doi.org/10.5281/zenodo.3233853">10.5281/zenodo.3233853</a>) and a <a href="https://openworking.wordpress.com/2022/02/17/publishing-a-data-article/">blogpost on Open Working</a> under a CC-BY 4.0 licence.</p>
+<p>A <strong>Data Article</strong> (also known as a Data Paper/Note/Release, or Database article) is a publication that is focused on the description of a dataset. It uses the traditional journal article structure, but focuses on the data-collection and methodological aspects and generally not on the interpretation or discussion of the results. Data articles are in line with the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a>, especially since most publishers will encourage you to share the data through a <a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-sharing.html#rr-rdm-sharing">data repository</a>. The benefit of a Data Article is that your output will be peer reviewed, something which is generally not the case for datasets that are archived on data repositories. It also facilitates recognition for datasets through research assessment procedures that are more traditionally focused on publication output. Publishing a data paper will therefore increase the visibility, credibility and usability of the data, as well as giving you credit as a data producer (The Turing Way Community 2022).</p>
 </section>
-
- ]]></description>
-  <category>DMP</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/index.html</guid>
-  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/ORCID-manual/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>What data to share?</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>In order to determine what data should be openly shared ask yourself the following questions:</p>
-<p><strong>What information would another colleague need</strong> to understand</p>
-<ul>
-<li><p>what you did,</p></li>
-<li><p>how you did it and</p></li>
-<li><p>how the data can be reused?</p></li>
-</ul>
-<section id="which-data-can-be-shared" class="level2">
-<h2 class="anchored" data-anchor-id="which-data-can-be-shared"><strong>Which data can be shared?</strong></h2>
-<ul>
-<li>Data restrictions can apply depending on the type of data (<a href="https://estherplomp.github.io/TNW-RDM-101/05-Essentials-for-Research-Data.html#personal-data">personal data</a>) or by contractual agreements with third partners (<a href="https://estherplomp.github.io/TNW-RDM-101/05-Essentials-for-Research-Data.html#confidential-data">confidential data</a>).</li>
-<li>Sometimes data is too large to be shared (more than TBs)</li>
-<li>See <a href="https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667">valid reasons to not share data</a>.</li>
-</ul>
-</section>
-<section id="when-can-it-be-shared" class="level2">
-<h2 class="anchored" data-anchor-id="when-can-it-be-shared"><strong>When can it be shared?</strong></h2>
-<p>Generally it is easiest to share data at the same time as the publication/article. This way you can still correct errors if there are any, and you’re still familiar with the data organisation.</p>
-</section>
-<section id="if-the-data-cannot-be-shared" class="level2">
-<h2 class="anchored" data-anchor-id="if-the-data-cannot-be-shared">If the data cannot be shared:</h2>
-<ul>
-<li><p>Consider sharing the metadata about the data in a repository Increases findability/discoverability.</p></li>
-<li><p>Explain to others what they have to do to request access. For example, <a href="https://data.4tu.nl/info//en/">4TU.ResearchData</a> offers restricted access and a way to request access to these restricted datasets.</p></li>
-</ul>
-</section>
-<section id="tu-delft-research-data-framework" class="level2">
-<h2 class="anchored" data-anchor-id="tu-delft-research-data-framework">TU Delft <a href="https://doi.org/10.5281/zenodo.2573159">Research Data Framework</a></h2>
-<p>Ensuring that research data, code and any other <strong>materials needed to reproduce research findings</strong> are appropriately documented, stored and shared in a research data repository … unless there are <a href="https://www.tudelft.nl/library/research-data-management/r/buttons/faqs#c547667">valid reasons</a> not to do so.</p>
-</section>
-<section id="faculty-of-applied-sciences-research-data-management-policy" class="level2">
-<h2 class="anchored" data-anchor-id="faculty-of-applied-sciences-research-data-management-policy">Faculty of Applied Sciences <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf">Research Data Management Policy</a></h2>
-<p>The minimal requirement is the <strong>deposition of the numerical data (processed data) underlying the figures in academic papers and PhD theses</strong>. Deposition of datasets not directly linked with publications or raw data/software and processing scripts used to derive the processed data is encouraged.</p>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li></li>
-<li></li>
-</ul>
+<section id="options-to-publish-a-data-article" class="level2">
+<h2 class="anchored" data-anchor-id="options-to-publish-a-data-article">Options to publish a Data Article</h2>
+<p>Below you can find some journals that publish data articles. The costs information was collected in February 2022.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Discipline</th>
+<th>Publisher/Journal</th>
+<th>Cost estimate</th>
+<th>Deals for TU Delft</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://www.cambridge.org/core/journals/experimental-results">Experimental Results</a></td>
+<td><a href="https://www.cambridge.org/core/journals/experimental-results/information/instructions-for-authors#articleprocessingcharges">£775</a> / €928</td>
+<td>100% APC discount for TUD authors</td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="https://www.nature.com/sdata/">Scientific Data</a></td>
+<td><a href="https://www.nature.com/sdata/oa">€1790</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://www.journals.elsevier.com/data-in-brief">Data in Brief</a></td>
+<td><a href="https://www.journals.elsevier.com/data-in-brief">USD&nbsp;500</a> / €440</td>
+<td>100% APC discount for TUD authors</td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="http://www.csdata.org/">China Scientific Data</a></td>
+<td><a href="http://www.csdata.org/en/p/static/1329/">RMB&nbsp;3000</a> / €416</td>
+<td>No</td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://datascience.codata.org/">Data Science Journal</a></td>
+<td><a href="https://datascience.codata.org/about/submissions/">£650</a> / €778</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="https://www.mdpi.com/journal/data">Data</a></td>
+<td><a href="https://www.mdpi.com/journal/data/apc">CHF 1400</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://academic.oup.com/gigascience">GigaScience</a></td>
+<td><a href="https://academic.oup.com/gigascience/pages/charges_licensing_and_self_archiving">€1089</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="even">
+<td>All</td>
+<td><a href="https://gigabytejournal.com/information-for-authors">Gigabyte</a></td>
+<td><a href="https://gigabytejournal.com/open-access-and-apc#article-processing-charges">USD&nbsp;350</a> / €308</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>All</td>
+<td><a href="https://think.f1000research.com/about-data-notes/">F1000Research</a></td>
+<td><a href="https://f1000research.com/for-authors/article-processing-charges">USD&nbsp;800</a> / €704</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="even">
+<td>Archaeology</td>
+<td><a href="https://openarchaeologydata.metajnl.com/">Journal of Open Archaeology Data</a></td>
+<td>£100 / €120</td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>Archaeology</td>
+<td><a href="https://www.openquaternary.com/about/">Open Quaternary</a></td>
+<td><a href="https://www.openquaternary.com/about/submissions/">£300</a> / €359</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Chemistry</td>
+<td><a href="https://jcheminf.biomedcentral.com/submission-guidelines/preparing-your-manuscript/data-note">Journal of Cheminformatics</a></td>
+<td>0</td>
+<td>NA</td>
+</tr>
+<tr class="odd">
+<td>Computer Science</td>
+<td><a href="https://www.sadio.org.ar/jaiio/">Jaiio</a></td>
+<td><a href="https://50jaiio.sadio.org.ar/aranceles">variable</a></td>
+<td>No</td>
+</tr>
+<tr class="even">
+<td>Earth Sciences</td>
+<td><a href="https://rmets-onlinelibrary-wiley-com.tudelft.idm.oclc.org/journal/20496060">Geoscience Data Journal</a></td>
+<td><a href="https://rmets.onlinelibrary.wiley.com/hub/journal/20496060/article-publication-charge">€1450</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+<tr class="odd">
+<td>Earth Sciences</td>
+<td><a href="https://www.earth-system-science-data.net/">Earth System Science Data</a></td>
+<td>0</td>
+<td>NA</td>
+</tr>
+<tr class="even">
+<td>Earth Sciences</td>
+<td><a href="https://www.tandfonline.com/action/authorSubmission">Big Earth Data</a></td>
+<td><a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=tbed20&amp;#apc">€910</a></td>
+<td>No, but eligible for the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft OA Fund</a></td>
+</tr>
+</tbody>
+</table>
+<p>For more journals that offer the Data Article format you can see the <a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html">‘Data Article’ section in The Turing Way</a>.</p>
 
 
 </section>
 
  ]]></description>
   <category>Open Data</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/index.html</guid>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-article/index.html</guid>
   <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-article/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
