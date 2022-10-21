@@ -3,7 +3,7 @@ title: "Good enough FAIR software"
 author: "Esther Plomp"
 date: "2022-09-03"
 categories: [FAIR, Licenses, Software]
-image: "image.jpg"
+image: "fair-principles.png"
 ---
 
 How to make your software good enough FAIR? Post based on [presentation by Neil Chue Hong](https://doi.org/10.6084/m9.figshare.17094365.v1).

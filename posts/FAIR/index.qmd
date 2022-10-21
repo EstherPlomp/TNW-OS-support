@@ -3,7 +3,7 @@ title: "FAIR principles"
 author: "Esther Plomp, Paula Martinez-Lavanchy, Pim van Schöll, Eirini Zormpa"
 date: "2022-09-03"
 categories: [FAIR]
-image: "image.jpg"
+image: "fair-principles.png"
 ---
 
 The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data and software Findable, Accessible, Interoperable and Reusable ([Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18); [Barker et al. 2022](https://doi.org/10.1038/s41597-022-01710-x)).

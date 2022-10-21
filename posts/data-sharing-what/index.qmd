@@ -3,7 +3,7 @@ title: "What data to share?"
 author: "Esther Plomp"
 date: "2022-09-03"
 categories: [Open Data]
-image: "image.jpg"
+image: "open-data-fountain.jpg"
 ---
 
 In order to determine what data should be openly shared ask yourself the following questions:

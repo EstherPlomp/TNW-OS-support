@@ -3,7 +3,7 @@ title: "Software Citation"
 author: "Esther Plomp"
 date: "2022-09-04"
 categories: [Licenses, Software, Citation]
-image: "image.jpg"
+image: "software-citation.png"
 ---
 
 Software citation is important to receive credit for software outputs and to ensure permanent references to the software.

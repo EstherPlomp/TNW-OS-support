@@ -3,7 +3,7 @@ title: "Why share data?"
 author: "Esther Plomp"
 date: "2022-09-02"
 categories: [Licenses, Software, Citation]
-image: "image.jpg"
+image: "open-data-fountain.jpg"
 ---
 
 ## Why share data?
