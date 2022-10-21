@@ -2,7 +2,7 @@
 title: "Software Citation"
 author: "Esther Plomp"
 date: "2022-09-04"
-categories: [Licenses, Software, Citation]
+categories: [Licenses, Software, Citation, Credit]
 image: "software-citation.png"
 ---
 
