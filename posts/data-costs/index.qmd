@@ -3,7 +3,7 @@ title: "Data Management Costs"
 author: "Esther Plomp"
 date: "2022-09-03"
 categories: [Open Data, RDM]
-image: "image.jpg"
+image: "costs.png"
 ---
 
 ## Research Data Management Costs
