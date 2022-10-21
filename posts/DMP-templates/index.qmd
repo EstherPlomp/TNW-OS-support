@@ -2,7 +2,7 @@
 title: "Data Management Plan templates and guidance"
 author: "Esther Plomp"
 date: "2022-09-03"
-categories: [DMP]
+categories: [Data Management Plan]
 image: "DMP.jpg"
 ---
 

@@ -2,7 +2,7 @@
 title: "Data Management Plan - 5 things to check"
 author: "Esther Plomp"
 date: "2022-09-03"
-categories: [DMP]
+categories: [Data Management Plan, Checklist]
 image: "DMP.png"
 ---
 
