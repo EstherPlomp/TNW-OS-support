@@ -3,7 +3,7 @@ title: "Encryption"
 author: "Esther Plomp"
 date: "2022-08-28"
 categories: [Encryption]
-image: "image.jpg"
+image: "encryption.png"
 ---
 
 Encryption provides protection by ensuring that only someone with the relevant encryption key (or password) will be able to access the contents.
