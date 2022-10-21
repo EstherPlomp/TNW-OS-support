@@ -1012,49 +1012,7 @@
     "href": "posts/DMP-5-things/index.html",
     "title": "Data Management Plan - 5 things to check",
     "section": "",
-    "text": "As part of the Go/No-Go of a PhD a Data Management Plan is required (PhDs that started after 1st of January 2020).\nTo help you check the Data Management Plan, this posts describes five things to consider. This post is based on the guidance note on reviewing Data Management Plans."
-  },
-  {
-    "objectID": "posts/DMP-5-things/index.html#was-a-data-steward-consulted",
-    "href": "posts/DMP-5-things/index.html#was-a-data-steward-consulted",
-    "title": "Data Management Plan - 5 things to check",
-    "section": "1. Was a Data Steward consulted?",
-    "text": "1. Was a Data Steward consulted?\nYou are not obliged to ask the Data Steward for support on a DMP, but they can provide you with valuable input on the DMP and check whether the answers make sense"
-  },
-  {
-    "objectID": "posts/DMP-5-things/index.html#are-you-happy-with-how-the-datacode-is-stored",
-    "href": "posts/DMP-5-things/index.html#are-you-happy-with-how-the-datacode-is-stored",
-    "title": "Data Management Plan - 5 things to check",
-    "section": "2. Are you happy with how the data/code is stored?",
-    "text": "2. Are you happy with how the data/code is stored?\nEnsure that the data will be stored using a storage solution that is automatically backed up and that all project members have access to the data they need to have access to (especially important that access is restricted when working with personal data or confidential data - see number 4)."
-  },
-  {
-    "objectID": "posts/DMP-5-things/index.html#is-the-data-properly-organised-and-documented",
-    "href": "posts/DMP-5-things/index.html#is-the-data-properly-organised-and-documented",
-    "title": "Data Management Plan - 5 things to check",
-    "section": "3. Is the data properly organised and documented?",
-    "text": "3. Is the data properly organised and documented?\nCan you easily figure out which file is what? If you open some of the files, are they properly labelled and described? If the individual responsible for data collection would leave the university, can you still make sense of the data without their input? See the data organisation/documentation post for more information."
-  },
-  {
-    "objectID": "posts/DMP-5-things/index.html#is-your-student-working-with-confidential-data",
-    "href": "posts/DMP-5-things/index.html#is-your-student-working-with-confidential-data",
-    "title": "Data Management Plan - 5 things to check",
-    "section": "4. Is your student working with confidential data?",
-    "text": "4. Is your student working with confidential data?\nAnd are they handling this confidential data properly? Here the advise of the Data Steward can come in extra handy and is required for personal data (as part of the HREC application).\nConfidential data can contain:\n\npersonal information which can allow the identification of living individuals\ncommercially-confidential information (e.g. something you might want to patent, or data belonging to a third party)\nInformation related to national security , export control regulations etc."
-  },
-  {
-    "objectID": "posts/DMP-5-things/index.html#is-there-a-clear-strategy-for-data-sharing",
-    "href": "posts/DMP-5-things/index.html#is-there-a-clear-strategy-for-data-sharing",
-    "title": "Data Management Plan - 5 things to check",
-    "section": "5. Is there a clear strategy for data sharing?",
-    "text": "5. Is there a clear strategy for data sharing?\nTU Delft Research Data Framework Policy requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate .\n\nDid the project team agree what data (and code), when and how will be shared? (See what data should be shared post)\nWill there be any difficulties with data sharing (perhaps not all data is suitable for sharing)?\nWhat licence will be the most suitable for the data (and code)?\n\nIn principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, 4TU.ResearchData, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise)."
-  },
-  {
-    "objectID": "posts/DMP-5-things/index.html#more-information",
-    "href": "posts/DMP-5-things/index.html#more-information",
-    "title": "Data Management Plan - 5 things to check",
-    "section": "More information",
-    "text": "More information"
+    "text": "As part of the Go/No-Go of a PhD a Data Management Plan is required (PhDs that started after 1st of January 2020).\nTo help you check the Data Management Plan, this posts describes five things to consider. This post is based on the guidance note on reviewing Data Management Plans.\n\n\nYou are not obliged to ask the Data Steward for support on a DMP, but they can provide you with valuable input on the DMP and check whether the answers make sense.\n\n\n\nEnsure that the data will be stored using a storage solution that is automatically backed up and that all project members have access to the data they need to have access to (especially important that access is restricted when working with personal data or confidential data - see number 4).\n\n\n\nCan you easily figure out which file is what? If you open some of the files, are they properly labelled and described? If the individual responsible for data collection would leave the university, can you still make sense of the data without their input? See the data organisation/documentation post for more information.\n\n\n\nAnd are they handling this confidential data properly? Here the advise of the Data Steward can come in extra handy and is required for personal data (as part of the HREC application).\nConfidential data can contain:\n\npersonal information which can allow the identification of living individuals\ncommercially-confidential information (e.g. something you might want to patent, or data belonging to a third party)\nInformation related to national security , export control regulations etc.\n\n\n\n\nTU Delft Research Data Framework Policy requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate .\n\nDid the project team agree what data (and code), when and how will be shared? (See what data should be shared post)\nWill there be any difficulties with data sharing (perhaps not all data is suitable for sharing)?\nWhat licence will be the most suitable for the data (and code)?\n\nIn principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, 4TU.ResearchData, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise)."
   },
   {
     "objectID": "posts/licenses/index.html",
