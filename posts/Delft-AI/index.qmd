@@ -1,0 +1,41 @@
+---
+title: "Artificial Intelligence at TU Delft"
+author: "Esther Plomp"
+date: "2022-10-21"
+categories: [Artificial Intelligence, TU Delft]
+image: "ai.png"
+---
+
+TU Delft hosts several initiatives related to Artificial Intelligence:
+
+-   [Digital Ethics Centre for fair and safe AI](https://www.tudelft.nl/digital-ethics-centre) (see [announcement of the launch](https://www.tudelft.nl/en/2022/tu-delft/tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai))
+
+-   [TU Delft AI Labs](https://www.tudelft.nl/ai/tu-delft-ai-labs)
+
+    -   [ChemE AI lab](https://www.tudelft.nl/ai/cheme-lab)
+
+    -   [BIOLab](https://www.tudelft.nl/ai/biolab)
+
+    -   [IRIS Lab](https://www.tudelft.nl/ai/iris)
+
+-   [AI mail list](https://listserv.tudelft.nl/mailman/listinfo/ai)
+
+## TNW researchers interested in AI
+
+-   [Eliška Greplová](https://www.tudelft.nl/en/stories/articles/using-artificial-intelligence-to-eye-the-quantum-computer) (QN)
+
+-   [Artur Schweidtmann](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/chemical-engineering/principal-scientists/artur-schweidtmann) (ChemE)
+
+-   [Qian Tao](https://www.tudelft.nl/en/staff/q.tao/) (ImPhys)
+
+-   [Kristin Grußmayer](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/bionanoscience/about-the-department/dr-kristin-grussmayer) (BN)
+
+-   [Zoltán Perkó](https://www.tudelft.nl/tnw/over-faculteit/afdelingen/radiation-science-technology/research/research-groups/reactor-physics-and-nuclear-materials/people/zoltan-perko) (RST)
+
+-   [Daan Brinks](https://www.brinkslab.org/) (ImPhys)
+
+-   [Elizabeth Carroll](http://www.elizabethcarroll.org/) (ImPhys)
+
+-   [David Maresca](https://www.marescalab.eu/) (ImPhys)
+
+-   [Arjen J. Jakobi](http://jakobilab.tudelft.nl/) (BN)

@@ -1,0 +1,11 @@
+---
+title: "Data legislation overview"
+author: "Esther Plomp"
+date: "2022-10-20"
+categories: [Research Data Management, FAIR]
+image: "open-data-fountain.jpg"
+---
+
+This pdf provides an overview of legislation regarding data in the EU:
+
+<https://iapp.org/media/pdf/resource_center/recent_eu_data_initiatives_in_context_infographic.pdf>

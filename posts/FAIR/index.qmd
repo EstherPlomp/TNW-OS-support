@@ -6,11 +6,7 @@ categories: [FAIR]
 image: "image.jpg"
 ---
 
-This content is based on [Martinez-Lavanchy et al. 2022](https://doi.org/10.5281/zenodo.6325919).
-
-## What are the FAIR principles?
-
-The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable ([Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18)).
+The FAIR principles were created in order to maximize the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science. Applying the FAIR principles means to make research data and software Findable, Accessible, Interoperable and Reusable ([Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18); [Barker et al. 2022](https://doi.org/10.1038/s41597-022-01710-x)).
 
 -   Findable means that others (both human and machines) can discover the data
 -   Accessible means that the data can be made available to others
@@ -34,3 +30,11 @@ There are important elements to consider within your research workflows if you a
 -   [Access to data](https://youtu.be/3TWye1ftR1w)
 -   [Persistent identifiers](https://youtu.be/m-oWVp92xG0)
 -   [Licences](https://youtu.be/3nl_Z7Jt-Z4)
+
+## Software
+
+See the [five recommendations for FAIR software website](https://fair-software.nl/) for more information.
+
+::: callout-note
+This content is based on [Martinez-Lavanchy et al. 2022](https://doi.org/10.5281/zenodo.6325919).
+:::
