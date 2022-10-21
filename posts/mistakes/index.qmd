@@ -3,7 +3,7 @@ title: "Mistakes"
 author: "Esther Plomp"
 date: "2022-09-04"
 categories: [Mistakes]
-image: "open-data-fountain.jpg"
+image: "mistake.png"
 ---
 
 ## Mistakes

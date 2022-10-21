@@ -2,4 +2,6 @@
 
 Information for any Open Science/Data/Software questions for TNW.
 
-Contributions by David Leibold, ..., ...
+Contributions by David Leibold, Bjorn Batholdy, ...
+
+Several of the images were created using [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion).

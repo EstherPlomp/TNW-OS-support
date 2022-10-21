@@ -3,7 +3,7 @@ title: "Data Management Plan templates and guidance"
 author: "Esther Plomp"
 date: "2022-09-03"
 categories: [DMP]
-image: "image.jpg"
+image: "DMP.jpg"
 ---
 
 Please find below some Data Management Plan templates by funding agencies. Each template has some guidance. You can also use our online platform, DMPonline, to fill out your Data Management Plan.

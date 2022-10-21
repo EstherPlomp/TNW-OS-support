@@ -3,7 +3,7 @@ title: "Data Documentation"
 author: "Esther Plomp"
 date: "2022-09-04"
 categories: [Research Data Management]
-image: "open-data-fountain.jpg"
+image: "documentation.png"
 ---
 
 This post provides information about documentation, file naming and metadata.

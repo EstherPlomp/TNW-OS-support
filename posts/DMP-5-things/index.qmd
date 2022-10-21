@@ -3,8 +3,10 @@ title: "Data Management Plan - 5 things to check"
 author: "Esther Plomp"
 date: "2022-09-03"
 categories: [DMP]
-image: "image.jpg"
+image: "DMP.png"
 ---
+
+# Five things that you need to pay attention to when checking a Data Management Plan.
 
 As part of the Go/No-Go of a PhD a Data Management Plan is required (PhDs that started after 1st of January 2020).
 
@@ -12,7 +14,7 @@ To help you check the Data Management Plan, this posts describes five things to 
 
 ## 1. Was a Data Steward consulted?
 
-You are not obliged to ask the Data Steward for support on a DMP, but they can provide you with valuable input on the DMP and check whether the answers make sense
+You are not obliged to ask the Data Steward for support on a DMP, but they can provide you with valuable input on the DMP and check whether the answers make sense.
 
 ## 2. Are you happy with how the data/code is stored?
 
