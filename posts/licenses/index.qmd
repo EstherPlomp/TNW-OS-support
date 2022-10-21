@@ -2,7 +2,7 @@
 title: "Licenses"
 author: "Esther Plomp"
 date: "2022-09-02"
-categories: [Licenses, Copyright]
+categories: [Licenses]
 image: "image.jpg"
 ---
 
@@ -16,7 +16,7 @@ TU Delft recommends **CC-BY** (which is also quite standard in publishing articl
 
 The more letters these CC licenses have, the more restrictions they place on re-use.
 
--   NC means commercial use is prohibited
+-   NC means non-commercial use is prohibited
 
 -   SA stands for share alike, which means that you have to apply the same license.
 
