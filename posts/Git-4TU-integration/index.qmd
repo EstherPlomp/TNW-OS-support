@@ -2,7 +2,7 @@
 title: "TU Delft GitLab or GitHub / 4TU.ResearchData integration"
 author: "Esther Plomp"
 date: "2022-09-03"
-categories: [Git, 4TU.ResearchData, Open Data, Open Software]
+categories: [Git, 4TU.ResearchData, Open Data, Open Software, TU Delft]
 image: "image.jpg"
 ---
 
