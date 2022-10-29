@@ -35,6 +35,10 @@ There are important elements to consider within your research workflows if you a
 
 See the [five recommendations for FAIR software website](https://fair-software.nl/) for more information.
 
+## More information
+
+-   [FAIR Case Studies: Good Practice on FAIR Data and Software](https://www.sheffield.ac.uk/openresearch/faircasestudies)
+
 ::: callout-note
-This content is based on [Martinez-Lavanchy et al. 2022](https://doi.org/10.5281/zenodo.6325919).
+This content is partially based on [Martinez-Lavanchy et al. 2022](https://doi.org/10.5281/zenodo.6325919).
 :::

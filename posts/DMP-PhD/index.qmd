@@ -21,7 +21,7 @@ You can combine some of these options, for example: follow the Data Management P
 
 ![Information field for the Data Management activities in the PhD agreement form](images/paste-EC9287C2.png)
 
-## Data Management Plan 
+## Data Management Plan
 
 The easiest way to set up your Data Management Plan is to first check whether your supervisor/project already has a Data Management Plan that you can built upon.
 
@@ -37,7 +37,7 @@ If there is no Data Management Plan available yet it is easiest to use the onlin
 
     ![](images/paste-388082B8.png)
 
-## More information: 
+## More information:
 
 -   [How to set up a DMPonline account and use the platform](https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline)
 

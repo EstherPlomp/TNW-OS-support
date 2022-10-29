@@ -1,0 +1,17 @@
+---
+title: "Evidenced based CVs"
+author: "Esther Plomp"
+date: "2022-09-03"
+categories: [Credit]
+image: "image.jpg"
+---
+
+to be added: intro to evidence based/narrative CVs
+
+## **More information**
+
+-   [Luxembourg: Narrative CV: Implementation and feedback results](https://www.fnr.lu/narrative-cv-implementation-and-feedback-results/)
+
+-   [University of Glasgow pilots the Resume for Researchers narrative CV format](https://www.ukrn.org/2021/08/18/university-of-glasgow-pilots-the-resume-for-researchers-narrative-cv-format/)
+
+-   
