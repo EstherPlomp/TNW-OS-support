@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/PhD-thesis-chapter/index.html",
       "/posts/DMP-PhD/index.html",
       "/posts/Delft-AI/index.html",
       "/posts/data-legislation/index.html",
@@ -22,6 +23,7 @@
       "/posts/data-sharing-SURFdrive/index.html",
       "/posts/open-science-TUD/index.html",
       "/posts/data-sharing-what/index.html",
+      "/posts/credit-evidence-CV/index.html",
       "/posts/backup-project-drive/index.html",
       "/posts/ORCID-manual/index.html",
       "/posts/data-sharing-article/index.html",

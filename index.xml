@@ -10,7 +10,45 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.1.251</generator>
-<lastBuildDate>Mon, 24 Oct 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Oct 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>PhD Chapter</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-thesis-chapter/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Why just have an article or traditional chapter as part of your PhD dissertation? Why not use a dataset, software package or public engagement example as part of your dissertation?</p>
+<section id="examples" class="level2">
+<h2 class="anchored" data-anchor-id="examples">Examples</h2>
+<ul>
+<li><p><a href="https://www.nature.com/articles/s41562-022-01374-y.epdf?sharing_token=0NMpnEIEJuPGBb6kDMorvNRgN0jAjWel9jnR3ZoTv0O-pULYFz6Lo0iSXqvd2RRqkTu-L4QeblP_I70ZUv8-zEeO6TfSrGOuPihSnshdXDaOHm2ep2xjeG6b0XxlpU2ZkrXsBDMezDC6pDjMMQpZ3InIfhf0ByxTCLYNk-RBF4Y%3D">Editorial to raise awareness for first-generation students</a> (<a href="https://twitter.com/charishehakaya/status/1549998331417567233">source</a>- in Dutch)</p></li>
+<li><p><a href="https://twitter.com/wfbroderick/status/1565352853820014592">Software packages</a></p></li>
+<li><p><a href="https://ui.adsabs.harvard.edu/abs/2021PhDT........12M/abstract">Science Communication</a> (last chapter) (<a href="https://twitter.com/louisa_geo/status/1543971172039147526">source)</a></p></li>
+<li><p><a href="https://figshare.com/articles/thesis/A_Story_Of_A_Scientist_A_Researcher_Mentor_Teacher_Leader_And_Advocate/16563717/1">Science Communication</a> (Chapter 6) (<a href="https://twitter.com/louisa_geo/status/1543971172039147526">source)</a></p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information:</h2>
+<ul>
+<li></li>
+</ul>
+</section>
+<section id="section" class="level1">
+<h1></h1>
+
+
+</section>
+
+ ]]></description>
+  <category>PhD</category>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-thesis-chapter/index.html</guid>
+  <pubDate>Sat, 29 Oct 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-thesis-chapter/PhD-cat.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Data Management Plan - PhDs at TU Delft</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -1221,65 +1259,6 @@ Examples data availability statements
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>What data to share?</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>In order to determine what data should be openly shared ask yourself the following questions:</p>
-<p><strong>What information would another colleague need</strong> to understand</p>
-<ul>
-<li><p>what you did,</p></li>
-<li><p>how you did it and</p></li>
-<li><p>how the data can be reused?</p></li>
-</ul>
-<section id="which-data-can-be-shared" class="level2">
-<h2 class="anchored" data-anchor-id="which-data-can-be-shared"><strong>Which data can be shared?</strong></h2>
-<ul>
-<li>Data restrictions can apply depending on the type of data (<a href="https://estherplomp.github.io/TNW-RDM-101/05-Essentials-for-Research-Data.html#personal-data">personal data</a>) or by contractual agreements with third partners (<a href="https://estherplomp.github.io/TNW-RDM-101/05-Essentials-for-Research-Data.html#confidential-data">confidential data</a>).</li>
-<li>Sometimes data is too large to be shared (more than TBs)</li>
-<li>See <a href="https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667">valid reasons to not share data</a>.</li>
-</ul>
-</section>
-<section id="when-can-it-be-shared" class="level2">
-<h2 class="anchored" data-anchor-id="when-can-it-be-shared"><strong>When can it be shared?</strong></h2>
-<p>Generally it is easiest to share data at the same time as the publication/article. This way you can still correct errors if there are any, and you’re still familiar with the data organisation.</p>
-</section>
-<section id="if-the-data-cannot-be-shared" class="level2">
-<h2 class="anchored" data-anchor-id="if-the-data-cannot-be-shared">If the data cannot be shared:</h2>
-<ul>
-<li><p>Consider sharing the metadata about the data in a repository Increases findability/discoverability.</p></li>
-<li><p>Explain to others what they have to do to request access. For example, <a href="https://data.4tu.nl/info//en/">4TU.ResearchData</a> offers restricted access and a way to request access to these restricted datasets.</p></li>
-</ul>
-</section>
-<section id="tu-delft-research-data-framework" class="level2">
-<h2 class="anchored" data-anchor-id="tu-delft-research-data-framework">TU Delft <a href="https://doi.org/10.5281/zenodo.2573159">Research Data Framework</a></h2>
-<p>Ensuring that research data, code and any other <strong>materials needed to reproduce research findings</strong> are appropriately documented, stored and shared in a research data repository … unless there are <a href="https://www.tudelft.nl/library/research-data-management/r/buttons/faqs#c547667">valid reasons</a> not to do so.</p>
-</section>
-<section id="faculty-of-applied-sciences-research-data-management-policy" class="level2">
-<h2 class="anchored" data-anchor-id="faculty-of-applied-sciences-research-data-management-policy">Faculty of Applied Sciences <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf">Research Data Management Policy</a></h2>
-<p>The minimal requirement is the <strong>deposition of the numerical data (processed data) underlying the figures in academic papers and PhD theses</strong>. Deposition of datasets not directly linked with publications or raw data/software and processing scripts used to derive the processed data is encouraged.</p>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li></li>
-<li></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/index.html</guid>
-  <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-what/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
