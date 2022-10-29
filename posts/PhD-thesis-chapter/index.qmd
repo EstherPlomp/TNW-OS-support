@@ -1,0 +1,25 @@
+---
+title: "PhD Chapter"
+author: "Esther Plomp"
+date: "2022-10-29"
+categories: [PhD, TU Delft]
+image: "PhD-cat.jpg"
+---
+
+Why just have an article or traditional chapter as part of your PhD dissertation? Why not use a dataset, software package or public engagement example as part of your dissertation?
+
+## Examples
+
+-   [Editorial to raise awareness for first-generation students](https://www.nature.com/articles/s41562-022-01374-y.epdf?sharing_token=0NMpnEIEJuPGBb6kDMorvNRgN0jAjWel9jnR3ZoTv0O-pULYFz6Lo0iSXqvd2RRqkTu-L4QeblP_I70ZUv8-zEeO6TfSrGOuPihSnshdXDaOHm2ep2xjeG6b0XxlpU2ZkrXsBDMezDC6pDjMMQpZ3InIfhf0ByxTCLYNk-RBF4Y%3D) ([source](https://twitter.com/charishehakaya/status/1549998331417567233)- in Dutch)
+
+-   [Software packages](https://twitter.com/wfbroderick/status/1565352853820014592)
+
+-   [Science Communication](https://ui.adsabs.harvard.edu/abs/2021PhDT........12M/abstract) (last chapter) ([source)](https://twitter.com/louisa_geo/status/1543971172039147526)
+
+-   [Science Communication](https://figshare.com/articles/thesis/A_Story_Of_A_Scientist_A_Researcher_Mentor_Teacher_Leader_And_Advocate/16563717/1) (Chapter 6) ([source)](https://twitter.com/louisa_geo/status/1543971172039147526)
+
+## More information:
+
+-   
+
+# 
