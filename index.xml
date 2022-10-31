@@ -55,6 +55,48 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-versioning/documentation.png" medium="image" type="image/png" height="115" width="144"/>
 </item>
 <item>
+  <title>Open Science in different disciplines</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-discipline/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post contains several examples that could be of relevance to TNW researchers</p>
+<ul>
+<li></li>
+</ul>
+<section id="chemistry" class="level2">
+<h2 class="anchored" data-anchor-id="chemistry">Chemistry</h2>
+<ul>
+<li><a href="https://www.fosteropenscience.eu/content/what-could-open-science-really-mean-chemistry">What could Open Science really mean for Chemistry?</a></li>
+</ul>
+</section>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">Education</h2>
+<ul>
+<li><p><a href="https://www.manyclasses.org">ManyClasses</a> is a collaborative research project investigating the generalizability of educational interventions in real classrooms.</p></li>
+<li><p><a href="https://edarxiv.org/">EdArXiv</a>: Open education science preprint repository.</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://doi.org/10.31219/osf.io/3r8hb">Open Research: Examples of good practice, and resources across disciplines</a></li>
+<li><a href="https://open-access.network/en/information/subject-specific-open-access">Subject-Specific Open Access</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-discipline/index.html</guid>
+  <pubDate>Mon, 31 Oct 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-discipline/OS-buffet.png" medium="image" type="image/png" height="102" width="144"/>
+</item>
+<item>
   <title>PhD Chapter</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-thesis-chapter/index.html</link>
@@ -768,14 +810,14 @@ Note
 <h2 class="anchored" data-anchor-id="open-engagement">Open Engagement</h2>
 <ul>
 <li><p>Engagement is part of the TU Delft Core values (DIRECT)</p></li>
-<li><p>'Outreach and public engagement are core elements' (<a href="https://www.tudelft.nl/over-tu-delft/strategie">TU Delft strategic priorities 2022</a>)</p></li>
+<li><p>‘Outreach and public engagement are core elements’ (<a href="https://www.tudelft.nl/over-tu-delft/strategie">TU Delft strategic priorities 2022</a>)</p></li>
 <li><p>Online discussion and presentation platforms such as the <a href="https://virtualscienceforum.org/">Virtual Science Forum</a></p></li>
 </ul>
 </section>
 <section id="open-education" class="level2">
 <h2 class="anchored" data-anchor-id="open-education">Open Education</h2>
 <ul>
-<li><p>A new policy on Open Educational Resources will be 'a starting to point to make Open Education the default approach for teaching at TU Delft' – <a href="https://www.tudelft.nl/en/about-tu-delft/strategy">TU Delft Strategic Priorities 2022</a></p></li>
+<li><p>A new policy on Open Educational Resources will be ‘a starting to point to make Open Education the default approach for teaching at TU Delft’ – <a href="https://www.tudelft.nl/en/about-tu-delft/strategy">TU Delft Strategic Priorities 2022</a></p></li>
 <li><p><a href="https://online-learning.tudelft.nl/courses/">MOOCs</a> / <a href="https://ocw.tudelft.nl/">Open Course Ware</a></p></li>
 </ul>
 </section>
@@ -794,7 +836,7 @@ Note
 <section id="open-participation" class="level2">
 <h2 class="anchored" data-anchor-id="open-participation">Open Participation</h2>
 <ul>
-<li><p>'There is no open science if science is not open to all' (<a href="https://hdl.handle.net/2066/226397">Whitaker and Guest 2020</a>)</p></li>
+<li><p>‘There is no open science if science is not open to all’ (<a href="https://hdl.handle.net/2066/226397">Whitaker and Guest 2020</a>)</p></li>
 <li><p><a href="https://osc-delft.github.io/">Open Science Community TU Delft</a> (<a href="https://twitter.com/OSCDelft">@OSCDelft</a>)</p></li>
 <li><p><a href="https://www.tudelft.nl/en/about-tu-delft/strategy/diversity-inclusion">Diversity and Inclusion at TU Delft</a></p></li>
 <li><p><a href="https://www.tudelft.nl/en/scd/waterlab/join-our-research/what-is-citizen-science">Citizen Science</a></p></li>
@@ -803,15 +845,23 @@ Note
 <section id="open-methods" class="level2">
 <h2 class="anchored" data-anchor-id="open-methods">Open Methods</h2>
 <ul>
-<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">Electronic lab Notebooks (RSpace/eLABjournal)</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">Electronic Lab Notebooks (RSpace/eLABjournal)</a></p></li>
 <li><p><a href="https://www.protocols.io/">protocols.io</a> (<a href="https://plos.org/open-science/open-methods/">PLOS</a>)</p></li>
+<li><p><a href="https://www.nature.com/articles/d41586-021-02428-3">Five keys to writing a reproducible lab protocol</a> (Baker 2021)</p>
+<ul>
+<li><p>Document as you go: consider how you share your method from day one</p></li>
+<li><p>Write less, show more: consider using videos (see for example the <a href="https://www.jove.com/">Journal of Visualized Experiments</a>)</p></li>
+<li><p>Link, template, standardise: by using Electronic Lab Notebooks</p></li>
+<li><p>Deposit and document reagents (see <a href="https://scicrunch.org/resources">RRIDs</a>)</p></li>
+<li><p>Communicate: platforms such as protocols.io allow for easier communication</p></li>
+</ul></li>
 </ul>
 </section>
 <section id="open-evaluation" class="level2">
 <h2 class="anchored" data-anchor-id="open-evaluation">Open Evaluation</h2>
 <ul>
-<li><p>'Open science and education can play an important role in improving the quality of our work and stimulating the use of our knowledge and findings by others' – <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/recognition-rewards-perspective">TU Delft Recognition &amp; Rewards Perspective 2021 – 2024</a></p></li>
-<li><p>The Dutch position paper <a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone's talent</a> aims to recognise a wider range of academic contributions</p></li>
+<li><p>‘Open science and education can play an important role in improving the quality of our work and stimulating the use of our knowledge and findings by others’ – <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/recognition-rewards-perspective">TU Delft Recognition &amp; Rewards Perspective 2021 – 2024</a></p></li>
+<li><p>The Dutch position paper <a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone’s talent</a> aims to recognise a wider range of academic contributions</p></li>
 <li><p><a href="https://www.vsnu.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf">Strategy Evaluation Protocol (SEP) – 2021-2027</a> has Open Science as a main assessment criteria</p></li>
 </ul>
 </section>
@@ -825,39 +875,16 @@ Note
 <h2 class="anchored" data-anchor-id="more-information">More information:</h2>
 <ul>
 <li><a href="https://doi.org/10.4233/uuid:984f605e-1d08-4b8f-bafa-e351634e19a0">TU Delft Open Science Programme 2020-2024</a></li>
+<li><a href="https://www.tudelft.nl/open-science">tudelf</a><a href="https://osc-delft.github.io/">t.nl/open-science</a></li>
+<li><a href="the-turing-way.netlify.app">The Turing Way</a></li>
+<li><a href="https://openlifesci.org/">openlifesci.org</a></li>
+<li><a href="https://www.fosteropenscience.eu/content/what-could-open-science-really-mean-chemistry">What could Open Science really mean for Chemistry?</a></li>
+<li><a href="https://doi.org/10.31219/osf.io/3r8hb">Open Research: Examples of good practice, and resources across disciplines</a></li>
 </ul>
-<p><a href="https://www.tudelft.nl/open-science">tudelf</a><a href="https://osc-delft.github.io/">t.nl/open-science</a></p>
-<p><a href="https://the-turing-way.netlify.app/welcome">the-turing-way.netlify.app</a></p>
-<p><a href="https://openlifesci.org/">openlifesci.org</a></p>
 <p>*The term Open Science Buffet has been coined by <a href="https://twitter.com/chbergma/status/1461199447531085829">Christina Bergmann</a> in <a href="https://hdl.handle.net/2066/226397">2019</a>.</p>
 </section>
-<section id="open-science" class="level2">
-<h2 class="anchored" data-anchor-id="open-science">Open Science</h2>
-<p><strong>Open Science</strong> is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality. Several concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.</p>
-</section>
-<section id="benefits-of-open-science" class="level2">
-<h2 class="anchored" data-anchor-id="benefits-of-open-science">Benefits of Open Science</h2>
-<ul>
-<li><p>Increased impact and visibility: Research will be accessible to anyone and it is easier to build on previous work</p></li>
-<li><p>Maximise research effort by making research and <a href="https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html">educational</a> outputs reusable</p></li>
-<li><p>Improving the quality of research through more transparency (facilitating reproducibility) which will increase trust in research</p></li>
-<li><p>Increased citizen engagement with and participation in research</p></li>
-<li><p>Accelerates discovery and provides opportunity for collaborations</p></li>
-<li><p>Recognition for all contributions to research</p></li>
-</ul>
-<p>The Dutch position paper ‘<a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone’s talent</a>’ aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.</p>
-</section>
-<section id="tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="tu-delft">TU Delft</h2>
-<p>TU Delft has a long history of engagement with Open Science and it is TU Delft’s ambition to be a frontrunner, as reflected in its <a href="https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme">Open Science Programme 2020-2024, Research and Education in the Open Era</a> and the TU Delft Strategic Framework 2018-2024, with “openness” as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC%20EN.pdf">Code of Conduct</a>. TU Delft established several policies and framework that fall under the Open Science umbrella:</p>
-<p>• TU Delft Policy on <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf">Open Access Publishing</a> (2016)</p>
-<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf">Research Data Policy Framework</a> (2019, 2021)</p>
-<p>• TU Delft <a href="https://doi.org/10.5281/zenodo.4629662">Research Software Policy</a> (2021)</p>
-<p>• TU Delft <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/diversity-policy">Diversity &amp; Inclusion Office</a> (2021)</p>
-<p>• TU Delft <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Vision%20on%20Integrity%202018-2024.pdf">Vision on Integrity</a> 2018-2024</p>
-<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen%20en%20Waarderen%20-%20recognition%20and%20reward/TU%20Delft%20Recognition%20and%20Rewards%20perspective%20def.pdf">Recognition &amp; Rewards Perspective</a> 2021 – 2024</p>
-<p>• TU Delft Policy on Open Educational Resources (2022, under construction)</p>
-<p>You can find more information on <a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a>.</p>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
 
 
 </section>
@@ -944,8 +971,9 @@ Examples data availability statements
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
-<li>See also the post on <a href="https://estherplomp.github.io/TNW-OS-support/posts/software-citation/">software citation</a>.</li>
-<li>For more information about the practicalities and timing in <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">linking your research outputs, see The Turing Way</a>.</li>
+<li><a href="https://youtu.be/PpMOkTnBMlI">Publishing and citing data in practice</a> - (~30 min webinar)</li>
+<li>See also the post on <a href="https://estherplomp.github.io/TNW-OS-support/posts/software-citation/">software citation</a></li>
+<li>For more information about the practicalities and timing in <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">linking your research outputs, see The Turing Way</a></li>
 </ul>
 
 
@@ -1188,28 +1216,6 @@ Examples data availability statements
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-TNW/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-TNW/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Spreadsheets</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/spreadsheets/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="using-schemas-to-check-your-tabular-data" class="level2">
-<h2 class="anchored" data-anchor-id="using-schemas-to-check-your-tabular-data">Using schemas to check your tabular data:</h2>
-<p>try.goodtables.io (or python library github.com/frictionlessdata/goodtables-py / github.com/frictionlessdata/tableschema-py) (see <a href="https://www.youtube.com/watch?v=vZAi4OnfH-Q&amp;feature=youtu.be">this presentation on YouTube</a>)</p>
-
-
-</section>
-
- ]]></description>
-  <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/spreadsheets/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/spreadsheets/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
