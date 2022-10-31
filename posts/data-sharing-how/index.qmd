@@ -8,6 +8,42 @@ image: "image.jpg"
 
 How to share data?
 
+To share the research data in accordance with the [FAIR principles](https://estherplomp.github.io/TNW-OS-support/posts/FAIR/), you need to select a data repository.
+
+When selecting a repository, researchers should consider the following:
+
+-   Where are similar datasets preserved?
+
+-   How long will the data be kept?
+
+-   Who manages the repository? An institution? A commercial provider?
+
+-   What are the costs or file size requirements associated with using the repository? How will those costs be paid? Are the file size requirements sufficient for your research project?
+
+-   What are the access and use policies for the repository? Are you able to select a license?
+
+## Discipline specific repository
+
+Ideally, your discipline has a data repository available that you can use. There are several benefits of using such a discipline specific repository:
+
+-   They use relevant metadata and specific requirements when you upload the data
+
+-   They facilitate aggregated datasets as the shared datasets are structured alike
+
+-   Access in community used formats
+
+-   Data is more findable, since similar types of data are available in the same repository
+
+-   Generally, there is some type of quality assurance during the upload process as the repository is more closely managed by experts in the field
+
+## General repository
+
+Realistically, not every discipline has such a specific data repository available. In this case, you can always make use of more generalist repositories, such as Zenodo and 4TU.ResearchData. These repositories have less strict requirements when uploading the data and accept a wide range of formats.
+
+## Linking research outputs
+
+Whether you use a discipline specific repository or a generalist one, it is important to link all the outputs to ensure that they are clearly identifiable and findable. You can do this by providing links/persistent identifiers in the metadata fields, or in the README file, or in the data availability statement in the corresponding article. See The Turing Way for more information about how to [link your research outputs](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
+
 ## Use standard or open file formats
 
 Using standard or open data formats ensures longer-term usability of data
@@ -60,12 +96,10 @@ https://data.4tu.nl/info/fileadmin/user_upload/Documenten/Deposit_Guidelines_202
 
 https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories
 
-## Link your data with your publication
-
-See The Turing Way for more information about how to [link your research outputs](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
+## 
 
 ## More information
 
--   
+-   [Generalist Repository Comparison Chart](https://doi.org/10.5281/zenodo.3946720) and/or [A Comparative Review of Various Data Repositories](https://dataverse.org/blog/comparative-review-various-data-repositories)
 
 -   
