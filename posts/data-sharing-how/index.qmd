@@ -38,7 +38,9 @@ Ideally, your discipline has a data repository available that you can use. There
 
 ## General repository
 
-Realistically, not every discipline has such a specific data repository available. In this case, you can always make use of more generalist repositories, such as Zenodo and 4TU.ResearchData. These repositories have less strict requirements when uploading the data and accept a wide range of formats.
+Realistically, not every discipline has such a specific data repository available. In this case, you can always make use of more generalist repositories, such as [Zenodo](https://zenodo.org/) and [4TU.ResearchData](https://data.4tu.nl/info//en/). These repositories have less strict requirements when uploading the data and accept a wide range of formats.
+
+[![](images/paste-779AE10E.png){fig-alt="First page of a Zenodo fact sheet" fig-align="center"}](https://www.openaire.eu/factsheet-zenodo-v2/view-document)
 
 ## Linking research outputs
 
@@ -96,7 +98,9 @@ https://data.4tu.nl/info/fileadmin/user_upload/Documenten/Deposit_Guidelines_202
 
 https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories
 
-## 
+## Examples
+
+[Lia et al. 2020](https://doi.org/10.12688/wellcomeopenres.15893.2)
 
 ## More information
 
