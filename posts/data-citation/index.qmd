@@ -67,5 +67,6 @@ See [here for some more examples of Data Availability Statements](https://www.li
 
 ## More information
 
--   See also the post on [software citation](https://estherplomp.github.io/TNW-OS-support/posts/software-citation/).
--   For more information about the practicalities and timing in [linking your research outputs, see The Turing Way](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
+-   [Publishing and citing data in practice](https://youtu.be/PpMOkTnBMlI) - (\~30 min webinar)
+-   See also the post on [software citation](https://estherplomp.github.io/TNW-OS-support/posts/software-citation/)
+-   For more information about the practicalities and timing in [linking your research outputs, see The Turing Way](https://the-turing-way.netlify.app/communication/citable/citable-linking.html)

@@ -106,4 +106,6 @@ https://www.springernature.com/gp/authors/research-data-policy/recommended-repos
 
 -   [Generalist Repository Comparison Chart](https://doi.org/10.5281/zenodo.3946720) and/or [A Comparative Review of Various Data Repositories](https://dataverse.org/blog/comparative-review-various-data-repositories)
 
--   
+-   [CODATA webinar on sharing your data with your publication](https://codata.org/initiatives/strategic-programme/codata-connect/webinar-series-research-skills/webinar-2-writing-an-article-with-excellent-supporting-data/)
+
+
