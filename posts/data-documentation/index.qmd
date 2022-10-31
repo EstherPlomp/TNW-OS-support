@@ -10,6 +10,8 @@ This post provides information about documentation, file naming and metadata.
 
 ## Documentation
 
+It is important to document your data, as it provides the contextual information needed to interpret the data. Data documentation includes information on the context of the data collection (project objectives and hypotheses), data collection methods (sampling, data collection process, analysis instruments used, software used to process the data etc), temporal and geographic coverage and by whom the data collection took place. Where multiple datasets or multiple versions of the same dataset are generated, the relationship between (the versions of) datasets should be clear.
+
 -   [Guide for data documentation](https://doi.org/10.5281/zenodo.1914401)
 
 -   [Data organisation in spreadsheets](https://uf-repro.github.io/data-organization/slides.html) (see also the [Open Science Framework guidance](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary))
@@ -48,6 +50,8 @@ You can explain the file naming convention in a README.txt file, so that it will
 -   [8 step guide](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247) on how to set up your file naming convention
 
 -   [Danielle Navarro's videos](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=2) about file naming and project structure
+
+-   [File naming at Princeton University](https://libguides.princeton.edu/c.php?g=102546&p=930626)
 
 ### Bulk renaming tools (use with care!):
 
