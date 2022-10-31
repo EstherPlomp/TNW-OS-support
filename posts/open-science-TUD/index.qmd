@@ -20,7 +20,7 @@ Several concepts belong under the umbrella term of 'Open Science' and these incl
 
 -   Maximise research effort by making research and [educational](https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html) outputs reusable
 
--   Improving the quality of research through more transparency (facilitating reproducibility) which will increase trust in research
+-   Improving the quality of research through more transparency (facilitating reproducibility) which will [increase trust](https://doi.org/10.1177/09636625221100686) in research
 
 -   Increased citizen engagement with and participation in research
 
