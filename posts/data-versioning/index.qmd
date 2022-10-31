@@ -1,0 +1,33 @@
+---
+title: "Data versioning"
+author: "Esther Plomp"
+date: "2022-10-31"
+categories: [Research Data Management]
+image: "documentation.png"
+---
+
+This post provides information about versioning files.
+
+Version control is important in research projects as it allows for tracking changes that were made and by whom these changes were made. This is especially helpful in collaborative projects where different people can work on the same files simultaneously.
+
+## Manual version control
+
+-   Decide how many and which versions to keep
+
+    -   For example, milestones such as publishable files or files that can be reviewed by collaborators
+
+    -   Examples could be: draft, final
+
+-   Decide on how long to keep these versions
+
+-   Decide on how to organise these versions and how to name them (see file naming)
+
+-   Record the changes made to files and by whom this is done
+
+## Automated version control
+
+An automatic version control system stores a history of changes and who made them. This is stored within the same file, so that your directory is not filled up by all the previous versions. Automatic version control can save a lot of time and headaches compared to manual version control, but does need some more technical skill. Git is a tool to version control your work - see [The Turing Way on how to get started with Git](https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-git.html).
+
+## More information
+
+-   [Version Control - The Turing Way](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
