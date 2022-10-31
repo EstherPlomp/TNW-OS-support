@@ -23,3 +23,4 @@ This post contains several examples that could be of relevance to TNW researcher
 ## More information
 
 -   [Open Research: Examples of good practice, and resources across disciplines](https://doi.org/10.31219/osf.io/3r8hb)
+-   [Subject-Specific Open Access](https://open-access.network/en/information/subject-specific-open-access)
