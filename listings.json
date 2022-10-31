@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/data-versioning/index.html",
       "/posts/PhD-thesis-chapter/index.html",
       "/posts/DMP-PhD/index.html",
       "/posts/Delft-AI/index.html",
@@ -13,6 +14,7 @@
       "/posts/data-documentation/index.html",
       "/posts/software-citation/index.html",
       "/posts/DCC/index.html",
+      "/posts/data-metadata/index.html",
       "/posts/open-science-buffet/index.html",
       "/posts/data-citation/index.html",
       "/posts/data-sharing-2021/index.html",

@@ -10,7 +10,50 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.1.251</generator>
-<lastBuildDate>Sat, 29 Oct 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 31 Oct 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data versioning</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-versioning/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post provides information about versioning files.</p>
+<p>Version control is important in research projects as it allows for tracking changes that were made and by whom these changes were made. This is especially helpful in collaborative projects where different people can work on the same files simultaneously.</p>
+<section id="manual-version-control" class="level2">
+<h2 class="anchored" data-anchor-id="manual-version-control">Manual version control</h2>
+<ul>
+<li><p>Decide how many and which versions to keep</p>
+<ul>
+<li><p>For example, milestones such as publishable files or files that can be reviewed by collaborators</p></li>
+<li><p>Examples could be: draft, final</p></li>
+</ul></li>
+<li><p>Decide on how long to keep these versions</p></li>
+<li><p>Decide on how to organise these versions and how to name them (see file naming)</p></li>
+<li><p>Record the changes made to files and by whom this is done</p></li>
+</ul>
+</section>
+<section id="automated-version-control" class="level2">
+<h2 class="anchored" data-anchor-id="automated-version-control">Automated version control</h2>
+<p>An automatic version control system stores a history of changes and who made them. This is stored within the same file, so that your directory is not filled up by all the previous versions. Automatic version control can save a lot of time and headaches compared to manual version control, but does need some more technical skill. Git is a tool to version control your work - see <a href="https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-git.html">The Turing Way on how to get started with Git</a>.</p>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://the-turing-way.netlify.app/reproducible-research/vcs.html">Version Control - The Turing Way</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-versioning/index.html</guid>
+  <pubDate>Mon, 31 Oct 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-versioning/documentation.png" medium="image" type="image/png" height="115" width="144"/>
+</item>
 <item>
   <title>PhD Chapter</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -91,6 +134,7 @@
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information:</h2>
 <ul>
+<li><p><a href="https://commons.esipfed.org/node/1439">Why create a Data Management Plan? by ESIP</a></p></li>
 <li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline">How to set up a DMPonline account and use the platform</a></p></li>
 <li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/DMP-5-things/">5 things to check in a Data Management Plan</a></p></li>
 <li><p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html#a-data-management-plan-should-provide-information-on-five-main-topics">A Data Management Plan should provide information on five main topics</a></p></li>
@@ -395,6 +439,7 @@
 <p>This post provides information about documentation, file naming and metadata.</p>
 <section id="documentation" class="level2">
 <h2 class="anchored" data-anchor-id="documentation">Documentation</h2>
+<p>It is important to document your data, as it provides the contextual information needed to interpret the data. Data documentation includes information on the context of the data collection (project objectives and hypotheses), data collection methods (sampling, data collection process, analysis instruments used, software used to process the data etc), temporal and geographic coverage and by whom the data collection took place. Where multiple datasets or multiple versions of the same dataset are generated, the relationship between (the versions of) datasets should be clear.</p>
 <ul>
 <li><p><a href="https://doi.org/10.5281/zenodo.1914401">Guide for data documentation</a></p></li>
 <li><p><a href="https://uf-repro.github.io/data-organization/slides.html">Data organisation in spreadsheets</a>&nbsp;(see also the <a href="https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary">Open Science Framework guidance</a>)</p></li>
@@ -423,6 +468,7 @@
 <li><p><a href="https://speakerdeck.com/jennybc/how-to-name-files">Jenny Bryan’s ‘naming things’ presentation</a></p></li>
 <li><p><a href="https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247">8 step guide</a> on how to set up your file naming convention</p></li>
 <li><p><a href="https://www.youtube.com/watch?v=u6MiDFvAs9w&amp;list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&amp;index=2">Danielle Navarro’s videos</a> about file naming and project structure</p></li>
+<li><p><a href="https://libguides.princeton.edu/c.php?g=102546&amp;p=930626">File naming at Princeton University</a></p></li>
 </ul>
 </section>
 <section id="bulk-renaming-tools-use-with-care" class="level3">
@@ -613,6 +659,33 @@ Note
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/dcc.png" medium="image" type="image/png" height="92" width="144"/>
+</item>
+<item>
+  <title>Metadata</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Metadata is data about data.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://commons.esipfed.org/node/1422">Introduction to Metadata and Metadata Standards by ESIP</a></li>
+<li>For more information about the practicalities and timing in <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">linking your research outputs, see The Turing Way</a>.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>FAIR</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Open Science Buffet</title>
@@ -1143,122 +1216,6 @@ Examples data availability statements
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>SURFdrive sharing</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="sharing-data-with-surfdrive" class="level2">
-<h2 class="anchored" data-anchor-id="sharing-data-with-surfdrive">Sharing Data with SURFdrive</h2>
-<p>You can share data with SURFdrive through the 1) browser or the 2) application.</p>
-</section>
-<section id="surfdrive-browser" class="level2">
-<h2 class="anchored" data-anchor-id="surfdrive-browser">SURFdrive browser</h2>
-<ol type="1">
-<li><p>Log into your SURFdrive account through the webbrowser: <a href="https://surfdrive.surf.nl">surfdrive.surf.nl/</a></p></li>
-<li><p>Select the share button:</p></li>
-</ol>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-EF8FDCD2.png" class="img-fluid" width="382"></p>
-<ol start="3" type="1">
-<li>Select ‘<strong>Public Links</strong>’ (students will not show up in the users section)</li>
-<li>Select ‘<strong>Create public link</strong>’</li>
-<li>You will see a pop up where you can adjust the link name of your folder, file folder permissions, add a password and select an expiration date of the link. Below you can send the link to an email address or you can retrieve the link later.</li>
-</ol>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-A2C02F3B.png" class="img-fluid"></p>
-<ol start="6" type="1">
-<li>Select ‘<strong>Share</strong>’ to continue.</li>
-</ol>
-<p>Your map now has a link image on it and you can copy, edit, share or delete your link:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-C4F1544F.png" class="img-fluid"></p>
-<p>See also <a href="https://www.youtube.com/watch?v=nwkJB5IRn4k">SURFdrive’s tutorial</a>.</p>
-</section>
-<section id="surfdrive-application" class="level2">
-<h2 class="anchored" data-anchor-id="surfdrive-application">SURFdrive application</h2>
-<p>You can also share your folders/files through the SURFdrive application. Right click on any folder or file that you have within your SURFdrive folder on your computer and select: SURFdrive &gt; Share . You will see this pop up window:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-09D11D36.png" class="img-fluid"></p>
-<p>Through ‘<strong>Users and Groups</strong>’ you can directly share your files with colleagues that are based at Dutch institutes by typing in their names or email addresses.</p>
-<p>You can also generate ‘<strong>Public Links</strong>’ by selecting ‘<strong>create new</strong>’ and ‘<strong>create</strong>’. Don’t forget to set a password for the link and an expiration date if needed. Once you have created this link you can copy it through right clicking the file: SURFdrive &gt; Copy public link to clipboard.</p>
-<p><em>Note that your SURFdrive application has to be running in the background to be able to generate and copy these links.</em></p>
-
-
-</section>
-
- ]]></description>
-  <category>Storage</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/SURFdrive.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Open Science</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="open-science" class="level2">
-<h2 class="anchored" data-anchor-id="open-science">Open Science</h2>
-<p><strong>Open Science</strong> is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.</p>
-<p><strong>Open Science</strong> is <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en">defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO)</a> as <em>“an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”</em></p>
-<p>Several concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.</p>
-</section>
-<section id="benefits-of-open-science" class="level2">
-<h2 class="anchored" data-anchor-id="benefits-of-open-science">Benefits of Open Science</h2>
-<ul>
-<li><p>Increased impact and visibility: Research will be accessible to anyone and it is easier to build on previous work</p></li>
-<li><p>Maximise research effort by making research and <a href="https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html">educational</a> outputs reusable</p></li>
-<li><p>Improving the quality of research through more transparency (facilitating reproducibility) which will increase trust in research</p></li>
-<li><p>Increased citizen engagement with and participation in research</p></li>
-<li><p>Accelerates discovery and provides opportunity for collaborations</p></li>
-<li><p>Recognition for all contributions to research</p></li>
-</ul>
-<p>The Dutch position paper ‘<a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone’s talent</a>’ aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.</p>
-</section>
-<section id="tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="tu-delft">TU Delft</h2>
-<p>TU Delft has a long history of engagement with Open Science and it is TU Delft’s ambition to be a frontrunner, as reflected in its <a href="https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme">Open Science Programme 2020-2024, Research and Education in the Open Era</a> and the TU Delft Strategic Framework 2018-2024, with “openness” as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC%20EN.pdf">Code of Conduct</a>. TU Delft established several policies and framework that fall under the Open Science umbrella:</p>
-<p>• TU Delft Policy on <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf">Open Access Publishing</a> (2016)</p>
-<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf">Research Data Policy Framework</a> (2019, 2021)</p>
-<p>• TU Delft <a href="https://doi.org/10.5281/zenodo.4629662">Research Software Policy</a> (2021)</p>
-<p>• TU Delft <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/diversity-policy">Diversity &amp; Inclusion Office</a> (2021)</p>
-<p>• TU Delft <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Vision%20on%20Integrity%202018-2024.pdf">Vision on Integrity</a> 2018-2024</p>
-<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen%20en%20Waarderen%20-%20recognition%20and%20reward/TU%20Delft%20Recognition%20and%20Rewards%20perspective%20def.pdf">Recognition &amp; Rewards Perspective</a> 2021 – 2024</p>
-<p>• TU Delft <a href="https://doi.org/10.4233/uuid:68a07efc-fc4d-4a57-8e93-88a3af37465a">Policy on Open Educational Resources</a> (2021)</p>
-<p>You can find more information on <a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a>.</p>
-</section>
-<section id="the-netherlands" class="level2">
-<h2 class="anchored" data-anchor-id="the-netherlands">the Netherlands</h2>
-<ul>
-<li><p>In the Netherlands Open Science is an important component of the <a href="https://recognitionrewards.nl/">Recognition &amp; Rewards</a> movement.</p></li>
-<li><p>Dutch research funder <a href="https://www.nwo.nl/en/open-science">NWO supports</a> new forms of evaluation and requires 100% Open Access.</p></li>
-<li><p>The <a href="https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf">‘Strategic Evaluation Protocol’</a> that universities use to periodically evaluate their research has a strong focus Open Science practices and outputs.</p></li>
-</ul>
-</section>
-<section id="internationally" class="level2">
-<h2 class="anchored" data-anchor-id="internationally">Internationally</h2>
-<ul>
-<li><p>The <a href="https://sfdora.org/">San Francisco Declaration on Research Assessment</a> (to which all Dutch universities adhere to).</p></li>
-<li><p>The <a href="https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/reforming-research-assessment-agreement-now-final-2022-07-20_en">‘Reforming research assessment’</a> agreement by the European Union. Open Science has for years been promoted by the European Commission.</p></li>
-<li><p>UNESCO adopted a <a href="https://en.unesco.org/science-sustainable-future/open-science/recommendation">recommendation</a> on Open Science.</p></li>
-<li><p>The <a href="https://cen.acs.org/policy/publishing/White-House-mandates-immediate-open/100/web/2022/08#:~:text=All%20US%20federally%2Dfunded%20research,31%2C%202025.">White House also committed</a> the United States to Open Science, which pushes for Open Access, and FAIR data and code sharing.</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>

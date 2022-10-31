@@ -4,7 +4,14 @@
     "href": "posts/Open-Access/index.html",
     "title": "Open Access",
     "section": "",
-    "text": "https://youtu.be/L5rVH1KGBCY\n\nPreprint: version of the article before peer review\nPost-print (or Author Accepted Manuscript - AAM): version of the article after peer review\nPublishers version (Version of Record - VOR): fully formatted version published by the publisher"
+    "text": "Explanation preprint, postprint etc. Link with sherpa romeo\nhttps://youtu.be/L5rVH1KGBCY"
+  },
+  {
+    "objectID": "posts/Open-Access/index.html#more-information",
+    "href": "posts/Open-Access/index.html#more-information",
+    "title": "Open Access",
+    "section": "More information",
+    "text": "More information\n\nHow to make your own work open access"
   },
   {
     "objectID": "posts/data-sharing-what/index.html",
@@ -270,14 +277,14 @@
     "href": "posts/data-documentation/index.html#documentation",
     "title": "Data Documentation",
     "section": "Documentation",
-    "text": "Documentation\n\nGuide for data documentation\nData organisation in spreadsheets (see also the Open Science Framework guidance)\nCode Book\nGuide on how to create data dictionaries\ncheck the README post"
+    "text": "Documentation\nIt is important to document your data, as it provides the contextual information needed to interpret the data. Data documentation includes information on the context of the data collection (project objectives and hypotheses), data collection methods (sampling, data collection process, analysis instruments used, software used to process the data etc), temporal and geographic coverage and by whom the data collection took place. Where multiple datasets or multiple versions of the same dataset are generated, the relationship between (the versions of) datasets should be clear.\n\nGuide for data documentation\nData organisation in spreadsheets (see also the Open Science Framework guidance)\nCode Book\nGuide on how to create data dictionaries\ncheck the README post"
   },
   {
     "objectID": "posts/data-documentation/index.html#file-naming-convention",
     "href": "posts/data-documentation/index.html#file-naming-convention",
     "title": "Data Documentation",
     "section": "File naming convention",
-    "text": "File naming convention\nStructure your file names and set up a template for this. It is very useful to start with the date (when the file was generated: YYYYMMDD) which will sort your files chronologically and also creates a unique identifier for each file. (It will be immediately clear if there are multiple files generated on the same day that will have to be given a version number –or “A, B”-, because otherwise overwriting would occurs if you store these files in the proper folder).\nExamples:\n20190607_ImPhys_RDMTemplate_v001_eng\n\nDate or date range of experiment: YYYYMMDD\nFile type (or language such as the example above)\nResearcher name/initials\nVersion number of file (v001, v002)\nDon’t make file names too long (30-70 characters should do the trick)\nAvoid special characters (?\\!@*%{[<>) and spaces\n\nYou can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean.\n\nMore information on file naming\n\nJenny Bryan’s ‘naming things’ presentation\n8 step guide on how to set up your file naming convention\nDanielle Navarro’s videos about file naming and project structure\n\n\n\nBulk renaming tools (use with care!):\n\nWindows: Ant Renamer, RenameIT, Bulk Rename Utility\nMac: Renamer, Name Changer\nLinux: GNOME Commander, GPRename\nUnix: Using the grep command to search for regular expressions"
+    "text": "File naming convention\nStructure your file names and set up a template for this. It is very useful to start with the date (when the file was generated: YYYYMMDD) which will sort your files chronologically and also creates a unique identifier for each file. (It will be immediately clear if there are multiple files generated on the same day that will have to be given a version number –or “A, B”-, because otherwise overwriting would occurs if you store these files in the proper folder).\nExamples:\n20190607_ImPhys_RDMTemplate_v001_eng\n\nDate or date range of experiment: YYYYMMDD\nFile type (or language such as the example above)\nResearcher name/initials\nVersion number of file (v001, v002)\nDon’t make file names too long (30-70 characters should do the trick)\nAvoid special characters (?\\!@*%{[<>) and spaces\n\nYou can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean.\n\nMore information on file naming\n\nJenny Bryan’s ‘naming things’ presentation\n8 step guide on how to set up your file naming convention\nDanielle Navarro’s videos about file naming and project structure\nFile naming at Princeton University\n\n\n\nBulk renaming tools (use with care!):\n\nWindows: Ant Renamer, RenameIT, Bulk Rename Utility\nMac: Renamer, Name Changer\nLinux: GNOME Commander, GPRename\nUnix: Using the grep command to search for regular expressions"
   },
   {
     "objectID": "posts/data-documentation/index.html#metadata",
@@ -390,6 +397,20 @@
     "title": "Digital Competence Center",
     "section": "More information",
     "text": "More information\n\nDigital Competence Center Website\nDCC guides"
+  },
+  {
+    "objectID": "posts/data-metadata/index.html",
+    "href": "posts/data-metadata/index.html",
+    "title": "Metadata",
+    "section": "",
+    "text": "Metadata is data about data."
+  },
+  {
+    "objectID": "posts/data-metadata/index.html#more-information",
+    "href": "posts/data-metadata/index.html#more-information",
+    "title": "Metadata",
+    "section": "More information",
+    "text": "More information\n\nIntroduction to Metadata and Metadata Standards by ESIP\nFor more information about the practicalities and timing in linking your research outputs, see The Turing Way."
   },
   {
     "objectID": "posts/open-science-buffet/index.html",
@@ -935,7 +956,28 @@
     "href": "posts/data-sharing-how/index.html",
     "title": "How to share data?",
     "section": "",
-    "text": "How to share data?"
+    "text": "How to share data?\nTo share the research data in accordance with the FAIR principles, you need to select a data repository.\nWhen selecting a repository, researchers should consider the following:"
+  },
+  {
+    "objectID": "posts/data-sharing-how/index.html#discipline-specific-repository",
+    "href": "posts/data-sharing-how/index.html#discipline-specific-repository",
+    "title": "How to share data?",
+    "section": "Discipline specific repository",
+    "text": "Discipline specific repository\nIdeally, your discipline has a data repository available that you can use. There are several benefits of using such a discipline specific repository:\n\nThey use relevant metadata and specific requirements when you upload the data\nThey facilitate aggregated datasets as the shared datasets are structured alike\nAccess in community used formats\nData is more findable, since similar types of data are available in the same repository\nGenerally, there is some type of quality assurance during the upload process as the repository is more closely managed by experts in the field"
+  },
+  {
+    "objectID": "posts/data-sharing-how/index.html#general-repository",
+    "href": "posts/data-sharing-how/index.html#general-repository",
+    "title": "How to share data?",
+    "section": "General repository",
+    "text": "General repository\nRealistically, not every discipline has such a specific data repository available. In this case, you can always make use of more generalist repositories, such as Zenodo and 4TU.ResearchData. These repositories have less strict requirements when uploading the data and accept a wide range of formats."
+  },
+  {
+    "objectID": "posts/data-sharing-how/index.html#linking-research-outputs",
+    "href": "posts/data-sharing-how/index.html#linking-research-outputs",
+    "title": "How to share data?",
+    "section": "Linking research outputs",
+    "text": "Linking research outputs\nWhether you use a discipline specific repository or a generalist one, it is important to link all the outputs to ensure that they are clearly identifiable and findable. You can do this by providing links/persistent identifiers in the metadata fields, or in the README file, or in the data availability statement in the corresponding article. See The Turing Way for more information about how to link your research outputs."
   },
   {
     "objectID": "posts/data-sharing-how/index.html#use-standard-or-open-file-formats",
@@ -966,18 +1008,11 @@
     "text": "https://data.4tu.nl/info/fileadmin/user_upload/Documenten/Deposit_Guidelines_2020.pdf\nhttps://www.springernature.com/gp/authors/research-data-policy/recommended-repositories"
   },
   {
-    "objectID": "posts/data-sharing-how/index.html#link-your-data-with-your-publication",
-    "href": "posts/data-sharing-how/index.html#link-your-data-with-your-publication",
-    "title": "How to share data?",
-    "section": "Link your data with your publication",
-    "text": "Link your data with your publication\nSee The Turing Way for more information about how to link your research outputs."
-  },
-  {
     "objectID": "posts/data-sharing-how/index.html#more-information",
     "href": "posts/data-sharing-how/index.html#more-information",
     "title": "How to share data?",
     "section": "More information",
-    "text": "More information"
+    "text": "More information\n\nGeneralist Repository Comparison Chart and/or A Comparative Review of Various Data Repositories"
   },
   {
     "objectID": "posts/data-organisation/index.html",
@@ -1026,7 +1061,35 @@
     "href": "posts/DMP-PhD/index.html#more-information",
     "title": "Data Management Plan - PhDs at TU Delft",
     "section": "More information:",
-    "text": "More information:\n\nHow to set up a DMPonline account and use the platform\n5 things to check in a Data Management Plan\nA Data Management Plan should provide information on five main topics"
+    "text": "More information:\n\nWhy create a Data Management Plan? by ESIP\nHow to set up a DMPonline account and use the platform\n5 things to check in a Data Management Plan\nA Data Management Plan should provide information on five main topics"
+  },
+  {
+    "objectID": "posts/data-versioning/index.html",
+    "href": "posts/data-versioning/index.html",
+    "title": "Data versioning",
+    "section": "",
+    "text": "This post provides information about versioning files.\nVersion control is important in research projects as it allows for tracking changes that were made and by whom these changes were made. This is especially helpful in collaborative projects where different people can work on the same files simultaneously."
+  },
+  {
+    "objectID": "posts/data-versioning/index.html#manual-version-control",
+    "href": "posts/data-versioning/index.html#manual-version-control",
+    "title": "Data versioning",
+    "section": "Manual version control",
+    "text": "Manual version control\n\nDecide how many and which versions to keep\n\nFor example, milestones such as publishable files or files that can be reviewed by collaborators\nExamples could be: draft, final\n\nDecide on how long to keep these versions\nDecide on how to organise these versions and how to name them (see file naming)\nRecord the changes made to files and by whom this is done"
+  },
+  {
+    "objectID": "posts/data-versioning/index.html#automated-version-control",
+    "href": "posts/data-versioning/index.html#automated-version-control",
+    "title": "Data versioning",
+    "section": "Automated version control",
+    "text": "Automated version control\nAn automatic version control system stores a history of changes and who made them. This is stored within the same file, so that your directory is not filled up by all the previous versions. Automatic version control can save a lot of time and headaches compared to manual version control, but does need some more technical skill. Git is a tool to version control your work - see The Turing Way on how to get started with Git."
+  },
+  {
+    "objectID": "posts/data-versioning/index.html#more-information",
+    "href": "posts/data-versioning/index.html#more-information",
+    "title": "Data versioning",
+    "section": "More information",
+    "text": "More information\n\nVersion Control - The Turing Way"
   },
   {
     "objectID": "posts/data-sharing-SURFdrive/index.html",
@@ -1173,7 +1236,7 @@
     "href": "index.html",
     "title": "TNW Open Science support",
     "section": "",
-    "text": "PhD\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan\n\n\nPhD\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtificial Intelligence\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 11, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMistakes\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nData Management Plan\n\n\nOpen Software\n\n\nFAIR\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility\n\n\nChecklist\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\nSoftware\n\n\nCitation\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nCitation\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nData Management Plan\n\n\nOpen Software\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nOpen Software\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nResearch Data Management\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCredit\n\n\nORCID\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFAIR\n\n\nLicenses\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan\n\n\nChecklist\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit\n\n\n4TU.ResearchData\n\n\nOpen Data\n\n\nOpen Software\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp, Paula Martinez-Lavanchy, Pim van Schöll, Eirini Zormpa\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\nSoftware\n\n\nCitation\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp, Lora Armstrong\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEncryption\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware\n\n\nLicenses\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Research Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan\n\n\nPhD\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtificial Intelligence\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 11, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMistakes\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nData Management Plan\n\n\nOpen Software\n\n\nFAIR\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility\n\n\nChecklist\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\nSoftware\n\n\nCitation\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nCitation\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nData Management Plan\n\n\nOpen Software\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nOpen Software\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nResearch Data Management\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCredit\n\n\nORCID\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFAIR\n\n\nLicenses\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan\n\n\nChecklist\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit\n\n\n4TU.ResearchData\n\n\nOpen Data\n\n\nOpen Software\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp, Paula Martinez-Lavanchy, Pim van Schöll, Eirini Zormpa\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\nSoftware\n\n\nCitation\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp, Lora Armstrong\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEncryption\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware\n\n\nLicenses\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
