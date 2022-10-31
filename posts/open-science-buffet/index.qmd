@@ -48,13 +48,13 @@ This overview highlights resources that are available for TU Delft researchers i
 
 -   Engagement is part of the TU Delft Core values (DIRECT)
 
--   \'Outreach and public engagement are core elements\' ([TU Delft strategic priorities 2022](https://www.tudelft.nl/over-tu-delft/strategie))
+-   'Outreach and public engagement are core elements' ([TU Delft strategic priorities 2022](https://www.tudelft.nl/over-tu-delft/strategie))
 
 -   Online discussion and presentation platforms such as the [Virtual Science Forum](https://virtualscienceforum.org/)
 
 ## Open Education
 
--   A new policy on Open Educational Resources will be \'a starting to point to make Open Education the default approach for teaching at TU Delft\' -- [TU Delft Strategic Priorities 2022](https://www.tudelft.nl/en/about-tu-delft/strategy)
+-   A new policy on Open Educational Resources will be 'a starting to point to make Open Education the default approach for teaching at TU Delft' -- [TU Delft Strategic Priorities 2022](https://www.tudelft.nl/en/about-tu-delft/strategy)
 
 -   [MOOCs](https://online-learning.tudelft.nl/courses/) / [Open Course Ware](https://ocw.tudelft.nl/)
 
@@ -76,7 +76,7 @@ This overview highlights resources that are available for TU Delft researchers i
 
 ## Open Participation
 
--   \'There is no open science if science is not open to all\' ([Whitaker and Guest 2020](https://hdl.handle.net/2066/226397))
+-   'There is no open science if science is not open to all' ([Whitaker and Guest 2020](https://hdl.handle.net/2066/226397))
 
 -   [Open Science Community TU Delft](https://osc-delft.github.io/) ([\@OSCDelft](https://twitter.com/OSCDelft))
 
@@ -86,15 +86,27 @@ This overview highlights resources that are available for TU Delft researchers i
 
 ## Open Methods
 
--   [Electronic lab Notebooks (RSpace/eLABjournal)](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook)
+-   [Electronic Lab Notebooks (RSpace/eLABjournal)](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook)
 
 -   [protocols.io](https://www.protocols.io/) ([PLOS](https://plos.org/open-science/open-methods/))
 
+-   [Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3) (Baker 2021)
+
+    -   Document as you go: consider how you share your method from day one
+
+    -   Write less, show more: consider using videos (see for example the [Journal of Visualized Experiments](https://www.jove.com/))
+
+    -   Link, template, standardise: by using Electronic Lab Notebooks
+
+    -   Deposit and document reagents (see [RRIDs](https://scicrunch.org/resources))
+
+    -   Communicate: platforms such as protocols.io allow for easier communication
+
 ## Open Evaluation
 
--   \'Open science and education can play an important role in improving the quality of our work and stimulating the use of our knowledge and findings by others\' -- [TU Delft Recognition & Rewards Perspective 2021 -- 2024](https://www.tudelft.nl/en/about-tu-delft/strategy/recognition-rewards-perspective)
+-   'Open science and education can play an important role in improving the quality of our work and stimulating the use of our knowledge and findings by others' -- [TU Delft Recognition & Rewards Perspective 2021 -- 2024](https://www.tudelft.nl/en/about-tu-delft/strategy/recognition-rewards-perspective)
 
--   The Dutch position paper [Room for everyone\'s talent](https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf) aims to recognise a wider range of academic contributions
+-   The Dutch position paper [Room for everyone's talent](https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf) aims to recognise a wider range of academic contributions
 
 -   [Strategy Evaluation Protocol (SEP) -- 2021-2027](https://www.vsnu.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf) has Open Science as a main assessment criteria
 
@@ -105,51 +117,12 @@ This overview highlights resources that are available for TU Delft researchers i
 ## More information:
 
 -   [TU Delft Open Science Programme 2020-2024](https://doi.org/10.4233/uuid:984f605e-1d08-4b8f-bafa-e351634e19a0)
-
-[tudelf](https://www.tudelft.nl/open-science)[t.nl/open-science](https://osc-delft.github.io/)
-
-[the-turing-way.netlify.app](https://the-turing-way.netlify.app/welcome)
-
-[openlifesci.org](https://openlifesci.org/)
+-   [tudelf](https://www.tudelft.nl/open-science)[t.nl/open-science](https://osc-delft.github.io/)
+-   [The Turing Way](the-turing-way.netlify.app)
+-   [openlifesci.org](https://openlifesci.org/)
+-   [What could Open Science really mean for Chemistry?](https://www.fosteropenscience.eu/content/what-could-open-science-really-mean-chemistry)
+-   [Open Research: Examples of good practice, and resources across disciplines](https://doi.org/10.31219/osf.io/3r8hb)
 
 \*The term Open Science Buffet has been coined by [Christina Bergmann](https://twitter.com/chbergma/status/1461199447531085829) in [2019](https://hdl.handle.net/2066/226397).
 
-## Open Science
-
-**Open Science** is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality. Several concepts belong under the umbrella term of 'Open Science' and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.
-
-## Benefits of Open Science
-
--   Increased impact and visibility: Research will be accessible to anyone and it is easier to build on previous work
-
--   Maximise research effort by making research and [educational](https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html) outputs reusable
-
--   Improving the quality of research through more transparency (facilitating reproducibility) which will increase trust in research
-
--   Increased citizen engagement with and participation in research
-
--   Accelerates discovery and provides opportunity for collaborations
-
--   Recognition for all contributions to research
-
-The Dutch position paper '[Room for everyone's talent](https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf)' aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.
-
-## TU Delft
-
-TU Delft has a long history of engagement with Open Science and it is TU Delft's ambition to be a frontrunner, as reflected in its [Open Science Programme 2020-2024, Research and Education in the Open Era](https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme) and the TU Delft Strategic Framework 2018-2024, with "openness" as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the [Code of Conduct](https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC%20EN.pdf). TU Delft established several policies and framework that fall under the Open Science umbrella:
-
-• TU Delft Policy on [Open Access Publishing](https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf) (2016)
-
-• TU Delft [Research Data Policy Framework](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf) (2019, 2021)
-
-• TU Delft [Research Software Policy](https://doi.org/10.5281/zenodo.4629662) (2021)
-
-• TU Delft [Diversity & Inclusion Office](https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/diversity-policy) (2021)
-
-• TU Delft [Vision on Integrity](https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Vision%20on%20Integrity%202018-2024.pdf) 2018-2024
-
-• TU Delft [Recognition & Rewards Perspective](https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen%20en%20Waarderen%20-%20recognition%20and%20reward/TU%20Delft%20Recognition%20and%20Rewards%20perspective%20def.pdf) 2021 -- 2024
-
-• TU Delft Policy on Open Educational Resources (2022, under construction)
-
-You can find more information on [Open Science at TU Delft](https://www.tudelft.nl/open-science).
+## 
