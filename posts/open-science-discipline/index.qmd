@@ -1,0 +1,25 @@
+---
+title: "Open Science in different disciplines"
+author: "Esther Plomp"
+date: "2022-10-31"
+categories: [Open Science]
+image: "OS-buffet.png"
+---
+
+This post contains several examples that could be of relevance to TNW researchers
+
+-   
+
+## Chemistry
+
+-   [What could Open Science really mean for Chemistry?](https://www.fosteropenscience.eu/content/what-could-open-science-really-mean-chemistry)
+
+## Education
+
+-   [ManyClasses](https://www.manyclasses.org) is a collaborative research project investigating the generalizability of educational interventions in real classrooms.
+
+-   [EdArXiv](https://edarxiv.org/): Open education science preprint repository.
+
+## More information
+
+-   [Open Research: Examples of good practice, and resources across disciplines](https://doi.org/10.31219/osf.io/3r8hb)
