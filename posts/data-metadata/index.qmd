@@ -1,0 +1,14 @@
+---
+title: "Metadata"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Open Data, FAIR]
+image: "image.jpg"
+---
+
+Metadata is data about data.
+
+## More information
+
+-   [Introduction to Metadata and Metadata Standards by ESIP](https://commons.esipfed.org/node/1422)
+-   For more information about the practicalities and timing in [linking your research outputs, see The Turing Way](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
