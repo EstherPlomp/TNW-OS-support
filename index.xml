@@ -285,6 +285,47 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/mistakes/mistake.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
+  <title>Registered Reports</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-registered-reports/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>A registered report is an article format where the study proposal is peer-reviewed before the research is undertaken.</p>
+<p>After approved by the reviewers, the results will be published as long as the study proposal is followed and deviations are clearly indicated. This article format facilitates the publication of negative results and reduces time wasted on irrelevant study proposals.</p>
+<p>There are 2 main options: submit to a single journal that offers Registered Reports or to the supra-journal platform <a href="https://rr.peercommunityin.org/">Peer Community In Registered Reports</a> (PCI RR). For the former option, refer to the <a href="https://www.cos.io/initiatives/registered-reports">current list of journals that offer Registered Reports</a>.</p>
+<ul>
+<li><p><a href="https://journals.plos.org/plosone/s/other-article-types">PLOS ONE</a></p></li>
+<li><p><a href="https://www.nature.com/articles/s41467-020-17294-2">Nature Communications</a></p></li>
+<li><p><a href="https://www.nature.com/uploads/ckeditor/attachments/4825/RegisteredReportsGuidelines_NatureHumanBehaviour.pdf">Nature Human Behaviour</a></p></li>
+<li><p><a href="https://www.nature.com/srep/journal-policies/registered-reports">Scientific Reports</a></p></li>
+<li><p><a href="https://www.springer.com/journal/43938/submission-guidelines#Instructions%20for%20Authors_Registered%20Reports">Discover Chemical Engineering</a></p></li>
+<li><p><a href="https://www.springer.com/journal/43832/submission-guidelines#Instructions%20for%20Authors_Registered%20Reports">Discover Water</a></p></li>
+<li><p><a href="https://peerj.com/about/author-instructions/chemistry">PeerJ Materials Science</a></p></li>
+<li><p><a href="http://www.researchprotocols.org/">JMIR Biomedical Engineering</a></p></li>
+<li><p><a href="https://openreseurope.s3.amazonaws.com/resources/ORE-Registered-Report-Guidelines-STM.pdf">Open Research Europe</a></p></li>
+</ul>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More Information</h2>
+<ul>
+<li><p>See the <a href="https://www.cos.io/initiatives/registered-reports">Open Science Framework</a> for more information and resources on Registered Reports.</p></li>
+<li><p>See the <a href="https://www.surrey.ac.uk/library/open-research/preregistration-and-registered-reports">University of Surrey Open Research website</a> for more information about preregistration and registered reports.</p></li>
+<li><p><a href="https://doi.org/10.1371/journal.pcbi.1010571">Ten simple rules for writing a Registered Report</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <category>Scholarly Communication</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-registered-reports/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-registered-reports/registered-reports.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Publishing articles in 2021</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/index.html</link>
@@ -1169,53 +1210,6 @@ Examples data availability statements
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/spreadsheets/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/spreadsheets/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Data organisation</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="folder-structures" class="level2">
-<h2 class="anchored" data-anchor-id="folder-structures">Folder structures</h2>
-<p>Examples</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/images/paste-480EB3EE.png" class="img-fluid" width="589"></p>
-<p><a href="http://nikola.me/folder_structure.html" class="uri">http://nikola.me/folder_structure.html</a> (folder structure download available on the website)</p>
-<p><a href="https://doi.org/10.5281/zenodo.4410128">Folder structure template for research repositories</a></p>
-<p>Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don't belong or stored in large quantities in a single folder (which makes it hard to find the files).</p>
-<p>Make sure the folder structure is clear: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.</p>
-<p>See also: <a href="https://zapier.com/blog/organize-files-folders/">Find Files Faster: How to Organize Files and Folders</a></p>
-</section>
-<section id="cookie-cutter-templates" class="level2">
-<h2 class="anchored" data-anchor-id="cookie-cutter-templates">Cookie Cutter templates</h2>
-<p>Use the <a href="https://github.com/cookiecutter/cookiecutter">cookiecutter</a> templates to download folder structures through GitHub. The template by Barbara Vreede follows the template proposed by <a href="https://doi.org/10.1371/journal.pcbi.1005510">Wilson <em>et al.</em></a> (2017): <a href="https://github.com/bvreede/good-enough-project" class="uri">https://github.com/bvreede/good-enough-project</a></p>
-<ul>
-<li><p>See <a href="https://vimeo.com/462773031">this video for more information</a></p></li>
-<li><p>Follow the instructions here if you need more guidance.</p></li>
-</ul>
-<p>In general it is good practise to:</p>
-<ul>
-<li><p>have one folder/directory per project</p></li>
-<li><p>to save your raw data separately (and make it read only to ensure that it is not accidentally altered)</p></li>
-<li><p>to create a subdirectory for your output (for example: Manuscript output, figures, numerical output)</p></li>
-</ul>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/images/paste-B5D16106.png" class="img-fluid" width="602"></p>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html">The Turing Way - Data storage and organisation</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
