@@ -67,3 +67,13 @@ You can find more information on [Open Science at TU Delft](https://www.tudelft.
 -   UNESCO adopted a [recommendation](https://en.unesco.org/science-sustainable-future/open-science/recommendation) on Open Science.
 
 -   The [White House also committed](https://cen.acs.org/policy/publishing/White-House-mandates-immediate-open/100/web/2022/08#:~:text=All%20US%20federally%2Dfunded%20research,31%2C%202025.) the United States to Open Science, which pushes for Open Access, and FAIR data and code sharing.
+
+## More information
+
+-   [What senior academics can do to support reproducible and open research: a short, three-step guide](https://doi.org/10.31234/osf.io/jyfr7)
+
+-   [Passport for Open Science: A guide for PhD students](https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-phd-students/)
+
+-   [Let's become (Open) Science Champions!](https://www.youtube.com/watch?v=IV1aFnPkUSI)
+
+-   [Open Science Knowledge Base](https://how-to-open.science/)
