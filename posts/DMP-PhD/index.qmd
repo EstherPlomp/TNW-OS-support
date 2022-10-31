@@ -39,6 +39,8 @@ If there is no Data Management Plan available yet it is easiest to use the onlin
 
 ## More information:
 
+-   [Why create a Data Management Plan? by ESIP](https://commons.esipfed.org/node/1439)
+
 -   [How to set up a DMPonline account and use the platform](https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline)
 
 -   [5 things to check in a Data Management Plan](https://estherplomp.github.io/TNW-OS-support/posts/DMP-5-things/)
