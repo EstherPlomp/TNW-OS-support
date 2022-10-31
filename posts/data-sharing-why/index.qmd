@@ -22,6 +22,10 @@ image: "open-data-fountain.jpg"
 
 -   Prevents retractions
 
+-   Reduces duplication efforts
+
+-   Provides resources for training and education
+
 ## Example: Majorana retraction
 
 The authors of the 2018 article Quantized Majorana conductance have retracted this article. The authors were alerted to problems by two scientists in the same research area and then went on to re-examine their earlier measurements. In doing so, they found that the main conclusion had not been adequately substantiated.
