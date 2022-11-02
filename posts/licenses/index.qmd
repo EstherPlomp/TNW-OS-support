@@ -36,6 +36,12 @@ For software there are different licenses because you can execute software (whic
 
 ![<https://moqod.com/understanding-open-source-and-free-software-licensing/>](images/paste-F8565422.png)
 
+::: callout-note
+## Dual licensing for Software
+
+Dual licensing is a model which allows you to distribute the software under different terms of use. For example, you can release a free open source licence and a proprietary licence at the same time. This can be helpful when you shared the software under a copy left license, which obligates re-users to share the underlying source code if they incorporated the software. For commercial companies who would like to use the software, but do not want to share the source code, you can sell/provide them a proprietary license that does not oblige them to release the source code.
+:::
+
 ## More information
 
 -   [4TU.ResearchData licenses overview](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing)
