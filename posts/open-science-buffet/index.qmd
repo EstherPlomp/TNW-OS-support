@@ -120,8 +120,6 @@ This overview highlights resources that are available for TU Delft researchers i
 -   [tudelf](https://www.tudelft.nl/open-science)[t.nl/open-science](https://osc-delft.github.io/)
 -   [The Turing Way](the-turing-way.netlify.app)
 -   [openlifesci.org](https://openlifesci.org/)
--   [What could Open Science really mean for Chemistry?](https://www.fosteropenscience.eu/content/what-could-open-science-really-mean-chemistry)
--   [Open Research: Examples of good practice, and resources across disciplines](https://doi.org/10.31219/osf.io/3r8hb)
 
 \*The term Open Science Buffet has been coined by [Christina Bergmann](https://twitter.com/chbergma/status/1461199447531085829) in [2019](https://hdl.handle.net/2066/226397).
 

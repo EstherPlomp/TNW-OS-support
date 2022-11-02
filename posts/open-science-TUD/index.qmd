@@ -54,7 +54,7 @@ You can find more information on [Open Science at TU Delft](https://www.tudelft.
 
 -   In the Netherlands Open Science is an important component of the [Recognition & Rewards](https://recognitionrewards.nl/) movement.
 
--   Dutch research funder [NWO supports](https://www.nwo.nl/en/open-science) new forms of evaluation and requires 100% Open Access.
+-   Dutch research funder [NWO supports](https://www.nwo.nl/en/open-science) new forms of evaluation, requires 100% Open Access and sharing of data/code underlying research articles.
 
 -   The ['Strategic Evaluation Protocol'](https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf) that universities use to periodically evaluate their research has a strong focus Open Science practices and outputs.
 
