@@ -6,7 +6,7 @@ categories: [4TU.ResearchData, Open Data, Open Software, TU Delft]
 image: "4TU-logo.png"
 ---
 
-This post contains general information about the data repository [4TU.ResearchData](https://data.4tu.nl/info/en/).
+This post contains general information about the data repository [4TU.ResearchData](https://data.4tu.nl/info/en/) and how to share your research data/code.
 
 4TU.ResearchData is the archive of the 4TU.ResearchData Consortium (Delft/Wageningen/Eindhoven/Twente)
 
@@ -21,6 +21,8 @@ This post contains general information about the data repository [4TU.ResearchDa
 ## How to share the data/code?
 
 1.  Gather and organise the research data and/or code. Describe the outputs in your [README file](https://data.4tu.nl/info//fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf).
+
+    -   Use a consistent folder directory and [file naming convention](https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/#file-naming-convention) for your files
 
     -   It can be helpful to have a collaborator go over your data/code to see if everything makes sense and check whether they can deploy your software following your documentation, including dependencies information (operating systems, programming languages; interpreters and compilers; packages, libraries, frameworks, or other tools; browsers; databases; web or other online services and resources; file formats, standards and specifications - see [Jackson 2018](https://doi.org/10.5281/zenodo.1327310)a for more information)
 
@@ -45,6 +47,22 @@ This post contains general information about the data repository [4TU.ResearchDa
 ## Metadata record only
 
 You can use this option if data/code cannot be archived in a repository but you would like to make the data available according to the [FAIR principles](https://estherplomp.github.io/TNW-OS-support/posts/FAIR/index.html). Explain what additional datasets/materials exist and why access is restricted. Explain who could gain access to the data and under what circumstances.
+
+## Checklist to sharing your research ([Karoune & Plomp 2022](https://doi.org/10.5281/zenodo.6615276))
+
+1.  Have you set up a [Data Management Plan](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html)? In this Data Management Plan you can think about how you will store, document and share your research.
+
+2.  Ask feedback on how you documented and structured your data and code from someone that is not a co-author: are they able to trace your steps?
+
+3.  Decide in what order you want to publish your research objects: do you want to publicly share the data and code before the article is published or would you rather wait? - see The Turing Way (The Turing Way Community 2022e) for more information on [how to link your research objects](https://the-turing-way.netlify.app/communication/citable/citable-linking.html) during the sharing process.
+
+4.  Make sure a README file is included with your data/code: even if there is an associated article it is important to provide all relevant information to interpret the data or use the code in the same place as the data/code. You can also [let others know how to cite you in this README file](https://doi.org/10.5281/zenodo.3482769).
+
+5.  Ensure that you selected a [license](https://estherplomp.github.io/TNW-OS-support/posts/licenses/) for your data and code: without it your research objects cannot be reused by others.
+
+6.  Provide the DOI of your research objects where it is relevant (for example, table/figure descriptions, materials and methods section, data/code availability statement).
+
+7.  Check whether you cited your data and code in the references: this is where citations are counted from - not the acknowledgements or data availability statements. If you [reused any data/software you should also cite these](https://doi.org/10.5281/zenodo.3479199).
 
 ## More Information
 
