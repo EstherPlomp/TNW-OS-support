@@ -1,0 +1,55 @@
+---
+title: "4TU.ResearchData"
+author: "Esther Plomp"
+date: "2022-11-01"
+categories: [4TU.ResearchData, Open Data, Open Software, TU Delft]
+image: "4TU-logo.png"
+---
+
+This post contains general information about the data repository [4TU.ResearchData](https://data.4tu.nl/info/en/).
+
+4TU.ResearchData is the archive of the 4TU.ResearchData Consortium (Delft/Wageningen/Eindhoven/Twente)
+
+-   Free up to 1TB/TU Delft researcher/year
+
+-   Publication and long-term preservation of research data/code
+
+-   Open access (with embargo and restricted access if necessary)
+
+-   DOI (Digital Object Identifier) (allows citation - see [data citation](https://estherplomp.github.io/TNW-OS-support/posts/data-citation/index.html) or [software citation](https://estherplomp.github.io/TNW-OS-support/posts/software-citation/index.html) for more information)
+
+## How to share the data/code?
+
+1.  Gather and organise the research data and/or code. Describe the outputs in your [README file](https://data.4tu.nl/info//fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf).
+
+    -   It can be helpful to have a collaborator go over your data/code to see if everything makes sense and check whether they can deploy your software following your documentation, including dependencies information (operating systems, programming languages; interpreters and compilers; packages, libraries, frameworks, or other tools; browsers; databases; web or other online services and resources; file formats, standards and specifications - see [Jackson 2018](https://doi.org/10.5281/zenodo.1327310)a for more information)
+
+    -   README file: include your contact information (name, affiliation, current email address and your [ORCiD](https://orcid.org/)!) as well as how you would like the output to be cited (the output itself or the associated article). For software you can also use a [CITATION.cff file](https://the-turing-way.netlify.app/communication/citable/citable-cff.html) to recommend citation.
+
+2.  Go to [4TU.ResearchData](https://data.4tu.nl/info/en/), select upload data and login with your netID.
+
+3.  Select '+create a new item'
+
+4.  Fill out the metadata information fields
+
+    -   Some of the fields are mandatory and should be filled out before you can **reserve a DOI**. You need this DOI for in your data availability statement and your reference list (see ...). You can generate a private link for peer review. To learn more about whether to disclose the data/code before the article or the other way around - please see [The Turing Way](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
+
+    -   In the metadata information fields you can select a [license](https://estherplomp.github.io/TNW-OS-support/posts/licenses/)
+
+    -   Add any related references (GitHub/Lab repository, article etc).
+
+5.  Upload the data or code and the README file
+
+    1.  You can either upload directories separately or decide to use an archive file (open formats are: .zip .tar, .tgz, or tar.bz2 - See [Jackson 2018](https://doi.org/10.5281/zenodo.1327327)b)
+
+## Metadata record only
+
+You can use this option if data/code cannot be archived in a repository but you would like to make the data available according to the [FAIR principles](https://estherplomp.github.io/TNW-OS-support/posts/FAIR/index.html). Explain what additional datasets/materials exist and why access is restricted. Explain who could gain access to the data and under what circumstances.
+
+## More Information
+
+-   [Upload your data to 4TU.ResearchData](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/)
+
+-   [4TU.ResearchData deposit guidelines](https://data.4tu.nl/info/fileadmin/user_upload/Documenten/Deposit_Guidelines_2020.pdf)
+
+-   [Software Deposit: What not to deposit](https://doi.org/10.5281/zenodo.1327323)
