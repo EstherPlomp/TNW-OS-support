@@ -77,3 +77,5 @@ You can find more information on [Open Science at TU Delft](https://www.tudelft.
 -   [Let's become (Open) Science Champions!](https://www.youtube.com/watch?v=IV1aFnPkUSI)
 
 -   [Open Science Knowledge Base](https://how-to-open.science/)
+
+-   [Becoming a better scientist with open and reproducible research](https://lgatto.github.io/open-and-rr-2/)
