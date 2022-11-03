@@ -28,6 +28,8 @@ Several concepts belong under the umbrella term of 'Open Science' and these incl
 
 -   Recognition for all contributions to research
 
+-   Take back control over research outputs by maintaining your rights
+
 The Dutch position paper '[Room for everyone's talent](https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf)' aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.
 
 ## TU Delft
