@@ -820,6 +820,55 @@ Note
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/dcc.png" medium="image" type="image/png" height="92" width="144"/>
 </item>
 <item>
+  <title>Data Preservation - What to keep?</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-preservation/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>What data should you preserve for the long term?</p>
+<section id="it-is-important-to-retain" class="level2">
+<h2 class="anchored" data-anchor-id="it-is-important-to-retain">It is important to retain:</h2>
+<ul>
+<li><p>Data which support primary research findings (data needed to validate/reproduce the findings)</p></li>
+<li><p>Data that can be reused or has long-term value (uniqueness of the data, reference data, meta-analyses)</p></li>
+<li><p>Data subject to legal requirements such as clinical trials or engineering equipment test data (quality control) or journal/funder policies</p></li>
+<li><p>Data that is socially or culturally relevant</p></li>
+<li><p>Data that can be used for learning/teaching purposes</p></li>
+</ul>
+</section>
+<section id="it-can-also-be-important-to-retain" class="level2">
+<h2 class="anchored" data-anchor-id="it-can-also-be-important-to-retain">It can also be important to retain:</h2>
+<ul>
+<li><p>Raw data, pending on how complicate it is to generate this data anew</p></li>
+<li><p>Outputs from models and simulations (would rerunning produce the same output anyway?)</p></li>
+<li><p>Software used to process research data (scripts, simulations, packages etc)</p></li>
+<li><p>Large datasets, if the importance outweighs the preservation costs</p></li>
+</ul>
+</section>
+<section id="what-is-not-helpful-to-preserve" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-not-helpful-to-preserve">What is not helpful to preserve?</h2>
+<p>Data without sufficient metadata, that is not reusable, or data from experiments that were not carried out correctly.</p>
+<p>If data is not preserved for the long term, these selection processes should be transparent and not dependent on solely one individual making these decisions.</p>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://apo.org.au/node/227001">Beagrie 2019</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-preservation/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-preservation/data.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Metadata</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</link>
@@ -1170,58 +1219,6 @@ Examples data availability statements
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Readme files</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="how-to-set-up-your-readme-file" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your readme file</h2>
-<p>A readme file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A readme file is generally submitted when sharing data and is the landing page of your software repository.</p>
-<p>Readme text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used, etc.). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why readme files are important and how you can set up your own readme files.</p>
-</section>
-<section id="readme-for-data" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-data">Readme for data</h2>
-<p>Best practices</p>
-<ul>
-<li><p>Create one readme file for each dataset</p></li>
-<li><p>Name the file README</p></li>
-<li><p>Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.</p></li>
-</ul>
-<p>Example templates for data:</p>
-<ul>
-<li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
-<li><p><a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf).</p></li>
-<li><p><a href="https://datamanagement.hms.harvard.edu/collect/readme-files" class="uri">https://datamanagement.hms.harvard.edu/collect/readme-files</a></p></li>
-</ul>
-</section>
-<section id="readme-for-software" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-software">Readme for software</h2>
-<p>See this <a href="https://www.youtube.com/watch?v=Jgv34Kwgga8&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=7">short presentation by Carlos Martinez</a> about the importance of README files for software.</p>
-<p>Example templates for software:</p>
-<ul>
-<li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
-<li><p><a href="https://github.com/benmarwick/rrtools" class="uri">https://github.com/benmarwick/rrtools</a></p></li>
-<li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
-<li><p><a href="https://ha0ye.github.io/CW21-README-tips/template_README.html" class="uri">https://ha0ye.github.io/CW21-README-tips/template_README.html</a></p></li>
-<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <category>Open Software</category>
-  <category>FAIR</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 </channel>
 </rss>
