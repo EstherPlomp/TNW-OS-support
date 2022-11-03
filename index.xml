@@ -10,7 +10,56 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.1.251</generator>
-<lastBuildDate>Tue, 01 Nov 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 03 Nov 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data Preservation - What to keep?</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-preservation/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>What data should you preserve for the long term?</p>
+<section id="it-is-important-to-retain" class="level2">
+<h2 class="anchored" data-anchor-id="it-is-important-to-retain">It is important to retain:</h2>
+<ul>
+<li><p>Data which support primary research findings (data needed to validate/reproduce the findings)</p></li>
+<li><p>Data that can be reused or has long-term value (uniqueness of the data, reference data, meta-analyses)</p></li>
+<li><p>Data subject to legal requirements such as clinical trials or engineering equipment test data (quality control) or journal/funder policies</p></li>
+<li><p>Data that is socially or culturally relevant</p></li>
+<li><p>Data that can be used for learning/teaching purposes</p></li>
+</ul>
+</section>
+<section id="it-can-also-be-important-to-retain" class="level2">
+<h2 class="anchored" data-anchor-id="it-can-also-be-important-to-retain">It can also be important to retain:</h2>
+<ul>
+<li><p>Raw data, pending on how complicate it is to generate this data anew</p></li>
+<li><p>Outputs from models and simulations (would rerunning produce the same output anyway?)</p></li>
+<li><p>Software used to process research data (scripts, simulations, packages etc)</p></li>
+<li><p>Large datasets, if the importance outweighs the preservation costs</p></li>
+</ul>
+</section>
+<section id="what-is-not-helpful-to-preserve" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-not-helpful-to-preserve">What is not helpful to preserve?</h2>
+<p>Data without sufficient metadata, that is not reusable, or data from experiments that were not carried out correctly.</p>
+<p>If data is not preserved for the long term, these selection processes should be transparent and not dependent on solely one individual making these decisions.</p>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://apo.org.au/node/227001">Beagrie 2019</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-preservation/index.html</guid>
+  <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-preservation/data.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>4TU.ResearchData</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -431,6 +480,7 @@
 <li><p>See the <a href="https://www.cos.io/initiatives/registered-reports">Open Science Framework</a> for more information and resources on Registered Reports.</p></li>
 <li><p>See the <a href="https://www.surrey.ac.uk/library/open-research/preregistration-and-registered-reports">University of Surrey Open Research website</a> for more information about preregistration and registered reports.</p></li>
 <li><p><a href="https://doi.org/10.1371/journal.pcbi.1010571">Ten simple rules for writing a Registered Report</a></p></li>
+<li><p><a href="https://www.zotero.org/groups/osf/items/collectionKey/KEJP68G9">Zotero group with registered reports</a></p></li>
 </ul>
 
 
@@ -818,55 +868,6 @@ Note
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/dcc.png" medium="image" type="image/png" height="92" width="144"/>
-</item>
-<item>
-  <title>Data Preservation - What to keep?</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-preservation/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>What data should you preserve for the long term?</p>
-<section id="it-is-important-to-retain" class="level2">
-<h2 class="anchored" data-anchor-id="it-is-important-to-retain">It is important to retain:</h2>
-<ul>
-<li><p>Data which support primary research findings (data needed to validate/reproduce the findings)</p></li>
-<li><p>Data that can be reused or has long-term value (uniqueness of the data, reference data, meta-analyses)</p></li>
-<li><p>Data subject to legal requirements such as clinical trials or engineering equipment test data (quality control) or journal/funder policies</p></li>
-<li><p>Data that is socially or culturally relevant</p></li>
-<li><p>Data that can be used for learning/teaching purposes</p></li>
-</ul>
-</section>
-<section id="it-can-also-be-important-to-retain" class="level2">
-<h2 class="anchored" data-anchor-id="it-can-also-be-important-to-retain">It can also be important to retain:</h2>
-<ul>
-<li><p>Raw data, pending on how complicate it is to generate this data anew</p></li>
-<li><p>Outputs from models and simulations (would rerunning produce the same output anyway?)</p></li>
-<li><p>Software used to process research data (scripts, simulations, packages etc)</p></li>
-<li><p>Large datasets, if the importance outweighs the preservation costs</p></li>
-</ul>
-</section>
-<section id="what-is-not-helpful-to-preserve" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-not-helpful-to-preserve">What is not helpful to preserve?</h2>
-<p>Data without sufficient metadata, that is not reusable, or data from experiments that were not carried out correctly.</p>
-<p>If data is not preserved for the long term, these selection processes should be transparent and not dependent on solely one individual making these decisions.</p>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://apo.org.au/node/227001">Beagrie 2019</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-preservation/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-preservation/data.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Metadata</title>
