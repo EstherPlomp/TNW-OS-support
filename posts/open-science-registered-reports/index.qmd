@@ -37,3 +37,5 @@ There are 2 main options: submit to a single journal that offers Registered Repo
 -   See the [University of Surrey Open Research website](https://www.surrey.ac.uk/library/open-research/preregistration-and-registered-reports) for more information about preregistration and registered reports.
 
 -   [Ten simple rules for writing a Registered Report](https://doi.org/10.1371/journal.pcbi.1010571)
+
+-   [Zotero group with registered reports](https://www.zotero.org/groups/osf/items/collectionKey/KEJP68G9)
