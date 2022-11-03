@@ -1,0 +1,41 @@
+---
+title: "Data Preservation - What to keep?"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Research Data Management]
+image: "data.jpg"
+---
+
+What data should you preserve for the long term?
+
+## It is important to retain:
+
+-   Data which support primary research findings (data needed to validate/reproduce the findings)
+
+-   Data that can be reused or has long-term value (uniqueness of the data, reference data, meta-analyses)
+
+-   Data subject to legal requirements such as clinical trials or engineering equipment test data (quality control) or journal/funder policies
+
+-   Data that is socially or culturally relevant
+
+-   Data that can be used for learning/teaching purposes
+
+## It can also be important to retain:
+
+-   Raw data, pending on how complicate it is to generate this data anew
+
+-   Outputs from models and simulations (would rerunning produce the same output anyway?)
+
+-   Software used to process research data (scripts, simulations, packages etc)
+
+-   Large datasets, if the importance outweighs the preservation costs
+
+## What is not helpful to preserve? 
+
+Data without sufficient metadata, that is not reusable, or data from experiments that were not carried out correctly.
+
+If data is not preserved for the long term, these selection processes should be transparent and not dependent on solely one individual making these decisions.
+
+## More information
+
+-   [Beagrie 2019](https://apo.org.au/node/227001)
