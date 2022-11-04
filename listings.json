@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/data-spreadsheets/index.html",
       "/posts/data-preservation/index.html",
       "/posts/4TU-info/index.html",
       "/posts/data-versioning/index.html",
@@ -24,7 +25,6 @@
       "/posts/data-sharing-2021/index.html",
       "/posts/readme/index.html",
       "/posts/data-TNW/index.html",
-      "/posts/spreadsheets/index.html",
       "/posts/data-organisation/index.html",
       "/posts/data-sharing-SURFdrive/index.html",
       "/posts/open-science-TUD/index.html",

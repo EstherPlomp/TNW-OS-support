@@ -10,7 +10,92 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.1.251</generator>
-<lastBuildDate>Thu, 03 Nov 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 04 Nov 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Spreadsheets</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-spreadsheets/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Spreadsheets are great for certain purposes, but there are some things you need to keep in mind!</p>
+<section id="spreadsheets-are-great-for" class="level2">
+<h2 class="anchored" data-anchor-id="spreadsheets-are-great-for">Spreadsheets are great for:</h2>
+<ul>
+<li><p>Data entry</p></li>
+<li><p>Tables for publications</p></li>
+<li><p>Generate summary statistics</p></li>
+<li><p>Figures</p></li>
+</ul>
+</section>
+<section id="spreadsheets-can-be-not-so-great" class="level2">
+<h2 class="anchored" data-anchor-id="spreadsheets-can-be-not-so-great">Spreadsheets can be not so great:</h2>
+<ul>
+<li><p>Manual data entry is liable to mistakes (copy pasting wrong cells, accidental deletions)</p></li>
+<li><p>It is not always machine readable. Software cannot process information that relies on context, notes in the margin, spatial layout or field formatting (bold/italics/colours)</p></li>
+<li><p>Excel tries to convert everything into a date. <a href="https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates">Even human genes</a>.</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://9gag.com/gag/ayMQeKM"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-spreadsheets/images/ayMQeKM_700bwp.webp" class="img-fluid figure-img" alt="Anakin/Padme meme: Padme is asking Anakin (which has the excel logo on his face): 'so if I type 12.5 into a cell you won't treat it as a date, right?'" width="523"></a></p>
+</figure>
+</div>
+</section>
+<section id="set-up-a-spreadsheet" class="level2">
+<h2 class="anchored" data-anchor-id="set-up-a-spreadsheet">Set up a spreadsheet</h2>
+<ul>
+<li><p>Be consistent</p></li>
+<li><p>Write dates like YYYYMMDD (consider to split info)</p></li>
+<li><p>Do not leave empty values (use NA)</p></li>
+<li><p>Put as few information possible in a single cell and one observation per row</p></li>
+<li><p>Create a data dictionary that describes the spreadsheet and any cleaning steps you took</p></li>
+<li><p>Leave the raw data alone!</p></li>
+<li><p>Do not use formatting (colours, font, bolding)</p></li>
+<li><p>Use data validation to avoid errors (OpenRefine)</p></li>
+<li><p>Avoid empty cells (not clear whether data was not collected or whether nothing was measured - use undefined, NA, 0, or null instead).</p></li>
+</ul>
+<p>See the <a href="https://surfdrive.surf.nl/files/index.php/s/9aNX69fsWyAnMI8">extended version</a>, based on <a href="https://doi.org/10.1080/00031305.2017.1375989">Broman and Woo 2018</a> &amp; <a href="https://datacarpentry.org/spreadsheet-ecology-lesson/">Carpentries Spreadsheets for Ecologists</a> or <a href="https://datacarpentry.org/spreadsheets-socialsci/">Social Scientists</a>).</p>
+</section>
+<section id="tidy-data" class="level2">
+<h2 class="anchored" data-anchor-id="tidy-data">Tidy Data</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.openscapes.org/blog/2020/10/12/tidy-data/"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-spreadsheets/images/tidydata_1.jpg" class="img-fluid figure-img" alt="Tidy data is a standard way of mapping the meaning of a dataset to its structure, according to Hadley Wickham. In tidy data, each variable forms a colum, each observation forms a row, each cell is a single measurement."></a></p>
+</figure>
+</div>
+<ul>
+<li><p><a href="https://vita.had.co.nz/papers/tidy-data.html">Tidy Data Paper by Wickham</a> (see <a href="https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html">here for the CRAN code heavy version</a>)</p></li>
+<li><p><a href="https://joss.theoj.org/papers/10.21105/joss.01686">Welcome to the Tidyverse</a></p></li>
+<li><p><a href="https://style.tidyverse.org/">The Tidyverse style guide</a></p></li>
+</ul>
+</section>
+<section id="data-validation" class="level2">
+<h2 class="anchored" data-anchor-id="data-validation">Data validation</h2>
+<p><a href="https://support.office.com/en-us/article/Apply-data-validation-to-cells-29FECBCC-D1B9-42C1-9D76-EFF3CE5F7249">Excel support page on data validation</a></p>
+<section id="using-schemas-to-check-your-tabular-data" class="level3">
+<h3 class="anchored" data-anchor-id="using-schemas-to-check-your-tabular-data">Using schemas to check your tabular data:</h3>
+<p>try.goodtables.io (or python library github.com/frictionlessdata/goodtables-py / github.com/frictionlessdata/tableschema-py) (see <a href="https://www.youtube.com/watch?v=vZAi4OnfH-Q&amp;feature=youtu.be">this presentation on YouTube</a>)</p>
+</section>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><p><a href="https://eirini-zormpa.github.io/frictionless-data-workshop/data-organisation.html#1">Data organisation presentation by Eirini Zormpa</a></p></li>
+<li><p><a href="https://doi.org/10.5281/zenodo.5593434">Data Carpentry: Data Organization in Spreadsheets</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=4IhhdX4Kh1A">Webinar: Tables and Pivot Tables in Excel</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-spreadsheets/index.html</guid>
+  <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-spreadsheets/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Data Preservation - What to keep?</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -1110,116 +1195,6 @@ Examples data availability statements
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Managing and Sharing Data in 2021</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="managing-and-sharing-data-in-2021" class="level2">
-<h2 class="anchored" data-anchor-id="managing-and-sharing-data-in-2021">Managing and Sharing Data in 2021</h2>
-<p>This post is based on an earlier <a href="https://openworking.wordpress.com/2021/09/17/managing-and-sharing-data-in-2021/">blogpost</a>.</p>
-</section>
-<section id="nwohorizon-europe-projects-have-the-following-requirements" class="level2">
-<h2 class="anchored" data-anchor-id="nwohorizon-europe-projects-have-the-following-requirements"><strong>NWO/Horizon Europe projects have the following requirements:</strong></h2>
-<p><strong>Data management</strong> should follow the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a> to maximise the effectiveness and reproducibility of the research undertaken.&nbsp;</p>
-<ul>
-<li><p>The <strong>FAIR principles</strong> recommend that scientific data are:&nbsp;</p>
-<ul>
-<li><p>'<strong>F</strong>indable' thanks to their persistent identifier that is assigned to your dataset when it is shared using a data repository (see below).</p></li>
-<li><p>'<strong>A</strong>ccessible' so that the data and metadata can be examined; FAIR data is not necessarily open data, but the metadata could still be shared to ensure that the data is still FAIR.</p></li>
-<li><p>'<strong>I</strong>nteroperable' so that comparable data can be analysed and integrated through the use of common vocabulary and formats.</p></li>
-<li><p>'<strong>R</strong>eusable' as a result of appropriate documentation and provision of a <a href="https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing">license</a> that tells others what they can do with the data.&nbsp;</p></li>
-</ul></li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/https:/openworking.files.wordpress.com/2021/09/1728_turi_book-sprint_8-fair-principles_040619-1.jpg?w=526" class="img-fluid figure-img" alt=""></p>
-<p></p><figcaption class="figure-caption">Illustration by <a href="https://doi.org/10.5281/zenodo.3332807">The Turing Way/Scriberia</a></figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="proposals" class="level2">
-<h2 class="anchored" data-anchor-id="proposals"><strong>Proposals</strong></h2>
-<ul>
-<li><p>Proposals have a data section that asks about how you will manage and share your data.</p></li>
-<li><p>Consider any <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-costs">data management costs</a> that need to be included in the project's budget. Also keep in mind that you may need a budget to <a href="https://openworking.wordpress.com/2020/11/19/publishing-articles-in-2021/">publish articles</a>.&nbsp;</p></li>
-<li><p>See the <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/grant-proposals/data-management-sections-for-grant-proposals">TU Delft guidance</a> for help or <a href="https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact">contact your Faculty's Data Steward</a>.&nbsp;</p></li>
-</ul>
-</section>
-<section id="data-management-plans" class="level2">
-<h2 class="anchored" data-anchor-id="data-management-plans"><strong>Data Management Plans</strong></h2>
-<p><strong>Data Management Plans (DMP) are required</strong> for projects funded by NWO (within four months after the awarding of the grant) and Horizon Europe (within 6 months of the project's start).&nbsp;</p>
-<ul>
-<li><p>DMP templates are available on the websites of <a href="https://www.nwo.nl/en/research-data-management">NWO</a> and <a href="https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx">Horizon Europe</a>, as well as on the platform <a href="https://dmponline.tudelft.nl/">DMPonline</a> that you can use with your netID.&nbsp;</p>
-<ul>
-<li><p>DMPonline has TU Delft specific guidance that will help you to set up your DMP more efficiently.&nbsp;</p></li>
-<li><p>You can also use the <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline">TU Delft template available through DMPonline</a> (although this will need some additions for Horizon Europe as this template is more extensive). It is especially efficient to use the TU Delft template if your project needs <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics">HREC approval</a> (for example, working with <a href="https://www.tudelft.nl/en/privacy-security/privacy">personal data</a>).</p></li>
-</ul></li>
-<li><p>A DMP should be a living document, which is updated as the project evolves. Horizon Europe expects you to update the template throughout the project.</p></li>
-</ul>
-</section>
-<section id="data-sharing" class="level2">
-<h2 class="anchored" data-anchor-id="data-sharing"><strong>Data sharing</strong></h2>
-<p><strong>Data should be shared through a trusted repository</strong>, for example: <a href="https://data.4tu.nl/info//en/">4TU.ResearchData</a>.</p>
-<ul>
-<li><p><strong>Data underpinning a scientific publication</strong> should be deposited at the latest <strong>at the time of publication.</strong></p></li>
-<li><p>Data is <strong>in principle open</strong>, unless restricted access is needed for legitimate reasons</p>
-<ul>
-<li>Access can be restricted when it concerns aspects such as privacy, public security, ethical limitations, property rights and commercial interest.</li>
-</ul></li>
-<li><p>For Horizon Europe, the data should be licensed using CC-BY or CC0 (or an equivalent license), and metadata of the datasets should be CC0 licensed.&nbsp;</p>
-<ul>
-<li><p>For <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> it means that others should cite the work when they reuse the data.&nbsp;</p></li>
-<li><p><a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> waives any rights, with citation still being expected as this follows best scientific practises.&nbsp;</p></li>
-<li><p>Note that some Horizon Europe calls may require additional obligations for the validations of scientific publications.&nbsp;</p></li>
-</ul></li>
-<li><p>These requirements are in line with the <a href="https://doi.org/10.5281/zenodo.2573159">TU Delft Research Data Framework Policy</a>, stating that "<em>research data, code and any other materials needed to reproduce research findings are appropriately documented and shared in a research data repository in accordance with the FAIR principles for at least 10 years from the end of the research project, unless there are valid reasons not to do so</em>." (NWO also expects data preservation for at least ten years, unless legal provisions or discipline-specific guidelines dictate otherwise).&nbsp;</p></li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/https:/openworking.files.wordpress.com/2021/09/fountain-of-open-data-with-text-1.jpg?w=576" class="img-fluid figure-img" alt=""></p>
-<p></p><figcaption class="figure-caption">Illustration by <a href="https://doi.org/10.5281/zenodo.3332807">The Turing Way/Scriberia</a></figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="software" class="level2">
-<h2 class="anchored" data-anchor-id="software"><strong>Software</strong></h2>
-<p><strong>Software</strong> is seen as a separate research output from data:</p>
-<ul>
-<li><p>Horizon Europe recommends sharing software (under an Open Source license).</p></li>
-<li><p>NWO expects that software that is needed to access and interpret the data is made available, following the<a href="https://fair-software.nl/">Five Recommendations for FAIR Software</a>.</p></li>
-<li><p>See the <a href="http://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a> for more information on how to share your research software.&nbsp;</p>
-<ul>
-<li>TU Delft encourages you to share your code/software through<a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> choosing one of the TU Delft approved licenses (Apache, MIT, BSD, EUPL, AGPL, LGPL, GPL, CC0). You can also choose another data repository, such as<a href="https://zenodo.org/">Zenodo</a>, but then you have to ensure that the output is correctly registered in PURE yourself. See the <a href="http://doi.org/10.5281/zenodo.4629635">TU Delft Guidelines on Research Software</a> or <a href="https://youtu.be/bPl5sdTvLMM?t=1394">this recording</a> for more information on sharing your software/code.</li>
-</ul></li>
-</ul>
-</section>
-<section id="resources" class="level2">
-<h2 class="anchored" data-anchor-id="resources">Resources</h2>
-<ul>
-<li><p><a href="https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/horizon-europe-programme-guide-released-2021-06-20_en">Horizon Europe Programme Guide</a>(pages 41 – 46)</p></li>
-<li><p><a href="https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf">Annotated Horizon Europe Grant Agreement</a>(Annex 5, pages 152-153)</p></li>
-<li><p><a href="https://www.nwo.nl/en/research-data-management">NWO: Research Data Management</a></p></li>
-<li><p><a href="https://www.tudelft.nl/library/research-data-management">TU Delft: Research Data Management</a></p></li>
-<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/">TU Delft &amp; Faculty policies (data/software)</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <category>Data Management Plan</category>
-  <category>Open Software</category>
-  <category>FAIR</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
