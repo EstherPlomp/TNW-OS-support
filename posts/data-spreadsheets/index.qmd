@@ -70,6 +70,8 @@ try.goodtables.io (or python library github.com/frictionlessdata/goodtables-py /
 
 ## More information
 
+-   [Data Organisation in Spreadsheets](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-spreadsheets.html)
+
 -   [Data organisation presentation by Eirini Zormpa](https://eirini-zormpa.github.io/frictionless-data-workshop/data-organisation.html#1)
 
 -   [Data Carpentry: Data Organization in Spreadsheets](https://doi.org/10.5281/zenodo.5593434)
