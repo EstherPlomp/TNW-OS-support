@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/storage-solutions/index.html",
       "/posts/data-spreadsheets/index.html",
       "/posts/data-preservation/index.html",
       "/posts/4TU-info/index.html",
@@ -49,7 +50,6 @@
       "/posts/public-sharing-solutions/index.html",
       "/posts/Encryption/index.html",
       "/posts/backup/index.html",
-      "/posts/storage-solutions/index.html",
       "/posts/software-licenses/index.html",
       "/posts/access-project-drive/index.html"
     ]

@@ -12,6 +12,148 @@
 <generator>quarto-1.1.251</generator>
 <lastBuildDate>Fri, 04 Nov 2022 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>Storage Solutions</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Overview of Available Data Storage Solutions <strong>during the project’s duration</strong> at TU Delft. These storage solutions are primarily for internal use, but can be shared with collaborators.</p>
+<p>Please see <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&amp;from=feffb489-e1f9-49cd-8223-53ae0b70b609">TopDesk</a> for an overview of all the storage solutions available to you. Below follow some more details for each storage solution.</p>
+<section id="tu-delft-network-drives" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft-network-drives">TU Delft network drives</h2>
+<table class="table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 29%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Personal Drive (H:)</th>
+<th>Staff Group Drive (M:)</th>
+<th>Project Drive (U:)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Purpose</td>
+<td>Private work files only (sharing not possible)</td>
+<td>Data shared within research group or department</td>
+<td>Data from individual projects, shared with project members</td>
+</tr>
+<tr class="even">
+<td>Suitable for confidential data?</td>
+<td>Yes</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+<tr class="odd">
+<td>Size</td>
+<td>8 GB</td>
+<td>&gt; 5TB</td>
+<td>&gt; 5TB</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="project-drive" class="level2">
+<h2 class="anchored" data-anchor-id="project-drive">Project Drive</h2>
+<p>The Project Drive is the recommended storage solution for research data.</p>
+<ul>
+<li><p>Project leaders or supervisors should request the drive to ensure that they also have access to the data (especially important for the long term storage of any data).</p></li>
+<li><p>Anyone with a NetID can be added to a Project Drive (for external collaborators this NetID will have to be generated so <a href="https://docs.google.com/spreadsheets/d/1sMhw4URTSdVl4d7a_QPnhWGboR3YDJJGaDNK3KZMaKU/">additional information</a> will need to be provided). To provide access to additional people you can add them when you <a href="https://tudelft.topdesk.net/tas/public/ssp/content/serviceflow?unid=21b6203ec6d74f00a45c32e6034dfc0c&amp;openedFromService=true">request the drive via Topdesk</a>, you can contact the Service Desk of your faculty (servicepuntTNW [at] tudelft.nl), or you can add them using <a href="https://drive.google.com/file/d/13loyAiVFRw8vhIjFfu6h88F947DW4hyk/view?usp=sharing">UMRA</a> (see <a href="https://www.tudelft.nl/en/it-manuals/umra">TU Delft ICT for more UMRA manuals</a>).</p>
+<ul>
+<li>Note that anyone with access to the Project Drive will have viewing or editing rights for the entire Project Drive, unless you’re using UMRA. If you want to easily manage access permissions it may be needed to request multiple Project Drives or work with alternative storage solutions such as SURF/OneDrive.</li>
+</ul></li>
+<li><p>The Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).</p></li>
+<li><p>To request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with ‘Change’ selected rather than ‘New’. For &gt;5 TB of space, you may be contacted by the faculty IT manager for approval.</p></li>
+</ul>
+<section id="network-drives-and-delft-hpc" class="level3">
+<h3 class="anchored" data-anchor-id="network-drives-and-delft-hpc">Network Drives and Delft HPC</h3>
+<p>Please see the <a href="https://doc.dhpc.tudelft.nl/delftblue/Data-transfer-to-DelftBlue/#network-drives">DelftBlue documentation</a> on the storage of data-transfer recommendations from the HPC clusters.</p>
+</section>
+</section>
+<section id="surfdrive" class="level2">
+<h2 class="anchored" data-anchor-id="surfdrive"><a href="http://surfdrive.surf.nl/">SURFdrive</a></h2>
+<ul>
+<li>Secure cloud storage</li>
+<li>30 days backup, synchronize and share data</li>
+<li><a href="https://wiki.surfnet.nl/display/SURFdrive/Downloads+voor+SURFdrive">Desktop app</a> for synchronization</li>
+<li>500 GB</li>
+<li>Share data with external collaborators
+<ul>
+<li>public link + with password protection + expiry date</li>
+<li>Check the manual</li>
+</ul></li>
+<li>Not suitable for long term storage as this is a personal storage space (account expires when you leave TU Delft)</li>
+<li>Students don’t have accounts but you can give access to folders/files (OneDrive may be more suitable when working with students)</li>
+<li>Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.</li>
+</ul>
+</section>
+<section id="onedrive" class="level2">
+<h2 class="anchored" data-anchor-id="onedrive">OneDrive</h2>
+<p>See the <a href="https://d1rkab7tlqy5f1.cloudfront.net/ICT%20Handleidingen/2%20-%20Nieuwe%20handleidingen/Microsoft%20365/Onedrive/Getting%20started%20with%20OneDrive_ENG.pdf">OneDrive manual</a> on how to get started.</p>
+<ul>
+<li>Secure cloud storage</li>
+<li>30 days backup, synchronize and share data</li>
+<li>1 TB</li>
+<li>Share data with external collaborators by specifying users one by one with their email address</li>
+<li>Not suitable for long term storage account as this is a personal storage space (expires when you leave TU Delft)</li>
+<li>Students also have accounts</li>
+<li>Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.</li>
+</ul>
+</section>
+<section id="sending-files" class="level2">
+<h2 class="anchored" data-anchor-id="sending-files">Sending files</h2>
+<p><a href="https://www.surf.nl/en/surffilesender-send-large-files-securely-and-encrypted">SURFfilesender</a> can be used to share files up to 1 TB (also with end-to-end encryption up to 2)</p>
+</section>
+<section id="tu-delft-gitlab" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft-gitlab">TU Delft GitLab</h2>
+<p>TU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared.</p>
+<p>For an overview of the options of differences between GitLab/GitHub/Gitea, see this <a href="https://doi.org/10.5281/zenodo.4710206">repository chooser guide</a>.</p>
+<p>GitLab repository can be requested through <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42">TopDesk</a> (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; GitLab TU Delft &gt; Request GitLab).</p>
+</section>
+<section id="subversion-at-tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="subversion-at-tu-delft">Subversion at TU Delft</h2>
+<p>TU Delft provides version control systems for data with backup facility. Access can be controlled by the repository owner.</p>
+<p>Subversion repository can be requested through TopDesk (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; Version Control Tools &gt; Report to Service Desk)</p>
+<p>An alternative (non-TU Delft) solution is <a href="https://www.datalad.org/">Datalad</a>.</p>
+</section>
+<section id="electronic-lab-notebooks" class="level2">
+<h2 class="anchored" data-anchor-id="electronic-lab-notebooks">Electronic Lab Notebooks</h2>
+<p>Electronic Lab Notebooks allow you to capture and organise data digitally, which makes it easier to back up information and search through your files.</p>
+<ul>
+<li><p>Link your data and protocols</p></li>
+<li><p>Collaborate easily by sharing your documents and data directly in the notebook</p></li>
+<li><p>Export data in several formats</p></li>
+<li><p>Integration with other software/tools</p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">TU Delft offers licenses for RSpace and eLABjournal</a></p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/images/paste-4068FDF8.png" class="img-fluid figure-img" width="543"></p>
+<p></p><figcaption class="figure-caption">Illustration by Connie Clare</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Storage</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/index.html</guid>
+  <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/data.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Spreadsheets</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-spreadsheets/index.html</link>
@@ -82,6 +224,7 @@
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
+<li><p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-spreadsheets.html">Data Organisation in Spreadsheets</a></p></li>
 <li><p><a href="https://eirini-zormpa.github.io/frictionless-data-workshop/data-organisation.html#1">Data organisation presentation by Eirini Zormpa</a></p></li>
 <li><p><a href="https://doi.org/10.5281/zenodo.5593434">Data Carpentry: Data Organization in Spreadsheets</a></p></li>
 <li><p><a href="https://www.youtube.com/watch?v=4IhhdX4Kh1A">Webinar: Tables and Pivot Tables in Excel</a></p></li>
@@ -262,7 +405,7 @@
   <category>Research Data Management</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-versioning/index.html</guid>
   <pubDate>Mon, 31 Oct 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-versioning/documentation.png" medium="image" type="image/png" height="115" width="144"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-versioning/version.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
   <title>Open Science in different disciplines</title>
@@ -1103,98 +1246,6 @@ Note
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-buffet/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-buffet/OS-buffet.png" medium="image" type="image/png" height="102" width="144"/>
-</item>
-<item>
-  <title>Data Citation</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="how-should-i-citerefer-to-data-in-my-paper" class="level2">
-<h2 class="anchored" data-anchor-id="how-should-i-citerefer-to-data-in-my-paper">How should I cite/refer to data in my paper?</h2>
-<p>A dataset citation includes all of the same components as any other citation:</p>
-<p>● author</p>
-<p>● title</p>
-<p>● year of publication</p>
-<p>● publisher (for data, this is often the repository where it is housed, such as <a href="https://researchdata.4tu.nl/en/">4TU.ResearchData</a>)</p>
-<p>● version (if indicated)</p>
-<p>● access information (a URL or DOI)</p>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>APA style example:</strong><br>
-Author/Rightsholder. (Year). Title of data set (Version number) [Description of form]. [Retrieved from https://] <em>OR</em> [DOI]</p>
-<p><strong>DataCite citation style:<br>
-</strong>Creator (PublicationYear). Title. Version. Publisher. ResourceType. Identifier (Version and ResourceType are optional)</p>
-<p>Example:<br>
-Heydarian, H. (Hamidreza); Schueder, F. (Florian); Strauss, M.T. (Maximilian); van Werkhoven, B. (Ben); Fazel, M. (Mohamadreza); Lidke, K.A. (Keith); Jungmann, R. (Ralf); Stallinga, S. (Sjoerd); Rieger, B. (Bernd) (2018) Single-Molecule Localization Microscopy (SMLM) 2D TU Delft logos. TU Delft. Dataset. https://doi.org/10.4121/uuid:0d42a28f-f625-41a3-ba77-25e397685466</p>
-</div>
-</div>
-<p>At <a href="https://researchdata.4tu.nl/en/">4TU.ResearchData</a> you can click on the “Cite” button to get a suggested citation and to obtain the DOI of the dataset:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/images/paste-A17BCDA3.png" class="img-fluid" width="499"></p>
-<p>You can also check <a href="http://citeas.org/" class="uri">http://citeas.org/</a> to see how you should cite a resource.</p>
-<p>You should cite your dataset directly in the paper in places where it is relevant, and include a citation in your reference list, as well as include a <strong>Data availability statement</strong> at the end of the paper (before the acknowledgement section). See below for some examples. <u>It is important to cite the software, as the data availability statement does not count as a citation!</u></p>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Examples data availability statements
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>The data that support the findings of this study are openly available in [repository name] at <a href="http://doi.org/%5Bdoi" class="uri">http://doi.org/%5Bdoi</a>].<br>
-</p>
-<p>If no DOI is issued:</p>
-<p>The data that support the findings of this study are openly available in [repository name] at [URL], reference number [reference number].</p>
-<section id="when-there-is-an-embargo-period-you-can-reserve-your-doiand-still-include-a-reference-to-the-dataset-in-your-paper" class="level2">
-<h2 class="anchored" data-anchor-id="when-there-is-an-embargo-period-you-can-reserve-your-doiand-still-include-a-reference-to-the-dataset-in-your-paper">When there is an <strong>embargo</strong> period you can <a href="https://surfdrive.surf.nl/files/index.php/s/NmfhUd73BgaQfVW/download">reserve your DOI</a>and still include a reference to the dataset in your paper:</h2>
-<p>The data that support the findings will be available in [repository name] at [URL / DOI] following a [6 month] embargo from the date of publication to allow for commercialisation of research findings.</p>
-</section>
-<section id="when-data-cannot-be-made-available" class="level2">
-<h2 class="anchored" data-anchor-id="when-data-cannot-be-made-available">When data cannot be made available:</h2>
-<p>Restrictions apply to the data/software that support the findings of this study. [Explain nature of restrictions e.g.&nbsp;the data contains information that could compromise the privacy of research participants, NDA, licensing, agreements] Data are available upon reasonable request by contacting [name and contact details] and with permission of [third party name].</p>
-<p>The data that support the findings of this study are available upon request. Access conditions and procedures can be found at [URL to restricted access repository such as <a href="https://researchdata.4tu.nl/en/">4TU.ResearchData</a>].</p>
-<p>See <a href="https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/">here for some more examples of Data Availability Statements</a>.</p>
-</section>
-</div>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/images/paste-6825A73F.png" class="img-fluid figure-img" width="627"></p>
-<p></p><figcaption class="figure-caption"><a href="https://nyu-dataservices.github.io/Intro-RDM/index.html#/23">Slide</a> by Vicky Steeves.</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://youtu.be/PpMOkTnBMlI">Publishing and citing data in practice</a> - (~30 min webinar)</li>
-<li>See also the post on <a href="https://estherplomp.github.io/TNW-OS-support/posts/software-citation/">software citation</a></li>
-<li>For more information about the practicalities and timing in <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">linking your research outputs, see The Turing Way</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <category>Citation</category>
-  <category>Credit</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-citation/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
