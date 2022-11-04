@@ -1,9 +1,9 @@
 ---
 title: "Storage Solutions"
 author: "Esther Plomp"
-date: "2022-08-28"
+date: "2022-11-04"
 categories: [Storage]
-image: "image.jpg"
+image: "data.jpg"
 ---
 
 Overview of Available Data Storage Solutions **during the project's duration** at TU Delft. These storage solutions are primarily for internal use, but can be shared with collaborators.
@@ -13,7 +13,7 @@ Please see [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/s
 ## TU Delft network drives
 
 |                                 | Personal Drive (H:)                            | Staff Group Drive (M:)                          | Project Drive (U:)                                         |
-|---------------------------------|------------------------------------------------|-------------------------------------------------|------------------------------------------------------------|
+|-----------------|-----------------|-----------------|---------------------|
 | Purpose                         | Private work files only (sharing not possible) | Data shared within research group or department | Data from individual projects, shared with project members |
 | Suitable for confidential data? | Yes                                            | No                                              | Yes                                                        |
 | Size                            | 8 GB                                           | \> 5TB                                          | \> 5TB                                                     |

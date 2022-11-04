@@ -3,7 +3,7 @@ title: "Data versioning"
 author: "Esther Plomp"
 date: "2022-10-31"
 categories: [Research Data Management]
-image: "documentation.png"
+image: "version.png"
 ---
 
 This post provides information about versioning files.
