@@ -30,7 +30,7 @@ What data should you preserve for the long term?
 
 -   Large datasets, if the importance outweighs the preservation costs
 
-## What is not helpful to preserve? 
+## What is not helpful to preserve?
 
 Data without sufficient metadata, that is not reusable, or data from experiments that were not carried out correctly.
 

@@ -1,0 +1,77 @@
+---
+title: "Spreadsheets"
+author: "Esther Plomp"
+date: "2022-11-04"
+categories: [Research Data Management]
+image: "open-data-fountain.jpg"
+---
+
+Spreadsheets are great for certain purposes, but there are some things you need to keep in mind!
+
+## Spreadsheets are great for:
+
+-   Data entry
+
+-   Tables for publications
+
+-   Generate summary statistics
+
+-   Figures
+
+## Spreadsheets can be not so great:
+
+-   Manual data entry is liable to mistakes (copy pasting wrong cells, accidental deletions)
+
+-   It is not always machine readable. Software cannot process information that relies on context, notes in the margin, spatial layout or field formatting (bold/italics/colours)
+
+-   Excel tries to convert everything into a date. [Even human genes](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates).
+
+[![](images/ayMQeKM_700bwp.webp){fig-alt="Anakin/Padme meme: Padme is asking Anakin (which has the excel logo on his face): 'so if I type 12.5 into a cell you won't treat it as a date, right?'" width="523"}](https://9gag.com/gag/ayMQeKM)
+
+## Set up a spreadsheet
+
+-   Be consistent
+
+-   Write dates like YYYYMMDD (consider to split info)
+
+-   Do not leave empty values (use NA)
+
+-   Put as few information possible in a single cell and one observation per row
+
+-   Create a data dictionary that describes the spreadsheet and any cleaning steps you took
+
+-   Leave the raw data alone!
+
+-   Do not use formatting (colours, font, bolding)
+
+-   Use data validation to avoid errors (OpenRefine)
+
+-   Avoid empty cells (not clear whether data was not collected or whether nothing was measured - use undefined, NA, 0, or null instead).
+
+See the [extended version](https://surfdrive.surf.nl/files/index.php/s/9aNX69fsWyAnMI8), based on [Broman and Woo 2018](https://doi.org/10.1080/00031305.2017.1375989) & [Carpentries Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/) or [Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/)).
+
+## Tidy Data
+
+[![](images/tidydata_1.jpg){fig-alt="Tidy data is a standard way of mapping the meaning of a dataset to its structure, according to Hadley Wickham. In tidy data, each variable forms a colum, each observation forms a row, each cell is a single measurement."}](https://www.openscapes.org/blog/2020/10/12/tidy-data/)
+
+-   [Tidy Data Paper by Wickham](https://vita.had.co.nz/papers/tidy-data.html) (see [here for the CRAN code heavy version](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html))
+
+-   [Welcome to the Tidyverse](https://joss.theoj.org/papers/10.21105/joss.01686)
+
+-   [The Tidyverse style guide](https://style.tidyverse.org/)
+
+## Data validation
+
+[Excel support page on data validation](https://support.office.com/en-us/article/Apply-data-validation-to-cells-29FECBCC-D1B9-42C1-9D76-EFF3CE5F7249)
+
+### Using schemas to check your tabular data:
+
+try.goodtables.io (or python library github.com/frictionlessdata/goodtables-py / github.com/frictionlessdata/tableschema-py) (see [this presentation on YouTube](https://www.youtube.com/watch?v=vZAi4OnfH-Q&feature=youtu.be))
+
+## More information
+
+-   [Data organisation presentation by Eirini Zormpa](https://eirini-zormpa.github.io/frictionless-data-workshop/data-organisation.html#1)
+
+-   [Data Carpentry: Data Organization in Spreadsheets](https://doi.org/10.5281/zenodo.5593434)
+
+-   [Webinar: Tables and Pivot Tables in Excel](https://www.youtube.com/watch?v=4IhhdX4Kh1A)
