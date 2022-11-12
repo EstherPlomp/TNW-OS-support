@@ -81,3 +81,5 @@ You can find more information on [Open Science at TU Delft](https://www.tudelft.
 -   [Open Science Knowledge Base](https://how-to-open.science/)
 
 -   [Becoming a better scientist with open and reproducible research](https://lgatto.github.io/open-and-rr-2/)
+
+-   Set up a publication strategy by [making a copy of a google sheet](https://docs.google.com/spreadsheets/d/1ALIr6i-ufawnR1_tZBbF_Io7ihWpLZKBOD0aLhRRp0U/edit) set up by Bianca Kramer & Jeroen Bosman (Utrecht University)
