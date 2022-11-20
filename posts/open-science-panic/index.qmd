@@ -3,7 +3,7 @@ title: "Open Science Panic"
 author: "Esther Plomp"
 date: "2022-11-09"
 categories: [Open Science]
-image: "OS-buffet.png"
+image: "cat.jpg"
 ---
 
 Your first time trying out a new Open Science step can be nerve wrecking. You are not alone in feeling this way:
