@@ -193,7 +193,7 @@
     "href": "posts/open-access-rights-retention/index.html#more-information",
     "title": "Rights Retention Strategy",
     "section": "More information",
-    "text": "More information\n\nStephen Eglen’s (2021) Primer on the Rights Retention Strategy\ncOAlition S rights retention strategy website\nPreliminary publisher responses from the Cambridge pilot\nRights retention policy: an update after 9 months"
+    "text": "More information\n\nStephen Eglen’s (2021) Primer on the Rights Retention Strategy\ncOAlition S rights retention strategy website\nPreliminary publisher responses from the Cambridge pilot\nRights retention policy: an update after 9 months\nFrench RRS Monitor"
   },
   {
     "objectID": "posts/open-access-2021/index.html",
@@ -889,11 +889,18 @@
     "text": "Potentially relevant metadata standards\nGenome Metadata\nCF (Climate and Forecast) Metadata Conventions\nCIM (Common Information Model)\nCSMD (Core Scientific Metadata Model)\nDIF (Directory Interchange Format)\nISO 19115\nObservations and Measurements\nCERIF (Common European Research Information Format)\nData Package\nABCD (Access to Biological Collection Data)\nMODS (Metadata Object Description Schema)\nEDAM-bioimaging"
   },
   {
-    "objectID": "posts/data-TNW/index.html#section",
-    "href": "posts/data-TNW/index.html#section",
+    "objectID": "posts/data-TNW/index.html#repositories",
+    "href": "posts/data-TNW/index.html#repositories",
     "title": "Metadata standards and repositories for Applied Sciences/TNW",
-    "section": "",
+    "section": "Repositories",
     "text": "Repositories\nIDR\nDNA DataBank of Japan (DDBJ)\nEuropean Nucleotide Archive (ENA)\nGenBank\ndbSNP\nEuropean Variation Archive (EVA)\ndbVar\nDatabase of Genomic Variants Archive (DGVa)\nEBI Metagenomics\nNCBI Trace Archive\nNCBI Sequence Read Archive (SRA)\nNCBI Assembly\nStructural Biology Data Grid\nWorldwide Protein Data Bank (wwPDB)\nUniProtKB\nBiological Magnetic Resonance Data Bank (BMRB)\nElectron Microscopy Data Bank (EMDB)\nEMPIAR"
+  },
+  {
+    "objectID": "posts/data-TNW/index.html#tools",
+    "href": "posts/data-TNW/index.html#tools",
+    "title": "Metadata standards and repositories for Applied Sciences/TNW",
+    "section": "Tools",
+    "text": "Tools\nioChem-BD"
   },
   {
     "objectID": "posts/DMP-templates/index.html",
@@ -1208,7 +1215,7 @@
     "href": "posts/open-science-panic/index.html",
     "title": "Open Science Panic",
     "section": "",
-    "text": "Your first time trying out a new Open Science step can be nerve wrecking. You are not alone in feeling this way:"
+    "text": "Your first time trying out a new Open Science step can be nerve wrecking. You are not alone in feeling this way:\n\n\n\n\n\nYou can get more confident by trying out smaller steps in your workflow, starting with Open Science practices that are particularly relevant to your work.\nYou can first discuss your work with colleagues and see what they think.\nYou can check other publications in your field to see how other researchers are approaching Open Science Practices.\nYou can follow a training in applying open science practices, such as Open Life Science.\nYou can ask advice from your Faculty Data Steward, or the Digital Competence Center if you need more hands on support.\nYou can join a community that likes to discuss these topics, such as the TU Delft Open Science Community, and The Turing Way."
   },
   {
     "objectID": "posts/open-science-discipline/index.html",
