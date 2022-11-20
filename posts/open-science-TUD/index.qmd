@@ -16,19 +16,13 @@ Several concepts belong under the umbrella term of 'Open Science' and these incl
 
 ## Benefits of Open Science
 
--   Increased impact and visibility: Research will be accessible to anyone and it is easier to build on previous work
+-   Increased impact and visibility: Research will be accessible to anyone, which accelerates scientific discovery and can increase citizen engagement with and participation in research.
 
--   Maximise research effort by making research and [educational](https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html) outputs reusable
+-   Maximise research effort by making research and [educational](https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html) outputs reusable, making it easier to build on previous work and providing opportunities for collaboration
 
 -   Improving the quality of research through more transparency (facilitating reproducibility) which will [increase trust](https://doi.org/10.1177/09636625221100686) in research
 
--   Increased citizen engagement with and participation in research
-
--   Accelerates discovery and provides opportunity for collaborations
-
--   Recognition for all contributions to research
-
--   Take back control over research outputs by maintaining your rights
+-   Recognition for all contributions to research and maintaining rights and control
 
 The Dutch position paper '[Room for everyone's talent](https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf)' aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.
 

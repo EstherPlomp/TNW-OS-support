@@ -1,0 +1,13 @@
+---
+title: "Open Science Panic"
+author: "Esther Plomp"
+date: "2022-11-09"
+categories: [Open Science]
+image: "OS-buffet.png"
+---
+
+Your first time trying out a new Open Science step can be nerve wrecking. You are not alone in feeling this way:
+
+[![](images/paste-0B902C2E.png){fig-alt="A twitter poll on whether Open Science practices make you feel stressed/nervous. 44.5% of 263 people voted 'Yes, I feel nervous', followed by 34.6% of people that indicated that they do not feel nervous."}](https://twitter.com/LewendM/status/1587153856131112964)
+
+## 

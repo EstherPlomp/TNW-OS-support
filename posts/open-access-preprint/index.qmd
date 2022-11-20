@@ -31,3 +31,7 @@ You can share your preprint on a preprint server or repository even before you
 -   **Post-print** (or Author Accepted Manuscript - AAM): version of the article after peer review
 
 -   **Publishers version** (Version of Record - VOR): fully formatted version published by the publisher
+
+## More information
+
+-   [Preprints and open preprint review: a workshop on innovations in scholarly publishing](https://upstream.force11.org/preprints-and-open-preprint-review-a-workshop/)
