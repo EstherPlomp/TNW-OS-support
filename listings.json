@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/open-science-panic/index.html",
       "/posts/storage-solutions/index.html",
       "/posts/data-spreadsheets/index.html",
       "/posts/data-preservation/index.html",

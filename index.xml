@@ -9,8 +9,35 @@
 <link>https://github.com/EstherPlomp/TNW-OS-support/index.html</link>
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.1.251</generator>
-<lastBuildDate>Fri, 04 Nov 2022 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.2.269</generator>
+<lastBuildDate>Wed, 09 Nov 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Open Science Panic</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-panic/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Your first time trying out a new Open Science step can be nerve wrecking. You are not alone in feeling this way:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://twitter.com/LewendM/status/1587153856131112964"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-panic/images/paste-0B902C2E.png" class="img-fluid figure-img" alt="A twitter poll on whether Open Science practices make you feel stressed/nervous. 44.5% of 263 people voted 'Yes, I feel nervous', followed by 34.6% of people that indicated that they do not feel nervous."></a></p>
+</figure>
+</div>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-panic/index.html</guid>
+  <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-panic/OS-buffet.png" medium="image" type="image/png" height="102" width="144"/>
+</item>
 <item>
   <title>Storage Solutions</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -26,10 +53,10 @@
 <h2 class="anchored" data-anchor-id="tu-delft-network-drives">TU Delft network drives</h2>
 <table class="table">
 <colgroup>
-<col style="width: 23%">
-<col style="width: 23%">
-<col style="width: 23%">
-<col style="width: 29%">
+<col style="width: 17%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 31%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -533,6 +560,7 @@
 <li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline">How to set up a DMPonline account and use the platform</a></p></li>
 <li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/DMP-5-things/">5 things to check in a Data Management Plan</a></p></li>
 <li><p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html#a-data-management-plan-should-provide-information-on-five-main-topics">A Data Management Plan should provide information on five main topics</a></p></li>
+<li><p><a href="https://www.evalantsoght.com/2022/11/phd-talk-for-academictransfer-data-management-data-management-plan-and-the-role-of-the-library-in-helping-researchers-with-their-data-management.html">Data Management for Researchers</a></p></li>
 </ul>
 </section>
 <section id="section" class="level1">
@@ -646,6 +674,12 @@
 <li><p><strong>Preprint</strong>: version of the article before peer review</p></li>
 <li><p><strong>Post-print</strong> (or Author Accepted Manuscript - AAM): version of the article after peer review</p></li>
 <li><p><strong>Publishers version</strong> (Version of Record - VOR): fully formatted version published by the publisher</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://upstream.force11.org/preprints-and-open-preprint-review-a-workshop/">Preprints and open preprint review: a workshop on innovations in scholarly publishing</a></li>
 </ul>
 
 
@@ -1123,129 +1157,6 @@ Note
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Open Science Buffet</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-buffet/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Open Science is like a buffet*: take what you can and what benefits you now – come back for more!</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-buffet/images/paste-437BF19E.png" class="img-fluid"></p>
-<p>This overview highlights resources that are available for TU Delft researchers in their Open Science journey. Please see the <a href="https://doi.org/10.5281/zenodo.6752865">poster</a> for the full visual representation with the links embedded.</p>
-<section id="open-data" class="level2">
-<h2 class="anchored" data-anchor-id="open-data">Open Data</h2>
-<ul>
-<li><p><a href="https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact">Data Steward</a> &amp; <a href="https://osc-delft.github.io/initiatives#data-champions">Data Champions</a></p></li>
-<li><p>Research Support TU Delft Library</p></li>
-<li><p>Training (<a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101">Research Data Management 101</a> &amp; <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/mooc-open-science-sharing-your-research-with-the-world">Open Science MOOC</a>)</p></li>
-<li><p><a href="https://dmponline.tudelft.nl/">DMPonline</a></p></li>
-<li><p><a href="https://www.tudelft.nl/library/research-data-management">Research Data Management website</a></p></li>
-<li><p><a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a></p></li>
-<li><p><a href="https://community.data.4tu.nl/2021/01/25/fair-data-fund-2020-call-for-applications/">data refinement fund</a></p></li>
-<li><p><a href="https://www.tudelft.nl/index.php?id=67120&amp;L=1/">Digital Competence Center</a> (Data Managers)</p></li>
-<li><p><a href="https://openworking.wordpress.com/2021/09/17/managing-and-sharing-data-in-2021/">Managing and Sharing Data in 2021</a></p></li>
-<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/">Policy: Research Data at TU Delft &amp; Faculties</a></p></li>
-</ul>
-</section>
-<section id="open-software" class="level2">
-<h2 class="anchored" data-anchor-id="open-software">Open Software</h2>
-<ul>
-<li><p><a href="https://github.com/">GitHub</a>/<a href="https://gitlab.tudelft.nl/">GitLab</a> (&amp; <a href="https://data.4tu.nl/info/en/about-your-data/getting-started">4TU.ResearchData</a>/<a href="https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content">Zenodo</a> integration)</p></li>
-<li><p>Support from the <a href="https://www.tudelft.nl/index.php?id=67120&amp;L=1/">Digital Competence Center</a> (Research Software Engineers)</p></li>
-<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/">Training: Carpentries/Code Refinery</a></p></li>
-<li><p><a href="https://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a> facilitates sharing of Research Software</p></li>
-</ul>
-</section>
-<section id="open-engagement" class="level2">
-<h2 class="anchored" data-anchor-id="open-engagement">Open Engagement</h2>
-<ul>
-<li><p>Engagement is part of the TU Delft Core values (DIRECT)</p></li>
-<li><p>‘Outreach and public engagement are core elements’ (<a href="https://www.tudelft.nl/over-tu-delft/strategie">TU Delft strategic priorities 2022</a>)</p></li>
-<li><p>Online discussion and presentation platforms such as the <a href="https://virtualscienceforum.org/">Virtual Science Forum</a></p></li>
-</ul>
-</section>
-<section id="open-education" class="level2">
-<h2 class="anchored" data-anchor-id="open-education">Open Education</h2>
-<ul>
-<li><p>A new policy on Open Educational Resources will be ‘a starting to point to make Open Education the default approach for teaching at TU Delft’ – <a href="https://www.tudelft.nl/en/about-tu-delft/strategy">TU Delft Strategic Priorities 2022</a></p></li>
-<li><p><a href="https://online-learning.tudelft.nl/courses/">MOOCs</a> / <a href="https://ocw.tudelft.nl/">Open Course Ware</a></p></li>
-</ul>
-</section>
-<section id="open-publishing" class="level2">
-<h2 class="anchored" data-anchor-id="open-publishing">Open Publishing</h2>
-<ul>
-<li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/creating-your-publishing-strategy/open-access-publishing">82% Open Access</a></p></li>
-<li><p><a href="https://www.tudelft.nl/library/actuele-themas/open-publishing">TU Delft Open Publishing</a></p></li>
-<li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft Open Access Fund</a> (up to €2000 for gold open access)</p></li>
-<li><p>Publishing deals (check the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser">Journal Browser</a>)</p></li>
-<li><p>Support for sustainable publishing (<a href="https://scipost.org/">SciPost</a>)</p></li>
-<li><p><a href="https://openworking.wordpress.com/2020/11/19/publishing-articles-in-2021/">How to publish Plan S compliant?</a></p></li>
-<li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care">You share, we take care (Taverne)</a></p></li>
-</ul>
-</section>
-<section id="open-participation" class="level2">
-<h2 class="anchored" data-anchor-id="open-participation">Open Participation</h2>
-<ul>
-<li><p>‘There is no open science if science is not open to all’ (<a href="https://hdl.handle.net/2066/226397">Whitaker and Guest 2020</a>)</p></li>
-<li><p><a href="https://osc-delft.github.io/">Open Science Community TU Delft</a> (<a href="https://twitter.com/OSCDelft">@OSCDelft</a>)</p></li>
-<li><p><a href="https://www.tudelft.nl/en/about-tu-delft/strategy/diversity-inclusion">Diversity and Inclusion at TU Delft</a></p></li>
-<li><p><a href="https://www.tudelft.nl/en/scd/waterlab/join-our-research/what-is-citizen-science">Citizen Science</a></p></li>
-</ul>
-</section>
-<section id="open-methods" class="level2">
-<h2 class="anchored" data-anchor-id="open-methods">Open Methods</h2>
-<ul>
-<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">Electronic Lab Notebooks (RSpace/eLABjournal)</a></p></li>
-<li><p><a href="https://www.protocols.io/">protocols.io</a> (<a href="https://plos.org/open-science/open-methods/">PLOS</a>)</p></li>
-<li><p><a href="https://www.nature.com/articles/d41586-021-02428-3">Five keys to writing a reproducible lab protocol</a> (Baker 2021)</p>
-<ul>
-<li><p>Document as you go: consider how you share your method from day one</p></li>
-<li><p>Write less, show more: consider using videos (see for example the <a href="https://www.jove.com/">Journal of Visualized Experiments</a>)</p></li>
-<li><p>Link, template, standardise: by using Electronic Lab Notebooks</p></li>
-<li><p>Deposit and document reagents (see <a href="https://scicrunch.org/resources">RRIDs</a>)</p></li>
-<li><p>Communicate: platforms such as protocols.io allow for easier communication</p></li>
-</ul></li>
-</ul>
-</section>
-<section id="open-evaluation" class="level2">
-<h2 class="anchored" data-anchor-id="open-evaluation">Open Evaluation</h2>
-<ul>
-<li><p>‘Open science and education can play an important role in improving the quality of our work and stimulating the use of our knowledge and findings by others’ – <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/recognition-rewards-perspective">TU Delft Recognition &amp; Rewards Perspective 2021 – 2024</a></p></li>
-<li><p>The Dutch position paper <a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone’s talent</a> aims to recognise a wider range of academic contributions</p></li>
-<li><p><a href="https://www.vsnu.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf">Strategy Evaluation Protocol (SEP) – 2021-2027</a> has Open Science as a main assessment criteria</p></li>
-</ul>
-</section>
-<section id="open-hardware" class="level2">
-<h2 class="anchored" data-anchor-id="open-hardware">Open Hardware</h2>
-<ul>
-<li><a href="https://osc-delft.github.io/initiatives#delft-open-hardware">Open Hardware Community Delft</a> (<a href="https://twitter.com/delftopenhw">@DelftOpenHW</a>)</li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information:</h2>
-<ul>
-<li><a href="https://doi.org/10.4233/uuid:984f605e-1d08-4b8f-bafa-e351634e19a0">TU Delft Open Science Programme 2020-2024</a></li>
-<li><a href="https://www.tudelft.nl/open-science">tudelf</a><a href="https://osc-delft.github.io/">t.nl/open-science</a></li>
-<li><a href="the-turing-way.netlify.app">The Turing Way</a></li>
-<li><a href="https://openlifesci.org/">openlifesci.org</a></li>
-</ul>
-<p>*The term Open Science Buffet has been coined by <a href="https://twitter.com/chbergma/status/1461199447531085829">Christina Bergmann</a> in <a href="https://hdl.handle.net/2066/226397">2019</a>.</p>
-</section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-buffet/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-buffet/OS-buffet.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 </channel>
 </rss>
