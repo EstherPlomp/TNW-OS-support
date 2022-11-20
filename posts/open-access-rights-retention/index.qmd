@@ -43,3 +43,5 @@ Examples of articles that used the Rights Retention Strategy (from [Mounce 2022]
 -   [Preliminary publisher responses from the Cambridge pilot](https://unlockingresearch-blog.lib.cam.ac.uk/?p=3361)
 
 -   [Rights retention policy: an update after 9 months](https://libraryblogs.is.ed.ac.uk/openscholarship/2022/10/14/rights-retention-policy-an-update-after-9-months/)
+
+-   [French RRS Monitor](https://ml4rrieu.github.io/rrs/)
