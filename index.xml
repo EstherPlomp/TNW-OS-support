@@ -10,7 +10,46 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Wed, 09 Nov 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 21 Nov 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Open Science</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TNW/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="open-science-at-tnwapplied-sciences" class="level2">
+<h2 class="anchored" data-anchor-id="open-science-at-tnwapplied-sciences">Open Science at TNW/Applied Sciences</h2>
+<p>“The Faculty of Applied Sciences supports Open Science principles as openness is increasingly crucial to resolve major challenges of our time in which our faculty aims to be among the best in the world. Our Faculty strives to remain a front runner in making scientific papers and the underlying information (data / software / methods) openly available. Practicing research in a more transparent and open manner will increase the quality of research, facilitate collaboration and inclusive participation, and speed up the scientific process.” - <a href="https://intranet.tudelft.nl/-/as-faculty-multi-year-plan">Applied Sciences Strategic Plan 2022-2026</a></p>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TNW/images/paste-3B307808.png" class="img-fluid"></h2>
+</section>
+<section id="open-science-overview" class="level2">
+<h2 class="anchored" data-anchor-id="open-science-overview">Open Science Overview</h2>
+<p>Please see below for a ~12 min overview of the latest Open Science developments at Applied Science:</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TNW/talk.jpg" class="img-fluid" alt="Screenshot of the presentation on slide 2, with the Open Science Buffet image." width="601"></p>
+<p>Video:</p>
+<p><a href="https://docs.google.com/presentation/d/1ZX4texDO5xuI6PSM2u60uYJ1Soc4rtiEVN0-jCrTpFI/https://docs.google.com/presentation/d/1ZX4texDO5xuI6PSM2u60uYJ1Soc4rtiEVN0-jCrTpFI/edit?usp=sharing">Slides</a></p>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/">Open Science terminology and developments at TU Delft and (inter)nationally</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TNW/index.html</guid>
+  <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TNW/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>Open Science Panic</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -1133,33 +1172,6 @@ Note
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/dcc.png" medium="image" type="image/png" height="92" width="144"/>
-</item>
-<item>
-  <title>Metadata</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Metadata is data about data.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://commons.esipfed.org/node/1422">Introduction to Metadata and Metadata Standards by ESIP</a></li>
-<li>For more information about the practicalities and timing in <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">linking your research outputs, see The Turing Way</a>.</li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <category>FAIR</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
