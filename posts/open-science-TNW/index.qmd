@@ -1,5 +1,5 @@
 ---
-title: "Open Science"
+title: "Open Science at Applied Sciences"
 author: "Esther Plomp"
 date: "2022-11-21"
 categories: [Open Science, TU Delft]
@@ -8,7 +8,7 @@ image: "OS-TUD.png"
 
 ## Open Science at TNW/Applied Sciences
 
-"The Faculty of Applied Sciences supports Open Science principles as openness is increasingly crucial to resolve major challenges of our time in which our faculty aims to be among the best in the world. Our Faculty strives to remain a front runner in making scientific papers and the underlying information (data / software / methods) openly available. Practicing research in a more transparent and open manner will increase the quality of research, facilitate collaboration and inclusive participation, and speed up the scientific process." - [Applied Sciences Strategic Plan 2022-2026](https://intranet.tudelft.nl/-/as-faculty-multi-year-plan)
+"The Faculty of Applied Sciences supports Open Science principles as openness is increasingly crucial to resolve major challenges of our time in which our faculty aims to be among the best in the world. Our Faculty strives to remain a front runner in making scientific papers and the underlying information (data / software / methods) openly available. Practicing research in a more transparent and open manner will increase the quality of research, facilitate collaboration and inclusive participation, and speed up the scientific process." - [Applied Sciences Strategic Plan 2022-2026](https://intranet.tudelft.nl/-/as-faculty-multi-year-plan), page 17.
 
 ## ![](images/paste-3B307808.png)
 
@@ -18,7 +18,7 @@ Please see below for a \~12 min overview of the latest Open Science developments
 
 ![](talk.jpg){fig-alt="Screenshot of the presentation on slide 2, with the Open Science Buffet image." width="601"}
 
-Video:
+[Video](https://surfdrive.surf.nl/files/index.php/s/KDFDOCLJovGK1xF)
 
 [Slides](https://docs.google.com/presentation/d/1ZX4texDO5xuI6PSM2u60uYJ1Soc4rtiEVN0-jCrTpFI/https://docs.google.com/presentation/d/1ZX4texDO5xuI6PSM2u60uYJ1Soc4rtiEVN0-jCrTpFI/edit?usp=sharing)
 
