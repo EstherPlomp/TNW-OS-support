@@ -45,7 +45,7 @@ If there is no Data Management Plan available yet it is easiest to use the onlin
 
 -   [5 things to check in a Data Management Plan](https://estherplomp.github.io/TNW-OS-support/posts/DMP-5-things/)
 
--   [A Data Management Plan should provide information on five main topics](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html#a-data-management-plan-should-provide-information-on-five-main-topics)
+-   [A Data Management Plan should provide information on 6 main topics](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html#a-data-management-plan-should-provide-information-on-five-main-topics)
 
 -   [Data Management for Researchers](https://www.evalantsoght.com/2022/11/phd-talk-for-academictransfer-data-management-data-management-plan-and-the-role-of-the-library-in-helping-researchers-with-their-data-management.html)
 
