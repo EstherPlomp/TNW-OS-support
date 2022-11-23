@@ -1,0 +1,103 @@
+---
+title: "PhD onboarding day - Data Management & Open Science"
+author: "Esther Plomp"
+date: "2022-11-23"
+categories: [Research Data Management, Open Science, PhD, TU Delft]
+image: "stairs.png"
+---
+
+## PhD onboarding day - Research Data Management & Open Science
+
+Link to the slides
+
+Esther is the Data Steward of the Faculty of Applied Sciences. You can reach her for anything Research Data Management & Open Science related. See [intranet](https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences) for all the related topics. You can also read about her [PhD experiences in an interview](https://intranet.tudelft.nl/-/personal-perspectives-on-phd-in-4-an-interview-with-esther-plomp).
+
+## Where to find information?
+
+Email Esther or hop by 22.F131.
+
+[Research Data Management Website](https://www.tudelft.nl/en/library/current-topics/research-data-management/)
+
+[Open Science at TU Delft](https://www.tudelft.nl/open-science)
+
+[Open Science at TNW](https://estherplomp.github.io/TNW-OS-support/)
+
+## Available training
+
+[Software/coding trainings](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/training-events/training-for-researchers/)
+
+[Research Data Management 101](https://intranet.tudelft.nl/-/r4.a1-research-data-management-101) (Faculty version in March! Please [fill out the form](https://forms.office.com/r/PLm9TMBGGk) if you're interested)
+
+[Open Life Science program](https://intranet.tudelft.nl/en/-/open-life-science-programme)
+
+The Open Life Science program is a 16 week training that you can follow for 16 weeks to learn all about applying Open Science practices to your own research project. Next round will probably start in February 2023, with the application deadline in January 2023 (to describe your project and your learning objectives).
+
+## Hands on Data/Software management support
+
+[Digital Competence Center](https://dcc.tudelft.nl/)
+
+## Open Science Community Delft
+
+[Website](https://osc-delft.github.io/)
+
+[Joining](https://forms.gle/v2dtynQ2j6wSMWTS6)
+
+![](images/paste-55FF12FC.png){fig-alt="Logo of the Open Science Community Delft" width="192"}
+
+## Data Management plan
+
+Any PhD starting after 1st of Jan 2020:
+
+-   **Write a Data Management Plan: as part of the Go/No-Go meeting** in your first year.
+
+-   In the **PhD agreement** you'll have to describe how you'll do this
+
+You can fill out a plan using [DMPonline](https://dmponline.tudelft.nl/) (see [here](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/plan/dmponline/dmponline/) for a short explanation)
+
+In your Data Management Plan you will focus on questions related to Data Management:
+
+-   Where do you store your data?
+
+-   How will you share your data from your publications?
+
+Your supervisor will have to approve your plan.
+
+More detailed information on [this website](https://estherplomp.github.io/TNW-OS-support/posts/DMP-PhD/).
+
+You can also read up on the policies here: [TU Delft Research Data Framework](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/policies/tu-delft-faculty-policies/), [Faculty Policy (pdf)](https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf).
+
+![](images/paste-999D1DDA.png){fig-alt="A woman is scared because she thinks she lost all her data because her computer crashed. But it turns out that she had backed up her data thanks to setting out a plan for this in her data management plan!" width="503"}
+
+## Sharing the data/code underlying your articles/thesis
+
+Before your defense you should share your research outputs (data/code underlying the articles/thesis).
+
+The data management plan allows you to already think about how you will do this!
+
+![](images/paste-D7775324.png){fig-alt="A woman standing in front of a messy closet with research data, trying to find the data that she generated last year." width="469"}
+
+## Do's and Don'ts 
+
+**Do's:**
+
+-   Set up a Data Management plan
+
+-   Ask questions
+
+-   Follow workshops/courses (for credits!)
+
+-   Discuss data/code/open science with your supervisor
+
+-   [Join the Open Science Community](https://forms.gle/v2dtynQ2j6wSMWTS6)
+
+**Don'ts:**
+
+-   Keep everything closed (unless you have restrictions)
+
+-   Share without discussing this with your supervisor/collaborators
+
+-   Figure everything out yourself
+
+## More information
+
+-   [Open Science terminology and developments at TU Delft and (inter)nationally](https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/)
