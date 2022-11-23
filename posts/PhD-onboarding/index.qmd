@@ -8,7 +8,7 @@ image: "stairs.png"
 
 ## PhD onboarding day - Research Data Management & Open Science
 
-Link to the slides
+[Link to the slides](https://surfdrive.surf.nl/files/index.php/s/QiYelnVxBMu15f9) of the onboarding day on the 24th of November 2022.
 
 Esther is the Data Steward of the Faculty of Applied Sciences. You can reach her for anything Research Data Management & Open Science related. See [intranet](https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences) for all the related topics. You can also read about her [PhD experiences in an interview](https://intranet.tudelft.nl/-/personal-perspectives-on-phd-in-4-an-interview-with-esther-plomp).
 
