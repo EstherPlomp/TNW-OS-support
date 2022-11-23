@@ -22,6 +22,8 @@ Please see below for a \~12 min overview of the latest Open Science developments
 
 [Slides](https://docs.google.com/presentation/d/1ZX4texDO5xuI6PSM2u60uYJ1Soc4rtiEVN0-jCrTpFI/https://docs.google.com/presentation/d/1ZX4texDO5xuI6PSM2u60uYJ1Soc4rtiEVN0-jCrTpFI/edit?usp=sharing)
 
+[Transcript](https://surfdrive.surf.nl/files/index.php/s/VE5kg9e2Vlk2IbT)
+
 ## More information
 
 -   [Open Science terminology and developments at TU Delft and (inter)nationally](https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/)
