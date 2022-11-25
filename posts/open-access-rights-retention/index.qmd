@@ -10,7 +10,7 @@ Rights Retention Strategy was initiated by cOAlition S to ensure that the resear
 
 By employing the Rights Retention Strategy you retain your rights on the manuscripts, which gives you the right to share the author's version of the article, after peerreview, through a repository. This is Green Open Access, but then without the embargo period (generally 6-48 months) that journals usually place on this version of the article.
 
-Copyright transfer has only been [introduced relatively recent](https://blogs.lse.ac.uk/impactofsocialsciences/2019/06/03/what-the-history-of-copyright-in-academic-publishing-tells-us-about-open-research/) and is not something that is essential for the publishing process.
+When you choose a NC or NC-ND license, publishers take over the control of authorisations where only they can make and authorise derivatives and commercially use your work. This copyright transfer has only been [introduced relatively recent](https://blogs.lse.ac.uk/impactofsocialsciences/2019/06/03/what-the-history-of-copyright-in-academic-publishing-tells-us-about-open-research/) and is not something that is essential for the publishing process.
 
 *"As author(s) and original copyright holder(s) of this submission, I/we have applied a Creative Commons Attribution (CC BY) licence to any Author Accepted Manuscript (AAM) version arising from this submission. If the article is accepted for publication, I/we will make the AAM available without embargo in a repository. Please confirm by return that the author(s) will NOT be required to sign a contract that prevents this action. If I/we do not hear from you before DD/MM/YYYY, I/we will seek a different journal that will accept my/our manuscript under these conditions."*
 
