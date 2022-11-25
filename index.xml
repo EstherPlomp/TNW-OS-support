@@ -279,10 +279,10 @@
 <h2 class="anchored" data-anchor-id="tu-delft-network-drives">TU Delft network drives</h2>
 <table class="table">
 <colgroup>
-<col style="width: 17%">
-<col style="width: 25%">
-<col style="width: 25%">
-<col style="width: 31%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 28%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -359,6 +359,7 @@
 <li>Not suitable for long term storage account as this is a personal storage space (expires when you leave TU Delft)</li>
 <li>Students also have accounts</li>
 <li>Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.</li>
+<li>Versioning up to 93 days.</li>
 </ul>
 </section>
 <section id="sending-files" class="level2">
@@ -367,7 +368,7 @@
 </section>
 <section id="tu-delft-gitlab" class="level2">
 <h2 class="anchored" data-anchor-id="tu-delft-gitlab">TU Delft GitLab</h2>
-<p>TU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared.</p>
+<p>TU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared. You can create up to 50 repositories/projects.</p>
 <p>For an overview of the options of differences between GitLab/GitHub/Gitea, see this <a href="https://doi.org/10.5281/zenodo.4710206">repository chooser guide</a>.</p>
 <p>GitLab repository can be requested through <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42">TopDesk</a> (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; GitLab TU Delft &gt; Request GitLab).</p>
 </section>
@@ -832,6 +833,81 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-preprint/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Open Science</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="open-science" class="level2">
+<h2 class="anchored" data-anchor-id="open-science">Open Science</h2>
+<p><strong>Open Science</strong> is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.</p>
+<p><strong>Open Science</strong> is <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en">defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO)</a> as <em>“an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”</em></p>
+<p>Several concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.</p>
+</section>
+<section id="benefits-of-open-science" class="level2">
+<h2 class="anchored" data-anchor-id="benefits-of-open-science">Benefits of Open Science</h2>
+<ul>
+<li><p>Increased impact and visibility: Research will be accessible to anyone, which accelerates scientific discovery and can increase citizen engagement with and participation in research.</p></li>
+<li><p>Maximise research effort by making research and <a href="https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html">educational</a> outputs reusable, making it easier to build on previous work and providing opportunities for collaboration</p></li>
+<li><p>Improving the quality of research through more transparency (facilitating reproducibility) which will <a href="https://doi.org/10.1177/09636625221100686">increase trust</a> in research</p></li>
+<li><p>Recognition for all contributions to research and maintaining rights and control</p></li>
+</ul>
+<p>The Dutch position paper ‘<a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone’s talent</a>’ aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.</p>
+</section>
+<section id="tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft">TU Delft</h2>
+<p>TU Delft has a long history of engagement with Open Science and it is TU Delft’s ambition to be a frontrunner, as reflected in its <a href="https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme">Open Science Programme 2020-2024, Research and Education in the Open Era</a> and the TU Delft Strategic Framework 2018-2024, with “openness” as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC%20EN.pdf">Code of Conduct</a>. TU Delft established several policies and framework that fall under the Open Science umbrella:</p>
+<p>• TU Delft Policy on <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf">Open Access Publishing</a> (2016)</p>
+<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf">Research Data Policy Framework</a> (2019, 2021)</p>
+<p>• TU Delft <a href="https://doi.org/10.5281/zenodo.4629662">Research Software Policy</a> (2021)</p>
+<p>• TU Delft <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/diversity-policy">Diversity &amp; Inclusion Office</a> (2021)</p>
+<p>• TU Delft <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Vision%20on%20Integrity%202018-2024.pdf">Vision on Integrity</a> 2018-2024</p>
+<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen%20en%20Waarderen%20-%20recognition%20and%20reward/TU%20Delft%20Recognition%20and%20Rewards%20perspective%20def.pdf">Recognition &amp; Rewards Perspective</a> 2021 – 2024</p>
+<p>• TU Delft <a href="https://doi.org/10.4233/uuid:68a07efc-fc4d-4a57-8e93-88a3af37465a">Policy on Open Educational Resources</a> (2021)</p>
+<p>You can find more information on <a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a>.</p>
+</section>
+<section id="the-netherlands" class="level2">
+<h2 class="anchored" data-anchor-id="the-netherlands">the Netherlands</h2>
+<ul>
+<li><p>In the Netherlands Open Science is an important component of the <a href="https://recognitionrewards.nl/">Recognition &amp; Rewards</a> movement.</p></li>
+<li><p>Dutch research funder <a href="https://www.nwo.nl/en/open-science">NWO supports</a> new forms of evaluation, requires 100% Open Access and sharing of data/code underlying research articles.</p></li>
+<li><p>The <a href="https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf">‘Strategic Evaluation Protocol’</a> that universities use to periodically evaluate their research has a strong focus Open Science practices and outputs.</p></li>
+</ul>
+</section>
+<section id="internationally" class="level2">
+<h2 class="anchored" data-anchor-id="internationally">Internationally</h2>
+<ul>
+<li><p>The <a href="https://sfdora.org/">San Francisco Declaration on Research Assessment</a> (to which all Dutch universities adhere to).</p></li>
+<li><p>The <a href="https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/reforming-research-assessment-agreement-now-final-2022-07-20_en">‘Reforming research assessment’</a> agreement by the European Union. Open Science has for years been promoted by the European Commission.</p></li>
+<li><p>UNESCO adopted a <a href="https://en.unesco.org/science-sustainable-future/open-science/recommendation">recommendation</a> on Open Science.</p></li>
+<li><p>The <a href="https://cen.acs.org/policy/publishing/White-House-mandates-immediate-open/100/web/2022/08#:~:text=All%20US%20federally%2Dfunded%20research,31%2C%202025.">White House also committed</a> the United States to Open Science, which pushes for Open Access, and FAIR data and code sharing.</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><p><a href="https://doi.org/10.31234/osf.io/jyfr7">What senior academics can do to support reproducible and open research: a short, three-step guide</a></p></li>
+<li><p><a href="https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-phd-students/">Passport for Open Science: A guide for PhD students</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=IV1aFnPkUSI">Let’s become (Open) Science Champions!</a></p></li>
+<li><p><a href="https://how-to-open.science/">Open Science Knowledge Base</a></p></li>
+<li><p><a href="https://lgatto.github.io/open-and-rr-2/">Becoming a better scientist with open and reproducible research</a></p></li>
+<li><p>Set up a publication strategy by <a href="https://docs.google.com/spreadsheets/d/1ALIr6i-ufawnR1_tZBbF_Io7ihWpLZKBOD0aLhRRp0U/edit">making a copy of a google sheet</a> set up by Bianca Kramer &amp; Jeroen Bosman (Utrecht University)</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</guid>
+  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
   <title>Reproducibility checklist</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/index.html</link>
@@ -891,55 +967,89 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-checklist/agile.png" medium="image" type="image/png" height="37" width="144"/>
 </item>
 <item>
-  <title>Digital Competence Center</title>
+  <title>Data Documentation</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>TU Delft has a Digital Competence Center (DCC) which consists of four Research Software Engineers, two Data Managers and a High Performance Computing Data Steward.</p>
-<p>The DCC helps you with practically applying the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a> to your research data and code.</p>
-<p>The DCC helps any researcher at the TU Delft in the following two ways:</p>
-<ol type="1">
-<li><p><strong>Under 30 hour requests</strong></p>
+<p>This post provides information about documentation, file naming and metadata.</p>
+<section id="documentation" class="level2">
+<h2 class="anchored" data-anchor-id="documentation">Documentation</h2>
+<p>It is important to document your data, as it provides the contextual information needed to interpret the data. Data documentation includes information on the context of the data collection (project objectives and hypotheses), data collection methods (sampling, data collection process, analysis instruments used, software used to process the data etc), temporal and geographic coverage and by whom the data collection took place. Where multiple datasets or multiple versions of the same dataset are generated, the relationship between (the versions of) datasets should be clear.</p>
 <ul>
-<li><p>code reviews</p></li>
-<li><p>repository reviews</p></li>
-<li><p>quick data questions</p></li>
-<li><p>tips &amp; consults</p></li>
-</ul></li>
-<li><p><strong>Dedicated part-time support</strong></p>
-<ul>
-<li><p>a Data Manager or Research Software engineer joins a research group for up to 340 hours during 6 months</p></li>
-<li><p>dependent on FAIR value add and expertise of DCC members</p></li>
-<li><p>dedicated application form on DCC (next one likely September 2022)</p></li>
-</ul></li>
-</ol>
-<p>Support can look like:</p>
-<ul>
-<li><p>Find suitable solutions for data storage, access, back-up and automated processing</p></li>
-<li><p>Package, distribute and release research software</p></li>
-<li><p>Set up collaborative data and software development workflows with version control</p></li>
-<li><p>Implement automated software testing for continuous integration</p></li>
+<li><p><a href="https://doi.org/10.5281/zenodo.1914401">Guide for data documentation</a></p></li>
+<li><p><a href="https://uf-repro.github.io/data-organization/slides.html">Data organisation in spreadsheets</a>&nbsp;(see also the <a href="https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary">Open Science Framework guidance</a>)</p></li>
+<li><p><a href="https://libguides.library.kent.edu/SPSS/Codebooks">Code Book</a></p></li>
+<li><p><a href="https://doi.org/10.1177/2515245920928007">Guide on how to create data dictionaries</a></p></li>
+<li><p>check the README post</p></li>
 </ul>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+</section>
+<section id="file-naming-convention" class="level2">
+<h2 class="anchored" data-anchor-id="file-naming-convention">File naming convention</h2>
+<p>Structure your file names and set up a template for this. It is very useful to start with the date (when the file was generated: YYYYMMDD) which will sort your files chronologically and also creates a unique identifier for each file. (It will be immediately clear if there are multiple files generated on the same day that will have to be given a version number –or “A, B”-, because otherwise overwriting would occurs if you store these files in the proper folder).</p>
+<p>Examples:<br>
+<strong>20190607_ImPhys_RDMTemplate_v001_eng</strong></p>
 <ul>
-<li><p><a href="https://dcc.tudelft.nl/">Digital Competence Center Website</a></p></li>
-<li><p><a href="https://tu-delft-dcc.github.io">DCC guides</a></p></li>
+<li><p>Date or date range of experiment: YYYYMMDD</p></li>
+<li><p>File type (or language such as the example above)</p></li>
+<li><p>Researcher name/initials</p></li>
+<li><p>Version number of file (v001, v002)</p></li>
+<li><p>Don’t make file names too long (30-70 characters should do the trick)</p></li>
+<li><p>Avoid special characters (?\!@*%{[&lt;&gt;) and spaces</p></li>
 </ul>
+<p>You can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean.</p>
+<section id="more-information-on-file-naming" class="level3">
+<h3 class="anchored" data-anchor-id="more-information-on-file-naming">More information on file naming</h3>
+<ul>
+<li><p><a href="https://speakerdeck.com/jennybc/how-to-name-files">Jenny Bryan’s ‘naming things’ presentation</a></p></li>
+<li><p><a href="https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247">8 step guide</a> on how to set up your file naming convention</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=u6MiDFvAs9w&amp;list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&amp;index=2">Danielle Navarro’s videos</a> about file naming and project structure</p></li>
+<li><p><a href="https://libguides.princeton.edu/c.php?g=102546&amp;p=930626">File naming at Princeton University</a></p></li>
+</ul>
+</section>
+<section id="bulk-renaming-tools-use-with-care" class="level3">
+<h3 class="anchored" data-anchor-id="bulk-renaming-tools-use-with-care">Bulk renaming tools (use with care!):</h3>
+<ul>
+<li><p>Windows: <a href="http://www.antp.be/software/renamer">Ant Renamer</a>, <a href="sourceforge.net/prpjects/renameit">RenameIT</a>, <a href="http://www.bulkrenameutility.co.uk/">Bulk Rename Utility</a></p></li>
+<li><p>Mac: <a href="https://renamer.com/">Renamer</a>, <a href="https://mrrsoftware.com/namechanger/">Name Changer</a></p></li>
+<li><p>Linux: <a href="https://gcmd.github.io/">GNOME Commander</a>, <a href="http://gprename.sourceforge.net/">GPRename</a></p></li>
+<li><p>Unix: Using the grep command to search for regular expressions</p></li>
+</ul>
+</section>
+</section>
+<section id="metadata" class="level2">
+<h2 class="anchored" data-anchor-id="metadata">Metadata</h2>
+<p>Metadata is information about your data, such as the title of the dataset, the date, creator(s) and keywords that describe the data. Metadata standards with defined fields ensure machine readability. To look for disciplinary standards you can use the resources below:</p>
+<p>• <a href="https://fairsharing.org/">FAIRsharing.org</a></p>
+<p>• <a href="https://rd-alliance.github.io/metadata-directory/standards/">Research Data Alliance metadata directory</a></p>
+<p>• <a href="http://www.dcc.ac.uk/resources/metadata-standards">Digital Curation Center</a></p>
+<section id="tools-available-for-metadata-creation" class="level3">
+<h3 class="anchored" data-anchor-id="tools-available-for-metadata-creation">Tools available for metadata creation:</h3>
+<p><a href="https://frictionlessdata.io/" class="uri">https://frictionlessdata.io/</a> create.frictionlessdata.io (Data Package Creator) (JSON) (or through Python, <a href="https://github.com/frictionlessdata/datapackage-pipelines">github.com/frictionlessdata/datapackage-pipelines</a>) (see <a href="https://www.youtube.com/watch?v=vZAi4OnfH-Q&amp;feature=youtu.be">this presentation on YouTube</a>)</p>
+</section>
+</section>
+<section id="physical-samples" class="level2">
+<h2 class="anchored" data-anchor-id="physical-samples">Physical samples</h2>
+<p>Reference your samples: dates in notebooks + supplier’s name/code</p>
+<p>Add any relevant notes:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/images/paste-C1DEDF1E.png" class="img-fluid figure-img" alt="An excel sheet with physical sample organisation. The first column describes sample names, the second the accompanying data in the labbook, the third column the amount of samples left (if there are multiple), the fourth one is the sample sizes and the last column contains any notes about the sample."></p>
+<p></p><figcaption class="figure-caption">(copyright by Marta Teperek)</figcaption><p></p>
+</figure>
+</div>
 
 
 </section>
 
  ]]></description>
-  <category>Open Science</category>
-  <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/index.html</guid>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DCC/dcc.png" medium="image" type="image/png" height="92" width="144"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-documentation/documentation.png" medium="image" type="image/png" height="115" width="144"/>
 </item>
 <item>
   <title>Metadata standards and repositories for Applied Sciences/TNW</title>
@@ -1016,215 +1126,68 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-TNW/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>SURFdrive sharing</title>
+  <title>Mistakes</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/mistakes/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="sharing-data-with-surfdrive" class="level2">
-<h2 class="anchored" data-anchor-id="sharing-data-with-surfdrive">Sharing Data with SURFdrive</h2>
-<p>You can share data with SURFdrive through the 1) browser or the 2) application.</p>
-</section>
-<section id="surfdrive-browser" class="level2">
-<h2 class="anchored" data-anchor-id="surfdrive-browser">SURFdrive browser</h2>
-<ol type="1">
-<li><p>Log into your SURFdrive account through the webbrowser: <a href="https://surfdrive.surf.nl">surfdrive.surf.nl/</a></p></li>
-<li><p>Select the share button:</p></li>
-</ol>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-EF8FDCD2.png" class="img-fluid" width="382"></p>
-<ol start="3" type="1">
-<li>Select ‘<strong>Public Links</strong>’ (students will not show up in the users section)</li>
-<li>Select ‘<strong>Create public link</strong>’</li>
-<li>You will see a pop up where you can adjust the link name of your folder, file folder permissions, add a password and select an expiration date of the link. Below you can send the link to an email address or you can retrieve the link later.</li>
-</ol>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-A2C02F3B.png" class="img-fluid"></p>
-<ol start="6" type="1">
-<li>Select ‘<strong>Share</strong>’ to continue.</li>
-</ol>
-<p>Your map now has a link image on it and you can copy, edit, share or delete your link:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-C4F1544F.png" class="img-fluid"></p>
-<p>See also <a href="https://www.youtube.com/watch?v=nwkJB5IRn4k">SURFdrive’s tutorial</a>.</p>
-</section>
-<section id="surfdrive-application" class="level2">
-<h2 class="anchored" data-anchor-id="surfdrive-application">SURFdrive application</h2>
-<p>You can also share your folders/files through the SURFdrive application. Right click on any folder or file that you have within your SURFdrive folder on your computer and select: SURFdrive &gt; Share . You will see this pop up window:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/images/paste-09D11D36.png" class="img-fluid"></p>
-<p>Through ‘<strong>Users and Groups</strong>’ you can directly share your files with colleagues that are based at Dutch institutes by typing in their names or email addresses.</p>
-<p>You can also generate ‘<strong>Public Links</strong>’ by selecting ‘<strong>create new</strong>’ and ‘<strong>create</strong>’. Don’t forget to set a password for the link and an expiration date if needed. Once you have created this link you can copy it through right clicking the file: SURFdrive &gt; Copy public link to clipboard.</p>
-<p><em>Note that your SURFdrive application has to be running in the background to be able to generate and copy these links.</em></p>
+<section id="mistakes" class="level2">
+<h2 class="anchored" data-anchor-id="mistakes">Mistakes</h2>
+<p><a href="https://www.carleton.edu/perception-lab/open-science/error-tight/">Error Tight</a> – Exercises for lab groups to prevent research mistakes</p>
 
 
 </section>
 
  ]]></description>
-  <category>Storage</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/index.html</guid>
+  <category>Mistakes</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/mistakes/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-SURFdrive/SURFdrive.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/mistakes/mistake.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
-  <title>Managing and Sharing Data in 2021</title>
+  <title>Registered Reports</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-registered-reports/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="managing-and-sharing-data-in-2021" class="level2">
-<h2 class="anchored" data-anchor-id="managing-and-sharing-data-in-2021">Managing and Sharing Data in 2021</h2>
-<p>This post is based on an earlier <a href="https://openworking.wordpress.com/2021/09/17/managing-and-sharing-data-in-2021/">blogpost</a>.</p>
-</section>
-<section id="nwohorizon-europe-projects-have-the-following-requirements" class="level2">
-<h2 class="anchored" data-anchor-id="nwohorizon-europe-projects-have-the-following-requirements"><strong>NWO/Horizon Europe projects have the following requirements:</strong></h2>
-<p><strong>Data management</strong> should follow the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a> to maximise the effectiveness and reproducibility of the research undertaken.&nbsp;</p>
+<p>A registered report is an article format where the study proposal is peer-reviewed before the research is undertaken.</p>
+<p>After approved by the reviewers, the results will be published as long as the study proposal is followed and deviations are clearly indicated. This article format facilitates the publication of negative results and reduces time wasted on irrelevant study proposals.</p>
+<p>There are 2 main options: submit to a single journal that offers Registered Reports or to the supra-journal platform <a href="https://rr.peercommunityin.org/">Peer Community In Registered Reports</a> (PCI RR). For the former option, refer to the <a href="https://www.cos.io/initiatives/registered-reports">current list of journals that offer Registered Reports</a>.</p>
 <ul>
-<li><p>The <strong>FAIR principles</strong> recommend that scientific data are:&nbsp;</p>
-<ul>
-<li><p>'<strong>F</strong>indable' thanks to their persistent identifier that is assigned to your dataset when it is shared using a data repository (see below).</p></li>
-<li><p>'<strong>A</strong>ccessible' so that the data and metadata can be examined; FAIR data is not necessarily open data, but the metadata could still be shared to ensure that the data is still FAIR.</p></li>
-<li><p>'<strong>I</strong>nteroperable' so that comparable data can be analysed and integrated through the use of common vocabulary and formats.</p></li>
-<li><p>'<strong>R</strong>eusable' as a result of appropriate documentation and provision of a <a href="https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing">license</a> that tells others what they can do with the data.&nbsp;</p></li>
-</ul></li>
+<li><p><a href="https://journals.plos.org/plosone/s/other-article-types">PLOS ONE</a></p></li>
+<li><p><a href="https://www.nature.com/articles/s41467-020-17294-2">Nature Communications</a></p></li>
+<li><p><a href="https://www.nature.com/uploads/ckeditor/attachments/4825/RegisteredReportsGuidelines_NatureHumanBehaviour.pdf">Nature Human Behaviour</a></p></li>
+<li><p><a href="https://www.nature.com/srep/journal-policies/registered-reports">Scientific Reports</a></p></li>
+<li><p><a href="https://www.springer.com/journal/43938/submission-guidelines#Instructions%20for%20Authors_Registered%20Reports">Discover Chemical Engineering</a></p></li>
+<li><p><a href="https://www.springer.com/journal/43832/submission-guidelines#Instructions%20for%20Authors_Registered%20Reports">Discover Water</a></p></li>
+<li><p><a href="https://peerj.com/about/author-instructions/chemistry">PeerJ Materials Science</a></p></li>
+<li><p><a href="http://www.researchprotocols.org/">JMIR Biomedical Engineering</a></p></li>
+<li><p><a href="https://openreseurope.s3.amazonaws.com/resources/ORE-Registered-Report-Guidelines-STM.pdf">Open Research Europe</a></p></li>
 </ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/https:/openworking.files.wordpress.com/2021/09/1728_turi_book-sprint_8-fair-principles_040619-1.jpg?w=526" class="img-fluid figure-img" alt=""></p>
-<p></p><figcaption class="figure-caption">Illustration by <a href="https://doi.org/10.5281/zenodo.3332807">The Turing Way/Scriberia</a></figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="proposals" class="level2">
-<h2 class="anchored" data-anchor-id="proposals"><strong>Proposals</strong></h2>
-<ul>
-<li><p>Proposals have a data section that asks about how you will manage and share your data.</p></li>
-<li><p>Consider any <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-costs">data management costs</a> that need to be included in the project's budget. Also keep in mind that you may need a budget to <a href="https://openworking.wordpress.com/2020/11/19/publishing-articles-in-2021/">publish articles</a>.&nbsp;</p></li>
-<li><p>See the <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/grant-proposals/data-management-sections-for-grant-proposals">TU Delft guidance</a> for help or <a href="https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact">contact your Faculty's Data Steward</a>.&nbsp;</p></li>
-</ul>
-</section>
-<section id="data-management-plans" class="level2">
-<h2 class="anchored" data-anchor-id="data-management-plans"><strong>Data Management Plans</strong></h2>
-<p><strong>Data Management Plans (DMP) are required</strong> for projects funded by NWO (within four months after the awarding of the grant) and Horizon Europe (within 6 months of the project's start).&nbsp;</p>
-<ul>
-<li><p>DMP templates are available on the websites of <a href="https://www.nwo.nl/en/research-data-management">NWO</a> and <a href="https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan-template_he_en.docx">Horizon Europe</a>, as well as on the platform <a href="https://dmponline.tudelft.nl/">DMPonline</a> that you can use with your netID.&nbsp;</p>
-<ul>
-<li><p>DMPonline has TU Delft specific guidance that will help you to set up your DMP more efficiently.&nbsp;</p></li>
-<li><p>You can also use the <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline">TU Delft template available through DMPonline</a> (although this will need some additions for Horizon Europe as this template is more extensive). It is especially efficient to use the TU Delft template if your project needs <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/integrity-policy/human-research-ethics">HREC approval</a> (for example, working with <a href="https://www.tudelft.nl/en/privacy-security/privacy">personal data</a>).</p></li>
-</ul></li>
-<li><p>A DMP should be a living document, which is updated as the project evolves. Horizon Europe expects you to update the template throughout the project.</p></li>
-</ul>
-</section>
-<section id="data-sharing" class="level2">
-<h2 class="anchored" data-anchor-id="data-sharing"><strong>Data sharing</strong></h2>
-<p><strong>Data should be shared through a trusted repository</strong>, for example: <a href="https://data.4tu.nl/info//en/">4TU.ResearchData</a>.</p>
-<ul>
-<li><p><strong>Data underpinning a scientific publication</strong> should be deposited at the latest <strong>at the time of publication.</strong></p></li>
-<li><p>Data is <strong>in principle open</strong>, unless restricted access is needed for legitimate reasons</p>
-<ul>
-<li>Access can be restricted when it concerns aspects such as privacy, public security, ethical limitations, property rights and commercial interest.</li>
-</ul></li>
-<li><p>For Horizon Europe, the data should be licensed using CC-BY or CC0 (or an equivalent license), and metadata of the datasets should be CC0 licensed.&nbsp;</p>
-<ul>
-<li><p>For <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> it means that others should cite the work when they reuse the data.&nbsp;</p></li>
-<li><p><a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> waives any rights, with citation still being expected as this follows best scientific practises.&nbsp;</p></li>
-<li><p>Note that some Horizon Europe calls may require additional obligations for the validations of scientific publications.&nbsp;</p></li>
-</ul></li>
-<li><p>These requirements are in line with the <a href="https://doi.org/10.5281/zenodo.2573159">TU Delft Research Data Framework Policy</a>, stating that "<em>research data, code and any other materials needed to reproduce research findings are appropriately documented and shared in a research data repository in accordance with the FAIR principles for at least 10 years from the end of the research project, unless there are valid reasons not to do so</em>." (NWO also expects data preservation for at least ten years, unless legal provisions or discipline-specific guidelines dictate otherwise).&nbsp;</p></li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/https:/openworking.files.wordpress.com/2021/09/fountain-of-open-data-with-text-1.jpg?w=576" class="img-fluid figure-img" alt=""></p>
-<p></p><figcaption class="figure-caption">Illustration by <a href="https://doi.org/10.5281/zenodo.3332807">The Turing Way/Scriberia</a></figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="software" class="level2">
-<h2 class="anchored" data-anchor-id="software"><strong>Software</strong></h2>
-<p><strong>Software</strong> is seen as a separate research output from data:</p>
-<ul>
-<li><p>Horizon Europe recommends sharing software (under an Open Source license).</p></li>
-<li><p>NWO expects that software that is needed to access and interpret the data is made available, following the<a href="https://fair-software.nl/">Five Recommendations for FAIR Software</a>.</p></li>
-<li><p>See the <a href="http://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a> for more information on how to share your research software.&nbsp;</p>
-<ul>
-<li>TU Delft encourages you to share your code/software through<a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> choosing one of the TU Delft approved licenses (Apache, MIT, BSD, EUPL, AGPL, LGPL, GPL, CC0). You can also choose another data repository, such as<a href="https://zenodo.org/">Zenodo</a>, but then you have to ensure that the output is correctly registered in PURE yourself. See the <a href="http://doi.org/10.5281/zenodo.4629635">TU Delft Guidelines on Research Software</a> or <a href="https://youtu.be/bPl5sdTvLMM?t=1394">this recording</a> for more information on sharing your software/code.</li>
-</ul></li>
-</ul>
-</section>
-<section id="resources" class="level2">
-<h2 class="anchored" data-anchor-id="resources">Resources</h2>
-<ul>
-<li><p><a href="https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/horizon-europe-programme-guide-released-2021-06-20_en">Horizon Europe Programme Guide</a>(pages 41 – 46)</p></li>
-<li><p><a href="https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf">Annotated Horizon Europe Grant Agreement</a>(Annex 5, pages 152-153)</p></li>
-<li><p><a href="https://www.nwo.nl/en/research-data-management">NWO: Research Data Management</a></p></li>
-<li><p><a href="https://www.tudelft.nl/library/research-data-management">TU Delft: Research Data Management</a></p></li>
-<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/">TU Delft &amp; Faculty policies (data/software)</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <category>Data Management Plan</category>
-  <category>Open Software</category>
-  <category>FAIR</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-2021/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Data organisation</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="folder-structures" class="level2">
-<h2 class="anchored" data-anchor-id="folder-structures">Folder structures</h2>
-<p>Examples</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/images/paste-480EB3EE.png" class="img-fluid" width="589"></p>
-<p><a href="http://nikola.me/folder_structure.html" class="uri">http://nikola.me/folder_structure.html</a> (folder structure download available on the website)</p>
-<p><a href="https://doi.org/10.5281/zenodo.4410128">Folder structure template for research repositories</a></p>
-<p>Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don’t belong or stored in large quantities in a single folder (which makes it hard to find the files).</p>
-<p>Make sure the folder structure is clear: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.</p>
-<p>See also: <a href="https://zapier.com/blog/organize-files-folders/">Find Files Faster: How to Organize Files and Folders</a></p>
-</section>
-<section id="cookie-cutter-templates" class="level2">
-<h2 class="anchored" data-anchor-id="cookie-cutter-templates">Cookie Cutter templates</h2>
-<p>Use the <a href="https://github.com/cookiecutter/cookiecutter">cookiecutter</a> templates to download folder structures through GitHub. The template by Barbara Vreede follows the template proposed by <a href="https://doi.org/10.1371/journal.pcbi.1005510">Wilson <em>et al.</em></a> (2017): <a href="https://github.com/bvreede/good-enough-project" class="uri">https://github.com/bvreede/good-enough-project</a></p>
-<ul>
-<li><p>See <a href="https://vimeo.com/462773031">this video for more information</a></p></li>
-<li><p>Follow the instructions here if you need more guidance.</p></li>
-</ul>
-<p>In general it is good practise to:</p>
-<ul>
-<li><p>have one folder/directory per project</p></li>
-<li><p>to save your raw data separately (and make it read only to ensure that it is not accidentally altered)</p></li>
-<li><p>to create a subdirectory for your output (for example: Manuscript output, figures, numerical output)</p></li>
-</ul>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/images/paste-B5D16106.png" class="img-fluid" width="602"></p>
-</section>
 <section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<h2 class="anchored" data-anchor-id="more-information">More Information</h2>
 <ul>
-<li><p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html">The Turing Way - Data storage and organisation</a></p></li>
-<li><p><a href="https://eirini-zormpa.github.io/frictionless-data-workshop/data-organisation.html#1">Data organisation presentation by Eirini Zormpa</a></p></li>
-<li><p><a href="https://cghlewis.com/talk/sssp_ecf/">Ten Common Data Management Mistakes by Crystal Lewis</a></p></li>
+<li><p>See the <a href="https://www.cos.io/initiatives/registered-reports">Open Science Framework</a> for more information and resources on Registered Reports.</p></li>
+<li><p>See the <a href="https://www.surrey.ac.uk/library/open-research/preregistration-and-registered-reports">University of Surrey Open Research website</a> for more information about preregistration and registered reports.</p></li>
+<li><p><a href="https://doi.org/10.1371/journal.pcbi.1010571">Ten simple rules for writing a Registered Report</a></p></li>
+<li><p><a href="https://www.zotero.org/groups/osf/items/collectionKey/KEJP68G9">Zotero group with registered reports</a></p></li>
 </ul>
 
 
 </section>
 
  ]]></description>
-  <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/index.html</guid>
+  <category>Open Science</category>
+  <category>Scholarly Communication</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-registered-reports/index.html</guid>
   <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-organisation/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-registered-reports/registered-reports.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
