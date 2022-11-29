@@ -1,17 +1,26 @@
 ---
-title: "CRediT"
+title: "DORA"
 author: "Esther Plomp"
 date: "2022-11-29"
 categories: [Credit]
-image: "credit.png"
+image: "dora.png"
 ---
 
-[CRediT](https://credit.niso.org/) (Contributor Roles Taxonomy) is a taxonomy of 14 roles. You can use CRediT to describe each contributor's specific contribution to the scholarly output.
+The Declaration on Research Assessment ([DORA](https://sfdora.org/)) recognizes the need to improve the ways in which researchers and the outputs of scholarly research are evaluated.
 
-CrediT contributes to a more transparent research record.
+![](dora.png)
 
-A helpful tool to record CredIT contributions is [Tenzing](https://rollercoaster.shinyapps.io/tenzing/). You can cite [Holcombe et al. 2020](https://doi.org/10.1371/journal.pone.0244611) when you use this tool.
+DORA recommends:
+
+-   The elimination of journal-based metrics, such as Journal Impact Factors, in funding, appointment, and promotion considerations;
+
+-   To assess research on its own merits rather than on the basis of the journal in which the research is published; and
+
+-   To capitalize on the opportunities provided by online publication (such as relaxing unnecessary limits on the number of words, figures, and references in articles, and exploring new indicators of significance and impact).
+
+TU Delft signed DORA via the [Association of Universities in the Netherlands](https://www.universiteitenvannederland.nl/en_GB/). You can also [sign the declaration](https://sfdora.org/sign/) as an individual.
 
 ## **More information**
 
--   [Holcombe et al. 2020](https://doi.org/10.1371/journal.pone.0244611)
+-   [CRediT](https://estherplomp.github.io/TNW-OS-support/posts/credit/)
+-   [Quality is key](https://openworking.wordpress.com/2021/09/01/quality-is-key/)
