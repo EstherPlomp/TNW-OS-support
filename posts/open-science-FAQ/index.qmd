@@ -20,7 +20,7 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
 -   Papers with open data also receive more citations: [Piwowar et al. 2007](http://doi.org/10.1371/journal.pone.0000308); [Piowar and Vision 2014;](http://doi.org/10.7717/peerj.175) [Colavizza et al. 2020](https://doi.org/10.1371/journal.pone.0230416)
 
-2.  **What does the TU Delft facilitate?**
+### **2. What does the TU Delft facilitate?**
 
 -   There's a [TU Delft Open Science Community](https://osc-delft.github.io/)
 
@@ -38,7 +38,9 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
     -   [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/)
 
-3.  **What are the open science regulations from the TU?**
+    -   
+
+### **3. What are the open science regulations from the TU?**
 
 -   PhDs that started from the 1st of Jan 2019 will need to share the code/data underlying their articles/thesis through a data repository and PhDs that started from the 1st of Jan 2020 will have to [set up a Data Management Plan](https://estherplomp.github.io/TNW-OS-support/posts/DMP-PhD/).
 
@@ -54,7 +56,7 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
 -   There's a [TU Delft Resesearch Software Policy](https://doi.org/10.5281/zenodo.4629662). You can make your code available through [4TU.ResearchData](https://data.4tu.nl/info/en/) using one of the licenses that TU Delft approves (Apache, MIT, BSD, EUPL, LGPL, GPL, CC0). 
 
-**4. Who cares about what you put online?**
+### **4. Who cares about what you put online?**
 
 -   Researchers in your discipline that would like to verify or reuse the work
 
@@ -66,13 +68,13 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
 -   Funders. [Funding agencies have requirements.](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-2021/) Funders want public money being spend in ways that it benefits the public that is funding the research!
 
-5.  **Up to what degree do you want to put data online?**
+### **5. Up to what degree do you want to put data online?**
 
 -   The minimal requirements are the data underlying the publication, so the processed data. If it is useful to share the raw data it is encouraged.
 
 -   Try to share data in a reusable and/or open format. For example, you can share an excel sheet, but not everyone will have access to microsoft products, so it is also helpful to share a .csv file of that excel sheet so that everyone can access it. 
 
-6.  **Where do I put my data/code?**
+### **6. Where do I put my data/code?**
 
 -   You can archive/publish your data (or code) using a data journal if the dataset is extensive enough. Examples are [Scientific Data](https://www.nature.com/sdata/) and [Data in brief](https://www.journals.elsevier.com/data-in-brief) for data. 
 
@@ -80,34 +82,35 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
 -   If you want to publish data that is underlying a 'regular' paper you can always use a data repository such as [4TU.ResearchData](https://data.4tu.nl/info/en/) or [Zenodo](https://zenodo.org/). You can also see if you can find a more disciplinary specific repository by using keywords of your research topic through [FAIRsharing.org](https://fairsharing.org/). They have an overview of the data repositories. There may not be a very specific archive that you can use to share your data. In that case 4TU.ResearchData/Zenodo are always good options!
 
-7.  **What do you do when the processed data is actually wrong?**
+### **7. What do you do when the processed data is actually wrong?**
 
 -   You cannot remove the data once you have published/shared them publicly, but you are able to upload a new version. You can then explain in the README file that there was a mistake in the data and that the current version is the correct version!
 
 -   Correcting and updating your data will increase trust in you as a researcher ([Ebersole et al. 2016](https://doi.org/10.1371/journal.pbio.1002460))
 
-8.  **Is it better to put unpolished code online or nothing?**
-    -   Having your code well documented and polished will be more useful, but to at least have access to the working script would be better than to not be able to verify your results at all.
+### **8. Is it better to put unpolished code online or nothing?**
 
-    -   You can accelerate scientific discovery through sharing your code so that others can re-use it, or you can establish collaborations if others are interested in using your code. You can also increase your visibility/impact when others find your code and reuse it.
+-   Having your code well documented and polished will be more useful, but to at least have access to the working script would be better than to not be able to verify your results at all.
 
-**9 What if my code gets misused?**
+-   You can accelerate scientific discovery through sharing your code so that others can re-use it, or you can establish collaborations if others are interested in using your code. You can also increase your visibility/impact when others find your code and reuse it.
+
+### **9. What if my code gets misused?**
 
 -   You can apply the Apache license to your code that holds a 'Accepting Warranty or Additional Liability' clausule ([point 9 here](https://ant.apache.org/license.html)) in it that states that the person using/sharing your code with adaptations is taking full responsibility for any liabilities. 
 
-**10 How should we be licensing our data and code?**
+### **10. How should we be licensing our data and code?**
 
-    -   TU Delft recommends CC-BY, but it is up to you how you want to license your data. CC-BY is recommended because it allows for the broadest reuse of your data. With each restriction you place on your dataset (no commercial use or modification), you complicate the reuse of your data. 
+-   TU Delft recommends CC-BY, but it is up to you how you want to license your data. CC-BY is recommended because it allows for the broadest reuse of your data. With each restriction you place on your dataset (no commercial use or modification), you complicate the reuse of your data. 
 
-        -   See the [Creative Commons Website](https://creativecommons.org/licenses/) for an overview of the licenses
+    -   See the [Creative Commons Website](https://creativecommons.org/licenses/) for an overview of the licenses
 
-        -   Creative Commons are also setting up a [license selector](https://creativecommons.org/choose/)!
+    -   Creative Commons are also setting up a [license selector](https://creativecommons.org/choose/)!
 
-    -   For software you can share your code under the Apache, MIT, BSD, EUPL, LGPL, GPL, CC0 without a problem. Other licenses are also possible, but get in touch with the data steward to discuss it. (this is in the new software policy that is not out yet!). See this website for an overview: <https://choosealicense.com/> 
+-   For software you can share your code under the Apache, MIT, BSD, EUPL, LGPL, GPL, CC0 without a problem. Other licenses are also possible, but get in touch with the data steward to discuss it. (this is in the new software policy that is not out yet!). See this website for an overview: <https://choosealicense.com/> 
 
-    For articles TU Delft does not have a specific licence recuirement, but NWO and the European COmmission ask to apply the CC-BY licenses to articles. 
+-   For articles TU Delft does not have a specific licence recuirement, but NWO and the European COmmission ask to apply the CC-BY licenses to articles.
 
-11.  **How do we manage and share lab notes?**
+### **11. How do we manage and share lab notes?**
 
 -   Make sure you have a digital copy of your labbook somewhere: you can lose your written labbooks (or your house/lab can burn down and you will lose all of this info). You can:
 
