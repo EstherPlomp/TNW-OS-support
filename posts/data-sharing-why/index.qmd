@@ -69,4 +69,5 @@ Florian Markowetz provides five selfish reasons in his [article](https://doi.org
 ## More information
 
 -   See also the posts on [licensing](https://estherplomp.github.io/TNW-OS-support/posts/licenses/), good enough FAIR software
--   
+-   [Encouragements and advice from several scientists and data stewards](https://blog.wellcomeopenresearch.org/2020/12/09/presenting-your-data-champions/)
+-   [UKRN primer on Data Sharing](https://osf.io/wp4zu/)
