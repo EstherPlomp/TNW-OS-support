@@ -22,11 +22,11 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
 2.  **What does the TU Delft facilitate?**
 
--   There\'s a [TU Delft Open Science Community](https://osc-delft.github.io/)
+-   There's a [TU Delft Open Science Community](https://osc-delft.github.io/)
 
--   There\'s a Data Steward at your faculty - Esther ([e.plomp\@tudelft.nl](mailto:e.plomp@tudelft.nl))
+-   There's a Data Steward at your faculty - Esther ([e.plomp\@tudelft.nl](mailto:e.plomp@tudelft.nl))
 
--   There\'s a data repository which you can use to share your data/code: [4TU.ResearchData](https://data.4tu.nl/info/en/)
+-   There's a data repository which you can use to share your data/code: [4TU.ResearchData](https://data.4tu.nl/info/en/)
 
 -   There are some MOOCs and courses you can take,
 
@@ -48,23 +48,23 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
 -   Since 2016 it is mandatory for TU Delft researchers to make their work available through direct open access.
 
-    -   See the The TU Delft[ Open Access policy](https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/Open.tudelft.nl/OA_beleid.pdf) 
+    -   See the The TU Delft[Open Access policy](https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/Open.tudelft.nl/OA_beleid.pdf) 
 
     -   Through ['You Share, We Take Care' project](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care) the publishers version can be shared after a 6 month embargo period
 
--   There\'s a [TU Delft Resesearch Software Policy](https://doi.org/10.5281/zenodo.4629662). You can make your code available through [4TU.ResearchData](https://data.4tu.nl/info/en/) using one of the licenses that TU Delft approves (Apache, MIT, BSD, EUPL, LGPL, GPL, CC0). 
+-   There's a [TU Delft Resesearch Software Policy](https://doi.org/10.5281/zenodo.4629662). You can make your code available through [4TU.ResearchData](https://data.4tu.nl/info/en/) using one of the licenses that TU Delft approves (Apache, MIT, BSD, EUPL, LGPL, GPL, CC0). 
 
 **4. Who cares about what you put online?**
 
 -   Researchers in your discipline that would like to verify or reuse the work
 
--   You in six months. In case anyone is asking about your outputs you can always provide them with a link to them, and it won\'t cost you a lot of work at that point because you already have it out there! 
+-   You in six months. In case anyone is asking about your outputs you can always provide them with a link to them, and it won't cost you a lot of work at that point because you already have it out there! 
 
 -   TU Delft: Whenever possible, data/code should be made available in a repository (see the [TU Delft Research Data policy](https://doi.org/10.5281/zenodo.2573159))
 
 -   Journals. Some journals require you to make the code/data/methods available. You should always check the requirements of the journal before you submit. Usually there will be a section in the authors guidelines!
 
--   Funders. [Funding agencies have requirements.](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-2021/)
+-   Funders. [Funding agencies have requirements.](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-2021/) Funders want public money being spend in ways that it benefits the public that is funding the research!
 
 5.  **Up to what degree do you want to put data online?**
 
@@ -78,7 +78,7 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
 -   You can also publish your code through a publication format using, for example, [SoftwareX](https://www.journals.elsevier.com/softwarex/), [Software Impacts](https://www.journals.elsevier.com/software-impacts/) and the [Journal of Open Source Software](https://joss.theoj.org/) (no subscription fees or publishing costs for this one!)
 
--   If you want to publish data that is underlying a \'regular\' paper you can always use a data repository such as [4TU.ResearchData](https://data.4tu.nl/info/en/) or [Zenodo](https://zenodo.org/). You can also see if you can find a more disciplinary specific repository by using keywords of your research topic through [FAIRsharing.org](https://fairsharing.org/). They have an overview of the data repositories. There may not be a very specific archive that you can use to share your data. In that case 4TU.ResearchData/Zenodo are always good options!
+-   If you want to publish data that is underlying a 'regular' paper you can always use a data repository such as [4TU.ResearchData](https://data.4tu.nl/info/en/) or [Zenodo](https://zenodo.org/). You can also see if you can find a more disciplinary specific repository by using keywords of your research topic through [FAIRsharing.org](https://fairsharing.org/). They have an overview of the data repositories. There may not be a very specific archive that you can use to share your data. In that case 4TU.ResearchData/Zenodo are always good options!
 
 7.  **What do you do when the processed data is actually wrong?**
 
@@ -86,23 +86,16 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
 -   Correcting and updating your data will increase trust in you as a researcher ([Ebersole et al. 2016](https://doi.org/10.1371/journal.pbio.1002460))
 
-\
+8.  **Is it better to put unpolished code online or nothing?**
+    -   Having your code well documented and polished will be more useful, but to at least have access to the working script would be better than to not be able to verify your results at all.
 
-Is it better to put unpolished code online or nothing?
+    -   You can accelerate scientific discovery through sharing your code so that others can re-use it, or you can establish collaborations if others are interested in using your code. You can also increase your visibility/impact when others find your code and reuse it.
 
--   I would say that it is better to share. Having your code well documented and polished will be more useful, but to at least have access to the working script would be better than to not be able to verify your results at all. It doesnt\' make sense on the other hand to just post some random script on the internet that doesn\'t work etc, so it shouldn\'t become a \'codedump\'. 
+**9 What if my code gets misused?**
 
-How can code be misused?
+-   You can apply the Apache license to your code that holds a 'Accepting Warranty or Additional Liability' clausule ([point 9 here](https://ant.apache.org/license.html)) in it that states that the person using/sharing your code with adaptations is taking full responsibility for any liabilities. 
 
-I\'m not sure; there are probably ways for your code to be misused. You can apply the Apache license to your code that holds a \'Accepting Warranty or Additional Liability\' clausule ([point 9 here](https://ant.apache.org/license.html)) in it that states that the person using/sharing your code with adaptations is taking full responsibility for any liabilities. 
-
-Is it even good to share source code?
-
-    We discussed this during the meeting and I think in general we agreed that it is a good idea. You can accelerate scientific discovery through sharing your code so that others can re-use it, or you can establish collaborations if others are interested in using your code. You can also increase your visibility/impact when others find your code and reuse it.
-
-Licensing
-
--   How should we be licensing our data and code?
+**10 How should we be licensing our data and code?**
 
     -   TU Delft recommends CC-BY, but it is up to you how you want to license your data. CC-BY is recommended because it allows for the broadest reuse of your data. With each restriction you place on your dataset (no commercial use or modification), you complicate the reuse of your data. 
 
@@ -112,26 +105,20 @@ Licensing
 
     -   For software you can share your code under the Apache, MIT, BSD, EUPL, LGPL, GPL, CC0 without a problem. Other licenses are also possible, but get in touch with the data steward to discuss it. (this is in the new software policy that is not out yet!). See this website for an overview: <https://choosealicense.com/> 
 
--   Does the TU have regulations for how our scientific output ought to be licensed?
+    For articles TU Delft does not have a specific licence recuirement, but NWO and the European COmmission ask to apply the CC-BY licenses to articles. 
 
-    -   TU Delft does not for articles, but your funder may have requirements. Especially NWO and the European projects are asked to make their work available Open Access, preferably under a CC-BY license.
+11.  **How do we manage and share lab notes?**
 
--   Might these regulations be at odds with the preferences of us, our supervisors, collaborators, or commercial partners?
+-   Make sure you have a digital copy of your labbook somewhere: you can lose your written labbooks (or your house/lab can burn down and you will lose all of this info). You can:
 
-    -   Perhaps for the software. In that case it is crucial to check with your collaborators what they want to use etc. If you\'re the main person responsible for a project you could have more of a say in this, but if someone else is a first author their preferences may have more weight. You should check this for each collaboration, just as you discuss the authorship for each publication!
+    -   Scan your written notes and save these as pdf files
 
-    -   In general all the funding agencies will encourage Open Science, so there is not necessarily a conflict there (this ties back to what Jeroen said during the meeting about public money being spend that should offer something in return to the public that is funding the research!). But in case you\'re working with a commercial partner the story is entirely different. Depending on how much funding they contributed they might hold the rights to the data/code. This should be defined in any contracts you have with these partners, so it would be good to check that with your supervisor. These contracts should of course be respected, so if anyone is asking about the data/code you can always say that you cannot share the data yet due to commercial interests. However, usually when you are at the stage of publication it is still possible to share the data underlying the publication (but again, always check!). 
+    -   Write your notes up digitally. This allows you to structure this data better.
 
-\
-
-How to store written lab journal entries? Is this part of the data as well?
-
--   Make sure you have a digital copy somewhere: you can lose your written labbooks (or your house/lab can burn down and you will lose all of this info). You can either scan your written notes and save these as pdf files, or write your notes up digitally. This last option can also allow you to structure this data a bit better so that it is easier for you to come back to it three months later!
-
-Can a .txt file, a written header in a datafile or similar be a replacement of a written labjournal?
-
--   Sure! You could really just keep a word document of your labjournal, or use other applications such as OneNote or Evernote. You can also take it another step further and use an electronic lab note journal. TU Delft offers licenses for [eLABjournal](https://www.elabjournal.com/) and[ RSpace](https://www.researchspace.com/). Get in touch ([e.plomp\@tudelft.nl](mailto:e.plomp@tudelft.nl)) if you\'re interested!)
+    -   Use an Electronic Lab Notebook. [TU Delft offers licenses](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook) for [eLABjournal](https://www.elabjournal.com/) and [RSpace](https://www.researchspace.com/). Especially RSpace can make it easier to publicly share the data as it has integrations with data repositories.
 
 ## More information
 
--   TU Delft Research Data Management FAQ
+-   [TU Delft Research Data Management FAQ](https://www.tudelft.nl/library/research-data-management/r/buttons/faqs)
+-   Appendix A in [Karoune and Plomp 2022](https://doi.org/10.5281/zenodo.7320029) (page 20)
+-   email Esther
