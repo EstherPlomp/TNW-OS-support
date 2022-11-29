@@ -1,0 +1,17 @@
+---
+title: "CRediT"
+author: "Esther Plomp"
+date: "2022-11-29"
+categories: [Credit]
+image: "credit.png"
+---
+
+[CRediT](https://credit.niso.org/) (Contributor Roles Taxonomy) is a taxonomy of 14 roles. You can use CRediT to describe each contributor's specific contribution to the scholarly output.
+
+CrediT contributes to a more transparent research record.
+
+A helpful tool to record CredIT contributions is [Tenzing](https://rollercoaster.shinyapps.io/tenzing/). You can cite [Holcombe et al. 2020](https://doi.org/10.1371/journal.pone.0244611) when you use this tool.
+
+## **More information**
+
+-   [Holcombe et al. 2020](https://doi.org/10.1371/journal.pone.0244611)
