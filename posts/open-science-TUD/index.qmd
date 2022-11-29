@@ -22,7 +22,9 @@ Several concepts belong under the umbrella term of 'Open Science' and these incl
 
 -   Improving the quality of research through more transparency (facilitating reproducibility) which will [increase trust](https://doi.org/10.1177/09636625221100686) in research
 
--   Recognition for all contributions to research and maintaining rights and control
+-   Recognition for all contributions to research
+
+-   Maintaining rights and control of research outputs
 
 The Dutch position paper '[Room for everyone's talent](https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf)' aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.
 
@@ -77,3 +79,7 @@ You can find more information on [Open Science at TU Delft](https://www.tudelft.
 -   [Becoming a better scientist with open and reproducible research](https://lgatto.github.io/open-and-rr-2/)
 
 -   Set up a publication strategy by [making a copy of a google sheet](https://docs.google.com/spreadsheets/d/1ALIr6i-ufawnR1_tZBbF_Io7ihWpLZKBOD0aLhRRp0U/edit) set up by Bianca Kramer & Jeroen Bosman (Utrecht University)
+
+-   [Research Culture is Broken; Open Science can Fix It](https://www.youtube.com/watch?v=c-bemNZ-IqA) (video)
+
+-   [Science as truly open and inclusive](https://youtu.be/64EQuhsAVb0?t=786) (video)
