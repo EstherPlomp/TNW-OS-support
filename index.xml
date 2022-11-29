@@ -47,7 +47,7 @@
 
 
 
-<p>This page contains several frequently asked questions (FAQ) regarding Open Science:</p>
+<p>This page contains 11 frequently asked questions (FAQ) regarding Open Science:</p>
 <section id="is-this-something-that-is-taken-into-account-when-looking-for-a-next-job" class="level3">
 <h3 class="anchored" data-anchor-id="is-this-something-that-is-taken-into-account-when-looking-for-a-next-job"><strong>1. Is this something that is taken into account when looking for a next job?</strong></h3>
 <ul>
@@ -70,7 +70,6 @@
 <li><p><a href="https://intranet.tudelft.nl/-/open-life-science-programme">Open Life Science</a> (for any TNW discipline, not just Life Sciences)</p></li>
 <li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop">Software Carpentry</a> and <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/coderefinery-workshops">Code Refinery</a> Workshops (programming workshops)</p></li>
 <li><p><a href="https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/">TU Delft Open Science MOOC</a></p></li>
-<li></li>
 </ul></li>
 </ul>
 </section>
@@ -84,7 +83,7 @@
 </ul></li>
 <li><p>Since 2016 it is mandatory for TU Delft researchers to make their work available through direct open access.</p>
 <ul>
-<li><p>See the The TU Delft<a href="https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/Open.tudelft.nl/OA_beleid.pdf">Open Access policy</a>&nbsp;</p></li>
+<li><p>See the The TU Delft <a href="https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/Open.tudelft.nl/OA_beleid.pdf">Open Access policy</a>&nbsp;</p></li>
 <li><p>Through <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care">‘You Share, We Take Care’ project</a> the publishers version can be shared after a 6 month embargo period</p></li>
 </ul></li>
 <li><p>There’s a <a href="https://doi.org/10.5281/zenodo.4629662">TU Delft Resesearch Software Policy</a>. You can make your code available through <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> using one of the licenses that TU Delft approves (Apache, MIT, BSD, EUPL, LGPL, GPL, CC0).&nbsp;</p></li>
@@ -138,19 +137,19 @@
 <section id="how-should-we-be-licensing-our-data-and-code" class="level3">
 <h3 class="anchored" data-anchor-id="how-should-we-be-licensing-our-data-and-code"><strong>10. How should we be licensing our data and code?</strong></h3>
 <ul>
-<li><p>TU Delft recommends CC-BY, but it is up to you how you want to license your data. CC-BY is recommended because it allows for the broadest reuse of your data. With each restriction you place on your dataset (no commercial use or modification), you complicate the reuse of your data.&nbsp;</p>
+<li><p>TU Delft recommends CC-BY, but it is up to you how you want to license your data. CC-BY is recommended because it allows for the broadest reuse of your data. With each restriction you place on datasets (no commercial use or modification), you complicate the reuse of your data.&nbsp;</p>
 <ul>
 <li><p>See the <a href="https://creativecommons.org/licenses/">Creative Commons Website</a> for an overview of the licenses</p></li>
 <li><p>Creative Commons are also setting up a <a href="https://creativecommons.org/choose/">license selector</a>!</p></li>
 </ul></li>
-<li><p>For software you can share your code under the Apache, MIT, BSD, EUPL, LGPL, GPL, CC0 without a problem. Other licenses are also possible, but get in touch with the data steward to discuss it. (this is in the new software policy that is not out yet!). See this website for an overview: <a href="https://choosealicense.com/" class="uri">https://choosealicense.com/</a>&nbsp;</p></li>
-<li><p>For articles TU Delft does not have a specific licence recuirement, but NWO and the European COmmission ask to apply the CC-BY licenses to articles.</p></li>
+<li><p>For software you can share your code under: Apache, MIT, BSD, EUPL, LGPL, GPL, CC0. Other licenses are also possible, but should be discussed with the Innovation Center. See the <a href="https://choosealicense.com/">Choose a Licence website</a> for an overview.</p></li>
+<li><p>For articles TU Delft does not have a specific licence requirement, but NWO and the European COmmission ask to apply the CC-BY licenses to articles.</p></li>
 </ul>
 </section>
 <section id="how-do-we-manage-and-share-lab-notes" class="level3">
 <h3 class="anchored" data-anchor-id="how-do-we-manage-and-share-lab-notes"><strong>11. How do we manage and share lab notes?</strong></h3>
 <ul>
-<li><p>Make sure you have a digital copy of your labbook somewhere: you can lose your written labbooks (or your house/lab can burn down and you will lose all of this info). You can:</p>
+<li><p>Make sure you have a digital copy of your lab book somewhere: you can lose your written lab books (or your house/lab can burn down and you will lose all of this info). You can:</p>
 <ul>
 <li><p>Scan your written notes and save these as pdf files</p></li>
 <li><p>Write your notes up digitally. This allows you to structure this data better.</p></li>
