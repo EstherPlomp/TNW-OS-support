@@ -48,9 +48,8 @@
 
 
 <p>This page contains several frequently asked questions (FAQ) regarding Open Science:</p>
-<ol type="1">
-<li><strong>Is this something that is taken into account when looking for a next job?</strong></li>
-</ol>
+<section id="is-this-something-that-is-taken-into-account-when-looking-for-a-next-job" class="level3">
+<h3 class="anchored" data-anchor-id="is-this-something-that-is-taken-into-account-when-looking-for-a-next-job"><strong>1. Is this something that is taken into account when looking for a next job?</strong></h3>
 <ul>
 <li><p>Read the publication: ‘<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7">five selfish reasons to work reproducible</a>’ or watch the presentation.</p></li>
 <li><p>Some of the vacancies have listed open science requirements, see here for an overview: ‘<a href="https://osf.io/7jbnt/">Academic job offers that mentioned open science</a>’</p></li>
@@ -151,6 +150,7 @@ For articles TU Delft does not have a specific licence recuirement, but NWO and 
 <li><p>Use an Electronic Lab Notebook. <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">TU Delft offers licenses</a> for <a href="https://www.elabjournal.com/">eLABjournal</a> and <a href="https://www.researchspace.com/">RSpace</a>. Especially RSpace can make it easier to publicly share the data as it has integrations with data repositories.</p></li>
 </ul></li>
 </ul>
+</section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
@@ -163,7 +163,8 @@ For articles TU Delft does not have a specific licence recuirement, but NWO and 
 </section>
 
  ]]></description>
-  <category>Credit</category>
+  <category>Open Science</category>
+  <category>TU Delft</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-FAQ/index.html</guid>
   <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-FAQ/credit.png" medium="image" type="image/png" height="72" width="144"/>
