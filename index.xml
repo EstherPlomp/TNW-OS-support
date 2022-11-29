@@ -39,7 +39,7 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit/credit.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
 <item>
-  <title>CRediT</title>
+  <title>DORA</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/index.html</link>
   <description><![CDATA[ 
@@ -47,13 +47,20 @@
 
 
 
-<p><a href="https://credit.niso.org/">CRediT</a> (Contributor Roles Taxonomy) is a taxonomy of 14 roles. You can use CRediT to describe each contributor’s specific contribution to the scholarly output.</p>
-<p>CrediT contributes to a more transparent research record.</p>
-<p>A helpful tool to record CredIT contributions is <a href="https://rollercoaster.shinyapps.io/tenzing/">Tenzing</a>. You can cite <a href="https://doi.org/10.1371/journal.pone.0244611">Holcombe et al.&nbsp;2020</a> when you use this tool.</p>
+<p>The Declaration on Research Assessment (<a href="https://sfdora.org/">DORA</a>) recognizes the need to improve the ways in which researchers and the outputs of scholarly research are evaluated.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/dora.png" class="img-fluid"></p>
+<p>DORA recommends:</p>
+<ul>
+<li><p>The elimination of journal-based metrics, such as Journal Impact Factors, in funding, appointment, and promotion considerations;</p></li>
+<li><p>To assess research on its own merits rather than on the basis of the journal in which the research is published; and</p></li>
+<li><p>To capitalize on the opportunities provided by online publication (such as relaxing unnecessary limits on the number of words, figures, and references in articles, and exploring new indicators of significance and impact).</p></li>
+</ul>
+<p>TU Delft signed DORA via the <a href="https://www.universiteitenvannederland.nl/en_GB/">Association of Universities in the Netherlands</a>. You can also <a href="https://sfdora.org/sign/">sign the declaration</a> as an individual.</p>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 <ul>
-<li><a href="https://doi.org/10.1371/journal.pone.0244611">Holcombe et al.&nbsp;2020</a></li>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/credit/">CRediT</a></li>
+<li><a href="https://openworking.wordpress.com/2021/09/01/quality-is-key/">Quality is key</a></li>
 </ul>
 
 
@@ -63,7 +70,7 @@
   <category>Credit</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/index.html</guid>
   <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/credit.png" medium="image" type="image/png" height="72" width="144"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/dora.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>PhD onboarding day - Data Management &amp; Open Science</title>
@@ -899,6 +906,12 @@
 <h2 class="anchored" data-anchor-id="open-science">Open Science</h2>
 <p><strong>Open Science</strong> is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.</p>
 <p><strong>Open Science</strong> is <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en">defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO)</a> as <em>“an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”</em></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://unesdoc.unesco.org/ark:/48223/pf0000378381.locale=en"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/images/FAc9xiSXsAkZ7Xq.jpg" class="img-fluid figure-img" alt="According to UNESCO, Open Science has four pillars: Open science infrastructures, Open engagement of societal actors, Open dialogue with other knowledge systems and Open scientific knowledge"></a></p>
+<p></p><figcaption class="figure-caption">UNESCO’s four pillars of Open Science</figcaption><p></p>
+</figure>
+</div>
 <p>Several concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.</p>
 </section>
 <section id="benefits-of-open-science" class="level2">
