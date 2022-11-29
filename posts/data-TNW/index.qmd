@@ -93,3 +93,7 @@ image: "open-data-fountain.jpg"
 ## Tools
 
 [ioChem-BD](https://www.iochem-bd.org/)
+
+## Open Research
+
+[Open Research: Examples of good practice, and resources across disciplines](https://osf.io/3r8hb/)
