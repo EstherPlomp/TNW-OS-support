@@ -57,9 +57,9 @@
 <li><p>Preprints receive more citations for their eventually published papers! See <a href="https://doi.org/10.7554/eLife.52646">Fu and Hughey 2019</a>; <a href="https://doi.org/10.1162/qss_a_00043">Fraser et al.&nbsp;2020</a>; <a href="https://doi.org/10.1101/2020.04.02.022079">Sarabipour et al.&nbsp;2020</a></p></li>
 <li><p>Papers with open data also receive more citations: <a href="http://doi.org/10.1371/journal.pone.0000308">Piwowar et al.&nbsp;2007</a>; <a href="http://doi.org/10.7717/peerj.175">Piowar and Vision 2014;</a> <a href="https://doi.org/10.1371/journal.pone.0230416">Colavizza et al.&nbsp;2020</a></p></li>
 </ul>
-<ol start="2" type="1">
-<li><strong>What does the TU Delft facilitate?</strong></li>
-</ol>
+</section>
+<section id="what-does-the-tu-delft-facilitate" class="level3">
+<h3 class="anchored" data-anchor-id="what-does-the-tu-delft-facilitate"><strong>2. What does the TU Delft facilitate?</strong></h3>
 <ul>
 <li><p>There’s a <a href="https://osc-delft.github.io/">TU Delft Open Science Community</a></p></li>
 <li><p>There’s a Data Steward at your faculty - Esther (<a href="mailto:e.plomp@tudelft.nl">e.plomp@tudelft.nl</a>)</p></li>
@@ -70,11 +70,12 @@
 <li><p><a href="https://intranet.tudelft.nl/-/open-life-science-programme">Open Life Science</a> (for any TNW discipline, not just Life Sciences)</p></li>
 <li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop">Software Carpentry</a> and <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/coderefinery-workshops">Code Refinery</a> Workshops (programming workshops)</p></li>
 <li><p><a href="https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/">TU Delft Open Science MOOC</a></p></li>
+<li></li>
 </ul></li>
 </ul>
-<ol start="3" type="1">
-<li><strong>What are the open science regulations from the TU?</strong></li>
-</ol>
+</section>
+<section id="what-are-the-open-science-regulations-from-the-tu" class="level3">
+<h3 class="anchored" data-anchor-id="what-are-the-open-science-regulations-from-the-tu"><strong>3. What are the open science regulations from the TU?</strong></h3>
 <ul>
 <li><p>PhDs that started from the 1st of Jan 2019 will need to share the code/data underlying their articles/thesis through a data repository and PhDs that started from the 1st of Jan 2020 will have to <a href="https://estherplomp.github.io/TNW-OS-support/posts/DMP-PhD/">set up a Data Management Plan</a>.</p>
 <ul>
@@ -88,7 +89,9 @@
 </ul></li>
 <li><p>There’s a <a href="https://doi.org/10.5281/zenodo.4629662">TU Delft Resesearch Software Policy</a>. You can make your code available through <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> using one of the licenses that TU Delft approves (Apache, MIT, BSD, EUPL, LGPL, GPL, CC0).&nbsp;</p></li>
 </ul>
-<p><strong>4. Who cares about what you put online?</strong></p>
+</section>
+<section id="who-cares-about-what-you-put-online" class="level3">
+<h3 class="anchored" data-anchor-id="who-cares-about-what-you-put-online"><strong>4. Who cares about what you put online?</strong></h3>
 <ul>
 <li><p>Researchers in your discipline that would like to verify or reuse the work</p></li>
 <li><p>You in six months. In case anyone is asking about your outputs you can always provide them with a link to them, and it won’t cost you a lot of work at that point because you already have it out there!&nbsp;</p></li>
@@ -96,52 +99,56 @@
 <li><p>Journals. Some journals require you to make the code/data/methods available. You should always check the requirements of the journal before you submit. Usually there will be a section in the authors guidelines!</p></li>
 <li><p>Funders. <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-2021/">Funding agencies have requirements.</a> Funders want public money being spend in ways that it benefits the public that is funding the research!</p></li>
 </ul>
-<ol start="5" type="1">
-<li><strong>Up to what degree do you want to put data online?</strong></li>
-</ol>
+</section>
+<section id="up-to-what-degree-do-you-want-to-put-data-online" class="level3">
+<h3 class="anchored" data-anchor-id="up-to-what-degree-do-you-want-to-put-data-online"><strong>5. Up to what degree do you want to put data online?</strong></h3>
 <ul>
 <li><p>The minimal requirements are the data underlying the publication, so the processed data. If it is useful to share the raw data it is encouraged.</p></li>
 <li><p>Try to share data in a reusable and/or open format. For example, you can share an excel sheet, but not everyone will have access to microsoft products, so it is also helpful to share a .csv file of that excel sheet so that everyone can access it.&nbsp;</p></li>
 </ul>
-<ol start="6" type="1">
-<li><strong>Where do I put my data/code?</strong></li>
-</ol>
+</section>
+<section id="where-do-i-put-my-datacode" class="level3">
+<h3 class="anchored" data-anchor-id="where-do-i-put-my-datacode"><strong>6. Where do I put my data/code?</strong></h3>
 <ul>
 <li><p>You can archive/publish your data (or code) using a data journal if the dataset is extensive enough. Examples are <a href="https://www.nature.com/sdata/">Scientific Data</a> and <a href="https://www.journals.elsevier.com/data-in-brief">Data in brief</a> for data.&nbsp;</p></li>
 <li><p>You can also publish your code through a publication format using, for example, <a href="https://www.journals.elsevier.com/softwarex/">SoftwareX</a>, <a href="https://www.journals.elsevier.com/software-impacts/">Software Impacts</a> and the <a href="https://joss.theoj.org/">Journal of Open Source Software</a> (no subscription fees or publishing costs for this one!)</p></li>
 <li><p>If you want to publish data that is underlying a ‘regular’ paper you can always use a data repository such as <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> or <a href="https://zenodo.org/">Zenodo</a>. You can also see if you can find a more disciplinary specific repository by using keywords of your research topic through <a href="https://fairsharing.org/">FAIRsharing.org</a>. They have an overview of the data repositories. There may not be a very specific archive that you can use to share your data. In that case 4TU.ResearchData/Zenodo are always good options!</p></li>
 </ul>
-<ol start="7" type="1">
-<li><strong>What do you do when the processed data is actually wrong?</strong></li>
-</ol>
+</section>
+<section id="what-do-you-do-when-the-processed-data-is-actually-wrong" class="level3">
+<h3 class="anchored" data-anchor-id="what-do-you-do-when-the-processed-data-is-actually-wrong"><strong>7. What do you do when the processed data is actually wrong?</strong></h3>
 <ul>
 <li><p>You cannot remove the data once you have published/shared them publicly, but you are able to upload a new version. You can then explain in the README file that there was a mistake in the data and that the current version is the correct version!</p></li>
 <li><p>Correcting and updating your data will increase trust in you as a researcher (<a href="https://doi.org/10.1371/journal.pbio.1002460">Ebersole et al.&nbsp;2016</a>)</p></li>
 </ul>
-<ol start="8" type="1">
-<li><strong>Is it better to put unpolished code online or nothing?</strong>
+</section>
+<section id="is-it-better-to-put-unpolished-code-online-or-nothing" class="level3">
+<h3 class="anchored" data-anchor-id="is-it-better-to-put-unpolished-code-online-or-nothing"><strong>8. Is it better to put unpolished code online or nothing?</strong></h3>
 <ul>
 <li><p>Having your code well documented and polished will be more useful, but to at least have access to the working script would be better than to not be able to verify your results at all.</p></li>
 <li><p>You can accelerate scientific discovery through sharing your code so that others can re-use it, or you can establish collaborations if others are interested in using your code. You can also increase your visibility/impact when others find your code and reuse it.</p></li>
-</ul></li>
-</ol>
-<p><strong>9 What if my code gets misused?</strong></p>
+</ul>
+</section>
+<section id="what-if-my-code-gets-misused" class="level3">
+<h3 class="anchored" data-anchor-id="what-if-my-code-gets-misused"><strong>9. What if my code gets misused?</strong></h3>
 <ul>
 <li>You can apply the Apache license to your code that holds a ‘Accepting Warranty or Additional Liability’ clausule (<a href="https://ant.apache.org/license.html">point 9 here</a>) in it that states that the person using/sharing your code with adaptations is taking full responsibility for any liabilities.&nbsp;</li>
 </ul>
-<p><strong>10 How should we be licensing our data and code?</strong></p>
-<pre><code>-   TU Delft recommends CC-BY, but it is up to you how you want to license your data. CC-BY is recommended because it allows for the broadest reuse of your data. With each restriction you place on your dataset (no commercial use or modification), you complicate the reuse of your data.&nbsp;
-
-    -   See the [Creative Commons Website](https://creativecommons.org/licenses/) for an overview of the licenses
-
-    -   Creative Commons are also setting up a [license selector](https://creativecommons.org/choose/)!
-
--   For software you can share your code under the Apache, MIT, BSD, EUPL, LGPL, GPL, CC0 without a problem. Other licenses are also possible, but get in touch with the data steward to discuss it. (this is in the new software policy that is not out yet!). See this website for an overview: &lt;https://choosealicense.com/&gt;&nbsp;
-
-For articles TU Delft does not have a specific licence recuirement, but NWO and the European COmmission ask to apply the CC-BY licenses to articles. </code></pre>
-<ol start="11" type="1">
-<li><strong>How do we manage and share lab notes?</strong></li>
-</ol>
+</section>
+<section id="how-should-we-be-licensing-our-data-and-code" class="level3">
+<h3 class="anchored" data-anchor-id="how-should-we-be-licensing-our-data-and-code"><strong>10. How should we be licensing our data and code?</strong></h3>
+<ul>
+<li><p>TU Delft recommends CC-BY, but it is up to you how you want to license your data. CC-BY is recommended because it allows for the broadest reuse of your data. With each restriction you place on your dataset (no commercial use or modification), you complicate the reuse of your data.&nbsp;</p>
+<ul>
+<li><p>See the <a href="https://creativecommons.org/licenses/">Creative Commons Website</a> for an overview of the licenses</p></li>
+<li><p>Creative Commons are also setting up a <a href="https://creativecommons.org/choose/">license selector</a>!</p></li>
+</ul></li>
+<li><p>For software you can share your code under the Apache, MIT, BSD, EUPL, LGPL, GPL, CC0 without a problem. Other licenses are also possible, but get in touch with the data steward to discuss it. (this is in the new software policy that is not out yet!). See this website for an overview: <a href="https://choosealicense.com/" class="uri">https://choosealicense.com/</a>&nbsp;</p></li>
+<li><p>For articles TU Delft does not have a specific licence recuirement, but NWO and the European COmmission ask to apply the CC-BY licenses to articles.</p></li>
+</ul>
+</section>
+<section id="how-do-we-manage-and-share-lab-notes" class="level3">
+<h3 class="anchored" data-anchor-id="how-do-we-manage-and-share-lab-notes"><strong>11. How do we manage and share lab notes?</strong></h3>
 <ul>
 <li><p>Make sure you have a digital copy of your labbook somewhere: you can lose your written labbooks (or your house/lab can burn down and you will lose all of this info). You can:</p>
 <ul>
