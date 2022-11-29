@@ -186,14 +186,14 @@
     "href": "posts/open-science-FAQ/index.html",
     "title": "FAQ",
     "section": "",
-    "text": "This page contains several frequently asked questions (FAQ) regarding Open Science:\n4. Who cares about what you put online?\nIs it better to put unpolished code online or nothing?\nHow can code be misused?\nI'm not sure; there are probably ways for your code to be misused. You can apply the Apache license to your code that holds a 'Accepting Warranty or Additional Liability' clausule (point 9 here) in it that states that the person using/sharing your code with adaptations is taking full responsibility for any liabilities.\nIs it even good to share source code?\nWe discussed this during the meeting and I think in general we agreed that it is a good idea. You can accelerate scientific discovery through sharing your code so that others can re-use it, or you can establish collaborations if others are interested in using your code. You can also increase your visibility/impact when others find your code and reuse it.\nLicensing\nHow to store written lab journal entries? Is this part of the data as well?\nCan a .txt file, a written header in a datafile or similar be a replacement of a written labjournal?"
+    "text": "This page contains several frequently asked questions (FAQ) regarding Open Science:\n4. Who cares about what you put online?\n9 What if my code gets misused?\n10 How should we be licensing our data and code?"
   },
   {
     "objectID": "posts/open-science-FAQ/index.html#more-information",
     "href": "posts/open-science-FAQ/index.html#more-information",
     "title": "FAQ",
     "section": "More information",
-    "text": "More information\n\nTU Delft Research Data Management FAQ"
+    "text": "More information\n\nTU Delft Research Data Management FAQ\nAppendix A in Karoune and Plomp 2022 (page 20)\nemail Esther"
   },
   {
     "objectID": "posts/software-sharing/index.html",
@@ -837,7 +837,7 @@
     "href": "posts/Open-Access/index.html#more-information",
     "title": "Open Access",
     "section": "More information",
-    "text": "More information\n\nHow to make your own work open access\nUKRN primer on Open Access"
+    "text": "More information\n\nHow to make your own work open access\nUKRN primer on Open Access and Preprints"
   },
   {
     "objectID": "posts/open-access-2021/index.html",
@@ -1292,7 +1292,7 @@
     "href": "posts/data-sharing-why/index.html#more-information",
     "title": "Why share data?",
     "section": "More information",
-    "text": "More information\n\nSee also the posts on licensing, good enough FAIR software"
+    "text": "More information\n\nSee also the posts on licensing, good enough FAIR software\nEncouragements and advice from several scientists and data stewards\nUKRN primer on Data Sharing"
   },
   {
     "objectID": "posts/FAIR/index.html",
