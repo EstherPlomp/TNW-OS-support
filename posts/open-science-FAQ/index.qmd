@@ -6,7 +6,7 @@ categories: [Open Science, TU Delft]
 image: "credit.png"
 ---
 
-This page contains several frequently asked questions (FAQ) regarding Open Science:
+This page contains 11 frequently asked questions (FAQ) regarding Open Science:
 
 ### **1. Is this something that is taken into account when looking for a next job?**
 
@@ -38,8 +38,6 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
     -   [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/)
 
-    -   
-
 ### **3. What are the open science regulations from the TU?**
 
 -   PhDs that started from the 1st of Jan 2019 will need to share the code/data underlying their articles/thesis through a data repository and PhDs that started from the 1st of Jan 2020 will have to [set up a Data Management Plan](https://estherplomp.github.io/TNW-OS-support/posts/DMP-PhD/).
@@ -50,7 +48,7 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
 -   Since 2016 it is mandatory for TU Delft researchers to make their work available through direct open access.
 
-    -   See the The TU Delft[Open Access policy](https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/Open.tudelft.nl/OA_beleid.pdf) 
+    -   See the The TU Delft [Open Access policy](https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/Open.tudelft.nl/OA_beleid.pdf) 
 
     -   Through ['You Share, We Take Care' project](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care) the publishers version can be shared after a 6 month embargo period
 
@@ -100,19 +98,19 @@ This page contains several frequently asked questions (FAQ) regarding Open Scien
 
 ### **10. How should we be licensing our data and code?**
 
--   TU Delft recommends CC-BY, but it is up to you how you want to license your data. CC-BY is recommended because it allows for the broadest reuse of your data. With each restriction you place on your dataset (no commercial use or modification), you complicate the reuse of your data. 
+-   TU Delft recommends CC-BY, but it is up to you how you want to license your data. CC-BY is recommended because it allows for the broadest reuse of your data. With each restriction you place on datasets (no commercial use or modification), you complicate the reuse of your data. 
 
     -   See the [Creative Commons Website](https://creativecommons.org/licenses/) for an overview of the licenses
 
     -   Creative Commons are also setting up a [license selector](https://creativecommons.org/choose/)!
 
--   For software you can share your code under the Apache, MIT, BSD, EUPL, LGPL, GPL, CC0 without a problem. Other licenses are also possible, but get in touch with the data steward to discuss it. (this is in the new software policy that is not out yet!). See this website for an overview: <https://choosealicense.com/> 
+-   For software you can share your code under: Apache, MIT, BSD, EUPL, LGPL, GPL, CC0. Other licenses are also possible, but should be discussed with the Innovation Center. See the [Choose a Licence website](https://choosealicense.com/ ) for an overview.
 
--   For articles TU Delft does not have a specific licence recuirement, but NWO and the European COmmission ask to apply the CC-BY licenses to articles.
+-   For articles TU Delft does not have a specific licence requirement, but NWO and the European COmmission ask to apply the CC-BY licenses to articles.
 
 ### **11. How do we manage and share lab notes?**
 
--   Make sure you have a digital copy of your labbook somewhere: you can lose your written labbooks (or your house/lab can burn down and you will lose all of this info). You can:
+-   Make sure you have a digital copy of your lab book somewhere: you can lose your written lab books (or your house/lab can burn down and you will lose all of this info). You can:
 
     -   Scan your written notes and save these as pdf files
 
