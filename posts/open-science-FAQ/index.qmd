@@ -2,13 +2,13 @@
 title: "FAQ"
 author: "Esther Plomp"
 date: "2022-11-29"
-categories: [Credit]
+categories: [Open Science, TU Delft]
 image: "credit.png"
 ---
 
 This page contains several frequently asked questions (FAQ) regarding Open Science:
 
-1.  **Is this something that is taken into account when looking for a next job?**
+### **1. Is this something that is taken into account when looking for a next job?**
 
 -   Read the publication: '[five selfish reasons to work reproducible](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7)' or watch the presentation.
 
