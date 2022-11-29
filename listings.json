@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/credit/index.html",
+      "/posts/credit-dora/index.html",
       "/posts/PhD-onboarding/index.html",
       "/posts/open-science-TNW/index.html",
       "/posts/open-science-panic/index.html",
