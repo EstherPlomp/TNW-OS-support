@@ -70,7 +70,7 @@ This page contains 11 frequently asked questions (FAQ) regarding Open Science:
 
 -   The minimal requirements are the data underlying the publication, so the processed data. If it is useful to share the raw data it is encouraged.
 
--   Try to share data in a reusable and/or open format. For example, you can share an excel sheet, but not everyone will have access to microsoft products, so it is also helpful to share a .csv file of that excel sheet so that everyone can access it. 
+-   Try to share data in a reusable and/or open format. For example, you can share an excel sheet, but not everyone will have access to Microsoft products, so it is also helpful to share a .csv file of that excel sheet so that everyone can access it. 
 
 ### **6. Where do I put my data/code?**
 
@@ -94,7 +94,7 @@ This page contains 11 frequently asked questions (FAQ) regarding Open Science:
 
 ### **9. What if my code gets misused?**
 
--   You can apply the Apache license to your code that holds a 'Accepting Warranty or Additional Liability' clausule ([point 9 here](https://ant.apache.org/license.html)) in it that states that the person using/sharing your code with adaptations is taking full responsibility for any liabilities. 
+-   You can apply the Apache license to your code that holds a 'Accepting Warranty or Additional Liability' clause ([point 9 here](https://ant.apache.org/license.html)) in it that states that the person using/sharing your code with adaptations is taking full responsibility for any liabilities. 
 
 ### **10. How should we be licensing our data and code?**
 
@@ -104,9 +104,9 @@ This page contains 11 frequently asked questions (FAQ) regarding Open Science:
 
     -   Creative Commons are also setting up a [license selector](https://creativecommons.org/choose/)!
 
--   For software you can share your code under: Apache, MIT, BSD, EUPL, LGPL, GPL, CC0. Other licenses are also possible, but should be discussed with the Innovation Center. See the [Choose a Licence website](https://choosealicense.com/ ) for an overview.
+-   For software you can share your code under: Apache, MIT, BSD, EUPL, LGPL, GPL, CC0. Other licenses are also possible, but should be discussed with the Innovation Center. See the [Choose a Licence website](https://choosealicense.com/) for an overview.
 
--   For articles TU Delft does not have a specific licence requirement, but NWO and the European COmmission ask to apply the CC-BY licenses to articles.
+-   For articles TU Delft does not have a specific licence requirement, but NWO and the European Commission ask to apply the CC-BY licenses to articles.
 
 ### **11. How do we manage and share lab notes?**
 
