@@ -1,0 +1,19 @@
+---
+title: "Microsoft Teams"
+author: "Esther Plomp"
+date: "2022-11-30"
+categories: [Tools, Collaboration]
+image: "teams.png"
+---
+
+Microsoft Teams provides access to 'Teams' in which you can share and collaborate on documents and tasks with people. [External members can be invited](https://support.microsoft.com/en-us/office/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f).
+
+[TU Delft provides some info on how to set up your Team](https://teaching-support.tudelft.nl/teams-setting-up-a-team/).
+
+If you are invited to an external team, you'll need to switch from the TU Delft Teams to the external Teams. You can do that by selecting your portrait (or your initials if you haven't uploaded a photo) and then select the team that you would like to access (see the image below). While in an external Team you will not see notifications and messages from the TU Delft Teams.
+
+![](images/paste-AE63544D.png){fig-alt="The menu of teams you'll see when you select your account/portrait. In Esther's case she is part of the University Amsterdan UMC and the Charité as a Guest." fig-align="center"}
+
+## **More information**
+
+-   [TU Delft manuals for Teams](https://www.tudelft.nl/ict-handleidingen/microsoft-teams)
