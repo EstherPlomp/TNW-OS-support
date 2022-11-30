@@ -3,7 +3,7 @@ title: "FAQ"
 author: "Esther Plomp"
 date: "2022-11-29"
 categories: [Open Science, TU Delft]
-image: "credit.png"
+image: "faq.png"
 ---
 
 This page contains 11 frequently asked questions (FAQ) regarding Open Science:
