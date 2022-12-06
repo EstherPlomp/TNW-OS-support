@@ -10,39 +10,7 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Sat, 03 Dec 2022 00:00:00 GMT</lastBuildDate>
-<item>
-  <title>Article Processing Fees</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/images/paste-C13FF521.png" class="img-fluid"></p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/images/paste-F6537985.png" class="img-fluid"></p>
-<p>https://doi.org/10.5281/zenodo.7311282</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><p>Stephen Eglen’s (2021) <a href="http://doi.org/10.5281/zenodo.4668132">Primer on the Rights Retention Strategy</a></p></li>
-<li><p><a href="https://www.coalition-s.org/resources/rights-retention-strategy/">cOAlition S rights retention strategy website</a></p></li>
-<li><p><a href="https://unlockingresearch-blog.lib.cam.ac.uk/?p=3361">Preliminary publisher responses from the Cambridge pilot</a></p></li>
-<li><p><a href="https://libraryblogs.is.ed.ac.uk/openscholarship/2022/10/14/rights-retention-policy-an-update-after-9-months/">Rights retention policy: an update after 9 months</a></p></li>
-<li><p><a href="https://ml4rrieu.github.io/rrs/">French RRS Monitor</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Access</category>
-  <category>APC</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/index.html</guid>
-  <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/RSS.jpg" medium="image" type="image/jpeg"/>
-</item>
+<lastBuildDate>Thu, 01 Dec 2022 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Open Peer Review</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -794,6 +762,37 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-preservation/index.html</guid>
   <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-preservation/data.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Article Processing Fees</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>An <strong>Article Processing Charge</strong> (APC), also known as a publication fee, is a fee which is sometimes charged to authors to make their work available as open access.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/images/paste-C13FF521.png" class="img-fluid"></p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/images/paste-F6537985.png" class="img-fluid"></p>
+<p>https://doi.org/10.5281/zenodo.7311282</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-access-rights-retention/">Rights Retention Strategy</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft Open Access Funding</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser">TU Delft Journal Browser</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Access</category>
+  <category>APC</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/index.html</guid>
+  <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/costs.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>4TU.ResearchData</title>

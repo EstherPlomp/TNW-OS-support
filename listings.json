@@ -2,7 +2,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/Open-access-APC/index.html",
       "/posts/open-science-open-review/index.html",
       "/posts/tools-teams/index.html",
       "/posts/credit/index.html",
@@ -15,6 +14,7 @@
       "/posts/data-spreadsheets/index.html",
       "/posts/storage-solutions/index.html",
       "/posts/data-preservation/index.html",
+      "/posts/Open-access-APC/index.html",
       "/posts/4TU-info/index.html",
       "/posts/data-versioning/index.html",
       "/posts/open-science-discipline/index.html",
