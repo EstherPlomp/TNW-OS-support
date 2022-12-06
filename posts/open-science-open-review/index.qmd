@@ -1,0 +1,19 @@
+---
+title: "Open Peer Review"
+author: "Esther Plomp"
+date: "2022-12-01"
+categories: [Open Science, Open Publishing]
+image: "faq.png"
+---
+
+[![](images/paste-121DACEA.png){fig-alt="a Mastodon poll asking about people's preferences for signed or anonymous reviewers. 44% prefer signed review, versus 27% anonymous. 17% doesn't have a preference and 13% just wanted to see the results. 112 people voted on the poll that was posted on 9 november 2022." fig-align="center"}](https://fediscience.org/@lindedomingo/109315960101734543)
+
+Open Peer review can refer to various practises, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process.
+
+## More information
+
+-   **The Turing Way** has a chapter on [Peer Review](https://the-turing-way.netlify.app/communication/peer-review.html), including a section on [Open Peer Review](https://the-turing-way.netlify.app/communication/peer-review/peer-review-open.html).
+
+-   Check the [**Open Reviewers Review Guide**](https://doi.org/10.5281/zenodo.5484087). Pages 28-31 provide insights about what a reviewer would look for when evaluating your manuscript.
+
+-   Read some [reflections on **reviewing in the publishing system**](http://neural-reckoning.org/reviewing.html).
