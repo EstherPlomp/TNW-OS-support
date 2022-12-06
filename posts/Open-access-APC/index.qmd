@@ -1,0 +1,25 @@
+---
+title: "Article Processing Fees"
+author: "Esther Plomp"
+date: "2022-12-03"
+categories: [Open Access, APC]
+image: "RSS.jpg"
+---
+
+![](images/paste-C13FF521.png)
+
+![](images/paste-F6537985.png)
+
+https://doi.org/10.5281/zenodo.7311282
+
+## **More information**
+
+-   Stephen Eglen's (2021) [Primer on the Rights Retention Strategy](http://doi.org/10.5281/zenodo.4668132)
+
+-   [cOAlition S rights retention strategy website](https://www.coalition-s.org/resources/rights-retention-strategy/)
+
+-   [Preliminary publisher responses from the Cambridge pilot](https://unlockingresearch-blog.lib.cam.ac.uk/?p=3361)
+
+-   [Rights retention policy: an update after 9 months](https://libraryblogs.is.ed.ac.uk/openscholarship/2022/10/14/rights-retention-policy-an-update-after-9-months/)
+
+-   [French RRS Monitor](https://ml4rrieu.github.io/rrs/)
