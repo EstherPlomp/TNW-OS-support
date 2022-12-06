@@ -12,6 +12,9 @@ CrediT contributes to a more transparent research record.
 
 A helpful tool to record CredIT contributions is [Tenzing](https://rollercoaster.shinyapps.io/tenzing/). You can cite [Holcombe et al. 2020](https://doi.org/10.1371/journal.pone.0244611) when you use this tool.
 
+[![[Tweet](https://twitter.com/ZJAyres/status/1597870454408368129) by Zoë Ayres](images/paste-F9DE4E61.png){fig-alt="Zoë Ayres tweets: \"If a technician has contributed to scientific data collection, they should be in the author list, not in the acknowledgements. Tired of seeing people not get credited properly for their contribution.\" The tweet is liked ~2700 times and retweeted/cited ~250 times." fig-align="center"}](https://twitter.com/ZJAyres/status/1597870454408368129)
+
 ## **More information**
 
 -   [Holcombe et al. 2020](https://doi.org/10.1371/journal.pone.0244611)
+-   [UK Research Integrity Office Authorship Resources](https://ukrio.org/research-integrity-resources/authorship/)
