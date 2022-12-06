@@ -25,7 +25,7 @@ You can combine some of these options, for example: follow the Data Management P
 
 The easiest way to set up your Data Management Plan is to first check whether your supervisor/project already has a Data Management Plan that you can built upon.
 
-If there is no Data Management Plan available yet it is easiest to use the online platform [DMPonline.](https://dmponline.tudelft.nl/) Here you can make use of the TU Delft template that provides guidance and example answers.
+If there is no Data Management Plan available yet it is easiest to use the online platform [DMPonline.](https://dmponline.tudelft.nl/) Here you can make use of the TU Delft template that provides guidance and example answers. You can watch a [recording of Esther](https://surfdrive.surf.nl/files/index.php/s/QOxmyWwoanBr5Cl) going over filling out the TU Delft template, or go over the questions yourself on the platform:
 
 -   To get started you set up an account on [DMPonline](https://dmponline.tudelft.nl/)
 
