@@ -10,7 +10,72 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Wed, 30 Nov 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Dec 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Article Processing Fees</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/images/paste-C13FF521.png" class="img-fluid"></p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/images/paste-F6537985.png" class="img-fluid"></p>
+<p>https://doi.org/10.5281/zenodo.7311282</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><p>Stephen Eglen’s (2021) <a href="http://doi.org/10.5281/zenodo.4668132">Primer on the Rights Retention Strategy</a></p></li>
+<li><p><a href="https://www.coalition-s.org/resources/rights-retention-strategy/">cOAlition S rights retention strategy website</a></p></li>
+<li><p><a href="https://unlockingresearch-blog.lib.cam.ac.uk/?p=3361">Preliminary publisher responses from the Cambridge pilot</a></p></li>
+<li><p><a href="https://libraryblogs.is.ed.ac.uk/openscholarship/2022/10/14/rights-retention-policy-an-update-after-9-months/">Rights retention policy: an update after 9 months</a></p></li>
+<li><p><a href="https://ml4rrieu.github.io/rrs/">French RRS Monitor</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Access</category>
+  <category>APC</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/index.html</guid>
+  <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/RSS.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Open Peer Review</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://fediscience.org/@lindedomingo/109315960101734543"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/images/paste-121DACEA.png" class="img-fluid figure-img" alt="a Mastodon poll asking about people's preferences for signed or anonymous reviewers. 44% prefer signed review, versus 27% anonymous. 17% doesn't have a preference and 13% just wanted to see the results. 112 people voted on the poll that was posted on 9 november 2022."></a></p>
+</figure>
+</div>
+<p>Open Peer review can refer to various practises, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><p><strong>The Turing Way</strong> has a chapter on <a href="https://the-turing-way.netlify.app/communication/peer-review.html">Peer Review</a>, including a section on <a href="https://the-turing-way.netlify.app/communication/peer-review/peer-review-open.html">Open Peer Review</a>.</p></li>
+<li><p>Check the <a href="https://doi.org/10.5281/zenodo.5484087"><strong>Open Reviewers Review Guide</strong></a>. Pages 28-31 provide insights about what a reviewer would look for when evaluating your manuscript.</p></li>
+<li><p>Read some <a href="http://neural-reckoning.org/reviewing.html">reflections on <strong>reviewing in the publishing system</strong></a>.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <category>Open Publishing</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/index.html</guid>
+  <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/faq.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Microsoft Teams</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -959,7 +1024,7 @@
 <section id="data-management-plan" class="level2">
 <h2 class="anchored" data-anchor-id="data-management-plan">Data Management Plan</h2>
 <p>The easiest way to set up your Data Management Plan is to first check whether your supervisor/project already has a Data Management Plan that you can built upon.</p>
-<p>If there is no Data Management Plan available yet it is easiest to use the online platform <a href="https://dmponline.tudelft.nl/">DMPonline.</a> Here you can make use of the TU Delft template that provides guidance and example answers.</p>
+<p>If there is no Data Management Plan available yet it is easiest to use the online platform <a href="https://dmponline.tudelft.nl/">DMPonline.</a> Here you can make use of the TU Delft template that provides guidance and example answers. You can watch a <a href="https://surfdrive.surf.nl/files/index.php/s/QOxmyWwoanBr5Cl">recording of Esther</a> going over filling out the TU Delft template, or go over the questions yourself on the platform:</p>
 <ul>
 <li><p>To get started you set up an account on <a href="https://dmponline.tudelft.nl/">DMPonline</a></p></li>
 <li><p>To select the TU Delft template you select the ‘Create plans’ header:</p>
@@ -1056,140 +1121,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-legislation/index.html</guid>
   <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-legislation/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Preprint</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-preprint/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>A <strong>preprint</strong> is the version of the article before peer review.</p>
-<p>You can share your preprint on a preprint server&nbsp;or repository&nbsp;even before you have submitted it to a journal.&nbsp;Before you share a preprint, check if the journal allows sharing of preprints via <a href="https://v2.sherpa.ac.uk/romeo/">Sherpa Romeo</a>.</p>
-<section id="why-should-i-share-a-preprint" class="level2">
-<h2 class="anchored" data-anchor-id="why-should-i-share-a-preprint">Why should I share a preprint?</h2>
-<ul>
-<li><p>You can immediately share a preprint, instead of waiting for the review/publishing process.</p></li>
-<li><p>Preprinted articles have increased citations of the published versions, because people are able to read your work earlier and incorporate it.</p></li>
-</ul>
-</section>
-<section id="where-to-share-a-preprint" class="level2">
-<h2 class="anchored" data-anchor-id="where-to-share-a-preprint">Where to share a preprint?</h2>
-<ul>
-<li><p>Preprint servers such as <a href="https://arxiv.org/">arXiv</a> (Physics) and <a href="https://www.biorxiv.org/">bioRxiv</a> (Biology)</p></li>
-<li><p>Repositories such as <a href="https://osf.io/preprints/">OSF</a>, <a href="https://zenodo.org/">Zenodo</a></p></li>
-<li><p>TU Delft Open.</p></li>
-</ul>
-</section>
-<section id="terminology" class="level2">
-<h2 class="anchored" data-anchor-id="terminology">Terminology</h2>
-<ul>
-<li><p><strong>Preprint</strong>: version of the article before peer review</p></li>
-<li><p><strong>Post-print</strong> (or Author Accepted Manuscript - AAM): version of the article after peer review</p></li>
-<li><p><strong>Publishers version</strong> (Version of Record - VOR): fully formatted version published by the publisher</p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://upstream.force11.org/preprints-and-open-preprint-review-a-workshop/">Preprints and open preprint review: a workshop on innovations in scholarly publishing</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Access</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-preprint/index.html</guid>
-  <pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-preprint/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Open Science</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="open-science" class="level2">
-<h2 class="anchored" data-anchor-id="open-science">Open Science</h2>
-<p><strong>Open Science</strong> is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.</p>
-<p><strong>Open Science</strong> is <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en">defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO)</a> as <em>“an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”</em></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://unesdoc.unesco.org/ark:/48223/pf0000378381.locale=en"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/images/FAc9xiSXsAkZ7Xq.jpg" class="img-fluid figure-img" alt="According to UNESCO, Open Science has four pillars: Open science infrastructures, Open engagement of societal actors, Open dialogue with other knowledge systems and Open scientific knowledge"></a></p>
-<p></p><figcaption class="figure-caption">UNESCO’s four pillars of Open Science</figcaption><p></p>
-</figure>
-</div>
-<p>Several concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.</p>
-</section>
-<section id="benefits-of-open-science" class="level2">
-<h2 class="anchored" data-anchor-id="benefits-of-open-science">Benefits of Open Science</h2>
-<ul>
-<li><p>Increased impact and visibility: Research will be accessible to anyone, which accelerates scientific discovery and can increase citizen engagement with and participation in research.</p></li>
-<li><p>Maximise research effort by making research and <a href="https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html">educational</a> outputs reusable, making it easier to build on previous work and providing opportunities for collaboration</p></li>
-<li><p>Improving the quality of research through more transparency (facilitating reproducibility) which will <a href="https://doi.org/10.1177/09636625221100686">increase trust</a> in research</p></li>
-<li><p>Recognition for all contributions to research</p></li>
-<li><p>Maintaining rights and control of research outputs</p></li>
-</ul>
-<p>The Dutch position paper ‘<a href="https://www.nwo.nl/sites/nwo/files/media-files/2019-Recognition-Rewards-Position-Paper_EN.pdf">Room for everyone’s talent</a>’ aims to recognise a wider range of academic contributions, which is very much in line with Open Science practices.</p>
-</section>
-<section id="tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="tu-delft">TU Delft</h2>
-<p>TU Delft has a long history of engagement with Open Science and it is TU Delft’s ambition to be a frontrunner, as reflected in its <a href="https://www.tudelft.nl/library/tu-delft-open-science/about-the-programme">Open Science Programme 2020-2024, Research and Education in the Open Era</a> and the TU Delft Strategic Framework 2018-2024, with “openness” as one of its major principles. TU Delft also strives to be a great place to work, as outlined in the core values: Diversity, Integrity, Respect, Engagement, Courage and Trust (DIRECT) and the <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/COC%20EN.pdf">Code of Conduct</a>. TU Delft established several policies and framework that fall under the Open Science umbrella:</p>
-<p>• TU Delft Policy on <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/OA_beleid_def_29-1-2016.pdf">Open Access Publishing</a> (2016)</p>
-<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/researchdata-framework-policy.pdf">Research Data Policy Framework</a> (2019, 2021)</p>
-<p>• TU Delft <a href="https://doi.org/10.5281/zenodo.4629662">Research Software Policy</a> (2021)</p>
-<p>• TU Delft <a href="https://www.tudelft.nl/en/about-tu-delft/strategy/strategy-documents-tu-delft/diversity-policy">Diversity &amp; Inclusion Office</a> (2021)</p>
-<p>• TU Delft <a href="https://d1rkab7tlqy5f1.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/TU%20Delft%20Vision%20on%20Integrity%202018-2024.pdf">Vision on Integrity</a> 2018-2024</p>
-<p>• TU Delft <a href="https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/Erkennen%20en%20Waarderen%20-%20recognition%20and%20reward/TU%20Delft%20Recognition%20and%20Rewards%20perspective%20def.pdf">Recognition &amp; Rewards Perspective</a> 2021 – 2024</p>
-<p>• TU Delft <a href="https://doi.org/10.4233/uuid:68a07efc-fc4d-4a57-8e93-88a3af37465a">Policy on Open Educational Resources</a> (2021)</p>
-<p>You can find more information on <a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a>.</p>
-</section>
-<section id="the-netherlands" class="level2">
-<h2 class="anchored" data-anchor-id="the-netherlands">the Netherlands</h2>
-<ul>
-<li><p>In the Netherlands Open Science is an important component of the <a href="https://recognitionrewards.nl/">Recognition &amp; Rewards</a> movement.</p></li>
-<li><p>Dutch research funder <a href="https://www.nwo.nl/en/open-science">NWO supports</a> new forms of evaluation, requires 100% Open Access and sharing of data/code underlying research articles.</p></li>
-<li><p>The <a href="https://www.universiteitenvannederland.nl/files/documenten/Domeinen/Onderzoek/SEP_2021-2027.pdf">‘Strategic Evaluation Protocol’</a> that universities use to periodically evaluate their research has a strong focus Open Science practices and outputs.</p></li>
-</ul>
-</section>
-<section id="internationally" class="level2">
-<h2 class="anchored" data-anchor-id="internationally">Internationally</h2>
-<ul>
-<li><p>The <a href="https://sfdora.org/">San Francisco Declaration on Research Assessment</a> (to which all Dutch universities adhere to).</p></li>
-<li><p>The <a href="https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/reforming-research-assessment-agreement-now-final-2022-07-20_en">‘Reforming research assessment’</a> agreement by the European Union. Open Science has for years been promoted by the European Commission.</p></li>
-<li><p>UNESCO adopted a <a href="https://en.unesco.org/science-sustainable-future/open-science/recommendation">recommendation</a> on Open Science.</p></li>
-<li><p>The <a href="https://cen.acs.org/policy/publishing/White-House-mandates-immediate-open/100/web/2022/08#:~:text=All%20US%20federally%2Dfunded%20research,31%2C%202025.">White House also committed</a> the United States to Open Science, which pushes for Open Access, and FAIR data and code sharing.</p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><p><a href="https://doi.org/10.31234/osf.io/jyfr7">What senior academics can do to support reproducible and open research: a short, three-step guide</a></p></li>
-<li><p><a href="https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-phd-students/">Passport for Open Science: A guide for PhD students</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=IV1aFnPkUSI">Let’s become (Open) Science Champions!</a></p></li>
-<li><p><a href="https://how-to-open.science/">Open Science Knowledge Base</a></p></li>
-<li><p><a href="https://lgatto.github.io/open-and-rr-2/">Becoming a better scientist with open and reproducible research</a></p></li>
-<li><p>Set up a publication strategy by <a href="https://docs.google.com/spreadsheets/d/1ALIr6i-ufawnR1_tZBbF_Io7ihWpLZKBOD0aLhRRp0U/edit">making a copy of a google sheet</a> set up by Bianca Kramer &amp; Jeroen Bosman (Utrecht University)</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=c-bemNZ-IqA">Research Culture is Broken; Open Science can Fix It</a> (video)</p></li>
-<li><p><a href="https://youtu.be/64EQuhsAVb0?t=786">Science as truly open and inclusive</a> (video)</p></li>
-<li><p><a href="https://www.universiteitleiden.nl/nieuws/2021/02/open-science-leidt-tot-betere-wetenschap">‘Open Science’ leidt tot betere wetenschap</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/index.html</guid>
-  <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TUD/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>
