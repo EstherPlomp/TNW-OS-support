@@ -18,3 +18,4 @@ A helpful tool to record CredIT contributions is [Tenzing](https://rollercoaster
 
 -   [Holcombe et al. 2020](https://doi.org/10.1371/journal.pone.0244611)
 -   [UK Research Integrity Office Authorship Resources](https://ukrio.org/research-integrity-resources/authorship/)
+-   [Publication Guidelines Poster from BioImagingUK](https://www.rms.org.uk/community/networks-affiliates/bioimaginguk-network/imaging-facility-publication-guidelines.html)
