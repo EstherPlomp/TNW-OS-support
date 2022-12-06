@@ -1,10 +1,12 @@
 ---
 title: "Article Processing Fees"
 author: "Esther Plomp"
-date: "2022-12-03"
+date: "2022-11-03"
 categories: [Open Access, APC]
-image: "RSS.jpg"
+image: "costs.png"
 ---
+
+An **Article Processing Charge** (APC), also known as a publication fee, is a fee which is sometimes charged to authors to make their work available as open access.
 
 ![](images/paste-C13FF521.png)
 
@@ -14,12 +16,8 @@ https://doi.org/10.5281/zenodo.7311282
 
 ## **More information**
 
--   Stephen Eglen's (2021) [Primer on the Rights Retention Strategy](http://doi.org/10.5281/zenodo.4668132)
+-   [Rights Retention Strategy](https://estherplomp.github.io/TNW-OS-support/posts/open-access-rights-retention/)
 
--   [cOAlition S rights retention strategy website](https://www.coalition-s.org/resources/rights-retention-strategy/)
+-   [TU Delft Open Access Funding](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding)
 
--   [Preliminary publisher responses from the Cambridge pilot](https://unlockingresearch-blog.lib.cam.ac.uk/?p=3361)
-
--   [Rights retention policy: an update after 9 months](https://libraryblogs.is.ed.ac.uk/openscholarship/2022/10/14/rights-retention-policy-an-update-after-9-months/)
-
--   [French RRS Monitor](https://ml4rrieu.github.io/rrs/)
+-   [TU Delft Journal Browser](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser)
