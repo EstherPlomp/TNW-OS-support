@@ -14,9 +14,15 @@ An **Article Processing Charge** (APC), also known as a publication fee, is a fe
 
 https://doi.org/10.5281/zenodo.7311282
 
+![](images/paste-A1FE8743.png)
+
+https://zenodo.org/record/7158818#.Y5EJAX2ZOUn
+
 ## **More information**
 
 -   [Rights Retention Strategy](https://estherplomp.github.io/TNW-OS-support/posts/open-access-rights-retention/)
+
+-   [Why I think ending article-processing charges will save open access](https://www.nature.com/articles/d41586-022-03201-w)
 
 -   [TU Delft Open Access Funding](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding)
 
