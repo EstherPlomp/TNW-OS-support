@@ -1,0 +1,37 @@
+---
+title: "Majorana fermions"
+author: "Esther Plomp"
+date: "2022-12-08"
+categories: [Open Data, Research Data Management, FAIR, Reproducibility]
+image: "open-data-fountain.jpg"
+---
+
+Quantum computing's reproducibility crisis: Majorana fermions.
+
+' ... I think that researchers are cherry-picking --- focusing on data that agree with the Majorana theory and sidelining those that don't.' [Frolov 2021](https://doi.org/10.1038/d41586-021-00954-8)
+
+"Scientists should disclose all data in a repository and comply with sharing standards, such as FAIR (findability, accessibility, interoperability and reusability). Some curation is unavoidable. The volume of data collected in a modern physics laboratory is high: computer scripts control the equipment, which might run 24 hours a day. A remedy is to clearly explain the protocol that is used to perform any data selection --- so others might reuse or scrutinize it. Remember, data selection is a form of data processing." [Frolov 2021](https://doi.org/10.1038/d41586-021-00954-8)
+
+## TU Delft
+
+[The investigation by experts concluded](https://www.tudelft.nl/en/2021/tu-delft/retraction-nature-article-quantized-majorana-conductance):
+
+-   **Authors selected data** that supported the phenomenon they were looking for
+
+-   **Authors omitted data** that could have raised questions about the conclusions
+
+"It is a good thing that independent experts have looked at this as part of the integrity investigation," says Tim van der Hagen, Rector Magnificus of TU Delft. "Science always involves **looking critically at results**, questioning and challenging them." ([source](https://www.tudelft.nl/en/2021/tu-delft/retraction-nature-article-quantized-majorana-conductance)).
+
+## More information
+
+-   [Authors retract Nature Majorana paper, apologize for "insufficient scientific rigour"](https://retractionwatch.com/2021/03/08/authors-retract-nature-majorana-paper-apologize-for-insufficient-scientific-rigour/)
+
+-   [Microsoft-Led Team Retracts Disputed Quantum-Computing Paper](https://www.wired.com/story/microsoft-retracts-disputed-quantum-computing-paper/)
+
+-   [Another setback for 'Majorana'](https://retractionwatch.com/2021/12/16/another-setback-for-majorana-particle-as-science-paper-earns-an-expression-of-concern/)
+
+-   [Negligence in Nature article on Quantized Majorana conductance](https://www.tudelft.nl/en/2022/tu-delft/negligence-in-nature-article-on-quantized-majorana-conductance) (see also [TU Delft Delta](https://www.delta.tudelft.nl/article/lowi-majorana-onderzoekers-onzorgvuldig))
+
+-   [About our Majorana fermion paper](https://espressospin.org/2012/04/12/background-information-for-our-majorana-fermion-paper/)
+
+-   [Majorana Fireside Chats: Vincent Mourik and Sergey Frolov](https://www.youtube.com/watch?v=d10LudwLfMk)
