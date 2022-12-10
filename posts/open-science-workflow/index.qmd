@@ -1,0 +1,22 @@
+---
+title: "Open Science - 3 easy things"
+author: "Esther Plomp"
+date: "2022-11-29"
+categories: [Open Science, TU Delft]
+image: "OS-TUD.png"
+---
+
+## 3 Open Science things you can do right now
+
+1.  Sign up for an [ORCID](https://orcid.org/)
+    -   ORCID is an open, independent and persistent identifier that helps distinguish the author of scholarly work. You can use your ORCID to share your information with other systems, ensuring you get recognition for all your contributions.
+2.  [Sign up](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care/participation) for '[You Share, We Take Care](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care)'
+    -   By signing up for 'You Share, We take care', the TU Delft Library will share your publications Open Access after 6 months. You should have a contract with the TU Delft to participate. You can be the corresponding or co-author of short scientific work (article/book chapter).
+
+    -   Note that this is not in compliance with [NWO/EU requirements](https://estherplomp.github.io/TNW-OS-support/posts/open-access-2021/).
+3.  Use the [CRediT taxonomy](https://estherplomp.github.io/TNW-OS-support/posts/credit/index.html) to record contributions to research outputs
+    -   You can use CRediT to describe each contributor's specific contribution to the scholarly output.
+
+## More information
+
+-   [Open Science terminology and developments at TU Delft and (inter)nationally](https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/)
