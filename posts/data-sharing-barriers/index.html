@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Esther Plomp">
-<meta name="dcterms.date" content="2022-09-02">
+<meta name="dcterms.date" content="2022-12-12">
 
-<title>TNW-OS-support - Why share data?</title>
+<title>TNW-OS-support - Barriers to data/code sharing</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -100,10 +100,11 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Why share data?</h1>
+      <h1 class="title">Barriers to data/code sharing</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">Data</div>
-                <div class="quarto-category">Citation</div>
+                <div class="quarto-category">Open Data</div>
+                <div class="quarto-category">Open Software</div>
+                <div class="quarto-category">Research Data Management</div>
               </div>
                   </div>
   </div>
@@ -121,7 +122,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">September 2, 2022</p>
+        <p class="date">December 12, 2022</p>
       </div>
     </div>
     
@@ -139,74 +140,131 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="why-share-data" class="level2">
-<h2 class="anchored" data-anchor-id="why-share-data">Why share data?</h2>
+<p>This post is a summary of the publication by <a href="https://doi.org/10.1098/rspb.2022.1113">Gomes et al.&nbsp;2022</a>, on ‘<strong>Why don’t we share data and code</strong>? Perceived barriers and benefits to public archiving practices’.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://doi.org/10.1098/rspb.2022.1113"><img src="images/paste-430D1010.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<section id="knowledge-barriers" class="level2">
+<h2 class="anchored" data-anchor-id="knowledge-barriers">Knowledge barriers</h2>
+<section id="unsure-about-the-process" class="level3">
+<h3 class="anchored" data-anchor-id="unsure-about-the-process">Unsure about the process</h3>
 <ul>
-<li><p>Prevent data loss/unfindable files</p></li>
-<li><p>Can you still use data when people leave?</p></li>
-<li><p>Recognition for all research outputs</p></li>
-<li><p>Increased citations (<a href="https://doi.org/10.1371/journal.pone.0230416">Colavizza et al.&nbsp;2020</a>; <a href="https://doi.org/10.1371/journal.pone.0225883">Christensen et al.&nbsp;2019</a>; <a href="https://doi.org/10.1371/journal.pone.0000308">Piwowar et al.&nbsp;2007</a>; <a href="https://doi.org/10.7717/peerj.175">Piwowar and Vision 2013</a>)</p></li>
-<li><p>Collaboration</p></li>
-<li><p>Increases quality of scientific practice</p></li>
-<li><p>Cost/time efficient</p></li>
-<li><p>Prevents retractions</p></li>
-<li><p>Reduces duplication efforts</p></li>
-<li><p>Provides resources for training and education</p></li>
+<li><p>Not sure about the data repository (see ‘<a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how/">How to share data</a>’)</p></li>
+<li><p>Accept that your practices will improve over time</p></li>
 </ul>
 </section>
-<section id="example-majorana-retraction" class="level2">
-<h2 class="anchored" data-anchor-id="example-majorana-retraction">Example: Majorana retraction</h2>
-<p>The authors of the 2018 article Quantized Majorana conductance have retracted this article. The authors were alerted to problems by two scientists in the same research area and then went on to re-examine their earlier measurements. In doing so, they found that the main conclusion had not been adequately substantiated.</p>
-<p>Summary of the investigation by experts:</p>
+<section id="complex-or-manual-workflows" class="level3">
+<h3 class="anchored" data-anchor-id="complex-or-manual-workflows">Complex or manual workflows</h3>
 <ul>
-<li><p>Authors <strong>selected data that supported the phenomenon</strong> they were looking for</p></li>
-<li><p>Authors <strong>omitted data</strong> that could have raised questions about the conclusions</p></li>
-</ul>
-<div class="callout-important callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>“<em>It is a good thing that independent experts have looked at this as part of the integrity investigation,” says Tim van der Hagen, Rector Magnificus of TU Delft. ”Science always involves looking critically at results, questioning and challenging them</em>.” <a href="https://www.tudelft.nl/en/2021/tu-delft/retraction-nature-article-quantized-majorana-conductance">source</a></p>
-</div>
-</div>
-<ul>
-<li>See the <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-majorana/">Majorana post</a> for more articles/resources</li>
+<li><p>Detail any manual data processing steps</p></li>
+<li><p>Automation can improve workflows</p></li>
 </ul>
 </section>
-<section id="reproducibility-concerns" class="level2">
-<h2 class="anchored" data-anchor-id="reproducibility-concerns">Reproducibility concerns</h2>
+<section id="large-data-files" class="level3">
+<h3 class="anchored" data-anchor-id="large-data-files">Large data files</h3>
 <ul>
-<li><p><a href="https://doi.org/10.1146/annurev-chembioeng-060718-030323">Does Chemical Engineering Research Have a Reproducibility Problem?</a></p></li>
-<li><p><a href="http://dx.doi.org/10.1021/acs.chemmater.7b04287">How Reproducible Are Isotherm Measurements in Metal−Organic Frameworks?</a></p></li>
-<li><p><a href="https://www.pnas.org/cgi/doi/10.1073/pnas.1918484117">Does repeat synthesis in materials chemistry obey a power law?</a></p></li>
+<li>4TU.ResearchData allows for sharing of 1 TB, per researcher, per year</li>
 </ul>
 </section>
-<section id="five-selfish-reasons-to-work-reproducibly" class="level2">
-<h2 class="anchored" data-anchor-id="five-selfish-reasons-to-work-reproducibly">Five selfish reasons to work reproducibly</h2>
-<p>Florian Markowetz provides five selfish reasons in his <a href="https://doi.org/10.1186/s13059-015-0850-7">article</a> and <a href="https://youtu.be/1Y_oIjlH-yg?t=355">presentation</a> (50 min) to work more reproducible. Reproducibility:</p>
-<ol type="1">
-<li>helps to avoid disaster</li>
-<li>makes it easier to write papers</li>
-<li>helps reviewers see it your way</li>
-<li>enables continuity of your work</li>
-<li>helps to build your reputation</li>
-</ol>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<section id="insecurity" class="level3">
+<h3 class="anchored" data-anchor-id="insecurity">Insecurity</h3>
 <ul>
-<li>See also the posts on <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licensing</a>, good enough FAIR software</li>
-<li><a href="https://blog.wellcomeopenresearch.org/2020/12/09/presenting-your-data-champions/">Encouragements and advice from several scientists and data stewards</a></li>
-<li><a href="https://osf.io/wp4zu/">UKRN primer on Data Sharing</a></li>
+<li><p>First share materials with trusted co-authors or peers in a safe environment (lab meetings or code clubs)</p></li>
+<li><p>Getting feedback on code and documentation can improve its efficiency, clarity and utility beyond an individual project</p></li>
+<li><p>There is no such thing as perfect code (<a href="http://dx.doi.org/10.1371/journal.pcbi.1005510">Wilson et al.&nbsp;2017</a>)</p></li>
+<li><p>Thee process of cleaning and reviewing data and code for publication will usually reveal errors before they are exposed publicly, which leads to higher-quality results</p></li>
+<li><p>Foster an inclusive, kind environment that emphasizes growth and learning over criticism and shame. This will reduce individual insecurities and fear associated with publicly sharing research objects.</p></li>
+</ul>
+</section>
+<section id="do-not-see-the-value" class="level3">
+<h3 class="anchored" data-anchor-id="do-not-see-the-value">Do not see the value</h3>
+<ul>
+<li><p>value judgement is an inherently subjective rather than an objective decision.</p></li>
+<li><p>there is a multitude of ways that a given set of data or code could be used by future generations of scientists, which is one reason why major funding agencies and many journals are now requiring open data and code products.</p></li>
+<li><p>data are often useful in novel synthesis analyses that may explore research questions entirely unrelated to the original motivation of the data collection.</p></li>
+<li><p>The more information we leave for future researchers, the better they will be able to progress our understanding of the world around us.</p></li>
+</ul>
+</section>
+</section>
+<section id="reuse-concerns" class="level2">
+<h2 class="anchored" data-anchor-id="reuse-concerns">Reuse concerns</h2>
+<section id="inappropriate-use" class="level3">
+<h3 class="anchored" data-anchor-id="inappropriate-use">Inappropriate Use</h3>
+<ul>
+<li><p>All forms of scientific products can be misused — this is no reason not to publish these scientific products.</p></li>
+<li><p>You can take steps to reduce or avoid the inappropriate use of data and code. By sharing detailed information or an accompanying data/software paper. This may include:</p>
+<ul>
+<li><p>Thorough description of data and processes</p></li>
+<li><p>Terms and conditions for reuse (license)</p></li>
+<li><p>Limitations, assumptions and shortcomings of the work</p></li>
+<li><p>Contact information</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="rights" class="level3">
+<h3 class="anchored" data-anchor-id="rights">Rights</h3>
+<ul>
+<li><p>Data and code may have complex ownership involving multiple people and institutions, complicating sharing efforts. Sharing agreements made early in the research process can specify the plans for ultimately sharing data/code.</p></li>
+<li><p>As TU Delft is your employer, it holds the right to any scientific research you work on</p></li>
+<li><p>Research funding is public funding and should benefit the wider public</p></li>
+</ul>
+</section>
+<section id="sensitive-content" class="level3">
+<h3 class="anchored" data-anchor-id="sensitive-content">Sensitive Content</h3>
+<ul>
+<li><p>Not all data can be shared publicly (see <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/confidential-data/other-types-of-confidential-data">types of confidential data)</a></p></li>
+<li><p>In some cases, aggregating, generalizing or anonymizing data can be used to remove sensitive information (see <a href="https://the-turing-way.netlify.app/project-design/sdpm/sharing-sensitive-data.html">Sharing Sensitive Data</a>)</p></li>
+<li><p>Sharing information about the dataset publicly is following the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a>, and will make the information about the dataset more findable. Researchers can then contact you if they would like to access the dataset.</p></li>
+<li><p>While open data is an important goal for advancing science, it must never perpetuate harm.</p></li>
+</ul>
+</section>
+<section id="transient-storage" class="level3">
+<h3 class="anchored" data-anchor-id="transient-storage">Transient storage</h3>
+<ul>
+<li><p>Share the data/code using a data repository</p></li>
+<li><p>Avoid proprietary file formats and software</p></li>
+<li><p>Consider the use of containers such as <a href="https://www.docker.com/resources/what-container/">Docker</a>/<a href="https://mybinder.readthedocs.io/en/latest/introduction.html#preparing-repositories">Binder</a>.</p></li>
+</ul>
+</section>
+</section>
+<section id="disincentives" class="level2">
+<h2 class="anchored" data-anchor-id="disincentives">Disincentives</h2>
+<section id="scooping" class="level3">
+<h3 class="anchored" data-anchor-id="scooping">Scooping</h3>
+<ul>
+<li><p>Researchers publish most papers using their own datasets within 2 years of original publication, while papers that cite open datasets peak at 5 years after data publication (<a href="http://dx.doi.org/10.7717/peerj.175">Piwowar and Vision 2013</a>).</p></li>
+<li><p>Preprint servers offer the ability to make first claim to a research projects</p>
+<ul>
+<li>pre-printed articles are already citable and benefit from increased viewership, citation rates and collaborations</li>
+</ul></li>
+</ul>
+</section>
+<section id="lack-of-time" class="level3">
+<h3 class="anchored" data-anchor-id="lack-of-time">Lack of time</h3>
+<ul>
+<li><p>Despite the upfront time required, sharing research data and code can ultimately save time for individual researchers and their collaborators, as well as for others who want to reuse it. Your most important collaborator is your future self.</p></li>
+<li><p>Sharing data/code ensures that you always have access to it, regardless of switching institutions or computers.</p></li>
+<li><p>The preparation of data and code should be considered as important as other publication tasks</p></li>
+</ul>
+</section>
+<section id="lack-of-incentives" class="level3">
+<h3 class="anchored" data-anchor-id="lack-of-incentives">Lack of incentives</h3>
+<ul>
+<li><p>Sharing data and code can:</p>
+<ul>
+<li><p>increase visibility and recognition</p></li>
+<li><p>initiate new collaborations</p></li>
+<li><p>increase efficiency,</p></li>
+<li><p>improve understanding of one’s own data and code</p></li>
+<li><p>See ‘<a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-why/">Why sharing data</a>’ for some more benefits</p></li>
+</ul></li>
+<li><p>Funders/publishers/research institutes increasingly require you to share data/code.</p></li>
 </ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/data-sharing-barriers/index.html",
       "/posts/software-resources/index.html",
       "/posts/reproducibility-resources/index.html",
       "/posts/data-majorana/index.html",

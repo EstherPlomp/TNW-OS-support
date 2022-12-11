@@ -12,6 +12,150 @@
 <generator>quarto-1.2.269</generator>
 <lastBuildDate>Mon, 12 Dec 2022 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>Barriers to data/code sharing</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post is a summary of the publication by <a href="https://doi.org/10.1098/rspb.2022.1113">Gomes et al.&nbsp;2022</a>, on ‘<strong>Why don’t we share data and code</strong>? Perceived barriers and benefits to public archiving practices’.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://doi.org/10.1098/rspb.2022.1113"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/images/paste-430D1010.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<section id="knowledge-barriers" class="level2">
+<h2 class="anchored" data-anchor-id="knowledge-barriers">Knowledge barriers</h2>
+<section id="unsure-about-the-process" class="level3">
+<h3 class="anchored" data-anchor-id="unsure-about-the-process">Unsure about the process</h3>
+<ul>
+<li><p>Not sure about the data repository (see ‘<a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how/">How to share data</a>’)</p></li>
+<li><p>Accept that your practices will improve over time</p></li>
+</ul>
+</section>
+<section id="complex-or-manual-workflows" class="level3">
+<h3 class="anchored" data-anchor-id="complex-or-manual-workflows">Complex or manual workflows</h3>
+<ul>
+<li><p>Detail any manual data processing steps</p></li>
+<li><p>Automation can improve workflows</p></li>
+</ul>
+</section>
+<section id="large-data-files" class="level3">
+<h3 class="anchored" data-anchor-id="large-data-files">Large data files</h3>
+<ul>
+<li>4TU.ResearchData allows for sharing of 1 TB, per researcher, per year</li>
+</ul>
+</section>
+<section id="insecurity" class="level3">
+<h3 class="anchored" data-anchor-id="insecurity">Insecurity</h3>
+<ul>
+<li><p>First share materials with trusted co-authors or peers in a safe environment (lab meetings or code clubs)</p></li>
+<li><p>Getting feedback on code and documentation can improve its efficiency, clarity and utility beyond an individual project</p></li>
+<li><p>There is no such thing as perfect code (<a href="http://dx.doi.org/10.1371/journal.pcbi.1005510">Wilson et al.&nbsp;2017</a>)</p></li>
+<li><p>Thee process of cleaning and reviewing data and code for publication will usually reveal errors before they are exposed publicly, which leads to higher-quality results</p></li>
+<li><p>Foster an inclusive, kind environment that emphasizes growth and learning over criticism and shame. This will reduce individual insecurities and fear associated with publicly sharing research objects.</p></li>
+</ul>
+</section>
+<section id="do-not-see-the-value" class="level3">
+<h3 class="anchored" data-anchor-id="do-not-see-the-value">Do not see the value</h3>
+<ul>
+<li><p>value judgement is an inherently subjective rather than an objective decision.</p></li>
+<li><p>there is a multitude of ways that a given set of data or code could be used by future generations of scientists, which is one reason why major funding agencies and many journals are now requiring open data and code products.</p></li>
+<li><p>data are often useful in novel synthesis analyses that may explore research questions entirely unrelated to the original motivation of the data collection.</p></li>
+<li><p>The more information we leave for future researchers, the better they will be able to progress our understanding of the world around us.</p></li>
+</ul>
+</section>
+</section>
+<section id="reuse-concerns" class="level2">
+<h2 class="anchored" data-anchor-id="reuse-concerns">Reuse concerns</h2>
+<section id="inappropriate-use" class="level3">
+<h3 class="anchored" data-anchor-id="inappropriate-use">Inappropriate Use</h3>
+<ul>
+<li><p>All forms of scientific products can be misused — this is no reason not to publish these scientific products.</p></li>
+<li><p>You can take steps to reduce or avoid the inappropriate use of data and code. By sharing detailed information or an accompanying data/software paper. This may include:</p>
+<ul>
+<li><p>Thorough description of data and processes</p></li>
+<li><p>Terms and conditions for reuse (license)</p></li>
+<li><p>Limitations, assumptions and shortcomings of the work</p></li>
+<li><p>Contact information</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="rights" class="level3">
+<h3 class="anchored" data-anchor-id="rights">Rights</h3>
+<ul>
+<li><p>Data and code may have complex ownership involving multiple people and institutions, complicating sharing efforts. Sharing agreements made early in the research process can specify the plans for ultimately sharing data/code.</p></li>
+<li><p>As TU Delft is your employer, it holds the right to any scientific research you work on</p></li>
+<li><p>Research funding is public funding and should benefit the wider public</p></li>
+</ul>
+</section>
+<section id="sensitive-content" class="level3">
+<h3 class="anchored" data-anchor-id="sensitive-content">Sensitive Content</h3>
+<ul>
+<li><p>Not all data can be shared publicly (see <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/confidential-data/other-types-of-confidential-data">types of confidential data)</a></p></li>
+<li><p>In some cases, aggregating, generalizing or anonymizing data can be used to remove sensitive information (see <a href="https://the-turing-way.netlify.app/project-design/sdpm/sharing-sensitive-data.html">Sharing Sensitive Data</a>)</p></li>
+<li><p>Sharing information about the dataset publicly is following the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a>, and will make the information about the dataset more findable. Researchers can then contact you if they would like to access the dataset.</p></li>
+<li><p>While open data is an important goal for advancing science, it must never perpetuate harm.</p></li>
+</ul>
+</section>
+<section id="transient-storage" class="level3">
+<h3 class="anchored" data-anchor-id="transient-storage">Transient storage</h3>
+<ul>
+<li><p>Share the data/code using a data repository</p></li>
+<li><p>Avoid proprietary file formats and software</p></li>
+<li><p>Consider the use of containers such as <a href="https://www.docker.com/resources/what-container/">Docker</a>/<a href="https://mybinder.readthedocs.io/en/latest/introduction.html#preparing-repositories">Binder</a>.</p></li>
+</ul>
+</section>
+</section>
+<section id="disincentives" class="level2">
+<h2 class="anchored" data-anchor-id="disincentives">Disincentives</h2>
+<section id="scooping" class="level3">
+<h3 class="anchored" data-anchor-id="scooping">Scooping</h3>
+<ul>
+<li><p>Researchers publish most papers using their own datasets within 2 years of original publication, while papers that cite open datasets peak at 5 years after data publication (<a href="http://dx.doi.org/10.7717/peerj.175">Piwowar and Vision 2013</a>).</p></li>
+<li><p>Preprint servers offer the ability to make first claim to a research projects</p>
+<ul>
+<li>pre-printed articles are already citable and benefit from increased viewership, citation rates and collaborations</li>
+</ul></li>
+</ul>
+</section>
+<section id="lack-of-time" class="level3">
+<h3 class="anchored" data-anchor-id="lack-of-time">Lack of time</h3>
+<ul>
+<li><p>Despite the upfront time required, sharing research data and code can ultimately save time for individual researchers and their collaborators, as well as for others who want to reuse it. Your most important collaborator is your future self.</p></li>
+<li><p>Sharing data/code ensures that you always have access to it, regardless of switching institutions or computers.</p></li>
+<li><p>The preparation of data and code should be considered as important as other publication tasks</p></li>
+</ul>
+</section>
+<section id="lack-of-incentives" class="level3">
+<h3 class="anchored" data-anchor-id="lack-of-incentives">Lack of incentives</h3>
+<ul>
+<li><p>Sharing data and code can:</p>
+<ul>
+<li><p>increase visibility and recognition</p></li>
+<li><p>initiate new collaborations</p></li>
+<li><p>increase efficiency,</p></li>
+<li><p>improve understanding of one’s own data and code</p></li>
+<li><p>See ‘<a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-why/">Why sharing data</a>’ for some more benefits</p></li>
+</ul></li>
+<li><p>Funders/publishers/research institutes increasingly require you to share data/code.</p></li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>Open Software</category>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/index.html</guid>
+  <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Software Resources</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</link>
@@ -1135,82 +1279,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/index.html</guid>
   <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/costs.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>4TU.ResearchData</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This post contains general information about the data repository <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> and how to share your research data/code.</p>
-<p>4TU.ResearchData is the archive of the 4TU.ResearchData Consortium (Delft/Wageningen/Eindhoven/Twente)</p>
-<ul>
-<li><p>Free up to 1TB/TU Delft researcher/year</p></li>
-<li><p>Publication and long-term preservation of research data/code</p></li>
-<li><p>Open access (with embargo and restricted access if necessary)</p></li>
-<li><p>DOI (Digital Object Identifier) (allows citation - see <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-citation/index.html">data citation</a> or <a href="https://estherplomp.github.io/TNW-OS-support/posts/software-citation/index.html">software citation</a> for more information)</p></li>
-</ul>
-<section id="how-to-share-the-datacode" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-share-the-datacode">How to share the data/code?</h2>
-<ol type="1">
-<li><p>Gather and organise the research data and/or code. Describe the outputs in your <a href="https://data.4tu.nl/info//fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf">README file</a>.</p>
-<ul>
-<li><p>Use a consistent folder directory and <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/#file-naming-convention">file naming convention</a> for your files</p></li>
-<li><p>It can be helpful to have a collaborator go over your data/code to see if everything makes sense and check whether they can deploy your software following your documentation, including dependencies information (operating systems, programming languages; interpreters and compilers; packages, libraries, frameworks, or other tools; browsers; databases; web or other online services and resources; file formats, standards and specifications - see <a href="https://doi.org/10.5281/zenodo.1327310">Jackson 2018</a>a for more information)</p></li>
-<li><p>README file: include your contact information (name, affiliation, current email address and your <a href="https://orcid.org/">ORCiD</a>!) as well as how you would like the output to be cited (the output itself or the associated article). For software you can also use a <a href="https://the-turing-way.netlify.app/communication/citable/citable-cff.html">CITATION.cff file</a> to recommend citation.</p></li>
-</ul></li>
-<li><p>Go to <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a>, select upload data and login with your netID.</p></li>
-<li><p>Select ‘+create a new item’</p></li>
-<li><p>Fill out the metadata information fields</p>
-<ul>
-<li><p>Some of the fields are mandatory and should be filled out before you can <strong>reserve a DOI</strong>. You need this DOI for in your data availability statement and your reference list (see …). You can generate a private link for peer review. To learn more about whether to disclose the data/code before the article or the other way around - please see <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">The Turing Way</a>.</p></li>
-<li><p>In the metadata information fields you can select a <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">license</a></p></li>
-<li><p>Add any related references (GitHub/Lab repository, article etc).</p></li>
-</ul></li>
-<li><p>Upload the data or code and the README file</p>
-<ol type="1">
-<li>You can either upload directories separately or decide to use an archive file (open formats are: .zip .tar, .tgz, or tar.bz2 - See <a href="https://doi.org/10.5281/zenodo.1327327">Jackson 2018</a>b)</li>
-</ol></li>
-</ol>
-</section>
-<section id="metadata-record-only" class="level2">
-<h2 class="anchored" data-anchor-id="metadata-record-only">Metadata record only</h2>
-<p>You can use this option if data/code cannot be archived in a repository but you would like to make the data available according to the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/index.html">FAIR principles</a>. Explain what additional datasets/materials exist and why access is restricted. Explain who could gain access to the data and under what circumstances.</p>
-</section>
-<section id="checklist-to-sharing-your-research-karoune-plomp-2022" class="level2">
-<h2 class="anchored" data-anchor-id="checklist-to-sharing-your-research-karoune-plomp-2022">Checklist to sharing your research (<a href="https://doi.org/10.5281/zenodo.6615276">Karoune &amp; Plomp 2022</a>)</h2>
-<ol type="1">
-<li><p>Have you set up a <a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html">Data Management Plan</a>? In this Data Management Plan you can think about how you will store, document and share your research.</p></li>
-<li><p>Ask feedback on how you documented and structured your data and code from someone that is not a co-author: are they able to trace your steps?</p></li>
-<li><p>Decide in what order you want to publish your research objects: do you want to publicly share the data and code before the article is published or would you rather wait? - see The Turing Way (The Turing Way Community 2022e) for more information on <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">how to link your research objects</a> during the sharing process.</p></li>
-<li><p>Make sure a README file is included with your data/code: even if there is an associated article it is important to provide all relevant information to interpret the data or use the code in the same place as the data/code. You can also <a href="https://doi.org/10.5281/zenodo.3482769">let others know how to cite you in this README file</a>.</p></li>
-<li><p>Ensure that you selected a <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">license</a> for your data and code: without it your research objects cannot be reused by others.</p></li>
-<li><p>Provide the DOI of your research objects where it is relevant (for example, table/figure descriptions, materials and methods section, data/code availability statement).</p></li>
-<li><p>Check whether you cited your data and code in the references: this is where citations are counted from - not the acknowledgements or data availability statements. If you <a href="https://doi.org/10.5281/zenodo.3479199">reused any data/software you should also cite these</a>.</p></li>
-</ol>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More Information</h2>
-<ul>
-<li><p><a href="https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/">Upload your data to 4TU.ResearchData</a></p></li>
-<li><p><a href="https://data.4tu.nl/info/fileadmin/user_upload/Documenten/Deposit_Guidelines_2020.pdf">4TU.ResearchData deposit guidelines</a></p></li>
-<li><p><a href="https://doi.org/10.5281/zenodo.1327323">Software Deposit: What not to deposit</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>4TU.ResearchData</category>
-  <category>Open Data</category>
-  <category>Open Software</category>
-  <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/index.html</guid>
-  <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/4TU-logo.png" medium="image" type="image/png" height="43" width="144"/>
 </item>
 </channel>
 </rss>
