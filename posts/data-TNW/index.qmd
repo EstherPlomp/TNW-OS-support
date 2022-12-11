@@ -97,3 +97,7 @@ image: "open-data-fountain.jpg"
 ## Open Research
 
 [Open Research: Examples of good practice, and resources across disciplines](https://osf.io/3r8hb/)
+
+## Other
+
+-   [Dr. Christoph Steinbeck on "Informatics, Datasets and the Curation of the Future"](https://www.youtube.com/watch?v=o1r4x4qVEBM)
