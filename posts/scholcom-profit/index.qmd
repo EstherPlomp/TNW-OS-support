@@ -1,0 +1,14 @@
+---
+title: "Publish and profit"
+author: "Esther Plomp"
+date: "2022-09-02"
+categories: [Scholarly communication]
+image: "image.jpg"
+---
+
+Publishers generate profit.
+
+## More information
+
+-   [How to build better science](https://youtu.be/UYtcvzjmM_8?t=5192) - presentation by Dan Goodman
+-    [Publication reform panel](https://www.youtube.com/watch?v=g27NmG2UUP0)
