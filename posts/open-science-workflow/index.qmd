@@ -1,22 +1,15 @@
 ---
-title: "Open Science - 3 easy things"
+title: "Open Science Workflows"
 author: "Esther Plomp"
-date: "2022-11-29"
-categories: [Open Science, TU Delft]
+date: "2022-12-08"
+categories: [Open Science]
 image: "OS-TUD.png"
 ---
 
-## 3 Open Science things you can do right now
+Incorporating Open Science practices into your workflow may initially take some time, but will pay off for future you.
 
-1.  Sign up for an [ORCID](https://orcid.org/)
-    -   ORCID is an open, independent and persistent identifier that helps distinguish the author of scholarly work. You can use your ORCID to share your information with other systems, ensuring you get recognition for all your contributions.
-2.  [Sign up](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care/participation) for '[You Share, We Take Care](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care)'
-    -   By signing up for 'You Share, We take care', the TU Delft Library will share your publications Open Access after 6 months. You should have a contract with the TU Delft to participate. You can be the corresponding or co-author of short scientific work (article/book chapter).
+[![You don't lose time doing reproducible science, you just relocate where you spend it.](images/paste-A97AF7F9.png){fig-alt="Two workflows representing a typical research project where reding the analyses around peer review take a lot of time, versus a reproducible research project where these reanalyses will go much faster." width="650"}](https://osf.io/zy2pc)
 
-    -   Note that this is not in compliance with [NWO/EU requirements](https://estherplomp.github.io/TNW-OS-support/posts/open-access-2021/).
-3.  Use the [CRediT taxonomy](https://estherplomp.github.io/TNW-OS-support/posts/credit/index.html) to record contributions to research outputs
-    -   You can use CRediT to describe each contributor's specific contribution to the scholarly output.
+## 
 
 ## More information
-
--   [Open Science terminology and developments at TU Delft and (inter)nationally](https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/)
