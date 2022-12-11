@@ -1,0 +1,157 @@
+---
+title: "Software Resources"
+author: "Esther Plomp"
+date: "2022-12-12"
+categories: [Software]
+image: "image.jpg"
+---
+
+Overview of resources related to programming, Python, Git(Hub), Shell and programming communities.
+
+### General Resources
+
+-   [The Turing Way](https://the-turing-way.netlify.app/welcome)
+
+-   [Overview of guided workshops, R/Python/SQL/Git/Shell courses](https://github.com/Chris-Engelhardt/data_sci_guide)
+
+-   [Stack Overflow ](https://dev.to/facundocorradini/why-i-don-t-use-stack-overflow-1f0l)
+
+-   [Research Reproducibility and Open Science](https://guides.uflib.ufl.edu/reproducibility/lessons) by Hao Ye
+
+-   [Social coding: sharing and citing software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md/#1) by CodeRefinery
+
+-   [Debugging Bingo](https://docs.google.com/presentation/d/1k8k3EqT8iz96zSeXVt4J7QB5aeXkUJEATZhev900sr4/edit?usp=sharing) by Ji Son
+
+-   [Computational Tools for Reproducible Science](https://ecorepsci.github.io/reproducible-science/index.html) (with an R focus)
+
+-   [NixOS](https://nixos.org/)
+
+-   [Nextjournal](https://twitter.com/usenextjournal/status/1364880836118663173)
+
+-   [How to make your script ready for publication](https://www.software.ac.uk/how-make-your-script-ready-publication)
+
+-   Example of a workflow: \'[The task is a quantum of workflow](https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/)\'
+
+-   [Open Research Primers](https://www.ukrn.org/primers/)
+
+-   [Calmcode.io](https://calmcode.io/)
+
+-   Text editors for **Mac:** Atom, Subline Text, TextEdit, BBEdit, Visual Studio Code
+
+-   [Top Tips to Start Coding in Academia](https://www.software.ac.uk/blog/2021-11-04-top-tips-start-coding-academia)
+
+-   [Presentation by Daniel Katz](https://github.com/danielskatz/repro-fdtd1d/blob/master/Computational_Reproducibility.pdf) on Computational Reproducibility (intermediate/advanced)
+
+-   [Writing clear code](https://kbroman.org/AdvData/14_clearcode.pdf) by Karl Broman
+
+-   [Writing Clean Scientific Software](https://doi.org/10.5281/zenodo.3922957) by Nicolas Murphy
+
+### Shell/Unix
+
+-   [Five reasons why researchers should learn to love the command line](https://www.nature.com/articles/d41586-021-00263-0)
+
+-   [Recording of the Automating Task lesson ](https://youtu.be/et_QrTWqjNU)by SoftwareSaved
+
+-   [Data Science at the Command Line](https://datascienceatthecommandline.com/) by Jeroen Janssen 
+
+### Git(Hub)
+
+-   [OLS GitHub intro](https://www.youtube.com/watch?v=QRUvQgKbVZQ) (OLS1) and a [more extensive intro for OLS2](https://www.youtube.com/watch?v=Wui21rKrCNk)
+
+-   [GitHub intro](http://nyu-dataservices.github.io/Intro-Git-GitHub/git.html) by Vicky Steeves ([repository](https://github.com/NYU-DataServices/Intro-Git-GitHub))
+
+-   [GitHub\'s introduction on branches](https://guides.github.com/introduction/flow/)
+
+-   [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
+-   [Git + social coding from Code Refinery](https://coderefinery.github.io/social-coding/)
+
+-   [Recording of the Git lesson ](https://www.youtube.com/watch?v=fTRtzsYo7Ho)by SoftwareSaved
+
+-   [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) by Tom Preston-Werner
+
+-   [Getting the most out of git](https://www.smashingmagazine.com/2021/02/getting-the-most-out-of-git/) (Intermediate)
+
+-   [Pro Git](http://git-scm.com/book/en/v2)
+
+-   [Git flow](https://nvie.com/posts/a-successful-git-branching-model/)
+
+-   [Git/GitHub primer](https://voyteklab.com/git/git-primer/) (beginner)
+
+-   [Git Resources](https://orchid00.github.io/git_for_humans/007_resources.html) by Paula Andrea Martinez
+
+-   [Git configuration files](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Where-system-global-and-local-Windows-Git-config-files-are-saved)
+
+-   [Learn Git Branching](https://learngitbranching.js.org/)
+
+-   [OHBM Brainhack 2021 - Traintrack: Version control](https://www.youtube.com/watch?v=gfPP2pQ8Rms)
+
+-   [What is Github](https://www.youtube.com/watch?v=w3jLJU7DT5E) (3-4 min video)
+
+-   [Version Control Systems: Keep Your Code in Order!](https://webinerds.com/version-control-systems-keep-your-code-in-order/)
+
+-   [Ten Simple Rules for Taking Advantage of Git and GitHub](https://doi.org/10.1371/journal.pcbi.1004947) (Perez-Riverol et al. 2016)
+
+-   [Introduction to Git](https://www.youtube.com/watch?v=OPqGR8m6v18) (more theoretical + GitLab)
+
+### Python
+
+-   [Practical Python Programming](https://dabeaz-course.github.io/practical-python) by David Beazley 
+
+-   Packages
+
+    -   [Python Package Best Practices](https://education.molssi.org/python-package-best-practices/index.html)
+
+    -   [Jupytext](https://github.com/mwouts/jupytext)
+
+-   Recording of a Python Carpentry Workshop by SoftwareSaved using Jupyter Lab ([part 1](https://youtu.be/YHDvqPRM9tE)) ([part 2](https://youtu.be/hhTV6BuSmcM))
+
+-   [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/index.html)
+
+-   [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) library
+
+-   [Python videos](https://www.youtube.com/watch?v=G1GjUZgZQbk&list=PL35C27CB854E03FF2) (beginner?)
+
+-   [Can you speak Python?](https://github.com/wmvanvliet/gizmo)
+
+-   [Research Software Engineering with Python](https://carpentries.org/blog/2021/07/pyrse-book/)
+
+-   [Maneage](https://maneage.org/index.html) 
+
+-   [Jupyter notebooks: Friends or foes?](https://speakerdeck.com/trallard/jupyter-notebooks-friends-or-foes)
+
+-   [Ten simple rules for writing and sharing Computational analyses in Jupyter Notebooks](https://doi.org/10.1371/journal.%20pcbi.1007007) (Rule et al. 2019)
+
+-   [Intermediate Python Workshop](https://github.com/JoaoRodrigues/sc-teaching/blob/master/intermediate-python-2020/index.md)
+
+## 
+R 
+
+Please find a curated list for [R resources at the TU Delft R Café](https://delft-rcafe.github.io/resources/)
+
+### Communities
+
+-   Code Newbies ([\@CodeNewbies](https://twitter.com/CodeNewbies))
+
+-   Codecademy ([\@Codecademy](https://twitter.com/Codecademy))
+
+-   Stackademic ([\@StackademicHQ](https://twitter.com/StackademicHQ))
+
+-   Code .org ([\@codeorg](https://twitter.com/codeorg))
+
+-   Women Who Code ([\@WomenWhoCode](https://twitter.com/WomenWhoCode))
+
+-   Girls Who Code ([\@GirlsWhoCode](https://twitter.com/GirlsWhoCode))
+
+-   Free Code Camp ([\@freeCodeCamp](https://twitter.com/freeCodeCamp))
+
+-   Black Girls Code ([\@BlackGirlsCode](https://twitter.com/BlackGirlsCode))
+
+-   Design+Code ([\@designcodeio](https://twitter.com/designcodeio))
+
+-   Microsoft Make Code ([\@MSMakeCode](https://twitter.com/MSMakeCode)) 
+
+-   CodeHS ([\@CodeHS](https://twitter.com/CodeHS)) 
+
+\
+
