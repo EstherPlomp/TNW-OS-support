@@ -47,3 +47,5 @@ In general it is good practise to:
 -   [Data organisation presentation by Eirini Zormpa](https://eirini-zormpa.github.io/frictionless-data-workshop/data-organisation.html#1)
 
 -   [Ten Common Data Management Mistakes by Crystal Lewis](https://cghlewis.com/talk/sssp_ecf/)
+
+-   Borer et al. 2009: [Some Simple Guidelines for Effective Data Management](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/0012-9623-90.2.205)
