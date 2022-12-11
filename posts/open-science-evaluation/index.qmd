@@ -1,0 +1,19 @@
+---
+title: "Open Science & Inclusion"
+author: "Esther Plomp"
+date: "2022-11-29"
+categories: [Open Science, Inclusion]
+image: "OS-TUD.png"
+---
+
+This posts lists several resources regarding inclusion gaps in the scientific landscape
+
+### Gender
+
+-   [Meta-Research: Systemic racial disparities in funding rates at the National Science Foundation](https://doi.org/10.7554/eLife.83071)
+
+### Race
+
+## More information
+
+-   [Labor advantages drive the greater productivity of faculty at elite universities](https://doi.org/10.1126/sciadv.abq7056)
