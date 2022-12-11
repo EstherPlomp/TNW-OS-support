@@ -108,4 +108,4 @@ https://www.springernature.com/gp/authors/research-data-policy/recommended-repos
 
 -   [CODATA webinar on sharing your data with your publication](https://codata.org/initiatives/strategic-programme/codata-connect/webinar-series-research-skills/webinar-2-writing-an-article-with-excellent-supporting-data/)
 
-
+-   [Zenodo webinar](https://www.youtube.com/watch?v=yj2r8RayIX8)
