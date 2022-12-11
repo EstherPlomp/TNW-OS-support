@@ -14,6 +14,8 @@ image: "open-data-fountain.jpg"
 
 -   Recognition for all research outputs
 
+-   Increased citations ([Colavizza et al. 2020](https://doi.org/10.1371/journal.pone.0230416); [Piwowar et al. 2007](https://doi.org/10.1371/journal.pone.0000308); [Piwowar and Vision 2013](https://doi.org/10.7717/peerj.175))
+
 -   Collaboration
 
 -   Increases quality of scientific practice
@@ -40,13 +42,7 @@ Summary of the investigation by experts:
 "*It is a good thing that independent experts have looked at this as part of the integrity investigation," says Tim van der Hagen, Rector Magnificus of TU Delft. "Science always involves looking critically at results, questioning and challenging them*." [source](https://www.tudelft.nl/en/2021/tu-delft/retraction-nature-article-quantized-majorana-conductance)
 :::
 
--   [Authors retract Nature Majorana paper, apologize for "insufficient scientific rigour"](https://retractionwatch.com/2021/03/08/authors-retract-nature-majorana-paper-apologize-for-insufficient-scientific-rigour/)
-
--   [Quantum computing's reproducibility crisis: Majorana fermions](https://doi.org/10.1038/d41586-021-00954-8)
-
--   [About our Majorana fermion paper](https://espressospin.org/2012/04/12/background-information-for-our-majorana-fermion-paper/)
-
--   [Microsoft-Led Team Retracts Disputed Quantum-Computing Paper](https://www.wired.com/story/microsoft-retracts-disputed-quantum-computing-paper/)
+-   See the [Majorana post](https://estherplomp.github.io/TNW-OS-support/posts/data-majorana/) for more articles/resources
 
 ## Reproducibility concerns
 
