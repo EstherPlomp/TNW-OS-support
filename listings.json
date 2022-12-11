@@ -2,7 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/data-majorana/index.html",
+      "/posts/open-science-workflow/index.html",
       "/posts/open-science-open-review/index.html",
+      "/posts/credit-counting/index.html",
       "/posts/tools-teams/index.html",
       "/posts/credit/index.html",
       "/posts/open-science-FAQ/index.html",

@@ -10,7 +10,82 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Thu, 01 Dec 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Dec 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Majorana fermions</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Quantum computing’s reproducibility crisis: Majorana fermions.</p>
+<p>’ … I think that researchers are cherry-picking — focusing on data that agree with the Majorana theory and sidelining those that don’t.’ <a href="https://doi.org/10.1038/d41586-021-00954-8">Frolov 2021</a></p>
+<p>“Scientists should disclose all data in a repository and comply with sharing standards, such as FAIR (findability, accessibility, interoperability and reusability). Some curation is unavoidable. The volume of data collected in a modern physics laboratory is high: computer scripts control the equipment, which might run 24 hours a day. A remedy is to clearly explain the protocol that is used to perform any data selection — so others might reuse or scrutinize it. Remember, data selection is a form of data processing.” <a href="https://doi.org/10.1038/d41586-021-00954-8">Frolov 2021</a></p>
+<section id="tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft">TU Delft</h2>
+<p><a href="https://www.tudelft.nl/en/2021/tu-delft/retraction-nature-article-quantized-majorana-conductance">The investigation by experts concluded</a>:</p>
+<ul>
+<li><p><strong>Authors selected data</strong> that supported the phenomenon they were looking for</p></li>
+<li><p><strong>Authors omitted data</strong> that could have raised questions about the conclusions</p></li>
+</ul>
+<p>“It is a good thing that independent experts have looked at this as part of the integrity investigation,” says Tim van der Hagen, Rector Magnificus of TU Delft. “Science always involves <strong>looking critically at results</strong>, questioning and challenging them.” (<a href="https://www.tudelft.nl/en/2021/tu-delft/retraction-nature-article-quantized-majorana-conductance">source</a>).</p>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><p><a href="https://retractionwatch.com/2021/03/08/authors-retract-nature-majorana-paper-apologize-for-insufficient-scientific-rigour/">Authors retract Nature Majorana paper, apologize for “insufficient scientific rigour”</a></p></li>
+<li><p><a href="https://www.wired.com/story/microsoft-retracts-disputed-quantum-computing-paper/">Microsoft-Led Team Retracts Disputed Quantum-Computing Paper</a></p></li>
+<li><p><a href="https://retractionwatch.com/2021/12/16/another-setback-for-majorana-particle-as-science-paper-earns-an-expression-of-concern/">Another setback for ‘Majorana’</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/2022/tu-delft/negligence-in-nature-article-on-quantized-majorana-conductance">Negligence in Nature article on Quantized Majorana conductance</a> (see also <a href="https://www.delta.tudelft.nl/article/lowi-majorana-onderzoekers-onzorgvuldig">TU Delft Delta</a>)</p></li>
+<li><p><a href="https://espressospin.org/2012/04/12/background-information-for-our-majorana-fermion-paper/">About our Majorana fermion&nbsp;paper</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=d10LudwLfMk">Majorana Fireside Chats: Vincent Mourik and Sergey Frolov</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>Research Data Management</category>
+  <category>FAIR</category>
+  <category>Reproducibility</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/index.html</guid>
+  <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Open Science Workflows</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Incorporating Open Science practices into your workflow may initially take some time, but will pay off for future you.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://osf.io/zy2pc"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/images/paste-A97AF7F9.png" class="img-fluid figure-img" alt="Two workflows representing a typical research project where reding the analyses around peer review take a lot of time, versus a reproducible research project where these reanalyses will go much faster." width="650"></a></p>
+<p></p><figcaption class="figure-caption">You don't lose time doing reproducible science, you just relocate where you spend it.</figcaption><p></p>
+</figure>
+</div>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</guid>
+  <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>Open Peer Review</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -43,6 +118,64 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/index.html</guid>
   <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/open-review.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>A number is a snake chasing it’s tail</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This posts is a summary of the <a href="https://doi.org/10.5281/zenodo.7308248">talk given by Deborah Stone</a> for the LIS-Bibliometrics Conference 2022.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/images/paste-790D9D2B.png" class="img-fluid"></p>
+<p>What is the idea of the nature of the thing that you’re trying to count? Categories are human decisions. Once you decide what belongs in the category you counting, you predetermine the number you’ll find. This is why every number is just a snake eating it’s tail.</p>
+<p>Three points:</p>
+<ol type="1">
+<li>A number reflects human decisions about what is important. What are the important qualities of a thing that make it belong to a category and therefore count?</li>
+<li>The crucial fact about a number is not how big or how small it is. It is about who counted. Who decided what counts?</li>
+<li>Counting is a form of power. It is the power to decide what matters.</li>
+</ol>
+<p>Humans create numbers. Then they claim that their creations are independent of their own subjective judgements. Numbers are no more objective than words.</p>
+<p>If we know numbers aren’t objective: Why do we use them anyway to guide important decisions?</p>
+<p>People want to use numbers, however crude they are, because we fear that the officials who have power over us, might be biased or play favourites. By setting firm, objective criteria to constrain them, we hope to reduce whim, favouritism, and prejudice. We call for numbers to protect ourselves from arbitrary power. Thats why so many institutions that evaluate programmes and people are increasingly using metrics instead of human judges, to promote fairness. Or so the argument goes.</p>
+<p>Evaluation by numbers is supposed to make the people being evaluated feel that they are being treated objectively and fairly. Numbers make human judges feel more confident in their judgement. They rather hide behind the numbers.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/images/paste-E3641D7E.png" class="img-fluid"></p>
+<p>Once we entrust ourselves to numbers, the snake is eating us, not its own tail.</p>
+<p>People have long realised that numbers aren’t the objective gods that we’d like to believe.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/images/paste-DD23E882.png" class="img-fluid"></p>
+<p>Before we think about alternatives measures of impact. What are the hidden impacts of journals, articles and other research outputs that bibliometrics don’t measure?</p>
+<p>The JIF as an evaluation tool creates pressures to conformity and discourages creativity. Citation serves as a mechanism for maintaining hierarchy in the profession. Journals with low JIF scores can still have a huge impact on scientific progress.</p>
+<p>How might we better evaluate the impact of research and publications?</p>
+<ol type="1">
+<li>The people affected by a policy should have a say in it’s development</li>
+<li>Ask people to tell me about a time you felt successful in their work? The answers tell us what people most care about and what their values are.</li>
+<li>Tease out the impacts from respondents words. What is grabbing? Use this as data.</li>
+<li>Ask yourself whether the meanings of impact you discovered can be broken down into countable units. What would that unit be? Would different observers agree?
+<ol type="1">
+<li><p>If you must quantify, don’t rely on one unit like citations, build a multi-factor indicator.</p></li>
+<li><p>Don’t rely exclusively on numbers. Stories are more compelling than numbers and allow space for personal discretion in evaluation decisions.</p></li>
+</ol></li>
+<li>People who count have biases too. They make subjective judgement in order to count. They exercise their biases when they decide what counts. Numbers only hide those judgments and biases and make them invisible. They do not eliminate them. Metrics are more efficient, but when you’re playing with individual’s careers, you owe them individual consideration. If you want to encourage originality and creativity, you need to allow for personal judgement. To reduce prejudice, use multiple evaluators. Insist that they engage in an open discussion about the thinking behind their judgments, preferably face to face.</li>
+</ol>
+<p>Bibliometrics is both a commercial industry and a device for maintaining the status-quo hierarchy of knowledge producers. But if enough will practice these methods we can create a parallel universe in which evaluators and evaluated feel more honest, appreciated and effective.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li>‘Counting: How We Use Numbers to Decide What Matters’ book by Deborah Stone</li>
+<li><a href="https://openworking.wordpress.com/2021/09/01/quality-is-key/">Quality is Key</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <category>Inclusion</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/index.html</guid>
+  <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/snake.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Microsoft Teams</title>
@@ -89,10 +222,18 @@
 <p><a href="https://credit.niso.org/">CRediT</a> (Contributor Roles Taxonomy) is a taxonomy of 14 roles. You can use CRediT to describe each contributor’s specific contribution to the scholarly output.</p>
 <p>CrediT contributes to a more transparent research record.</p>
 <p>A helpful tool to record CredIT contributions is <a href="https://rollercoaster.shinyapps.io/tenzing/">Tenzing</a>. You can cite <a href="https://doi.org/10.1371/journal.pone.0244611">Holcombe et al.&nbsp;2020</a> when you use this tool.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://twitter.com/ZJAyres/status/1597870454408368129"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit/images/paste-F9DE4E61.png" class="img-fluid figure-img" alt="Zoë Ayres tweets: &quot;If a technician has contributed to scientific data collection, they should be in the author list, not in the acknowledgements. Tired of seeing people not get credited properly for their contribution.&quot; The tweet is liked ~2700 times and retweeted/cited ~250 times."></a></p>
+<p></p><figcaption class="figure-caption">[Tweet](https://twitter.com/ZJAyres/status/1597870454408368129) by Zoë Ayres</figcaption><p></p>
+</figure>
+</div>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 <ul>
 <li><a href="https://doi.org/10.1371/journal.pone.0244611">Holcombe et al.&nbsp;2020</a></li>
+<li><a href="https://ukrio.org/research-integrity-resources/authorship/">UK Research Integrity Office Authorship Resources</a></li>
+<li><a href="https://www.rms.org.uk/community/networks-affiliates/bioimaginguk-network/imaging-facility-publication-guidelines.html">Publication Guidelines Poster from BioImagingUK</a></li>
 </ul>
 
 
@@ -776,10 +917,13 @@
 <p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/images/paste-C13FF521.png" class="img-fluid"></p>
 <p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/images/paste-F6537985.png" class="img-fluid"></p>
 <p>https://doi.org/10.5281/zenodo.7311282</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/images/paste-A1FE8743.png" class="img-fluid"></p>
+<p>https://zenodo.org/record/7158818#.Y5EJAX2ZOUn</p>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 <ul>
 <li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-access-rights-retention/">Rights Retention Strategy</a></p></li>
+<li><p><a href="https://www.nature.com/articles/d41586-022-03201-w">Why I think ending article-processing charges will save open access</a></p></li>
 <li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft Open Access Funding</a></p></li>
 <li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser">TU Delft Journal Browser</a></p></li>
 </ul>
@@ -992,134 +1136,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-thesis-chapter/index.html</guid>
   <pubDate>Sat, 29 Oct 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-thesis-chapter/PhD-cat.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Data Management Plan - PhDs at TU Delft</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-PhD/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>When do you need to set up a Data Management Plan as a PhD candidate at TU Delft/TNW?</p>
-<section id="phd-agreement" class="level2">
-<h2 class="anchored" data-anchor-id="phd-agreement">PhD agreement</h2>
-<p>During the first three months of the doctoral programme, doctoral candidates need to formulate a PhD agreement in consultation with their supervisors. The Data Management plan is part of the other arrangements, but at this point <strong>you do not need a complete plan</strong>! <strong>A complete Data Management Plan is required for the Go/No-Go</strong>. For the PhD agreement it is sufficient to state how you will set up your Data Management Plan. You can briefly state in the form that:</p>
-<ol type="1">
-<li>You will follow a course. (As part of the <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101">Research Data Management 101 course</a> you need to set up a Data Management Plan. If you’re interested in an Applied Science version of the course, <a href="https://forms.office.com/r/PLm9TMBGGk">please fill out this form</a>).</li>
-<li>You will follow the Data Management Plan that your project/supervisors have already set up.</li>
-<li>You will set up the plan yourself using the online platform <a href="https://dmponline.tudelft.nl/">DMPonline</a>.</li>
-<li>You will set up an appointment with the Data Steward to set up the plan.</li>
-</ol>
-<p>You can combine some of these options, for example: follow the Data Management Plan of your supervisor/larger research project and adjust this yourself using <a href="https://dmponline.tudelft.nl/">DMPonline</a>.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-PhD/images/paste-EC9287C2.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Information field for the Data Management activities in the PhD agreement form</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="data-management-plan" class="level2">
-<h2 class="anchored" data-anchor-id="data-management-plan">Data Management Plan</h2>
-<p>The easiest way to set up your Data Management Plan is to first check whether your supervisor/project already has a Data Management Plan that you can built upon.</p>
-<p>If there is no Data Management Plan available yet it is easiest to use the online platform <a href="https://dmponline.tudelft.nl/">DMPonline.</a> Here you can make use of the TU Delft template that provides guidance and example answers. You can watch a <a href="https://surfdrive.surf.nl/files/index.php/s/QOxmyWwoanBr5Cl">recording of Esther</a> going over filling out the TU Delft template, or go over the questions yourself on the platform:</p>
-<ul>
-<li><p>To get started you set up an account on <a href="https://dmponline.tudelft.nl/">DMPonline</a></p></li>
-<li><p>To select the TU Delft template you select the ‘Create plans’ header:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-PhD/images/paste-6325BF90.png" class="img-fluid"></p></li>
-<li><p>You can fill out the name of your project in the question “What research project are you planning?” and keep TU Delft as your institution. If you select the “no funder” tick-box you’ll get the option to select the TU Delft template.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-PhD/images/paste-388082B8.png" class="img-fluid"></p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information:</h2>
-<ul>
-<li><p><a href="https://commons.esipfed.org/node/1439">Why create a Data Management Plan? by ESIP</a></p></li>
-<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline">How to set up a DMPonline account and use the platform</a></p></li>
-<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/DMP-5-things/">5 things to check in a Data Management Plan</a></p></li>
-<li><p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html#a-data-management-plan-should-provide-information-on-five-main-topics">A Data Management Plan should provide information on 6 main topics</a></p></li>
-<li><p><a href="https://www.evalantsoght.com/2022/11/phd-talk-for-academictransfer-data-management-data-management-plan-and-the-role-of-the-library-in-helping-researchers-with-their-data-management.html">Data Management for Researchers</a></p></li>
-</ul>
-</section>
-<section id="section" class="level1">
-<h1></h1>
-
-
-</section>
-
- ]]></description>
-  <category>Data Management Plan</category>
-  <category>PhD</category>
-  <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-PhD/index.html</guid>
-  <pubDate>Mon, 24 Oct 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/DMP-PhD/DMP.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Artificial Intelligence at TU Delft</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/Delft-AI/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>TU Delft hosts several initiatives related to Artificial Intelligence:</p>
-<ul>
-<li><p><a href="https://www.tudelft.nl/digital-ethics-centre">Digital Ethics Centre for fair and safe AI</a> (see <a href="https://www.tudelft.nl/en/2022/tu-delft/tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai">announcement of the launch</a>)</p></li>
-<li><p><a href="https://www.tudelft.nl/ai/tu-delft-ai-labs">TU Delft AI Labs</a></p>
-<ul>
-<li><p><a href="https://www.tudelft.nl/ai/cheme-lab">ChemE AI lab</a></p></li>
-<li><p><a href="https://www.tudelft.nl/ai/biolab">BIOLab</a></p></li>
-<li><p><a href="https://www.tudelft.nl/ai/iris">IRIS Lab</a></p></li>
-</ul></li>
-<li><p><a href="https://listserv.tudelft.nl/mailman/listinfo/ai">AI mail list</a></p></li>
-</ul>
-<section id="tnw-researchers-interested-in-ai" class="level2">
-<h2 class="anchored" data-anchor-id="tnw-researchers-interested-in-ai">TNW researchers interested in AI</h2>
-<ul>
-<li><p><a href="https://www.tudelft.nl/en/stories/articles/using-artificial-intelligence-to-eye-the-quantum-computer">Eliška Greplová</a> (QN)</p></li>
-<li><p><a href="https://www.tudelft.nl/tnw/over-faculteit/afdelingen/chemical-engineering/principal-scientists/artur-schweidtmann">Artur Schweidtmann</a> (ChemE)</p></li>
-<li><p><a href="https://www.tudelft.nl/en/staff/q.tao/">Qian Tao</a> (ImPhys)</p></li>
-<li><p><a href="https://www.tudelft.nl/tnw/over-faculteit/afdelingen/bionanoscience/about-the-department/dr-kristin-grussmayer">Kristin Grußmayer</a> (BN)</p></li>
-<li><p><a href="https://www.tudelft.nl/tnw/over-faculteit/afdelingen/radiation-science-technology/research/research-groups/reactor-physics-and-nuclear-materials/people/zoltan-perko">Zoltán Perkó</a> (RST)</p></li>
-<li><p><a href="https://www.brinkslab.org/">Daan Brinks</a> (ImPhys)</p></li>
-<li><p><a href="http://www.elizabethcarroll.org/">Elizabeth Carroll</a> (ImPhys)</p></li>
-<li><p><a href="https://www.marescalab.eu/">David Maresca</a> (ImPhys)</p></li>
-<li><p><a href="http://jakobilab.tudelft.nl/">Arjen J. Jakobi</a> (BN)</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Artificial Intelligence</category>
-  <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Delft-AI/index.html</guid>
-  <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Delft-AI/ai.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>Data legislation overview</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-legislation/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This pdf provides an overview of legislation regarding data in the EU:</p>
-<p><a href="https://iapp.org/media/pdf/resource_center/recent_eu_data_initiatives_in_context_infographic.pdf" class="uri">https://iapp.org/media/pdf/resource_center/recent_eu_data_initiatives_in_context_infographic.pdf</a></p>
-
-
-
- ]]></description>
-  <category>Research Data Management</category>
-  <category>FAIR</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-legislation/index.html</guid>
-  <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-legislation/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
