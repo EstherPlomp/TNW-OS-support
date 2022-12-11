@@ -124,8 +124,7 @@ Overview of resources related to programming, Python, Git(Hub), Shell and progra
 
 -   [Intermediate Python Workshop](https://github.com/JoaoRodrigues/sc-teaching/blob/master/intermediate-python-2020/index.md)
 
-## 
-R 
+### R 
 
 Please find a curated list for [R resources at the TU Delft R Café](https://delft-rcafe.github.io/resources/)
 
