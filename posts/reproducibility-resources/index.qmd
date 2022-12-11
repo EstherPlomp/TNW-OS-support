@@ -1,0 +1,30 @@
+---
+title: "Reproducibility resources"
+author: "Esther Plomp"
+date: "2022-12-11"
+categories: [Reproducibility]
+image: "reproducibility.jpg"
+---
+
+## Reproducibility in the literature
+
+-   [Reproducibility and Replicability in Science](https://www.nap.edu/read/25303/chapter/1)
+-   [**Quantum computing**'s reproducibility crisis: Marjorana fermions](https://www.nature.com/articles/d41586-021-00954-8)
+-   [A replication crisis in methodological research?](https://doi.org/10.1111/1740-9713.01444) (**Machine Learning**)
+-   [Enhancing reproducibility for **computational methods**](https://science.sciencemag.org/content/354/6317/1240)
+-   [Reproducibility and Replication of Experimental Particle **Physics** Results](https://doi.org/10.1162/99608f92.250f995b)
+-   [Raise standards for **preclinical cancer research**](https://doi.org/10.1038/483531a)
+-   [A reference high-pressure CH4 adsorption isotherm for zeolite Y: results of an interlaboratory study](https://doi.org/10.1007/s10450-020-00253-0)
+-   [Irreproducibility in hydrogen storage material research](https://doi.org/10.1039/C6EE01435F) (**Hydrology**)
+-   [Most computational **hydrology** is not reproducible, so is it really science?](https://doi.org/10.1002/2016WR019285)
+-   [Repeatability in **Computer Science**](http://repeatability.cs.arizona.edu/)
+-   [Does **Chemical Engineering** Research Have a Reproducibility Problem?](https://doi.org/10.1146/annurev-chembioeng-%20060718-030323)
+-   [Reproducibility in **Chemical Research**](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201606591)
+-   [Does repeat synthesis in materials **chemistry** obey a power law?](https://doi.org/10.1073/pnas.1918484117)
+-   [Deriving chemosensitivity from cell lines: Forensic **bioinformatics** and reproducible research in high-throughput biology](https://doi.org/10.1214/09-AOAS291)
+-   [How Does One "Open" Science? Questions of Value in **Biological Research**](https://doi.org/10.1177%2F0162243916672071)
+-   [Promoting Open Science to Increase the Trustworthiness of Evidence in Special **Education**](https://doi.org/10.1177%2F0014402918793138)
+
+## More information
+
+-   [Reproducibility checklist](https://estherplomp.github.io/TNW-OS-support/posts/reproducibility-checklist/)
