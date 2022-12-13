@@ -1,7 +1,7 @@
 ---
 title: "Publishing articles in 2021"
 author: "Esther Plomp"
-date: "2022-09-04"
+date: "2022-12-13"
 categories: [Open Data, Data Management Plan, Open Software, FAIR, Plan S]
 image: "Plan-S.png"
 ---
@@ -16,8 +16,7 @@ This post is based on an earlier [blogpost](https://openworking.wordpress.com/20
 
 -   Articles should be Open Access upon publication**: No embargo period** is allowed.
 
-    -   Books and book chapters are still beyond the scope of Plan S. NWO allows an
-        embargo period of 12 months for these research outputs.
+    -   Books and book chapters are still beyond the scope of Plan S. NWO allows an embargo period of 12 months for these research outputs.
 
 -   Authors should **retain copyright**.
 
@@ -35,17 +34,13 @@ This post is based on an earlier [blogpost](https://openworking.wordpress.com/20
 
     -   For **Horizon Europe** you are eligible for funding if the article is published in a full open access venue (hybrid journals are not allowed).
 
-    ```{=html}
-    <!-- -->
-    ```
     -   See also the TU Delft [Open Access Fund](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding)!
 
--   The manuscript needs to be **peer reviewed**. Preferably the Version of Record from the publisher is made available, but the Author Accepted Manuscript (postprint that is peer reviewed but
-    not yet formatted by the journal) is also accepted.
+-   The manuscript needs to be **peer reviewed**. Preferably the Version of Record from the publisher is made available, but the Author Accepted Manuscript (postprint that is peer reviewed but not yet formatted by the journal) is also accepted.
 
 -   **Compliance is monitored** by NWO/Horizon Europe.
 
-A first version of the [**Journal Checker Tool**](http://www.journalcheckertool.org)is now available, so that you can now easily check yourself whether your preferred journal is in compliance with Plan S!
+The [**Journal Checker Tool**](http://www.journalcheckertool.org)allows you to easily check whether your preferred journal is in compliance with Plan S!
 
 ![](images/paste-9536397F.png)
 
@@ -63,20 +58,32 @@ A first version of the [**Journal Checker Tool**](http://www.journalcheckertool.
 
 -   You can use the [**TU Delft Open Publishing Platform**](https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing/): [The Evolving Scholar](https://journals.open.tudelft.nl/thes) is now live and open for submissions!
 
-## If you would like to **make your work available from projects before 2021** (or if you\'re not funded by NWO/Horizon Europe) you can also make use of these additional options:
+-   You can use the [**Rights Retention strategy**](https://estherplomp.github.io/TNW-OS-support/posts/open-access-rights-retention/).
 
--   Through the project [\'You Share, We Take Care\'](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care) you can make articles and book chapters published from 2018 onwards available after an embargo period of six months. You can now [participate through this online form](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care/participation)!
+## If you would like to **make your work available from projects before 2021** (or if you're not funded by NWO/Horizon Europe) you can also make use of these additional options:
+
+-   Through the project ['You Share, We Take Care'](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care) you can make articles and book chapters published from 2018 onwards available after an embargo period of six months. You can now [participate through this online form](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care/participation)!
 
 -   You can always post a postprint using repositories/preprint servers: Check [Sherpa/Romeo](https://v2.sherpa.ac.uk/romeo/) to see which version of the manuscript you can make available and for the length of embargo periods.
 
 **Resources that go into more detail:**
 
-[TU Delft Open Access Infographic](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/Library%20voor%20wetenschappers/Publiceren%20en%20verspreiden/OPEN%20SCIENCE%20TUD%20DEF.pdf)\
-[Horizon Europe -- Open Access](https://ec.europa.eu/research/openscience/index.cfm?pg=openaccess) \
-[NWO Plan S Implementation Guidelines](https://www.nwo.nl/en/implementation-guidelines-plan-s) \
-[KNAW Webinar Implementation of Plan S](https://www.youtube.com/watch?v=OCfRV-8MYto) \
-[Nine routes towards Plan S compliance](https://101innovations.wordpress.com/2019/06/15/nine-routes-towards-plan-s-compliance-updated/) \
-[Open Access policies for Dutch researchers](https://docs.google.com/spreadsheets/d/1XODQVAfxpRgCBdeXmqWSmghIoAIBBi5R5P_DBZINY5U/edit#gid=0) \
-[What will change in Horizon Europe?](https://www.youtube.com/watch?v=0YSqUNF_5wY) \
-[Open Science in Horizon Europe: what to expect?](https://dariahopen.hypotheses.org/968)\
-[Open-Access.nl](http://www.openaccess.nl)
+-   [TU Delft Open Access Infographic](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/Library%20voor%20wetenschappers/Publiceren%20en%20verspreiden/OPEN%20SCIENCE%20TUD%20DEF.pdf)
+
+-   [Horizon Europe -- Open Access](https://ec.europa.eu/research/openscience/index.cfm?pg=openaccess)
+
+-   [NWO Plan S Implementation Guidelines](https://www.nwo.nl/en/implementation-guidelines-plan-s)
+
+-   [KNAW Webinar Implementation of Plan S](https://www.youtube.com/watch?v=OCfRV-8MYto)
+
+-   [Nine routes towards Plan S compliance](https://101innovations.wordpress.com/2019/06/15/nine-routes-towards-plan-s-compliance-updated/)
+
+-   [Open Access policies for Dutch researchers](https://docs.google.com/spreadsheets/d/1XODQVAfxpRgCBdeXmqWSmghIoAIBBi5R5P_DBZINY5U/edit#gid=0)
+
+-   [What will change in Horizon Europe?](https://www.youtube.com/watch?v=0YSqUNF_5wY)
+
+-   [Open Science in Horizon Europe: what to expect?](https://dariahopen.hypotheses.org/968)
+
+-   [Open-Access.nl](http://www.openaccess.nl)
+
+-   [Plan S and cOAlition S: an integrated set of policies for full and immediate Open Access](https://av.tib.eu/media/58284) (17 min video)
