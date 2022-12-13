@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/open-access-2021/index.html",
       "/posts/data-sharing-barriers/index.html",
       "/posts/software-resources/index.html",
       "/posts/reproducibility-resources/index.html",
@@ -42,7 +43,6 @@
       "/posts/data-citation/index.html",
       "/posts/open-science-buffet/index.html",
       "/posts/data-sharing-SURFdrive/index.html",
-      "/posts/open-access-2021/index.html",
       "/posts/software-citation/index.html",
       "/posts/readme/index.html",
       "/posts/data-organisation/index.html",
