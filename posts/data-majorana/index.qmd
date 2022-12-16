@@ -34,4 +34,4 @@ Quantum computing's reproducibility crisis: Majorana fermions.
 
 -   [About our Majorana fermion paper](https://espressospin.org/2012/04/12/background-information-for-our-majorana-fermion-paper/)
 
--   [Majorana Fireside Chats: Vincent Mourik and Sergey Frolov](https://www.youtube.com/watch?v=d10LudwLfMk)
+-   [Majorana Fireside Chats: Vincent Mourik and Sergey Frolov](https://www.youtube.com/watch?v=d10LudwLfMk) (see also [episode 2)](https://www.youtube.com/watch?v=lhBp-uBqjCc)
