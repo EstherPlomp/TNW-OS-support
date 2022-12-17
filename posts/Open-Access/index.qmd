@@ -6,6 +6,10 @@ categories: [Open Access]
 image: "image.jpg"
 ---
 
+## Why? 
+
+[Open access to facilitate research and information on COVID-19](https://en.unesco.org/covid19/communicationinformationresponse/opensolutions)
+
 Explanation preprint, postprint etc. Link with sherpa romeo
 
 https://youtu.be/L5rVH1KGBCY
