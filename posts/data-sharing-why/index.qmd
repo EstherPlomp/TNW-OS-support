@@ -52,6 +52,10 @@ Summary of the investigation by experts:
 
 -   [Does repeat synthesis in materials chemistry obey a power law?](https://www.pnas.org/cgi/doi/10.1073/pnas.1918484117)
 
+-   [1,500 scientists lift the lid on reproducibility](https://doi.org/10.1038/533452a)
+
+[![](images/paste-28AC93DB.png){fig-alt="Among the factors that contribute to irreproducible research are the lack of methods, code and data being available for the publications."}](https://doi.org/10.1038/533452a)
+
 ## Five selfish reasons to work reproducibly
 
 Florian Markowetz provides five selfish reasons in his [article](https://doi.org/10.1186/s13059-015-0850-7) and [presentation](https://youtu.be/1Y_oIjlH-yg?t=355) (50 min) to work more reproducible. Reproducibility:
