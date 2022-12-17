@@ -98,6 +98,10 @@ https://data.4tu.nl/info/fileadmin/user_upload/Documenten/Deposit_Guidelines_202
 
 https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories
 
+https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html
+
+[How To #1: Upload Your Data to 4TU.ResearchData](https://www.youtube.com/watch?v=JasPLg7-9mQ&list=PLbowNAyqknwb-l8GiGwcX53s8CDB7bZv1)
+
 ## Examples
 
 [Lia et al. 2020](https://doi.org/10.12688/wellcomeopenres.15893.2)
