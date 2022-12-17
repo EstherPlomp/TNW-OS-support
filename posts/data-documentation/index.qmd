@@ -6,7 +6,7 @@ categories: [Research Data Management]
 image: "documentation.png"
 ---
 
-This post provides information about documentation, file naming and metadata.
+Documentation is important to understand the data/code. This post provides information about documentation, file naming and metadata.
 
 ## Documentation
 
@@ -21,6 +21,8 @@ It is important to document your data, as it provides the contextual information
 -   [Guide on how to create data dictionaries](https://doi.org/10.1177/2515245920928007)
 
 -   check the README post
+
+[![](images/image-1807077771.png)](https://twitter.com/thecrobe/status/1373590641012322306)
 
 ## File naming convention
 
@@ -42,6 +44,8 @@ Examples:\
 -   Avoid special characters (?\\!\@\*%{\[\<\>) and spaces
 
 You can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean.
+
+[![](images/image-930892278.png)](https://twitter.com/chazhutton/status/1285955514241875968/photo/1)
 
 ### More information on file naming
 
@@ -84,3 +88,7 @@ Reference your samples: dates in notebooks + supplier's name/code
 Add any relevant notes:
 
 ![(copyright by Marta Teperek)](images/paste-C1DEDF1E.png){alt="(copyright by Marta Teperek)" fig-alt="An excel sheet with physical sample organisation. The first column describes sample names, the second the accompanying data in the labbook, the third column the amount of samples left (if there are multiple), the fourth one is the sample sizes and the last column contains any notes about the sample."}
+
+## More information
+
+-   [DIVIO Documentation guide](https://documentation.divio.com/introduction/)

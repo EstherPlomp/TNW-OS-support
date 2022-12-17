@@ -6,6 +6,8 @@ categories: [Open Data]
 image: "open-data-fountain.jpg"
 ---
 
+Research data refers to all data created in the course of research and includes source code, algorithms, simulations and models, experimental notes (paper or digital), physical samples, questionnaires, video and audio recordings, protocols, and other forms of information supporting traditional publication ([Applied Sciences Research Data Management Policy](https://d2k0ddhflgrk1i.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf)).
+
 In order to determine what data should be openly shared ask yourself the following questions:
 
 **What information would another colleague need** to understand

@@ -18,7 +18,7 @@ image: "open-data-fountain.jpg"
 
 -   Collaboration
 
--   Increases quality of scientific practice
+-   Increases quality of scientific practice by increasing reproducibility and transparency of research
 
 -   Cost/time efficient
 
@@ -27,6 +27,10 @@ image: "open-data-fountain.jpg"
 -   Reduces duplication efforts
 
 -   Provides resources for training and education
+
+-   Meeting institutional/funder/industrial requirements
+
+The Coronavirus crisis is one of several global challenges which has highlighted the critical importance of making research data rapidly available for re-use, as well as curated to common standards [(UNESCO](https://en.unesco.org/covid19/communicationinformationresponse/opensolutions)).
 
 ## Example: Majorana retraction
 
@@ -71,3 +75,4 @@ Florian Markowetz provides five selfish reasons in his [article](https://doi.org
 -   See also the posts on [licensing](https://estherplomp.github.io/TNW-OS-support/posts/licenses/), good enough FAIR software
 -   [Encouragements and advice from several scientists and data stewards](https://blog.wellcomeopenresearch.org/2020/12/09/presenting-your-data-champions/)
 -   [UKRN primer on Data Sharing](https://osf.io/wp4zu/)
+-   [APA Explains: Data Sharing](https://www.youtube.com/watch?v=D-KlMPG_MhQ)

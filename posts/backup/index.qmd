@@ -16,8 +16,32 @@ To avoid losing your data, you should follow recommended **backup practices**:
 
 The more important the data and the more often the datasets change, the more frequently you should back them up.
 
-Automatic backup is preferred!
+**Automatic backup** is preferred!
+
+Be careful with storing important data on external drives and flash memory devices (USB/MicroSD cards). They pose a security risk due to their portability, are easily damaged or lost.
+
+## Questions to consider for your backup strategy
+
+-   How will you back up your data? What storage solutions meet your needs?
+
+-   How often will you make full backups (backing all your data) and incremental backups (backing up only the data and files that have changed since the previous backup)?
+
+-   How long will backups be stored?
+
+-   How much storage space will be required to maintain this backup schedule? Will multiple storage devices be needed to successfully backup all your data?
+
+-   How will you keep track of different versions of data, especially if backing-up to multiple devices? If using versioning software, which software will you use (Git, Subversion)?
+
+-   Will you be using any backup tools or applications?
+
+-   If the data are sensitive, how will they be stored securely?
+
+    -   How will you manage the secure deletion or destruction of data if required?
+
+-   How and when will you test your backup system?
 
 ## More information
 
-[The Turing Way on backups](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html#backups)
+-   [The Turing Way on backups](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html#backups)
+
+-   [11 ways to avert a data-storage disaster](https://doi.org/10.1038/d41586-019-01040-w)

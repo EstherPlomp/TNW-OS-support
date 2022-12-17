@@ -9,7 +9,8 @@ image: "encryption.png"
 Encryption provides protection by ensuring that only someone with the relevant encryption key (or password) will be able to access the contents.
 
 -   **Disk level**: *Bitlocker* for Windows, *FileVault* for MacOS
--   **"container" level** (a folder containing multiple files): *Veracrypt* for Windows, *Archive* for MacOS (see also Disk Utilities, [more information](https://www.intego.com/mac-security-blog/how-to-use-apples-built-in-features-to-encrypt-files-and-folders))
+    -   2 minute video: [Encrypt a portable drive with BitLocker](https://www.youtube.com/watch?v=y4Iosu-Yfsw)
+-   **"container" level** (a folder containing multiple files): *Veracrypt* for Windows, *Archive or IZip* for MacOS (see also Disk Utilities, [more information](https://www.intego.com/mac-security-blog/how-to-use-apples-built-in-features-to-encrypt-files-and-folders))
 -   **Portable storage**: *Bitlocker*
 -   **File level / Exchange information**
     -   *MS Office encryption* from Office 2016 onward uses AES-256 and is considered secure.
@@ -26,6 +27,26 @@ Encryption provides protection by ensuring that only someone with the relevant e
 -   [KeePass](https://keepass.info/)
 
 \*Information taken from the TU Delft guidance on [NetIDs and passwords (pdf)](https://d1rkab7tlqy5f1.cloudfront.net/Studentenportal/Centraal/ICT/ICT%20Security/2.1_Work_Safe_-_NetID_en_Passwords.pdf)
+
+Password managers simplify the process of creating, storing and managing passwords.
+
+-   You only need to remember one password
+
+-   Synchronisation across devices
+
+-   Automated generation of secure passwords
+
+-   Encryption of stored passwords
+
+-   Identification of potentially non-secure and compromised passwords
+
+## Keep in mind
+
+-   Data encryption is not a substitute for other data protection strategies (access control).
+
+-   The encryption is only as strong and secure as your chosen password.
+
+-   If the encryption key is lost, the disk image gets corrupted, or the hard disk fails, any encrypted data will be lost.
 
 ## **More information**
 

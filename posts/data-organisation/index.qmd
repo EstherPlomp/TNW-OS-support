@@ -20,7 +20,7 @@ Make sure you have enough (sub)folders so that files can be stored in the right 
 
 Make sure the folder structure is clear: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.
 
-See also: [Find Files Faster: How to Organize Files and Folders](https://zapier.com/blog/organize-files-folders/)
+See also: [Find Files Faster: How to Organize Files and Folders](https://zapier.com/blog/organize-files-folders/) & [Data Management: File Organization](https://www.scribd.com/document/480821619/FileOrg-20160121-pdfhttps://surfdrive.surf.nl/files/index.php/s/gJtISAQABapLvnI)
 
 ## Cookie Cutter templates
 
@@ -49,3 +49,15 @@ In general it is good practise to:
 -   [Ten Common Data Management Mistakes by Crystal Lewis](https://cghlewis.com/talk/sssp_ecf/)
 
 -   Borer et al. 2009: [Some Simple Guidelines for Effective Data Management](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/0012-9623-90.2.205)
+
+-   Briney et al. 2020: [Foundational Practices of Research Data Management](https://doi.org/10.3897/rio.6.e56508)
+
+-   Noble 2009: [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424)
+
+-   [Data management mistakes](https://www.youtube.com/watch?v=Z_ysxiAGKC8) (2 min video)
+
+-   [DataFlowToolkit](https://dataflowtoolkit.dk/)
+
+-    [Webinar: Data Management Basics 1: Introduction to data management and sharing](https://www.youtube.com/watch?v=fqpo1tndpQw&list=PLG87Imnep1Sln3F69_kBROUrIbT5iderf&index=2)
+
+-   [Videos on project structure](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=2) by Danielle Navarro
