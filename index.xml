@@ -9,7 +9,7 @@
 <link>https://github.com/EstherPlomp/TNW-OS-support/index.html</link>
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.2.269</generator>
+<generator>quarto-1.2.280</generator>
 <lastBuildDate>Tue, 13 Dec 2022 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Publishing articles in 2021</title>
@@ -95,6 +95,124 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/index.html</guid>
   <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/Plan-S.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>Software Resources</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Overview of resources related to programming, Python, Git(Hub), Shell and programming communities.</p>
+<section id="general-resources" class="level3">
+<h3 class="anchored" data-anchor-id="general-resources">General Resources</h3>
+<ul>
+<li><p><a href="https://the-turing-way.netlify.app/welcome">The Turing Way</a></p></li>
+<li><p><a href="https://github.com/Chris-Engelhardt/data_sci_guide">Overview of guided workshops, R/Python/SQL/Git/Shell courses</a></p></li>
+<li><p><a href="https://dev.to/facundocorradini/why-i-don-t-use-stack-overflow-1f0l">Stack Overflow</a></p></li>
+<li><p><a href="https://guides.uflib.ufl.edu/reproducibility/lessons">Research Reproducibility and Open Science</a> by Hao Ye</p></li>
+<li><p><a href="https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md/#1">Social coding: sharing and citing software</a> by CodeRefinery</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1k8k3EqT8iz96zSeXVt4J7QB5aeXkUJEATZhev900sr4/edit?usp=sharing">Debugging Bingo</a> by Ji Son</p></li>
+<li><p><a href="https://ecorepsci.github.io/reproducible-science/index.html">Computational Tools for Reproducible Science</a> (with an R focus)</p></li>
+<li><p><a href="https://nixos.org/">NixOS</a></p></li>
+<li><p><a href="https://twitter.com/usenextjournal/status/1364880836118663173">Nextjournal</a></p></li>
+<li><p><a href="https://www.software.ac.uk/how-make-your-script-ready-publication">How to make your script ready for publication</a></p></li>
+<li><p>Example of a workflow: ‘<a href="https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/">The task is a quantum of workflow</a>’</p></li>
+<li><p><a href="https://www.ukrn.org/primers/">Open Research Primers</a></p></li>
+<li><p><a href="https://calmcode.io/">Calmcode.io</a></p></li>
+<li><p>Text editors for <strong>Mac:</strong> Atom, Subline Text, TextEdit, BBEdit, Visual Studio Code</p></li>
+<li><p><a href="https://www.software.ac.uk/blog/2021-11-04-top-tips-start-coding-academia">Top Tips to Start Coding in Academia</a></p></li>
+<li><p><a href="https://github.com/danielskatz/repro-fdtd1d/blob/master/Computational_Reproducibility.pdf">Presentation by Daniel Katz</a> on Computational Reproducibility (intermediate/advanced)</p></li>
+<li><p><a href="https://kbroman.org/AdvData/14_clearcode.pdf">Writing clear code</a> by Karl Broman</p></li>
+<li><p><a href="https://doi.org/10.5281/zenodo.3922957">Writing Clean Scientific Software</a> by Nicolas Murphy</p></li>
+</ul>
+</section>
+<section id="shellunix" class="level3">
+<h3 class="anchored" data-anchor-id="shellunix">Shell/Unix</h3>
+<ul>
+<li><p><a href="https://www.nature.com/articles/d41586-021-00263-0">Five reasons why researchers should learn to love the command line</a></p></li>
+<li><p><a href="https://youtu.be/et_QrTWqjNU">Recording of the Automating Task lesson</a>by SoftwareSaved</p></li>
+<li><p><a href="https://datascienceatthecommandline.com/">Data Science at the Command Line</a> by Jeroen Janssen</p></li>
+</ul>
+</section>
+<section id="github" class="level3">
+<h3 class="anchored" data-anchor-id="github">Git(Hub)</h3>
+<ul>
+<li><p><a href="https://www.youtube.com/watch?v=QRUvQgKbVZQ">OLS GitHub intro</a> (OLS1) and a <a href="https://www.youtube.com/watch?v=Wui21rKrCNk">more extensive intro for OLS2</a></p></li>
+<li><p><a href="http://nyu-dataservices.github.io/Intro-Git-GitHub/git.html">GitHub intro</a> by Vicky Steeves (<a href="https://github.com/NYU-DataServices/Intro-Git-GitHub">repository</a>)</p></li>
+<li><p><a href="https://guides.github.com/introduction/flow/">GitHub’s introduction on branches</a></p></li>
+<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a></p></li>
+<li><p><a href="https://coderefinery.github.io/social-coding/">Git + social coding from Code Refinery</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=fTRtzsYo7Ho">Recording of the Git lesson</a>by SoftwareSaved</p></li>
+<li><p><a href="https://tom.preston-werner.com/2009/05/19/the-git-parable.html">The Git Parable</a> by Tom Preston-Werner</p></li>
+<li><p><a href="https://www.smashingmagazine.com/2021/02/getting-the-most-out-of-git/">Getting the most out of git</a> (Intermediate)</p></li>
+<li><p><a href="http://git-scm.com/book/en/v2">Pro Git</a></p></li>
+<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">Git flow</a></p></li>
+<li><p><a href="https://voyteklab.com/git/git-primer/">Git/GitHub primer</a> (beginner)</p></li>
+<li><p><a href="https://orchid00.github.io/git_for_humans/007_resources.html">Git Resources</a> by Paula Andrea Martinez</p></li>
+<li><p><a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Where-system-global-and-local-Windows-Git-config-files-are-saved">Git configuration files</a></p></li>
+<li><p><a href="https://learngitbranching.js.org/">Learn Git Branching</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=gfPP2pQ8Rms">OHBM Brainhack 2021 - Traintrack: Version control</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=w3jLJU7DT5E">What is Github</a> (3-4 min video)</p></li>
+<li><p><a href="https://webinerds.com/version-control-systems-keep-your-code-in-order/">Version Control Systems: Keep Your Code in Order!</a></p></li>
+<li><p><a href="https://doi.org/10.1371/journal.pcbi.1004947">Ten Simple Rules for Taking Advantage of Git and GitHub</a> (Perez-Riverol et al.&nbsp;2016)</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=OPqGR8m6v18">Introduction to Git</a> (more theoretical + GitLab)</p></li>
+</ul>
+</section>
+<section id="python" class="level3">
+<h3 class="anchored" data-anchor-id="python">Python</h3>
+<ul>
+<li><p><a href="https://dabeaz-course.github.io/practical-python">Practical Python Programming</a> by David Beazley&nbsp;</p></li>
+<li><p>Packages</p>
+<ul>
+<li><p><a href="https://education.molssi.org/python-package-best-practices/index.html">Python Package Best Practices</a></p></li>
+<li><p><a href="https://github.com/mwouts/jupytext">Jupytext</a></p></li>
+</ul></li>
+<li><p>Recording of a Python Carpentry Workshop by SoftwareSaved using Jupyter Lab (<a href="https://youtu.be/YHDvqPRM9tE">part 1</a>) (<a href="https://youtu.be/hhTV6BuSmcM">part 2</a>)</p></li>
+<li><p><a href="https://jupyter4edu.github.io/jupyter-edu-book/index.html">Teaching and Learning with Jupyter</a></p></li>
+<li><p><a href="https://hypothesis.readthedocs.io/en/latest/">Hypothesis</a> library</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=G1GjUZgZQbk&amp;list=PL35C27CB854E03FF2">Python videos</a> (beginner?)</p></li>
+<li><p><a href="https://github.com/wmvanvliet/gizmo">Can you speak Python?</a></p></li>
+<li><p><a href="https://carpentries.org/blog/2021/07/pyrse-book/">Research Software Engineering with Python</a></p></li>
+<li><p><a href="https://maneage.org/index.html">Maneage</a>&nbsp;</p></li>
+<li><p><a href="https://speakerdeck.com/trallard/jupyter-notebooks-friends-or-foes">Jupyter notebooks: Friends or foes?</a></p></li>
+<li><p><a href="https://doi.org/10.1371/journal.%20pcbi.1007007">Ten simple rules for writing and sharing Computational analyses in Jupyter Notebooks</a> (Rule et al.&nbsp;2019)</p></li>
+<li><p><a href="https://github.com/JoaoRodrigues/sc-teaching/blob/master/intermediate-python-2020/index.md">Intermediate Python Workshop</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=b1gmh4W3H9A">Build a Dashboard with Python Plotly Dash</a> (webinar by Laura Gutierrez Funderburk)</p></li>
+</ul>
+</section>
+<section id="r" class="level3">
+<h3 class="anchored" data-anchor-id="r">R</h3>
+<p>Please find a curated list for <a href="https://delft-rcafe.github.io/resources/">R resources at the TU Delft R Café</a></p>
+</section>
+<section id="communities" class="level3">
+<h3 class="anchored" data-anchor-id="communities">Communities</h3>
+<ul>
+<li><p>Code Newbies (<a href="https://twitter.com/CodeNewbies">@CodeNewbies</a>)</p></li>
+<li><p>Codecademy (<a href="https://twitter.com/Codecademy">@Codecademy</a>)</p></li>
+<li><p>Stackademic (<a href="https://twitter.com/StackademicHQ">@StackademicHQ</a>)</p></li>
+<li><p>Code .org (<a href="https://twitter.com/codeorg">@codeorg</a>)</p></li>
+<li><p>Women Who Code (<a href="https://twitter.com/WomenWhoCode">@WomenWhoCode</a>)</p></li>
+<li><p>Girls Who Code (<a href="https://twitter.com/GirlsWhoCode">@GirlsWhoCode</a>)</p></li>
+<li><p>Free Code Camp (<a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>)</p></li>
+<li><p>Black Girls Code (<a href="https://twitter.com/BlackGirlsCode">@BlackGirlsCode</a>)</p></li>
+<li><p>Design+Code (<a href="https://twitter.com/designcodeio">@designcodeio</a>)</p></li>
+<li><p>Microsoft Make Code (<a href="https://twitter.com/MSMakeCode">@MSMakeCode</a>)</p></li>
+<li><p>CodeHS (<a href="https://twitter.com/CodeHS">@CodeHS</a>)</p></li>
+</ul>
+<p><br>
+</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Software</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</guid>
+  <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Barriers to data/code sharing</title>
@@ -241,123 +359,6 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Software Resources</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Overview of resources related to programming, Python, Git(Hub), Shell and programming communities.</p>
-<section id="general-resources" class="level3">
-<h3 class="anchored" data-anchor-id="general-resources">General Resources</h3>
-<ul>
-<li><p><a href="https://the-turing-way.netlify.app/welcome">The Turing Way</a></p></li>
-<li><p><a href="https://github.com/Chris-Engelhardt/data_sci_guide">Overview of guided workshops, R/Python/SQL/Git/Shell courses</a></p></li>
-<li><p><a href="https://dev.to/facundocorradini/why-i-don-t-use-stack-overflow-1f0l">Stack Overflow</a></p></li>
-<li><p><a href="https://guides.uflib.ufl.edu/reproducibility/lessons">Research Reproducibility and Open Science</a> by Hao Ye</p></li>
-<li><p><a href="https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md/#1">Social coding: sharing and citing software</a> by CodeRefinery</p></li>
-<li><p><a href="https://docs.google.com/presentation/d/1k8k3EqT8iz96zSeXVt4J7QB5aeXkUJEATZhev900sr4/edit?usp=sharing">Debugging Bingo</a> by Ji Son</p></li>
-<li><p><a href="https://ecorepsci.github.io/reproducible-science/index.html">Computational Tools for Reproducible Science</a> (with an R focus)</p></li>
-<li><p><a href="https://nixos.org/">NixOS</a></p></li>
-<li><p><a href="https://twitter.com/usenextjournal/status/1364880836118663173">Nextjournal</a></p></li>
-<li><p><a href="https://www.software.ac.uk/how-make-your-script-ready-publication">How to make your script ready for publication</a></p></li>
-<li><p>Example of a workflow: '<a href="https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/">The task is a quantum of workflow</a>'</p></li>
-<li><p><a href="https://www.ukrn.org/primers/">Open Research Primers</a></p></li>
-<li><p><a href="https://calmcode.io/">Calmcode.io</a></p></li>
-<li><p>Text editors for <strong>Mac:</strong> Atom, Subline Text, TextEdit, BBEdit, Visual Studio Code</p></li>
-<li><p><a href="https://www.software.ac.uk/blog/2021-11-04-top-tips-start-coding-academia">Top Tips to Start Coding in Academia</a></p></li>
-<li><p><a href="https://github.com/danielskatz/repro-fdtd1d/blob/master/Computational_Reproducibility.pdf">Presentation by Daniel Katz</a> on Computational Reproducibility (intermediate/advanced)</p></li>
-<li><p><a href="https://kbroman.org/AdvData/14_clearcode.pdf">Writing clear code</a> by Karl Broman</p></li>
-<li><p><a href="https://doi.org/10.5281/zenodo.3922957">Writing Clean Scientific Software</a> by Nicolas Murphy</p></li>
-</ul>
-</section>
-<section id="shellunix" class="level3">
-<h3 class="anchored" data-anchor-id="shellunix">Shell/Unix</h3>
-<ul>
-<li><p><a href="https://www.nature.com/articles/d41586-021-00263-0">Five reasons why researchers should learn to love the command line</a></p></li>
-<li><p><a href="https://youtu.be/et_QrTWqjNU">Recording of the Automating Task lesson</a>by SoftwareSaved</p></li>
-<li><p><a href="https://datascienceatthecommandline.com/">Data Science at the Command Line</a> by Jeroen Janssen&nbsp;</p></li>
-</ul>
-</section>
-<section id="github" class="level3">
-<h3 class="anchored" data-anchor-id="github">Git(Hub)</h3>
-<ul>
-<li><p><a href="https://www.youtube.com/watch?v=QRUvQgKbVZQ">OLS GitHub intro</a> (OLS1) and a <a href="https://www.youtube.com/watch?v=Wui21rKrCNk">more extensive intro for OLS2</a></p></li>
-<li><p><a href="http://nyu-dataservices.github.io/Intro-Git-GitHub/git.html">GitHub intro</a> by Vicky Steeves (<a href="https://github.com/NYU-DataServices/Intro-Git-GitHub">repository</a>)</p></li>
-<li><p><a href="https://guides.github.com/introduction/flow/">GitHub's introduction on branches</a></p></li>
-<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a></p></li>
-<li><p><a href="https://coderefinery.github.io/social-coding/">Git + social coding from Code Refinery</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=fTRtzsYo7Ho">Recording of the Git lesson</a>by SoftwareSaved</p></li>
-<li><p><a href="https://tom.preston-werner.com/2009/05/19/the-git-parable.html">The Git Parable</a> by Tom Preston-Werner</p></li>
-<li><p><a href="https://www.smashingmagazine.com/2021/02/getting-the-most-out-of-git/">Getting the most out of git</a> (Intermediate)</p></li>
-<li><p><a href="http://git-scm.com/book/en/v2">Pro Git</a></p></li>
-<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">Git flow</a></p></li>
-<li><p><a href="https://voyteklab.com/git/git-primer/">Git/GitHub primer</a> (beginner)</p></li>
-<li><p><a href="https://orchid00.github.io/git_for_humans/007_resources.html">Git Resources</a> by Paula Andrea Martinez</p></li>
-<li><p><a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Where-system-global-and-local-Windows-Git-config-files-are-saved">Git configuration files</a></p></li>
-<li><p><a href="https://learngitbranching.js.org/">Learn Git Branching</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=gfPP2pQ8Rms">OHBM Brainhack 2021 - Traintrack: Version control</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=w3jLJU7DT5E">What is Github</a> (3-4 min video)</p></li>
-<li><p><a href="https://webinerds.com/version-control-systems-keep-your-code-in-order/">Version Control Systems: Keep Your Code in Order!</a></p></li>
-<li><p><a href="https://doi.org/10.1371/journal.pcbi.1004947">Ten Simple Rules for Taking Advantage of Git and GitHub</a> (Perez-Riverol et al.&nbsp;2016)</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=OPqGR8m6v18">Introduction to Git</a> (more theoretical + GitLab)</p></li>
-</ul>
-</section>
-<section id="python" class="level3">
-<h3 class="anchored" data-anchor-id="python">Python</h3>
-<ul>
-<li><p><a href="https://dabeaz-course.github.io/practical-python">Practical Python Programming</a> by David Beazley&nbsp;</p></li>
-<li><p>Packages</p>
-<ul>
-<li><p><a href="https://education.molssi.org/python-package-best-practices/index.html">Python Package Best Practices</a></p></li>
-<li><p><a href="https://github.com/mwouts/jupytext">Jupytext</a></p></li>
-</ul></li>
-<li><p>Recording of a Python Carpentry Workshop by SoftwareSaved using Jupyter Lab (<a href="https://youtu.be/YHDvqPRM9tE">part 1</a>) (<a href="https://youtu.be/hhTV6BuSmcM">part 2</a>)</p></li>
-<li><p><a href="https://jupyter4edu.github.io/jupyter-edu-book/index.html">Teaching and Learning with Jupyter</a></p></li>
-<li><p><a href="https://hypothesis.readthedocs.io/en/latest/">Hypothesis</a> library</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=G1GjUZgZQbk&amp;list=PL35C27CB854E03FF2">Python videos</a> (beginner?)</p></li>
-<li><p><a href="https://github.com/wmvanvliet/gizmo">Can you speak Python?</a></p></li>
-<li><p><a href="https://carpentries.org/blog/2021/07/pyrse-book/">Research Software Engineering with Python</a></p></li>
-<li><p><a href="https://maneage.org/index.html">Maneage</a>&nbsp;</p></li>
-<li><p><a href="https://speakerdeck.com/trallard/jupyter-notebooks-friends-or-foes">Jupyter notebooks: Friends or foes?</a></p></li>
-<li><p><a href="https://doi.org/10.1371/journal.%20pcbi.1007007">Ten simple rules for writing and sharing Computational analyses in Jupyter Notebooks</a> (Rule et al.&nbsp;2019)</p></li>
-<li><p><a href="https://github.com/JoaoRodrigues/sc-teaching/blob/master/intermediate-python-2020/index.md">Intermediate Python Workshop</a></p></li>
-</ul>
-</section>
-<section id="r" class="level3">
-<h3 class="anchored" data-anchor-id="r">R</h3>
-<p>Please find a curated list for <a href="https://delft-rcafe.github.io/resources/">R resources at the TU Delft R Café</a></p>
-</section>
-<section id="communities" class="level3">
-<h3 class="anchored" data-anchor-id="communities">Communities</h3>
-<ul>
-<li><p>Code Newbies (<a href="https://twitter.com/CodeNewbies">@CodeNewbies</a>)</p></li>
-<li><p>Codecademy (<a href="https://twitter.com/Codecademy">@Codecademy</a>)</p></li>
-<li><p>Stackademic (<a href="https://twitter.com/StackademicHQ">@StackademicHQ</a>)</p></li>
-<li><p>Code .org (<a href="https://twitter.com/codeorg">@codeorg</a>)</p></li>
-<li><p>Women Who Code (<a href="https://twitter.com/WomenWhoCode">@WomenWhoCode</a>)</p></li>
-<li><p>Girls Who Code (<a href="https://twitter.com/GirlsWhoCode">@GirlsWhoCode</a>)</p></li>
-<li><p>Free Code Camp (<a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>)</p></li>
-<li><p>Black Girls Code (<a href="https://twitter.com/BlackGirlsCode">@BlackGirlsCode</a>)</p></li>
-<li><p>Design+Code (<a href="https://twitter.com/designcodeio">@designcodeio</a>)</p></li>
-<li><p>Microsoft Make Code (<a href="https://twitter.com/MSMakeCode">@MSMakeCode</a>)&nbsp;</p></li>
-<li><p>CodeHS (<a href="https://twitter.com/CodeHS">@CodeHS</a>)&nbsp;</p></li>
-</ul>
-<p><br>
-</p>
-
-
-</section>
-
- ]]></description>
-  <category>Software</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</guid>
-  <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Reproducibility resources</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-resources/index.html</link>
@@ -431,7 +432,7 @@
 <li><p><a href="https://retractionwatch.com/2021/12/16/another-setback-for-majorana-particle-as-science-paper-earns-an-expression-of-concern/">Another setback for ‘Majorana’</a></p></li>
 <li><p><a href="https://www.tudelft.nl/en/2022/tu-delft/negligence-in-nature-article-on-quantized-majorana-conductance">Negligence in Nature article on Quantized Majorana conductance</a> (see also <a href="https://www.delta.tudelft.nl/article/lowi-majorana-onderzoekers-onzorgvuldig">TU Delft Delta</a>)</p></li>
 <li><p><a href="https://espressospin.org/2012/04/12/background-information-for-our-majorana-fermion-paper/">About our Majorana fermion&nbsp;paper</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=d10LudwLfMk">Majorana Fireside Chats: Vincent Mourik and Sergey Frolov</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=d10LudwLfMk">Majorana Fireside Chats: Vincent Mourik and Sergey Frolov</a> (see also <a href="https://www.youtube.com/watch?v=lhBp-uBqjCc">episode 2)</a></p></li>
 </ul>
 
 
@@ -476,39 +477,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</guid>
   <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Open Peer Review</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://fediscience.org/@lindedomingo/109315960101734543"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/images/paste-121DACEA.png" class="img-fluid figure-img" alt="a Mastodon poll asking about people's preferences for signed or anonymous reviewers. 44% prefer signed review, versus 27% anonymous. 17% doesn't have a preference and 13% just wanted to see the results. 112 people voted on the poll that was posted on 9 november 2022."></a></p>
-</figure>
-</div>
-<p>Open Peer review can refer to various practises, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><p><strong>The Turing Way</strong> has a chapter on <a href="https://the-turing-way.netlify.app/communication/peer-review.html">Peer Review</a>, including a section on <a href="https://the-turing-way.netlify.app/communication/peer-review/peer-review-open.html">Open Peer Review</a>.</p></li>
-<li><p>Check the <a href="https://doi.org/10.5281/zenodo.5484087"><strong>Open Reviewers Review Guide</strong></a>. Pages 28-31 provide insights about what a reviewer would look for when evaluating your manuscript.</p></li>
-<li><p>Read some <a href="http://neural-reckoning.org/reviewing.html">reflections on <strong>reviewing in the publishing system</strong></a>.</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <category>Open Publishing</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/index.html</guid>
-  <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/open-review.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>A number is a snake chasing it’s tail</title>
@@ -569,6 +537,39 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/snake.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Open Peer Review</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://fediscience.org/@lindedomingo/109315960101734543"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/images/paste-121DACEA.png" class="img-fluid figure-img" alt="a Mastodon poll asking about people's preferences for signed or anonymous reviewers. 44% prefer signed review, versus 27% anonymous. 17% doesn't have a preference and 13% just wanted to see the results. 112 people voted on the poll that was posted on 9 november 2022."></a></p>
+</figure>
+</div>
+<p>Open Peer review can refer to various practises, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><p><strong>The Turing Way</strong> has a chapter on <a href="https://the-turing-way.netlify.app/communication/peer-review.html">Peer Review</a>, including a section on <a href="https://the-turing-way.netlify.app/communication/peer-review/peer-review-open.html">Open Peer Review</a>.</p></li>
+<li><p>Check the <a href="https://doi.org/10.5281/zenodo.5484087"><strong>Open Reviewers Review Guide</strong></a>. Pages 28-31 provide insights about what a reviewer would look for when evaluating your manuscript.</p></li>
+<li><p>Read some <a href="http://neural-reckoning.org/reviewing.html">reflections on <strong>reviewing in the publishing system</strong></a>.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <category>Open Publishing</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/index.html</guid>
+  <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/open-review.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Microsoft Teams</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-teams/index.html</link>
@@ -600,6 +601,75 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-teams/index.html</guid>
   <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-teams/teams.png" medium="image" type="image/png" height="134" width="144"/>
+</item>
+<item>
+  <title>DORA</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The Declaration on Research Assessment (<a href="https://sfdora.org/">DORA</a>) recognizes the need to improve the ways in which researchers and the outputs of scholarly research are evaluated.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/dora.png" class="img-fluid"></p>
+<p>DORA recommends:</p>
+<ul>
+<li><p>The elimination of journal-based metrics, such as Journal Impact Factors, in funding, appointment, and promotion considerations;</p></li>
+<li><p>To assess research on its own merits rather than on the basis of the journal in which the research is published; and</p></li>
+<li><p>To capitalize on the opportunities provided by online publication (such as relaxing unnecessary limits on the number of words, figures, and references in articles, and exploring new indicators of significance and impact).</p></li>
+</ul>
+<p>TU Delft signed DORA via the <a href="https://www.universiteitenvannederland.nl/en_GB/">Association of Universities in the Netherlands</a>. You can also <a href="https://sfdora.org/sign/">sign the declaration</a> as an individual.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/credit/">CRediT</a></li>
+<li><a href="https://openworking.wordpress.com/2021/09/01/quality-is-key/">Quality is key</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Credit</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/index.html</guid>
+  <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/dora.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Open Science &amp; Inclusion</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-evaluation/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This posts lists several resources regarding inclusion gaps in the scientific landscape</p>
+<section id="gender" class="level3">
+<h3 class="anchored" data-anchor-id="gender">Gender</h3>
+<ul>
+<li><a href="https://doi.org/10.7554/eLife.83071">Meta-Research: Systemic racial disparities in funding rates at the National Science Foundation</a></li>
+</ul>
+</section>
+<section id="race" class="level3">
+<h3 class="anchored" data-anchor-id="race">Race</h3>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://doi.org/10.1126/sciadv.abq7056">Labor advantages drive the greater productivity of faculty at elite universities</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <category>Inclusion</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-evaluation/index.html</guid>
+  <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-evaluation/OS-TUD.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>CRediT</title>
@@ -774,40 +844,6 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-FAQ/faq.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
-  <title>DORA</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The Declaration on Research Assessment (<a href="https://sfdora.org/">DORA</a>) recognizes the need to improve the ways in which researchers and the outputs of scholarly research are evaluated.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/dora.png" class="img-fluid"></p>
-<p>DORA recommends:</p>
-<ul>
-<li><p>The elimination of journal-based metrics, such as Journal Impact Factors, in funding, appointment, and promotion considerations;</p></li>
-<li><p>To assess research on its own merits rather than on the basis of the journal in which the research is published; and</p></li>
-<li><p>To capitalize on the opportunities provided by online publication (such as relaxing unnecessary limits on the number of words, figures, and references in articles, and exploring new indicators of significance and impact).</p></li>
-</ul>
-<p>TU Delft signed DORA via the <a href="https://www.universiteitenvannederland.nl/en_GB/">Association of Universities in the Netherlands</a>. You can also <a href="https://sfdora.org/sign/">sign the declaration</a> as an individual.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/credit/">CRediT</a></li>
-<li><a href="https://openworking.wordpress.com/2021/09/01/quality-is-key/">Quality is key</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Credit</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/index.html</guid>
-  <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/dora.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
   <title>Open Science - 3 easy things</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-3-things/index.html</link>
@@ -849,41 +885,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-3-things/index.html</guid>
   <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-3-things/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Open Science &amp; Inclusion</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-evaluation/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This posts lists several resources regarding inclusion gaps in the scientific landscape</p>
-<section id="gender" class="level3">
-<h3 class="anchored" data-anchor-id="gender">Gender</h3>
-<ul>
-<li><a href="https://doi.org/10.7554/eLife.83071">Meta-Research: Systemic racial disparities in funding rates at the National Science Foundation</a></li>
-</ul>
-</section>
-<section id="race" class="level3">
-<h3 class="anchored" data-anchor-id="race">Race</h3>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://doi.org/10.1126/sciadv.abq7056">Labor advantages drive the greater productivity of faculty at elite universities</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <category>Inclusion</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-evaluation/index.html</guid>
-  <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-evaluation/OS-TUD.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>PhD onboarding day - Data Management &amp; Open Science</title>
@@ -1153,10 +1154,10 @@
 <h2 class="anchored" data-anchor-id="tu-delft-network-drives">TU Delft network drives</h2>
 <table class="table">
 <colgroup>
-<col style="width: 17%">
-<col style="width: 25%">
-<col style="width: 25%">
-<col style="width: 31%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 29%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -1197,7 +1198,10 @@
 <ul>
 <li>Note that anyone with access to the Project Drive will have viewing or editing rights for the entire Project Drive, unless you’re using UMRA. If you want to easily manage access permissions it may be needed to request multiple Project Drives or work with alternative storage solutions such as SURF/OneDrive.</li>
 </ul></li>
-<li><p>The Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).</p></li>
+<li><p>The Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).</p>
+<ul>
+<li>Read more about <a href="https://estherplomp.github.io/TNW-OS-support/posts/access-project-drive/">how to access the Project Drive</a>.</li>
+</ul></li>
 <li><p>To request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with ‘Change’ selected rather than ‘New’. For &gt;5 TB of space, you may be contacted by the faculty IT manager for approval.</p></li>
 </ul>
 <section id="network-drives-and-delft-hpc" class="level3">
@@ -1258,9 +1262,13 @@
 <ul>
 <li><p>Link your data and protocols</p></li>
 <li><p>Collaborate easily by sharing your documents and data directly in the notebook</p></li>
-<li><p>Export data in several formats</p></li>
+<li><p>Export data in several formats or directly to a data repository</p></li>
 <li><p>Integration with other software/tools</p></li>
+<li><p>Data and documents have unique IDs associated with them, and automatically generated metadata</p></li>
+<li><p>Easily searchable</p></li>
+<li><p>Automatic recording of document versions supports protection of intellectual property</p></li>
 <li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">TU Delft offers licenses for RSpace and eLABjournal</a></p></li>
+<li><p><a href="https://openworking.wordpress.com/2019/07/05/keep-calm-and-go-paperless-electronic-lab-notebooks-can-improve-your-research/">Interview with Siân from TU Delft about her experiences</a></p></li>
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
