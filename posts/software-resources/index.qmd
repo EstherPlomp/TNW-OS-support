@@ -14,7 +14,7 @@ Overview of resources related to programming, Python, Git(Hub), Shell and progra
 
 -   [Overview of guided workshops, R/Python/SQL/Git/Shell courses](https://github.com/Chris-Engelhardt/data_sci_guide)
 
--   [Stack Overflow ](https://dev.to/facundocorradini/why-i-don-t-use-stack-overflow-1f0l)
+-   [Stack Overflow](https://dev.to/facundocorradini/why-i-don-t-use-stack-overflow-1f0l)
 
 -   [Research Reproducibility and Open Science](https://guides.uflib.ufl.edu/reproducibility/lessons) by Hao Ye
 
@@ -30,7 +30,7 @@ Overview of resources related to programming, Python, Git(Hub), Shell and progra
 
 -   [How to make your script ready for publication](https://www.software.ac.uk/how-make-your-script-ready-publication)
 
--   Example of a workflow: \'[The task is a quantum of workflow](https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/)\'
+-   Example of a workflow: '[The task is a quantum of workflow](https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/)'
 
 -   [Open Research Primers](https://www.ukrn.org/primers/)
 
@@ -50,9 +50,9 @@ Overview of resources related to programming, Python, Git(Hub), Shell and progra
 
 -   [Five reasons why researchers should learn to love the command line](https://www.nature.com/articles/d41586-021-00263-0)
 
--   [Recording of the Automating Task lesson ](https://youtu.be/et_QrTWqjNU)by SoftwareSaved
+-   [Recording of the Automating Task lesson](https://youtu.be/et_QrTWqjNU)by SoftwareSaved
 
--   [Data Science at the Command Line](https://datascienceatthecommandline.com/) by Jeroen Janssen 
+-   [Data Science at the Command Line](https://datascienceatthecommandline.com/) by Jeroen Janssen
 
 ### Git(Hub)
 
@@ -60,13 +60,13 @@ Overview of resources related to programming, Python, Git(Hub), Shell and progra
 
 -   [GitHub intro](http://nyu-dataservices.github.io/Intro-Git-GitHub/git.html) by Vicky Steeves ([repository](https://github.com/NYU-DataServices/Intro-Git-GitHub))
 
--   [GitHub\'s introduction on branches](https://guides.github.com/introduction/flow/)
+-   [GitHub's introduction on branches](https://guides.github.com/introduction/flow/)
 
 -   [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 -   [Git + social coding from Code Refinery](https://coderefinery.github.io/social-coding/)
 
--   [Recording of the Git lesson ](https://www.youtube.com/watch?v=fTRtzsYo7Ho)by SoftwareSaved
+-   [Recording of the Git lesson](https://www.youtube.com/watch?v=fTRtzsYo7Ho)by SoftwareSaved
 
 -   [The Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html) by Tom Preston-Werner
 
@@ -124,7 +124,9 @@ Overview of resources related to programming, Python, Git(Hub), Shell and progra
 
 -   [Intermediate Python Workshop](https://github.com/JoaoRodrigues/sc-teaching/blob/master/intermediate-python-2020/index.md)
 
-### R 
+-   [Build a Dashboard with Python Plotly Dash](https://www.youtube.com/watch?v=b1gmh4W3H9A) (webinar by Laura Gutierrez Funderburk)
+
+### R
 
 Please find a curated list for [R resources at the TU Delft R Café](https://delft-rcafe.github.io/resources/)
 
@@ -148,9 +150,8 @@ Please find a curated list for [R resources at the TU Delft R Café](https://del
 
 -   Design+Code ([\@designcodeio](https://twitter.com/designcodeio))
 
--   Microsoft Make Code ([\@MSMakeCode](https://twitter.com/MSMakeCode)) 
+-   Microsoft Make Code ([\@MSMakeCode](https://twitter.com/MSMakeCode))
 
--   CodeHS ([\@CodeHS](https://twitter.com/CodeHS)) 
+-   CodeHS ([\@CodeHS](https://twitter.com/CodeHS))
 
 \
-
