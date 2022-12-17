@@ -16,29 +16,34 @@ Rights Retention Strategy was initiated by cOAlition S to ensure that the resear
 [Implementing the rights retention strategy for scientific publications](https://www.ouvrirlascience.fr/implementing-the-rights-retention-strategy-for-scientific-publications/)
 :::
 
+## Why?
+
+-   To allow immediate open access to scientific publications
+
+-   Publications are immediately shareable, citable, reusable and archived permanently.
+
+-   Align with funder requirements (NWO, Horizon Europe)
+
 By employing the Rights Retention Strategy you retain your rights on the manuscripts, which gives you the right to share the author's version of the article, after peerreview, through a repository. This is Green Open Access, but then without the embargo period (generally 6-48 months) that journals usually place on this version of the article.
 
 When you choose a NC or NC-ND license, publishers take over the control of authorisations where only they can make and authorise derivatives and commercially use your work. This copyright transfer has only been [introduced relatively recent](https://blogs.lse.ac.uk/impactofsocialsciences/2019/06/03/what-the-history-of-copyright-in-academic-publishing-tells-us-about-open-research/) and is not something that is essential for the publishing process.
 
-*"As author(s) and original copyright holder(s) of this submission, I/we have applied a Creative Commons Attribution (CC BY) licence to any Author Accepted Manuscript (AAM) version arising from this submission. If the article is accepted for publication, I/we will make the AAM available without embargo in a repository. Please confirm by return that the author(s) will NOT be required to sign a contract that prevents this action. If I/we do not hear from you before DD/MM/YYYY, I/we will seek a different journal that will accept my/our manuscript under these conditions."*
+## How?
+
+1.  Give prior notice to the publisher
+
+Provide in the submission letter or in the acknowledgements of the publication the following wording:
+
+*"As author(s) and original copyright holder(s) of this submission, I/we have applied a Creative Commons Attribution (CC BY) licence to any Author Accepted Manuscript (AAM) version arising from this submission. If the article is accepted for publication, I/we will make the AAM available without embargo in a repository."*
+
+Template text for the acknowledgements:
 
 *"For the purpose of open access, **the author has applied a CC BY licence** to any Author Accepted Manuscript version arising from this submission."*
 
-**Keep a copy of the successive versions of your manuscript with the licence notice**, and archive your discussions with the publisher so as to be able to testify, if necessary, to the retention of your rights.
+2.  **Keep a copy of the successive versions of your manuscript with the licence notice**, and archive your discussions with the publisher so as to be able to testify, if necessary, to the retention of your rights.
+3.  Once accepted, you can update the article with the changes from peer review and archive this version (Author's Accepted Manuscript/postprint) as an update to the preprint - or use the TU Delft repository.
 
 If you run into any troubles during this process, you can reach out to library\[at\]tudelft.nl or your funder (for example, [Horizon Europe](https://ec.europa.eu/info/research-and-innovation/contact/research-enquiry-service_en)). You can also reach out to [CoalitionS](info@coalition-s.org) directly.
-
-## Why?
-
-::: callout-note
-To allow immediate open access to your scientific publications.
-
-publications are immediately shareable, citable, reusable and archived permanently.
-
-align with the open science policy of financing institutions (NWO, Horizon Europe)
-
-[Implementing the rights retention strategy for scientific publications](https://www.ouvrirlascience.fr/implementing-the-rights-retention-strategy-for-scientific-publications/)
-:::
 
 ## Examples
 
@@ -73,3 +78,5 @@ Examples of articles that used the Rights Retention Strategy (from [Mounce 2022]
 -   [Rights retention policy: an update after 9 months](https://libraryblogs.is.ed.ac.uk/openscholarship/2022/10/14/rights-retention-policy-an-update-after-9-months/)
 
 -   [French RRS Monitor](https://ml4rrieu.github.io/rrs/)
+
+-   [Leiden University: Use the Rights Retention Strategy](https://www.digitalscholarshipleiden.nl/articles/use-the-rights-retention-strategy-publish-with-a-publisher-while-retaining-sufficient-rights-for-full-open-access)
