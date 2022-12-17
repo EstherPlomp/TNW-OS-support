@@ -30,6 +30,8 @@ The Project Drive is the recommended storage solution for research data.
 
 -   The Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).
 
+    -   Read more about [how to access the Project Drive](https://estherplomp.github.io/TNW-OS-support/posts/access-project-drive/).
+
 -   To request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with 'Change' selected rather than 'New'. For \>5 TB of space, you may be contacted by the faculty IT manager for approval.
 
 ### Network Drives and Delft HPC
