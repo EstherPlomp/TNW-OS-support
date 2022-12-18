@@ -8,6 +8,14 @@ image: "image.jpg"
 
 How to share data?
 
+## Data not available upon request
+
+-   Only 26-40% of psychologists and social scientists complied with a request to access the data ([Tedersoo et al. 2021](https://doi.org/10.1038/s41597-021-00981-0); [Wicherts et al. 2006](https://doi.org/10.1037/0003-066X.61.7.726)).
+
+-   Only 44% of economists provided their data and materials upon request ([Krawczyk & Reuben 2012](https://doi.org/10.1080/08989621.2012.678688)).
+
+-   14% one
+
 To share the research data in accordance with the [FAIR principles](https://estherplomp.github.io/TNW-OS-support/posts/FAIR/), you need to select a data repository.
 
 When selecting a repository, researchers should consider the following:
