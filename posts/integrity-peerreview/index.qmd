@@ -1,0 +1,29 @@
+---
+title: "Peer review flaws "
+author: "Esther Plomp"
+date: "2022-11-29"
+categories: [Integrity, Peerreview]
+image: "OS-TUD.png"
+---
+
+The peer review process does not successfully keep out bad science.
+
+## Some of the  flaws of the peer review process include:
+
+-   **Bias**: Reviewers may be biased against certain research or researchers, which can affect their evaluations. For example, reviewers may be more likely to reject research that challenges their own views or that comes from researchers they do not know.
+
+-   **Lack of diversity:** Since identities of peer reviewers are often not known, it is difficult to assess their backgrounds, which can result in a lack of representation and potentially biased evaluations.
+
+-   **Limited expertise**: Reviewers may not have the necessary expertise to evaluate certain types of research, which can lead to incomplete or inaccurate evaluations.
+
+-   **Slow turnaround time:** The peer review process can be slow, with some studies taking months or even years to be reviewed and published. This can delay the dissemination of important research findings. (See Preprints)
+
+-   **Lack of transparency**: The peer review process is often not transparent, as peer reviewer identities are unknown and reviews are not always public. (see Open Peer Review)
+
+## Examples
+
+https://www.winrepo.org/publications/ https://prism-break.org/en/
+
+## More information
+
+-   [List of references regarding diversity, biases, and inclusivity studies and opinion pieces](https://www.winrepo.org/publications/)
