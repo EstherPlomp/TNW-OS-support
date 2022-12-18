@@ -1,15 +1,80 @@
 ---
 title: "TU Delft Approved Software Licenses"
 author: "Esther Plomp"
-date: "2022-08-28"
+date: "2022-12-19"
 categories: [Software, Licenses]
 image: "image.jpg"
 ---
 
-There's a broad distinction between permissive and restrictive/copyleft software licenses:
+A brief overview of the TU Delft Approved Software Licenses.
 
-Permissive: (commercial) use, copy, modify, merge, publish, distribute licensed works, modifications, and larger works may be distributed under different terms and without source code.
+## Permissive licences
 
-Examples of TU Delft approved permissive licenses: MIT, BSD, Apache, CC0
+**Permissive**: MIT, BSD, Apache, CC0
 
-Restrictive/Copyleft: GPL, AGPL, LGPL, EUPL (slide 3)
+**Permissive licenses** allow you to (commercially) use, copy, modify, merge, publish, and distribute the software.
+
+Licensed works, modifications, and larger works may be distributed under **different terms** and **without source code**.
+
+-   [**CC0**](https://choosealicense.com/licenses/cc0-1.0/): Waives copyright and dedicates it to the public domain
+
+-   [**MIT License**](https://choosealicense.com/licenses/mit/)**:** Short and simple license
+
+-   **BSD**
+
+    -   [**BSD 2**](https://choosealicense.com/licenses/bsd-2-clause/)**:** Similar to MIT license (with more details)
+
+    -   [**BSD 3**](https://choosealicense.com/licenses/bsd-3-clause/): Contains a clause restricting use of the names of contributors for endorsement of a derived code without specific permission
+
+    -   [**BSD 3 - Clear**](https://choosealicense.com/licenses/bsd-3-clause-clear/)**:** Provides an option to place the OSS licensed material under patent
+
+-   [**Apache Licence 2**](https://choosealicense.com/licenses/apache-2.0/)**:** User does not have to worry about infringing any patents (user is granted a licence to any patent that covers the software)
+
+## Restrictive licences
+
+**Restrictive/Copyleft**: GPL, AGPL, LGPL, EUPL
+
+**Restrictive/Copyleft licenses** allow you to (commercially) use, copy, modify, merge, publish, distribute the software
+
+Derivative code must be open source and distributed under the **same or equivalent license**
+
+-   **GNU General Public Licence ([GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/), [GPLv2](https://choosealicense.com/licenses/gpl-2.0/)):** oes not permit incorporating your program into proprietary programs
+
+    -   [**GNU Lesser General Public License v3.0**](https://choosealicense.com/licenses/lgpl-3.0/)**:** Lighter version of GPL. A larger work using the licensed work through interfaces provided by the licensed work may be distributed under different terms and without source code for the larger work. Designed for library routines.
+
+    -   [**GNU Affero General Public License v3.0**](https://choosealicense.com/licenses/agpl-3.0/)Stricter version of GPL. If you run a modified program on a server and let other users communicate with it there, then your server must also allow them to download the source code.
+
+-   [**European Union Public Licence (EUPL)**](https://choosealicense.com/licenses/eupl-1.2/): Created and approved by the European Commission. It is available in 23 European languages. Confirms with all existing (civil law) copyright laws of the EU (limitations of liability and warranty have been precisely defined).
+
+## Comparison of Licences
+
+|             | Permissions       | Conditions          | Conditions                      | Conditions   | Conditions    | Limitations   |
+|----------|----------|----------|------------|----------|----------|----------|
+| **License** | **Patent use**    | **Disclose source** | **Network use is distribution** | Same License | State Changes | Trademark use |
+| MIT         |                   |                     |                                 |              |               |               |
+| BSD v2, 3   | Y or N (BSDClear) |                     |                                 |              |               |               |
+| Apache v2   | Y                 |                     |                                 |              | Y             | N             |
+| GPL v3      | Y                 | Y                   |                                 | Y            | Y             |               |
+| AGPL        | Y                 | Y                   | Y                               | Y            | Y             |               |
+| LGPL        | Y                 | Y                   |                                 | Y (library)  | Y             |               |
+| EUPL        | Y                 | Y                   | Y                               | Y            | Y             | N             |
+| CCO         | N                 | N                   | N                               | N            | N             | N             |
+|             |                   |                     |                                 |              |               |               |
+
+: Comparison between the TU Delft approved licences
+
+See <https://choosealicense.com/appendix/> for a complete overview
+
+## Compatability of licences
+
+[![TU Delft Guidelines on Research Software, page 19](images/image-911847391.png){fig-alt="Compatibility of licences indicated, where CCO, MIT, BSD, Apache and EUPL are compatible with one another. Incompatibility exists between GPL and Apache, EUPL."}](https://doi.org/10.5281/zenodo.4629635)
+
+[![From A Quick Guide to Software Licensing for the Scientist-Programmer. In general, permissively licensed code is forward compatible with any other license type. However, only permissive licenses, such as the BSD and MIT, can feed into other permissive licenses. Restrictive licenses like the GPL are backward compatible with themselves and permissive licenses, but must adopt the restrictive license from then on. Proprietary licenses can incorporate upstream permissively licensed code, but by definition are incompatible with any other downstream license. Grey represents actions that are not permitted without negotiating a separate license agreement with the rights owner. https://doi.org/10.1371/journal.pcbi.1002598.g002](images/image-1585083497.png){fig-alt="Compatibility of permissive and copyleft licences explained"}](https://doi.org/10.1371/journal.pcbi.1002598)
+
+## More Information
+
+-   [TU Delft Research Software Policy](http://doi.org/10.5281/zenodo.4629662)
+
+-   [TU Delft Guidelines on Research Software](http://doi.org/10.5281/zenodo.4629635)
+
+-   [Sharing Software](https://estherplomp.github.io/TNW-OS-support/posts/software-sharing/)
