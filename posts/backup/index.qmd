@@ -45,3 +45,5 @@ Be careful with storing important data on external drives and flash memory devic
 -   [The Turing Way on backups](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html#backups)
 
 -   [11 ways to avert a data-storage disaster](https://doi.org/10.1038/d41586-019-01040-w)
+
+-   [Ten Simple Rules for Digital Data Storage](https://doi.org/10.1371/journal.pcbi.1005097)
