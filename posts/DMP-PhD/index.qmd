@@ -21,6 +21,8 @@ You can combine some of these options, for example: follow the Data Management P
 
 ![Information field for the Data Management activities in the PhD agreement form](images/paste-EC9287C2.png)
 
+![Data Management timeline for the first year of your PhD, by Lora Armstrong.](images/image-551025553.png){fig-alt="In the timeline you'll have to write something related to data management in the PhD agreement. Then, before the Go/No-Go meeting you'll have to set up your data management plan." width="627"}
+
 ## Data Management Plan
 
 The easiest way to set up your Data Management Plan is to first check whether your supervisor/project already has a Data Management Plan that you can built upon.
