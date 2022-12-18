@@ -1,0 +1,17 @@
+---
+title: "Method sharing"
+author: "Esther Plomp"
+date: "2022-09-03"
+categories: [Open Methods]
+image: "open-data-fountain.jpg"
+---
+
+Something about method sharing.
+
+Protocols.io
+
+## More information
+
+-   [How do researchers really feel about methods-sharing?](https://theplosblog.plos.org/2022/11/how-do-researchers-really-feel-about-methods-sharing/)
+
+-   
