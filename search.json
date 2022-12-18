@@ -536,7 +536,7 @@
     "href": "posts/DMP-PhD/index.html#phd-agreement",
     "title": "Data Management Plan - PhDs at TU Delft",
     "section": "PhD agreement",
-    "text": "PhD agreement\nDuring the first three months of the doctoral programme, doctoral candidates need to formulate a PhD agreement in consultation with their supervisors. The Data Management plan is part of the other arrangements, but at this point you do not need a complete plan! A complete Data Management Plan is required for the Go/No-Go. For the PhD agreement it is sufficient to state how you will set up your Data Management Plan. You can briefly state in the form that:\n\nYou will follow a course. (As part of the Research Data Management 101 course you need to set up a Data Management Plan. If you’re interested in an Applied Science version of the course, please fill out this form).\nYou will follow the Data Management Plan that your project/supervisors have already set up.\nYou will set up the plan yourself using the online platform DMPonline.\nYou will set up an appointment with the Data Steward to set up the plan.\n\nYou can combine some of these options, for example: follow the Data Management Plan of your supervisor/larger research project and adjust this yourself using DMPonline.\n\n\n\nInformation field for the Data Management activities in the PhD agreement form"
+    "text": "PhD agreement\nDuring the first three months of the doctoral programme, doctoral candidates need to formulate a PhD agreement in consultation with their supervisors. The Data Management plan is part of the other arrangements, but at this point you do not need a complete plan! A complete Data Management Plan is required for the Go/No-Go. For the PhD agreement it is sufficient to state how you will set up your Data Management Plan. You can briefly state in the form that:\n\nYou will follow a course. (As part of the Research Data Management 101 course you need to set up a Data Management Plan. If you’re interested in an Applied Science version of the course, please fill out this form).\nYou will follow the Data Management Plan that your project/supervisors have already set up.\nYou will set up the plan yourself using the online platform DMPonline.\nYou will set up an appointment with the Data Steward to set up the plan.\n\nYou can combine some of these options, for example: follow the Data Management Plan of your supervisor/larger research project and adjust this yourself using DMPonline.\n\n\n\nInformation field for the Data Management activities in the PhD agreement form\n\n\n\n\n\nData Management timeline for the first year of your PhD, by Lora Armstrong."
   },
   {
     "objectID": "posts/DMP-PhD/index.html#data-management-plan",
@@ -1474,7 +1474,14 @@
     "href": "posts/data-sharing-how/index.html",
     "title": "How to share data?",
     "section": "",
-    "text": "How to share data?\nTo share the research data in accordance with the FAIR principles, you need to select a data repository.\nWhen selecting a repository, researchers should consider the following:"
+    "text": "How to share data?"
+  },
+  {
+    "objectID": "posts/data-sharing-how/index.html#data-not-available-upon-request",
+    "href": "posts/data-sharing-how/index.html#data-not-available-upon-request",
+    "title": "How to share data?",
+    "section": "Data not available upon request",
+    "text": "Data not available upon request\n\nOnly 26-40% of psychologists and social scientists complied with a request to access the data (Tedersoo et al. 2021; Wicherts et al. 2006).\nOnly 44% of economists provided their data and materials upon request (Krawczyk & Reuben 2012).\n14% one\n\nTo share the research data in accordance with the FAIR principles, you need to select a data repository.\nWhen selecting a repository, researchers should consider the following:\n\nWhere are similar datasets preserved?\nHow long will the data be kept?\nWho manages the repository? An institution? A commercial provider?\nWhat are the costs or file size requirements associated with using the repository? How will those costs be paid? Are the file size requirements sufficient for your research project?\nWhat are the access and use policies for the repository? Are you able to select a license?"
   },
   {
     "objectID": "posts/data-sharing-how/index.html#discipline-specific-repository",
@@ -1706,6 +1713,13 @@
     "title": "Metadata standards and repositories for Applied Sciences/TNW",
     "section": "Other",
     "text": "Other\n\nDr. Christoph Steinbeck on “Informatics, Datasets and the Curation of the Future”"
+  },
+  {
+    "objectID": "posts/data-TNW/index.html#publications",
+    "href": "posts/data-TNW/index.html#publications",
+    "title": "Metadata standards and repositories for Applied Sciences/TNW",
+    "section": "Publications",
+    "text": "Publications\n\nTheisen et al. 2023"
   },
   {
     "objectID": "posts/open-science-buffet/index.html",
