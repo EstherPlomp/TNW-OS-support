@@ -4,9 +4,9 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/PhDToothFAIRy
+    - icon: mastodon
+      text: Mastodon
+      href: https://scholar.social/@toothFAIRy
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/estherplomp/
