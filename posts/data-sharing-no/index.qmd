@@ -1,0 +1,55 @@
+---
+title: "When not to share data/code"
+author: "Esther Plomp"
+date: "2022-09-02"
+categories: [Data, Citation]
+image: "open-data-fountain.jpg"
+---
+
+## 
+
+## What if I cannot share my data/code?
+
+The following types of data/code [may not be suitable to share](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667):
+
+-   **Personal data**
+
+    -   Ensure consent has been given to procces and share the data
+
+    -   Anonymise or aggregate the data before sharing or use restricted access to share this data
+
+-   **Commercially confidential data**
+
+    -   Be careful with sharing this type of data: also data about this data can be compromising to share!
+
+    -   You can check with your supervisor/industry partner what data/code can be shared. This is preferably agreed upon in advance in a data transfer agreement or an agreement (check with your contract manager).
+
+        -   Make sure that in any agreements you sign you are eventually able to use and share the data/code underlying the articles/theses.
+
+    -   You are generally able to share the data underlying the publication, or the data that does not have a confidential component.
+
+    -   You can also share the data under a temporary embargo (so that the IP is protected until patent applications are finalised).
+
+-   **Data belonging to third parties**
+
+    -   You may be collaborating with other researchers that have to follow different requirements
+
+    -   Indicate the third party which the data belongs to, so that potential access requests can be directed to that third party
+
+-   **Other types of confidential data**
+
+    -   National security, (e.g. nuclear research, military research)
+
+    -   Export control regulations
+
+    -   Certain human or animal research
+
+-   **Data too large to be published online in a repository**
+
+    -   [4TU.ResearchData ](https://data.4tu.nl/info/en/)offers each TU Delft researcher the possibility to publish up to 1TB of data free of charge
+
+    -   You may need to make a selection of the data you'll share publicly and indicate clearly how you can be contacted if further access is needed
+
+## More information
+
+-   [TU Delft library FAQ](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667)
