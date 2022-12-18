@@ -101,3 +101,7 @@ image: "open-data-fountain.jpg"
 ## Other
 
 -   [Dr. Christoph Steinbeck on "Informatics, Datasets and the Curation of the Future"](https://www.youtube.com/watch?v=o1r4x4qVEBM)
+
+## Publications
+
+-   [Theisen et al. 2023](https://doi.org/10.1016/j.dche.2022.100072)
