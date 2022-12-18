@@ -22,6 +22,8 @@ The following types of data/code [may not be suitable to share](https://www.tude
 
     -   Be careful with sharing this type of data: also data about this data can be compromising to share!
 
+    -   Always store this data securely, preferable on the Project Drive, with access management in place. This is particularly important if you're working with multiple partners (so that you do not accidentally cross-share information). Make sure you follow any requirements regarding data deletion.
+
     -   You can check with your supervisor/industry partner what data/code can be shared. This is preferably agreed upon in advance in a data transfer agreement or an agreement (check with your contract manager).
 
         -   Make sure that in any agreements you sign you are eventually able to use and share the data/code underlying the articles/theses.
