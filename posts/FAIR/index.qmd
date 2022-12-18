@@ -31,6 +31,8 @@ There are important elements to consider within your research workflows if you a
 -   [Persistent identifiers](https://youtu.be/m-oWVp92xG0)
 -   [Licences](https://youtu.be/3nl_Z7Jt-Z4)
 
+[![](images/image-1373548865.png)](https://doi.org/%2010.5281/zeno%20do.4638744)
+
 ## Software
 
 See the [five recommendations for FAIR software website](https://fair-software.nl/) for more information.
