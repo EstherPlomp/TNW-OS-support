@@ -1,0 +1,47 @@
+---
+title: "Software documentation"
+author: "Esther Plomp"
+date: "2022-08-28"
+categories: [Software, Documentation]
+image: "image.jpg"
+---
+
+How should you provide adequate documentaton with your code to make it understandable for reusers?
+
+## In-code documentation
+
+Comments
+
+[Comments video by Barbara Vreede](https://vimeo.com/463992354)
+
+## README
+
+A README file is a text file that provides information about an open source software project, including details on how to install and use the software, as well as any dependencies or prerequisites that are required. A README file is often the first thing that users will see when they encounter an open source project, and it is an important tool for helping users understand and use the software.
+
+A README file should contain the following information:
+
+1.  A brief overview of the project, including its purpose and main features.
+
+2.  Installation/usage instructions, including any dependencies or prerequisites that are required.
+
+3.  License information
+
+4.  Recommended citation (see [Software Citation](https://estherplomp.github.io/TNW-OS-support/posts/software-citation/))
+
+When the software is a bigger or on-going project, also include the following information:
+
+1.  Contributing guidelines, if the project is open to contributions from the community.
+
+2.  A list of any known issues or bugs, along with any workarounds or fixes that are available.
+
+3.  Contact information for the project maintainers or developers, in case users have questions or need support.
+
+[README video by Barbara Vreede](https://vimeo.com/464027978)
+
+examples:
+
+[A template to make good README.md](https://github.com/PurpleBooth/a-good-readme-template)
+
+## More information
+
+-   [Code documentation lesson by Code Refinery](https://coderefinery.github.io/documentation/)
