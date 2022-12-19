@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Open-access-APC/index.html",
       "/posts/software-licenses/index.html",
       "/posts/open-access-2021/index.html",
       "/posts/software-resources/index.html",
@@ -24,7 +25,6 @@
       "/posts/data-spreadsheets/index.html",
       "/posts/storage-solutions/index.html",
       "/posts/data-preservation/index.html",
-      "/posts/Open-access-APC/index.html",
       "/posts/4TU-info/index.html",
       "/posts/data-versioning/index.html",
       "/posts/open-science-discipline/index.html",
