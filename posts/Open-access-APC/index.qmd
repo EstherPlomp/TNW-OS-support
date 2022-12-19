@@ -1,22 +1,30 @@
 ---
 title: "Article Processing Fees"
 author: "Esther Plomp"
-date: "2022-11-03"
+date: "2022-12-20"
 categories: [Open Access, APC]
 image: "costs.png"
 ---
 
-An **Article Processing Charge** (APC), also known as a publication fee, is a fee which is sometimes charged to authors to make their work available as open access.
+An **Article Processing Charge** (APC), also known as a publication fee, is a fee which is sometimes charged to authors to make their work available as open access. Journal charge these fees to cover the costs of publishing and maintaining the journal (cost of peer review, editing, formatting, hosting, and archiving the articles).
 
-![](images/paste-C13FF521.png)
+There are several reasons why APCs have been controversial in the scientific community:
 
-![](images/paste-F6537985.png)
+-   **Financial barriers:** Some researchers and institutions may not have the funds available to pay APCs, which can be a significant barrier to publishing their research in open access journals. This can be especially problematic for researchers in countries with limited research funding or for early career researchers who may not have access to grants or other sources of funding. See [Pablo Alperin 2022](https://www.nature.com/articles/d41586-022-03201-w) for more details.
 
-https://doi.org/10.5281/zenodo.7311282
+-   **Inflation of publication costs**: The average APC for open access journals [has been increasing over time](https://www.jisc.ac.uk/reports/apcs-and-subscriptions), and some journals charge very high APCs.
 
-![](images/paste-A1FE8743.png)
+-   **Double dipping**: Some researchers and institutions have argued that they are being asked to pay twice for the same service when they publish in hybrid journals, where there are also subscription fees ( [Butler et al. 2022](https://zenodo.org/record/7158818#.Y5IMKX2ZOUn); [Pinfield et al., 2016](https://doi.org/10.1002/asi.23446)). [The average APC for hybrid journals is around \$3,000, compared to \$2,000 in Open Access venues.](https://peerj.com/articles/2264/)
 
-https://zenodo.org/record/7158818#.Y5EJAX2ZOUn
+-   **Predatory practices:** Some open access journals have been accused of engaging in predatory practices, such as spamming researchers with solicitations to submit their research and then charging high APCs.
+
+    -   **APCs are correlated to the impact factor** ([Budzinski et al., 2020](https://doi.org/10.1007/s11192-020-03578-3); [Schönfelder 2020](https://doi.org/10.1162/qss_a_00015); [Butler et al. 2022](https://zenodo.org/record/7158818#.Y5IMKX2ZOUn))
+
+-   The big five publishers (Elsevier, Sage, Springer-Nature, Taylor & Francis, and Wiley) have [**profit margins higher than 30%**](https://doi.org/10.1371/journal.pone.0127502)(see also [Aspesi et al., 2019](https://doi.org/10.31229/osf.io/58yhb)). A significant amount of these fees that authors are pay to publish are not justified [compared to the actual costs (\$400)](https://f1000research.com/articles/10-20/v2) related to the publication process.
+
+An alternative to APCs is publishing in venues that are open access but do not charge APCs: diamond open access. The [majority of the Open Access journals do not charge APCs (69.1%)](https://zenodo.org/record/7158818#.Y5IMKX2ZOUn).
+
+[![The Oligopoly's Shift to Open Access. How For-Profit Publishers Benefit from Article Processing Charges](images/paste-A1FE8743.png){fig-alt="A preprint by ScholCommLab has examined the total amount of APCs paid to the oligopoly of academic publishers for publishign gold and hybrid articles in 2015-2018. One of the key findings was that authors paid 1.06 dollar for publishing."}](https://zenodo.org/record/7158818#.Y5IMKX2ZOUn)
 
 ## **More information**
 
