@@ -37,3 +37,7 @@ image: "image.jpg"
 ![](images/paste-E1808C0A.png){width="538"}
 
 When you login another time through 4TU.ResearchData you should see the GitHub/GitLab logo which you can select to import repositories!
+
+## More information
+
+-   [4TU.ResearchData guide](https://data.4tu.nl/info/fileadmin/user_upload/Documenten/4TU.ResearchData_Connecting_your_GitHub_or_GitLab_account_2022.pdf) (pdf)
