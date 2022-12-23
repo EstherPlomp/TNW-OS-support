@@ -17,3 +17,4 @@ If you are invited to an external team, you'll need to switch from the TU Delft 
 ## **More information**
 
 -   [TU Delft manuals for Teams](https://www.tudelft.nl/ict-handleidingen/microsoft-teams)
+-   (Dutch) [SURF: 'Verbod gebruik Microsoft in Nederlands onderwijs niet nodig'](https://www.scienceguide.nl/2022/12/surf-verbod-gebruik-microsoft-in-nederlands-onderwijs-niet-nodig/)
