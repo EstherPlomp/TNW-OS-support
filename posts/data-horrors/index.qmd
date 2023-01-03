@@ -1,0 +1,23 @@
+---
+title: "Data Horrors"
+author: "Esther Plomp"
+date: "2022-12-08"
+categories: [Open Data, Research Data Management]
+image: "open-data-fountain.jpg"
+---
+
+[![](images/tu-delft-bouwkunde-brand-1.jpg){fig-alt="A burning Architecture building." width="558"}](https://daphartmann.files.wordpress.com/2017/02/tu-delft-bouwkunde-brand-1.jpg)
+
+[![](images/080111_1239_WhyYOUneeda11.png){fig-alt="An advertisement for a cash reward if someone finds a lost backpack. Among details regarding the bag the text says \"The external drive is very important to me as it contains five years of research data which are crucial for my PhD thesis!\""}](https://blogs.ch.cam.ac.uk/pmr/2011/08/01/why-you-need-a-data-management-plan/)
+
+[![](images/image-1912415017.png){fig-alt="An addition to the backup rule from Alex Chan"}](https://twitter.com/alexwlchan/status/1323236080913686528)
+
+[![](images/image-446147255.png)](https://twitter.com/electricarchaeo/status/1264362337559023616)
+
+[True PhD Horror: Hard Drive Failure](https://www.youtube.com/watch?v=U6FWWMttBrc)
+
+[Data Sharing](https://www.youtube.com/watch?v=RVZbk3GEVSw)
+
+## More information
+
+-   [How to backup your data](https://estherplomp.github.io/TNW-OS-support/posts/backup/)
