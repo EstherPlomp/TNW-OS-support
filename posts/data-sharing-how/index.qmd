@@ -112,6 +112,8 @@ https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html
 
 [How To #1: Upload Your Data to 4TU.ResearchData](https://www.youtube.com/watch?v=JasPLg7-9mQ&list=PLbowNAyqknwb-l8GiGwcX53s8CDB7bZv1)
 
+[![](https://www.wur.nl/upload_mm/3/5/7/2ea09888-4bd0-4d5d-bb3b-841e11c709c9_DataSharingGuidelines.JPG){alt=""}](https://www.wur.nl/en/value-creation-cooperation/collaborating-with-wur-1/wdcc/research-data-management-wdcc/finishing/research-data-sharing-and-guidelines.htm)
+
 ## Examples
 
 [Lia et al. 2020](https://doi.org/10.12688/wellcomeopenres.15893.2)

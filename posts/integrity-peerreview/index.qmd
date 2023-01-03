@@ -8,9 +8,9 @@ image: "OS-TUD.png"
 
 The peer review process does not successfully keep out bad science.
 
-## Some of the  flaws of the peer review process include:
+## Some of the flaws of the peer review process include:
 
--   **Bias**: Reviewers may be biased against certain research or researchers, which can affect their evaluations. For example, reviewers may be more likely to reject research that challenges their own views or that comes from researchers they do not know.
+-   **Bias**: Reviewers may be biased against certain research or researchers, which can affect their evaluations. For example, reviewers may be more likely to reject research that challenges their own views or that comes from researchers they do not know.There is also a bias in valuing positive results more than negative results.
 
 -   **Lack of diversity:** Since identities of peer reviewers are often not known, it is difficult to assess their backgrounds, which can result in a lack of representation and potentially biased evaluations.
 
@@ -20,10 +20,22 @@ The peer review process does not successfully keep out bad science.
 
 -   **Lack of transparency**: The peer review process is often not transparent, as peer reviewer identities are unknown and reviews are not always public. (see Open Peer Review)
 
+-   Agreement among reviewers is weak
+
+-   Rejections/acceptation decisions are inconsistent
+
+-   Major errors and flaws are inconsistently discovered
+
 ## Examples
 
 https://www.winrepo.org/publications/ https://prism-break.org/en/
 
+https://scholar.social/@LudoWaltman\@social.cwts.nl/109558746560823086
+
+[Has COPE membership become a way for unprincipled journals to buy a fake badge of integrity?](https://drpeterwilmshurst.wordpress.com/2022/11/15/has-cope-membership-become-a-way-for-unprincipled-journals-to-buy-a-fake-badge-of-integrity/)
+
 ## More information
 
 -   [List of references regarding diversity, biases, and inclusivity studies and opinion pieces](https://www.winrepo.org/publications/)
+-   [The rise and fall of peer review](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
+-   

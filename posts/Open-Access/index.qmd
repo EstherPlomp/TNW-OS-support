@@ -6,7 +6,15 @@ categories: [Open Access]
 image: "image.jpg"
 ---
 
-## Why? 
+## Why?
+
+Open access is important because it allows for the free and unrestricted access to research and scholarship. This means that anyone with an internet connection can access and read the latest research and ideas in their field, rather than having to pay for a subscription or purchase individual articles.
+
+-   Increased accessibility: Open access allows researchers, students, and the general public to access and read the latest research without having to pay for it. This can be particularly important for researchers in developing countries, who may not have the funds to pay for expensive subscriptions.
+
+-   Increased impact: When research is freely available, it can be more widely read and cited, increasing its impact and influence.
+
+-   Allows us to maintain control over research outputs (see also Rights Retention Strategy)
 
 [Open access to facilitate research and information on COVID-19](https://en.unesco.org/covid19/communicationinformationresponse/opensolutions)
 

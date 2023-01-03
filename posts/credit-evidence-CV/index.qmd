@@ -14,4 +14,4 @@ to be added: intro to evidence based/narrative CVs
 
 -   [University of Glasgow pilots the Resume for Researchers narrative CV format](https://www.ukrn.org/2021/08/18/university-of-glasgow-pilots-the-resume-for-researchers-narrative-cv-format/)
 
--   
+-   [NWO pilot with evidenced based CVs](https://doi.org/10.5281/zenodo.7464045)

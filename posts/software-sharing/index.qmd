@@ -22,6 +22,8 @@ image: "image.jpg"
 
 -   Your funder may require you to share the underlying software/code of your publications
 
+-   Your software may be checked during peer review (see [Nature Human Behaviour](https://www-nature-com.offcampus.lib.washington.edu/articles/s41562-021-01190-w))
+
 -   Your work is probably relying on open source software to a certain degree, so it would be good to contribute back to the community!
 
 ## TU Delft and Open Software

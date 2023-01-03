@@ -42,6 +42,8 @@ examples:
 
 [A template to make good README.md](https://github.com/PurpleBooth/a-good-readme-template)
 
+[CodeMeta](https://codemeta.github.io/codemeta-generator/) creates a minimal metadata schema for research software and code.
+
 ## More information
 
 -   [Code documentation lesson by Code Refinery](https://coderefinery.github.io/documentation/)
