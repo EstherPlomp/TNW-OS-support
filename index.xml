@@ -10,7 +10,88 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.280</generator>
-<lastBuildDate>Tue, 20 Dec 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Jan 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Contact</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/contact/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Who can you contact for what support?</p>
+<p>For anything <strong>Open Science/data/code</strong> related you can contact the <strong>Data Steward</strong>, Esther Plomp.</p>
+<p>For more <strong>specific/hands on data/code requests</strong>, you can also contact the <a href="https://www.tudelft.nl/library/library-voor-onderzoekers/library-voor-onderzoekers/onderzoek-starten/dcc">Digital Competence Center</a>.</p>
+<p><a href="https://www.tudelft.nl/dhpc">Delft High Performance Computing Centre</a> (<strong>DHPC</strong>) is the central <strong>TU Delft computing center</strong>. See the <a href="https://doc.dhpc.tudelft.nl/delftblue/">DelftBlue documentation pages</a> for more information or contact Dennis Palagin.</p>
+<p>If you have any questions about the <strong>basic programming courses</strong> (<a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop">Software/Data Carpentry Workshop</a>), please contact Meta de Keijzer.</p>
+<p>If you want to use an <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook"><strong>Electronic Lab Notebook</strong></a> or have any issues/questions regarding this, please contact Madeleine de Smaele.</p>
+<p>For information about <strong>data privacy/security</strong> check the <a href="https://www.tudelft.nl/en/privacy-security/privacy">privacy</a> and <a href="https://www.tudelft.nl/en/privacy-security/data-security">security</a> websites or contact <a href="mailto:privacy-tud@tudelft.nl">privacy-tud@tudelft.nl</a>.</p>
+<p>For more information about research involving <strong>human participants</strong>, check the Human Research Ethics Committee (<strong>HREC</strong>) website, particularly their <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application">application information</a>.</p>
+<p>For more specific <strong>TNW contact information</strong>, check <a href="https://intranet.tudelft.nl/-/technische-natuurwetenschappen-tnw">intranet</a>.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs">FAQ on Research Data Management</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/contact/index.html</guid>
+  <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/contact/contact.png" medium="image" type="image/png" height="119" width="144"/>
+</item>
+<item>
+  <title>Data Horrors</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Examples of data horror stories:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://daphartmann.files.wordpress.com/2017/02/tu-delft-bouwkunde-brand-1.jpg"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/https:/daphartmann.files.wordpress.com/2017/02/tu-delft-bouwkunde-brand-1.jpg" class="img-fluid figure-img"></a></p>
+<p></p><figcaption class="figure-caption">The TU Delft Architecture building on fire</figcaption><p></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://blogs.ch.cam.ac.uk/pmr/2011/08/01/why-you-need-a-data-management-plan/"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-1644946693.png" class="img-fluid figure-img" alt="An advertisement for a cash reward if someone finds a lost backpack. Among details regarding the bag the text says \&quot;The external drive is very important to me as it contains five years of research data which are crucial for my PhD thesis!"></a></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://twitter.com/alexwlchan/status/1323236080913686528"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-689718380.png" class="img-fluid figure-img" alt="An addition to the backup rule from Alex Chan, who had their adjustable height desk crash and their IMAc planted into the backup drive setting on the same desk."></a></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://twitter.com/electricarchaeo/status/1264362337559023616"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-1240159980.png" class="img-fluid figure-img" alt="A tweet saying &quot;give me a horror story from your speciality in five words or less&quot; with Shawn Graham's answer to this: &quot;is this the current version&quot;"></a></p>
+</figure>
+</div>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/backup/">How to backup your data</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=U6FWWMttBrc">True PhD Horror: Hard Drive Failure</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=RVZbk3GEVSw">Data Sharing</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/index.html</guid>
+  <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Article Processing Fees</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -1275,76 +1356,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/index.html</guid>
   <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/stairs.png" medium="image" type="image/png" height="143" width="144"/>
-</item>
-<item>
-  <title>Open Science at Applied Sciences</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TNW/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="open-science-at-tnwapplied-sciences" class="level2">
-<h2 class="anchored" data-anchor-id="open-science-at-tnwapplied-sciences">Open Science at TNW/Applied Sciences</h2>
-<p>“The Faculty of Applied Sciences supports Open Science principles as openness is increasingly crucial to resolve major challenges of our time in which our faculty aims to be among the best in the world. Our Faculty strives to remain a front runner in making scientific papers and the underlying information (data / software / methods) openly available. Practicing research in a more transparent and open manner will increase the quality of research, facilitate collaboration and inclusive participation, and speed up the scientific process.” - <a href="https://intranet.tudelft.nl/-/as-faculty-multi-year-plan">Applied Sciences Strategic Plan 2022-2026</a>, page 17.</p>
-</section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TNW/images/paste-3B307808.png" class="img-fluid"></h2>
-</section>
-<section id="open-science-overview" class="level2">
-<h2 class="anchored" data-anchor-id="open-science-overview">Open Science Overview</h2>
-<p>Please see below for a ~12 min overview of the latest Open Science developments at Applied Science:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TNW/talk.jpg" class="img-fluid" alt="Screenshot of the presentation on slide 2, with the Open Science Buffet image." width="601"></p>
-<p><a href="https://surfdrive.surf.nl/files/index.php/s/KDFDOCLJovGK1xF">Video</a></p>
-<p><a href="https://docs.google.com/presentation/d/1ZX4texDO5xuI6PSM2u60uYJ1Soc4rtiEVN0-jCrTpFI/">Slides</a></p>
-<p><a href="https://surfdrive.surf.nl/files/index.php/s/VE5kg9e2Vlk2IbT">Transcript</a></p>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/">Open Science terminology and developments at TU Delft and (inter)nationally</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TNW/index.html</guid>
-  <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-TNW/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Open Science Panic</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-panic/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Your first time trying out a new Open Science step can be nerve wrecking. You are not alone in feeling this way:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://twitter.com/LewendM/status/1587153856131112964"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-panic/images/paste-0B902C2E.png" class="img-fluid figure-img" alt="A twitter poll on whether Open Science practices make you feel stressed/nervous. 44.5% of 263 people voted 'Yes, I feel nervous', followed by 34.6% of people that indicated that they do not feel nervous."></a></p>
-</figure>
-</div>
-<p>You can get more confident by trying out smaller steps in your workflow, starting with Open Science practices that are particularly relevant to your work.</p>
-<p>You can first discuss your work with colleagues and see what they think.</p>
-<p>You can check other publications in your field to see how other researchers are approaching Open Science Practices.</p>
-<p>You can follow a training in applying open science practices, such as <a href="https://openlifesci.org">Open Life Science</a>.</p>
-<p>You can ask advice from your Faculty Data Steward, or the <a href="https://www.tudelft.nl/index.php?id=67120&amp;L=1/">Digital Competence Center</a> if you need more hands on support.</p>
-<p>You can join a community that likes to discuss these topics, such as the <a href="https://osc-delft.github.io/">TU Delft Open Science Community</a>, and <a href="https://the-turing-way.netlify.app/welcome">The Turing Way</a>.</p>
-
-
-
- ]]></description>
-  <category>Open Science</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-panic/index.html</guid>
-  <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-panic/cat.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

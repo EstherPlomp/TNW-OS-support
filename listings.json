@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/contact/index.html",
+      "/posts/data-horrors/index.html",
       "/posts/Open-access-APC/index.html",
       "/posts/software-licenses/index.html",
       "/posts/open-access-2021/index.html",
