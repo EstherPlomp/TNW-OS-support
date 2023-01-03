@@ -56,13 +56,11 @@ Whether you use a discipline specific repository or a generalist one, it is impo
 
 ## Use standard or open file formats
 
-Using standard or open data formats ensures longer-term usability of data
+Using standard or open data formats ensures longer-term usability of data.
 
 -   **Standard Data Formats**: "widely accepted" formats such as .xls .xlsx
 
 -   **Open Data Formats**: Free to use such as .csv .tab
-
-Convert files into standard open formats for long term preservation of the data
 
 ## Preferred (sustainable) file formats:
 
