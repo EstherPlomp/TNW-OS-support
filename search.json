@@ -60,7 +60,7 @@
     "href": "posts/software-sharing/index.html",
     "title": "Sharing Software",
     "section": "",
-    "text": "Accelerates innovation as it is easier to receive feedback that you can learn from and use to improve the software\nProvide evidence for your scientific claims and increases the reproducibility of your work\nIncreases impact and visibility of your research (software can also be cited!)\nFacilitates collaboration\nImproves sustainability as you’re not the only one who can maintain the software and contributions can be made by community members\nOpen Source Software is encouraged by the UNESCO recommendations\nYour funder may require you to share the underlying software/code of your publications\nYour work is probably relying on open source software to a certain degree, so it would be good to contribute back to the community!"
+    "text": "Accelerates innovation as it is easier to receive feedback that you can learn from and use to improve the software\nProvide evidence for your scientific claims and increases the reproducibility of your work\nIncreases impact and visibility of your research (software can also be cited!)\nFacilitates collaboration\nImproves sustainability as you’re not the only one who can maintain the software and contributions can be made by community members\nOpen Source Software is encouraged by the UNESCO recommendations\nYour funder may require you to share the underlying software/code of your publications\nYour software may be checked during peer review (see Nature Human Behaviour)\nYour work is probably relying on open source software to a certain degree, so it would be good to contribute back to the community!"
   },
   {
     "objectID": "posts/software-sharing/index.html#tu-delft-and-open-software",
@@ -123,7 +123,7 @@
     "href": "posts/software-documentation/index.html#readme",
     "title": "Software documentation",
     "section": "README",
-    "text": "README\nA README file is a text file that provides information about an open source software project, including details on how to install and use the software, as well as any dependencies or prerequisites that are required. A README file is often the first thing that users will see when they encounter an open source project, and it is an important tool for helping users understand and use the software.\nA README file should contain the following information:\n\nA brief overview of the project, including its purpose and main features.\nInstallation/usage instructions, including any dependencies or prerequisites that are required.\nLicense information\nRecommended citation (see Software Citation)\n\nWhen the software is a bigger or on-going project, also include the following information:\n\nContributing guidelines, if the project is open to contributions from the community.\nA list of any known issues or bugs, along with any workarounds or fixes that are available.\nContact information for the project maintainers or developers, in case users have questions or need support.\n\nREADME video by Barbara Vreede\nexamples:\nA template to make good README.md"
+    "text": "README\nA README file is a text file that provides information about an open source software project, including details on how to install and use the software, as well as any dependencies or prerequisites that are required. A README file is often the first thing that users will see when they encounter an open source project, and it is an important tool for helping users understand and use the software.\nA README file should contain the following information:\n\nA brief overview of the project, including its purpose and main features.\nInstallation/usage instructions, including any dependencies or prerequisites that are required.\nLicense information\nRecommended citation (see Software Citation)\n\nWhen the software is a bigger or on-going project, also include the following information:\n\nContributing guidelines, if the project is open to contributions from the community.\nA list of any known issues or bugs, along with any workarounds or fixes that are available.\nContact information for the project maintainers or developers, in case users have questions or need support.\n\nREADME video by Barbara Vreede\nexamples:\nA template to make good README.md\nCodeMeta creates a minimal metadata schema for research software and code."
   },
   {
     "objectID": "posts/software-documentation/index.html#more-information",
@@ -137,7 +137,14 @@
     "href": "posts/Git-4TU-integration/index.html",
     "title": "TU Delft GitLab or GitHub / 4TU.ResearchData integration",
     "section": "",
-    "text": "1. Login to 4TU.ResearchData with your NetID\n2. Select ‘Application’ from the menu by clicking on the circle with your initials in the top right corner\n\n3. Click the ‘Connect’ button under the GitHub or GitLab icon\n\n4. Sign into GitHub/Gitlab with Figshare\n\n5. Select the green ‘Authorize figshare’ button\n\n6. A window should open on 4TU.ResearchData that shows your GitHub/GitLab account. When you click on your connected account you will see the repositories which you can import (alternatively you can do this by going to upload and then click the GitHub/GitLab icon to import repositories).\n7. Select the tick box in front of the repository/repositories that you want to import and select ‘Import selected repos’.\n\nIf your repository has multiple releases, you can select which release you want to import\nIf your repository has no releases yet, the latest commit will be imported.\n\n8. If you turn the sync on by clicking on ‘OFF’, your upload will automatically generate a new version for every release of your repository. You can switch this sync back off.\n\nWhen you login another time through 4TU.ResearchData you should see the GitHub/GitLab logo which you can select to import repositories!"
+    "text": "1. Login to 4TU.ResearchData with your NetID\n2. Select ‘Application’ from the menu by clicking on the circle with your initials in the top right corner\n3. Click the ‘Connect’ button under the GitHub or GitLab icon\n4. Sign into GitHub/Gitlab with Figshare\n5. Select the green ‘Authorize figshare’ button\n6. A window should open on 4TU.ResearchData that shows your GitHub/GitLab account. When you click on your connected account you will see the repositories which you can import (alternatively you can do this by going to upload and then click the GitHub/GitLab icon to import repositories).\n7. Select the tick box in front of the repository/repositories that you want to import and select ‘Import selected repos’.\n8. If you turn the sync on by clicking on ‘OFF’, your upload will automatically generate a new version for every release of your repository. You can switch this sync back off.\nWhen you login another time through 4TU.ResearchData you should see the GitHub/GitLab logo which you can select to import repositories!"
+  },
+  {
+    "objectID": "posts/Git-4TU-integration/index.html#more-information",
+    "href": "posts/Git-4TU-integration/index.html#more-information",
+    "title": "TU Delft GitLab or GitHub / 4TU.ResearchData integration",
+    "section": "More information",
+    "text": "More information\n\n4TU.ResearchData guide (pdf)"
   },
   {
     "objectID": "posts/mistakes/index.html",
@@ -662,7 +669,7 @@
     "href": "posts/credit-evidence-CV/index.html#more-information",
     "title": "Evidenced based CVs",
     "section": "More information",
-    "text": "More information\n\nLuxembourg: Narrative CV: Implementation and feedback results\nUniversity of Glasgow pilots the Resume for Researchers narrative CV format"
+    "text": "More information\n\nLuxembourg: Narrative CV: Implementation and feedback results\nUniversity of Glasgow pilots the Resume for Researchers narrative CV format\nNWO pilot with evidenced based CVs"
   },
   {
     "objectID": "posts/method-sharing-what/index.html",
@@ -1075,7 +1082,7 @@
     "href": "posts/Open-Access/index.html",
     "title": "Open Access",
     "section": "",
-    "text": "Open access to facilitate research and information on COVID-19\nExplanation preprint, postprint etc. Link with sherpa romeo\nhttps://youtu.be/L5rVH1KGBCY\n\nPreprint: version of the article before peer review\nPost-print (or Author Accepted Manuscript - AAM): version of the article after peer review\nPublishers version (Version of Record - VOR): fully formatted version published by the publisher"
+    "text": "Open access is important because it allows for the free and unrestricted access to research and scholarship. This means that anyone with an internet connection can access and read the latest research and ideas in their field, rather than having to pay for a subscription or purchase individual articles.\n\nIncreased accessibility: Open access allows researchers, students, and the general public to access and read the latest research without having to pay for it. This can be particularly important for researchers in developing countries, who may not have the funds to pay for expensive subscriptions.\nIncreased impact: When research is freely available, it can be more widely read and cited, increasing its impact and influence.\nAllows us to maintain control over research outputs (see also Rights Retention Strategy)\n\nOpen access to facilitate research and information on COVID-19\nExplanation preprint, postprint etc. Link with sherpa romeo\nhttps://youtu.be/L5rVH1KGBCY\n\nPreprint: version of the article before peer review\nPost-print (or Author Accepted Manuscript - AAM): version of the article after peer review\nPublishers version (Version of Record - VOR): fully formatted version published by the publisher"
   },
   {
     "objectID": "posts/Open-Access/index.html#more-information",
@@ -1110,7 +1117,7 @@
     "href": "posts/tools-teams/index.html#more-information",
     "title": "Microsoft Teams",
     "section": "More information",
-    "text": "More information\n\nTU Delft manuals for Teams"
+    "text": "More information\n\nTU Delft manuals for Teams\n(Dutch) SURF: ‘Verbod gebruik Microsoft in Nederlands onderwijs niet nodig’"
   },
   {
     "objectID": "posts/data-costs/index.html",
@@ -1355,21 +1362,21 @@
     "href": "posts/integrity-peerreview/index.html#some-of-the-flaws-of-the-peer-review-process-include",
     "title": "Peer review flaws",
     "section": "Some of the flaws of the peer review process include:",
-    "text": "Some of the flaws of the peer review process include:\n\nBias: Reviewers may be biased against certain research or researchers, which can affect their evaluations. For example, reviewers may be more likely to reject research that challenges their own views or that comes from researchers they do not know.\nLack of diversity: Since identities of peer reviewers are often not known, it is difficult to assess their backgrounds, which can result in a lack of representation and potentially biased evaluations.\nLimited expertise: Reviewers may not have the necessary expertise to evaluate certain types of research, which can lead to incomplete or inaccurate evaluations.\nSlow turnaround time: The peer review process can be slow, with some studies taking months or even years to be reviewed and published. This can delay the dissemination of important research findings. (See Preprints)\nLack of transparency: The peer review process is often not transparent, as peer reviewer identities are unknown and reviews are not always public. (see Open Peer Review)"
+    "text": "Some of the flaws of the peer review process include:\n\nBias: Reviewers may be biased against certain research or researchers, which can affect their evaluations. For example, reviewers may be more likely to reject research that challenges their own views or that comes from researchers they do not know.There is also a bias in valuing positive results more than negative results.\nLack of diversity: Since identities of peer reviewers are often not known, it is difficult to assess their backgrounds, which can result in a lack of representation and potentially biased evaluations.\nLimited expertise: Reviewers may not have the necessary expertise to evaluate certain types of research, which can lead to incomplete or inaccurate evaluations.\nSlow turnaround time: The peer review process can be slow, with some studies taking months or even years to be reviewed and published. This can delay the dissemination of important research findings. (See Preprints)\nLack of transparency: The peer review process is often not transparent, as peer reviewer identities are unknown and reviews are not always public. (see Open Peer Review)\nAgreement among reviewers is weak\nRejections/acceptation decisions are inconsistent\nMajor errors and flaws are inconsistently discovered"
   },
   {
-    "objectID": "posts/integrity-peerreview/index.html#examples",
-    "href": "posts/integrity-peerreview/index.html#examples",
+    "objectID": "posts/integrity-peerreview/index.html#examples-of-flawed-peer-reviewed-research",
+    "href": "posts/integrity-peerreview/index.html#examples-of-flawed-peer-reviewed-research",
     "title": "Peer review flaws",
-    "section": "Examples",
-    "text": "Examples\nhttps://www.winrepo.org/publications/ https://prism-break.org/en/"
+    "section": "Examples of flawed peer reviewed research",
+    "text": "Examples of flawed peer reviewed research\n\nOmicron origin study retracted after widespread criticism\nHas COPE membership become a way for unprincipled journals to buy a fake badge of integrity?\nThe collective effects of genetic variants and complex traits"
   },
   {
     "objectID": "posts/integrity-peerreview/index.html#more-information",
     "href": "posts/integrity-peerreview/index.html#more-information",
     "title": "Peer review flaws",
     "section": "More information",
-    "text": "More information\n\nList of references regarding diversity, biases, and inclusivity studies and opinion pieces"
+    "text": "More information\n\nList of references regarding diversity, biases, and inclusivity studies and opinion pieces\nThe rise and fall of peer review"
   },
   {
     "objectID": "posts/data-sharing-why/index.html",
@@ -1509,7 +1516,7 @@
     "href": "posts/data-sharing-how/index.html#use-standard-or-open-file-formats",
     "title": "How to share data?",
     "section": "Use standard or open file formats",
-    "text": "Use standard or open file formats\nUsing standard or open data formats ensures longer-term usability of data\n\nStandard Data Formats: “widely accepted” formats such as .xls .xlsx\nOpen Data Formats: Free to use such as .csv .tab\n\nConvert files into standard open formats for long term preservation of the data"
+    "text": "Use standard or open file formats\nUsing standard or open data formats ensures longer-term usability of data.\n\nStandard Data Formats: “widely accepted” formats such as .xls .xlsx\nOpen Data Formats: Free to use such as .csv .tab"
   },
   {
     "objectID": "posts/data-sharing-how/index.html#preferred-sustainable-file-formats",
