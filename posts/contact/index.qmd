@@ -1,0 +1,30 @@
+---
+title: "Contact"
+author: "Esther Plomp"
+date: "2023-01-03"
+categories: [TU Delft]
+image: "contact.png"
+---
+
+Who can you contact for what support?
+
+For anything **Open Science/data/code** related you can contact the **Data Steward**, Esther Plomp.
+
+For more **specific/hands on data/code requests**, you can also contact the [Digital Competence Center](https://www.tudelft.nl/library/library-voor-onderzoekers/library-voor-onderzoekers/onderzoek-starten/dcc).
+
+[Delft High Performance Computing Centre](https://www.tudelft.nl/dhpc) (**DHPC**) is the central **TU Delft computing center**. See the
+[DelftBlue documentation pages](https://doc.dhpc.tudelft.nl/delftblue/) for more information or contact Dennis Palagin.
+
+If you have any questions about the **basic programming courses** ([Software/Data Carpentry Workshop](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop)), please contact Meta de Keijzer.
+
+If you want to use an [**Electronic Lab Notebook**](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook) or have any issues/questions regarding this, please contact Madeleine de Smaele.
+
+For information about **data privacy/security** check the [privacy](https://www.tudelft.nl/en/privacy-security/privacy) and [security](https://www.tudelft.nl/en/privacy-security/data-security) websites or contact [privacy-tud\@tudelft.nl](mailto:privacy-tud@tudelft.nl).
+
+For more information about research involving **human participants**, check the Human Research Ethics Committee (**HREC**) website, particularly their [application information](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application).
+
+For more specific **TNW contact information**, check [intranet](https://intranet.tudelft.nl/-/technische-natuurwetenschappen-tnw).
+
+## More information
+
+-    [FAQ on Research Data Management](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs)
