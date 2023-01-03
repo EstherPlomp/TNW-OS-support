@@ -102,6 +102,12 @@ image: "open-data-fountain.jpg"
 
 -   [Dr. Christoph Steinbeck on "Informatics, Datasets and the Curation of the Future"](https://www.youtube.com/watch?v=o1r4x4qVEBM)
 
+## MRI data
+
+-   [Brain MRI data sharing guide](https://doi.org/10.5281/zenodo.4740126)
+
+-   [The Open Brain Consent](https://doi.org/10.1002/hbm.25351)
+
 ## Publications
 
 -   [Theisen et al. 2023](https://doi.org/10.1016/j.dche.2022.100072)
