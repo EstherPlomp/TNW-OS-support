@@ -112,6 +112,28 @@ https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html
 
 [![](https://www.wur.nl/upload_mm/3/5/7/2ea09888-4bd0-4d5d-bb3b-841e11c709c9_DataSharingGuidelines.JPG){alt=""}](https://www.wur.nl/en/value-creation-cooperation/collaborating-with-wur-1/wdcc/research-data-management-wdcc/finishing/research-data-sharing-and-guidelines.htm)
 
+## Are you working with personal/confidential data?
+
+Personal/confidential data can contain:
+
+-   personal information which can allow the identification of living individuals (have you set up an [HREC application](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics)?)
+
+-   commercially-confidential information (e.g. something you might want to patent, or data belonging to a third party)
+
+-   Information related to national security , export control regulations etc.
+
+## 5. Is there a clear strategy for data sharing?
+
+TU Delft [Research Data Framework Policy](https://doi.org/10.5281/zenodo.2573159) requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate .
+
+-   Did the project team agree what data (and code), when and how will be shared? (See [what data should be shared post](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/))
+
+-   Will there be any difficulties with data sharing (perhaps not all data is suitable for sharing)?
+
+-   What [licence](https://estherplomp.github.io/TNW-OS-support/posts/licenses/) will be the most suitable for the data (and code)?
+
+In principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, [4TU.ResearchData](https://data.4tu.nl/info/en/), where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise).
+
 ## Examples
 
 [Lia et al. 2020](https://doi.org/10.12688/wellcomeopenres.15893.2)
