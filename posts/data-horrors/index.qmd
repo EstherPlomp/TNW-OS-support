@@ -1,0 +1,25 @@
+---
+title: "Data Horrors"
+author: "Esther Plomp"
+date: "2023-01-03"
+categories: [Research Data Management]
+image: "open-data-fountain.jpg"
+---
+
+Examples of data horror stories:
+
+[![The TU Delft Architecture building on fire](https://daphartmann.files.wordpress.com/2017/02/tu-delft-bouwkunde-brand-1.jpg)](https://daphartmann.files.wordpress.com/2017/02/tu-delft-bouwkunde-brand-1.jpg)
+
+[![](images/image-1644946693.png){fig-alt="An advertisement for a cash reward if someone finds a lost backpack. Among details regarding the bag the text says \\\"The external drive is very important to me as it contains five years of research data which are crucial for my PhD thesis!"}](https://blogs.ch.cam.ac.uk/pmr/2011/08/01/why-you-need-a-data-management-plan/)
+
+[![](images/image-689718380.png){fig-alt="An addition to the backup rule from Alex Chan, who had their adjustable height desk crash and their IMAc planted into the backup drive setting on the same desk."}](https://twitter.com/alexwlchan/status/1323236080913686528)
+
+[![](images/image-1240159980.png){fig-alt="A tweet saying \"give me a horror story from your speciality in five words or less\" with Shawn Graham's answer to this: \"is this the current version\""}](https://twitter.com/electricarchaeo/status/1264362337559023616)
+
+## More information
+
+-   [How to backup your data](https://estherplomp.github.io/TNW-OS-support/posts/backup/)
+
+-   [True PhD Horror: Hard Drive Failure](https://www.youtube.com/watch?v=U6FWWMttBrc)
+
+-   [Data Sharing](https://www.youtube.com/watch?v=RVZbk3GEVSw)
