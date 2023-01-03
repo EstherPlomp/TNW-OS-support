@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v2 
         
       - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
+        uses: quarto-dev/quarto-actions/setup@v2.0.3
         with:
           # To install LaTeX to build PDF book 
           tinytex: true 
@@ -22,7 +22,7 @@ jobs:
       # add software dependencies here
 
       - name: Publish to GitHub Pages (and render)
-        uses: quarto-dev/quarto-actions/publish@v2
+        uses: quarto-dev/quarto-actions/publish@v2.0.3
         with:
           target: gh-pages
         env:
