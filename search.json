@@ -1540,6 +1540,20 @@
     "text": "Image\n\n\nhttps://data.4tu.nl/info/fileadmin/user_upload/Documenten/Deposit_Guidelines_2020.pdf\nhttps://www.springernature.com/gp/authors/research-data-policy/recommended-repositories\nhttps://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html\nHow To #1: Upload Your Data to 4TU.ResearchData"
   },
   {
+    "objectID": "posts/data-sharing-how/index.html#are-you-working-with-personalconfidential-data",
+    "href": "posts/data-sharing-how/index.html#are-you-working-with-personalconfidential-data",
+    "title": "How to share data?",
+    "section": "Are you working with personal/confidential data?",
+    "text": "Are you working with personal/confidential data?\nPersonal/confidential data can contain:\n\npersonal information which can allow the identification of living individuals (have you set up an HREC application?)\ncommercially-confidential information (e.g. something you might want to patent, or data belonging to a third party)\nInformation related to national security , export control regulations etc."
+  },
+  {
+    "objectID": "posts/data-sharing-how/index.html#is-there-a-clear-strategy-for-data-sharing",
+    "href": "posts/data-sharing-how/index.html#is-there-a-clear-strategy-for-data-sharing",
+    "title": "How to share data?",
+    "section": "5. Is there a clear strategy for data sharing?",
+    "text": "5. Is there a clear strategy for data sharing?\nTU Delft Research Data Framework Policy requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate .\n\nDid the project team agree what data (and code), when and how will be shared? (See what data should be shared post)\nWill there be any difficulties with data sharing (perhaps not all data is suitable for sharing)?\nWhat licence will be the most suitable for the data (and code)?\n\nIn principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, 4TU.ResearchData, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise)."
+  },
+  {
     "objectID": "posts/data-sharing-how/index.html#examples",
     "href": "posts/data-sharing-how/index.html#examples",
     "title": "How to share data?",
@@ -1558,49 +1572,21 @@
     "href": "posts/DMP-templates/index.html",
     "title": "Data Management Plan templates and guidance",
     "section": "",
-    "text": "Please find below some Data Management Plan templates by funding agencies. Each template has some guidance. You can also use our online platform, DMPonline, to fill out your Data Management Plan.\nMain differences between the online platform and word templates:"
+    "text": "A data management plan (DMP) is a document that describes:\nDuring the project:\nAfter the project:\nSee The Turing Way for more details about what a Data Management Plan should contain."
   },
   {
-    "objectID": "posts/DMP-templates/index.html#nwo",
-    "href": "posts/DMP-templates/index.html#nwo",
+    "objectID": "posts/DMP-templates/index.html#how-to-set-up-a-dmp",
+    "href": "posts/DMP-templates/index.html#how-to-set-up-a-dmp",
     "title": "Data Management Plan templates and guidance",
-    "section": "NWO",
-    "text": "NWO"
-  },
-  {
-    "objectID": "posts/DMP-templates/index.html#zonmw",
-    "href": "posts/DMP-templates/index.html#zonmw",
-    "title": "Data Management Plan templates and guidance",
-    "section": "ZonMw",
-    "text": "ZonMw\nEnsure that the data will be stored using a storage solution that is automatically backed up and that all project members have access to the data they need to have access to (especially important that access is restricted when working with personal data or confidential data - see number 4)."
-  },
-  {
-    "objectID": "posts/DMP-templates/index.html#is-the-data-properly-organised-and-documented",
-    "href": "posts/DMP-templates/index.html#is-the-data-properly-organised-and-documented",
-    "title": "Data Management Plan templates and guidance",
-    "section": "3. Is the data properly organised and documented?",
-    "text": "3. Is the data properly organised and documented?\nCan you easily figure out which file is what? If you open some of the files, are they properly labelled and described? If the individual responsible for data collection would leave the university, can you still make sense of the data without their input? See the data organisation/documentation post for more information."
-  },
-  {
-    "objectID": "posts/DMP-templates/index.html#is-your-student-working-with-confidential-data",
-    "href": "posts/DMP-templates/index.html#is-your-student-working-with-confidential-data",
-    "title": "Data Management Plan templates and guidance",
-    "section": "4. Is your student working with confidential data?",
-    "text": "4. Is your student working with confidential data?\nAnd are they handling this confidential data properly? Here the advise of the Data Steward can come in extra handy and is required for personal data (as part of the HREC application).\nConfidential data can contain:\n\npersonal information which can allow the identification of living individuals\ncommercially-confidential information (e.g. something you might want to patent, or data belonging to a third party)\nInformation related to national security , export control regulations etc."
-  },
-  {
-    "objectID": "posts/DMP-templates/index.html#is-there-a-clear-strategy-for-data-sharing",
-    "href": "posts/DMP-templates/index.html#is-there-a-clear-strategy-for-data-sharing",
-    "title": "Data Management Plan templates and guidance",
-    "section": "5. Is there a clear strategy for data sharing?",
-    "text": "5. Is there a clear strategy for data sharing?\nTU Delft Research Data Framework Policy requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate .\n\nDid the project team agree what data (and code), when and how will be shared? (See what data should be shared post)\nWill there be any difficulties with data sharing (perhaps not all data is suitable for sharing)?\nWhat licence will be the most suitable for the data (and code)?\n\nIn principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, 4TU.ResearchData, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise)."
+    "section": "How to set up a DMP?",
+    "text": "How to set up a DMP?\nYou can use the Word templates below, or the online platform, DMPonline, to fill out your Data Management Plan.\nMain differences between the online platform and word templates:\n\nThe online platform makes collaboration on templates easier as everyone will have access to the latest version\nWord templates keep the original format of the template, which looks nicer.\n\n\nNWO\n\n\nNWO Data Section (Proposal)\n\n\nZonMw Data Section(Proposal)\n\n\nERC"
   },
   {
     "objectID": "posts/DMP-templates/index.html#more-information",
     "href": "posts/DMP-templates/index.html#more-information",
     "title": "Data Management Plan templates and guidance",
     "section": "More information",
-    "text": "More information"
+    "text": "More information\n\nThe what, why and how of data management planning (5 min video)\nUsing DMPonline"
   },
   {
     "objectID": "posts/open-science-open-review/index.html",
