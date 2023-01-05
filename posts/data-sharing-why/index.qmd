@@ -76,3 +76,4 @@ Florian Markowetz provides five selfish reasons in his [article](https://doi.org
 -   [Encouragements and advice from several scientists and data stewards](https://blog.wellcomeopenresearch.org/2020/12/09/presenting-your-data-champions/)
 -   [UKRN primer on Data Sharing](https://osf.io/wp4zu/)
 -   [APA Explains: Data Sharing](https://www.youtube.com/watch?v=D-KlMPG_MhQ)
+-   [NIH data management and sharing policy](https://datascience.nih.gov/director/directors-blog-preparing-for-the-2023-data-management-and-sharing-policy)
