@@ -24,7 +24,7 @@ image: "open-data-fountain.jpg"
 
 -   Prevents retractions
 
--   Reduces duplication efforts
+-   Reduces duplication efforts and facilitates data reuse ([Martin et al. 2022](https://doi.org/10.1038/s41597-022-01730-7))
 
 -   Provides resources for training and education
 
