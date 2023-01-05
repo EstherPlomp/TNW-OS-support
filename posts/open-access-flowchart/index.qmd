@@ -1,0 +1,15 @@
+---
+title: "Open Access Flowchart"
+author: "Esther Plomp"
+date: "2023-01-05"
+categories: [Open Access, Plan S]
+image: "Plan-S.png"
+---
+
+Open Access flowchart (under construction)
+
+![](images/Publishing-OA-2.jpg)
+
+## More information
+
+-   [Publishing articles in 2021](https://estherplomp.github.io/TNW-OS-support/posts/open-access-2021/)
