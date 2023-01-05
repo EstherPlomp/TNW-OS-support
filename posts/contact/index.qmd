@@ -12,8 +12,7 @@ For anything **Open Science/data/code** related you can contact the **Data Stewa
 
 For more **specific/hands on data/code requests**, you can also contact the [Digital Competence Center](https://www.tudelft.nl/library/library-voor-onderzoekers/library-voor-onderzoekers/onderzoek-starten/dcc).
 
-[Delft High Performance Computing Centre](https://www.tudelft.nl/dhpc) (**DHPC**) is the central **TU Delft computing center**. See the
-[DelftBlue documentation pages](https://doc.dhpc.tudelft.nl/delftblue/) for more information or contact Dennis Palagin.
+[Delft High Performance Computing Centre](https://www.tudelft.nl/dhpc) (**DHPC**) is the central **TU Delft computing center**. See the [DelftBlue documentation pages](https://doc.dhpc.tudelft.nl/delftblue/) for more information or contact Dennis Palagin.
 
 If you have any questions about the **basic programming courses** ([Software/Data Carpentry Workshop](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop)), please contact Meta de Keijzer.
 
@@ -27,4 +26,5 @@ For more specific **TNW contact information**, check [intranet](https://intranet
 
 ## More information
 
--    [FAQ on Research Data Management](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs)
+-   [FAQ on Research Data Management](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs)
+-   [FAQ 4TU.ResearchData](https://data.4tu.nl/info/en/about-4turesearchdata/frequently-asked-questions)
