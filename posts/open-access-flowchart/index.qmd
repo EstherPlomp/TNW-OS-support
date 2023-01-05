@@ -3,13 +3,33 @@ title: "Open Access Flowchart"
 author: "Esther Plomp"
 date: "2023-01-05"
 categories: [Open Access, Plan S]
-image: "Plan-S.png"
+image: "publishing-oa-small.png"
 ---
 
-Open Access flowchart (under construction)
+Open Access flowchart (or [download the image with embedded links](https://surfdrive.surf.nl/files/index.php/s/cbbn0vZRIjqHz9A)):
 
-![](images/Publishing-OA-2.jpg)
+![](images/Publishing-OA-2.jpg){fig-alt="Publishing Open Access flowchart. You can preprint your article. The rest of the workflow depends on whether you have funder requirements or not. If you do not have funder requirements you can join 'You Share, We Take Care', where TU Delft library makes the article available 6 months after publication when you list TU Delft as your affiliation. This is not compliant with many funder requirements. On the other hand, if you do not have a funder it will be difficult to use budget to pay for the article processing fees. Whether you have a funder or not you have several options available that you can check using the Journal Browser. This website allows you to check whether your preferred journal is Open Access or not, what costs there are, whether TU Delft has a deal with the journal of whether there is an article processing charge that you need to pay. You can use the Rigths Retention Strategy if there are no Open Access options available or if the article processing charges are too expensive. You can use the TU Delft Open Access Fund of 2000 euro's if the journal is fully Open Access, which you can check using the DOAJ. You can also use the Journal checker tool to see if you can use research budget for the charges. Always select CC-BY when you sign a license agreement. This is how you can make your article available open access!"}
+
+**Preprint**: version of the article before peer review
+
+**Directory of Open Access Journals** ([DOAJ](https://doaj.org/))
+
+[**Journal Browser**](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser)
+
+**Diamond Open Access** options that do not charge article processing fees: [Open Research Europe](https://open-research-europe.ec.europa.eu/), [TU Delft Open](https://www.tudelft.nl/library/actuele-themas/open-publishing), [SciPost](https://scipost.org/)
+
+[**TU Delft Open Access Fund**](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding)
+
+[**Journal Checker Tool**](https://journalcheckertool.org/)
+
+[CC-BY license](https://creativecommons.org/licenses/by/4.0/)
+
+[Rights Retention Strategy](https://estherplomp.github.io/TNW-OS-support/posts/open-access-rights-retention/)
+
+[You share, We take Care](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care)
 
 ## More information
 
 -   [Publishing articles in 2021](https://estherplomp.github.io/TNW-OS-support/posts/open-access-2021/)
+
+-   [Article Processing Charge (APC)](https://estherplomp.github.io/TNW-OS-support/posts/Open-access-APC/)
