@@ -10,43 +10,10 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.280</generator>
-<lastBuildDate>Tue, 03 Jan 2023 00:00:00 GMT</lastBuildDate>
-<item>
-  <title>Contact</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/contact/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Who can you contact for what support?</p>
-<p>For anything <strong>Open Science/data/code</strong> related you can contact the <strong>Data Steward</strong>, Esther Plomp.</p>
-<p>For more <strong>specific/hands on data/code requests</strong>, you can also contact the <a href="https://www.tudelft.nl/library/library-voor-onderzoekers/library-voor-onderzoekers/onderzoek-starten/dcc">Digital Competence Center</a>.</p>
-<p><a href="https://www.tudelft.nl/dhpc">Delft High Performance Computing Centre</a> (<strong>DHPC</strong>) is the central <strong>TU Delft computing center</strong>. See the <a href="https://doc.dhpc.tudelft.nl/delftblue/">DelftBlue documentation pages</a> for more information or contact Dennis Palagin.</p>
-<p>If you have any questions about the <strong>basic programming courses</strong> (<a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop">Software/Data Carpentry Workshop</a>), please contact Meta de Keijzer.</p>
-<p>If you want to use an <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook"><strong>Electronic Lab Notebook</strong></a> or have any issues/questions regarding this, please contact Madeleine de Smaele.</p>
-<p>For information about <strong>data privacy/security</strong> check the <a href="https://www.tudelft.nl/en/privacy-security/privacy">privacy</a> and <a href="https://www.tudelft.nl/en/privacy-security/data-security">security</a> websites or contact <a href="mailto:privacy-tud@tudelft.nl">privacy-tud@tudelft.nl</a>.</p>
-<p>For more information about research involving <strong>human participants</strong>, check the Human Research Ethics Committee (<strong>HREC</strong>) website, particularly their <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application">application information</a>.</p>
-<p>For more specific <strong>TNW contact information</strong>, check <a href="https://intranet.tudelft.nl/-/technische-natuurwetenschappen-tnw">intranet</a>.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs">FAQ on Research Data Management</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/contact/index.html</guid>
-  <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/contact/contact.png" medium="image" type="image/png" height="119" width="144"/>
-</item>
+<lastBuildDate>Wed, 04 Jan 2023 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Data Horrors</title>
-  <dc:creator>Esther Plomp</dc:creator>
+  <dc:creator>Esther Plomp, Andrea Chiarelli</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/index.html</link>
   <description><![CDATA[ 
 
@@ -75,12 +42,43 @@
 <p><a href="https://twitter.com/electricarchaeo/status/1264362337559023616"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-1240159980.png" class="img-fluid figure-img" alt="A tweet saying &quot;give me a horror story from your speciality in five words or less&quot; with Shawn Graham's answer to this: &quot;is this the current version&quot;"></a></p>
 </figure>
 </div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.upi.com/Science_News/2013/12/19/80-percent-of-scientific-data-from-publicly-funded-research-is-lost-within-two-decades/8781387477327/"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-1125274807.png" class="img-fluid figure-img" alt="80 percent of scientific data from publicly-funded research is lost within two decades. Headline from december 19, 2013"></a></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.theatlantic.com/national/archive/2013/12/scientific-data-lost-forever/356422/"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-1516561689.png" class="img-fluid figure-img" alt="Most scientific research data from the 1990s is lost forever. A new study has found that as much as 80 percent of the raw scientific data collected by researchers in the early 1990s is gone forever, mostly because no one knows where to find it. By Danielle Wiener-Bronner. 2013." width="606"></a></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.researchgate.net/post/Can_you_still_publish_if_you_have_lost_the_original_data"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-338631962.png" class="img-fluid figure-img" alt="Can you still publish if you have lost the original data? I have recently completed a MD project and wriitin it up as a paper. My computer has since been stolen and I have lost the MD simulations (backup was taken too). Would the paper still be able to be published?"></a></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.nytimes.com/2002/01/13/us/years-of-data-lost-in-fire-at-university.html"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-1334545154.png" class="img-fluid figure-img" alt="years of data lost in fire at university"></a></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://vu.nl/en/stories/forgotten-collections-a-physical-data-horror-story"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-218605741.png" class="img-fluid figure-img" alt="Forgotten collections - a (physical) data horror story"></a></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://vu.nl/en/stories/data-transfer-in-shopping-bags"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-254955976.png" class="img-fluid figure-img" alt="Data transfer in shopping bags"></a></p>
+</figure>
+</div>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
 <li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/backup/">How to backup your data</a></p></li>
 <li><p><a href="https://www.youtube.com/watch?v=U6FWWMttBrc">True PhD Horror: Hard Drive Failure</a></p></li>
 <li><p><a href="https://www.youtube.com/watch?v=RVZbk3GEVSw">Data Sharing</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=8dhp_20j0Ys">How Toy Story 2 Almost Got Deleted</a> (from <a href="https://www.city.ac.uk/__data/assets/pdf_file/0003/440346/RDM-slideshow.pdf">Chiarelli 2018</a> - pdf)</p></li>
 </ul>
 
 
@@ -89,8 +87,42 @@
  ]]></description>
   <category>Research Data Management</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/index.html</guid>
-  <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Contact</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/contact/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Who can you contact for what support?</p>
+<p>For anything <strong>Open Science/data/code</strong> related you can contact the <strong>Data Steward</strong>, Esther Plomp.</p>
+<p>For more <strong>specific/hands on data/code requests</strong>, you can also contact the <a href="https://www.tudelft.nl/library/library-voor-onderzoekers/library-voor-onderzoekers/onderzoek-starten/dcc">Digital Competence Center</a>.</p>
+<p><a href="https://www.tudelft.nl/dhpc">Delft High Performance Computing Centre</a> (<strong>DHPC</strong>) is the central <strong>TU Delft computing center</strong>. See the <a href="https://doc.dhpc.tudelft.nl/delftblue/">DelftBlue documentation pages</a> for more information or contact Dennis Palagin.</p>
+<p>If you have any questions about the <strong>basic programming courses</strong> (<a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop">Software/Data Carpentry Workshop</a>), please contact Meta de Keijzer.</p>
+<p>If you want to use an <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook"><strong>Electronic Lab Notebook</strong></a> or have any issues/questions regarding this, please contact Madeleine de Smaele.</p>
+<p>For information about <strong>data privacy/security</strong> check the <a href="https://www.tudelft.nl/en/privacy-security/privacy">privacy</a> and <a href="https://www.tudelft.nl/en/privacy-security/data-security">security</a> websites or contact <a href="mailto:privacy-tud@tudelft.nl">privacy-tud@tudelft.nl</a>.</p>
+<p>For more information about research involving <strong>human participants</strong>, check the Human Research Ethics Committee (<strong>HREC</strong>) website, particularly their <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application">application information</a>.</p>
+<p>For more specific <strong>TNW contact information</strong>, check <a href="https://intranet.tudelft.nl/-/technische-natuurwetenschappen-tnw">intranet</a>.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs">FAQ on Research Data Management</a></li>
+<li><a href="https://data.4tu.nl/info/en/about-4turesearchdata/frequently-asked-questions">FAQ 4TU.ResearchData</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/contact/index.html</guid>
+  <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/contact/contact.png" medium="image" type="image/png" height="119" width="144"/>
 </item>
 <item>
   <title>Article Processing Fees</title>
