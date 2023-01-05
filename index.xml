@@ -12,6 +12,34 @@
 <generator>quarto-1.2.280</generator>
 <lastBuildDate>Thu, 05 Jan 2023 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>Publishing ethically</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>How to shift your publishing choices towards publishing in more sustainable/ethical venues:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="http://corinalogan.com/journals.html"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/images/image-1632415656.png" class="img-fluid figure-img" alt="A flowchart asking the question whether the journal is 100% open access, and whether the publisher is for-profit or non-profit. You should publish in the venue if it is open access and ideally the publisher should be non-profit. The APC should reflect the actual costs, but ideally be not existing because publishing fees come with inequalities. You should choose the CC-BY-4.0 license, make use of open peer review, and choose a journal that does not select articles based on subjective impact."></a></p>
+<p></p><figcaption class="figure-caption">Flowchart by Carina Logan, based on [Logan 2017](https://doi.org/10.12688/f1000research.11415.2).</figcaption><p></p>
+</figure>
+</div>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Scholarly communication</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/index.html</guid>
+  <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Open Access Flowchart</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/index.html</link>
@@ -20,12 +48,22 @@
 
 
 
-<p>Open Access flowchart (under construction)</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/images/Publishing-OA-2.jpg" class="img-fluid"></p>
+<p>Open Access flowchart (or <a href="https://surfdrive.surf.nl/files/index.php/s/cbbn0vZRIjqHz9A">download the image with embedded links</a>):</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/images/Publishing-OA-2.jpg" class="img-fluid" alt="Publishing Open Access flowchart. You can preprint your article. The rest of the workflow depends on whether you have funder requirements or not. If you do not have funder requirements you can join 'You Share, We Take Care', where TU Delft library makes the article available 6 months after publication when you list TU Delft as your affiliation. This is not compliant with many funder requirements. On the other hand, if you do not have a funder it will be difficult to use budget to pay for the article processing fees. Whether you have a funder or not you have several options available that you can check using the Journal Browser. This website allows you to check whether your preferred journal is Open Access or not, what costs there are, whether TU Delft has a deal with the journal of whether there is an article processing charge that you need to pay. You can use the Rigths Retention Strategy if there are no Open Access options available or if the article processing charges are too expensive. You can use the TU Delft Open Access Fund of 2000 euro's if the journal is fully Open Access, which you can check using the DOAJ. You can also use the Journal checker tool to see if you can use research budget for the charges. Always select CC-BY when you sign a license agreement. This is how you can make your article available open access!"></p>
+<p><strong>Preprint</strong>: version of the article before peer review</p>
+<p><strong>Directory of Open Access Journals</strong> (<a href="https://doaj.org/">DOAJ</a>)</p>
+<p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser"><strong>Journal Browser</strong></a></p>
+<p><strong>Diamond Open Access</strong> options that do not charge article processing fees: <a href="https://open-research-europe.ec.europa.eu/">Open Research Europe</a>, <a href="https://www.tudelft.nl/library/actuele-themas/open-publishing">TU Delft Open</a>, <a href="https://scipost.org/">SciPost</a></p>
+<p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding"><strong>TU Delft Open Access Fund</strong></a></p>
+<p><a href="https://journalcheckertool.org/"><strong>Journal Checker Tool</strong></a></p>
+<p><a href="https://creativecommons.org/licenses/by/4.0/">CC-BY license</a></p>
+<p><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-access-rights-retention/">Rights Retention Strategy</a></p>
+<p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care">You share, We take Care</a></p>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
-<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-access-2021/">Publishing articles in 2021</a></li>
+<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-access-2021/">Publishing articles in 2021</a></p></li>
+<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/Open-access-APC/">Article Processing Charge (APC)</a></p></li>
 </ul>
 
 
@@ -36,7 +74,7 @@
   <category>Plan S</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/index.html</guid>
   <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/Plan-S.png" medium="image" type="image/png"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/publishing-oa-small.png" medium="image" type="image/png" height="56" width="144"/>
 </item>
 <item>
   <title>Data Horrors</title>
@@ -1281,43 +1319,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-peerreview/index.html</guid>
   <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-peerreview/OS-TUD.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Open Science &amp; Inclusion</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-evaluation/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This posts lists several resources regarding inclusion gaps in the scientific landscape</p>
-<section id="gender" class="level3">
-<h3 class="anchored" data-anchor-id="gender">Gender</h3>
-<ul>
-<li><a href="https://doi.org/10.7554/eLife.83071">Meta-Research: Systemic racial disparities in funding rates at the National Science Foundation</a></li>
-<li><a href="https://doi.org/10.1007/s43545-022-00563-w">The gendered nature of independence in the context of research funding and excellence</a></li>
-</ul>
-</section>
-<section id="race" class="level3">
-<h3 class="anchored" data-anchor-id="race">Race</h3>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://doi.org/10.1126/sciadv.abq7056">Labor advantages drive the greater productivity of faculty at elite universities</a></li>
-<li><a href="https://www.winrepo.org/publications/">List of references regarding diversity, biases, and inclusivity studies and opinion pieces</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <category>Inclusion</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-evaluation/index.html</guid>
-  <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-evaluation/OS-TUD.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
