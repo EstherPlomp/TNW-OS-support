@@ -27,3 +27,4 @@ Please see below for a \~12 min overview of the latest Open Science developments
 ## More information
 
 -   [Open Science terminology and developments at TU Delft and (inter)nationally](https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/)
+-   [When frustration leads to inspiration for Open Science](https://www.tudelft.nl/en/stories/articles/when-frustration-leads-to-inspiration-for-open-science)
