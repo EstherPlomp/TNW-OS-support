@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/storage-solutions/index.html",
       "/posts/scholcom-ethics/index.html",
       "/posts/open-access-flowchart/index.html",
       "/posts/data-horrors/index.html",
@@ -27,7 +28,6 @@
       "/posts/open-science-TNW/index.html",
       "/posts/open-science-panic/index.html",
       "/posts/data-spreadsheets/index.html",
-      "/posts/storage-solutions/index.html",
       "/posts/data-preservation/index.html",
       "/posts/4TU-info/index.html",
       "/posts/data-versioning/index.html",

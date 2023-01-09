@@ -9,8 +9,162 @@
 <link>https://github.com/EstherPlomp/TNW-OS-support/index.html</link>
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.2.280</generator>
-<lastBuildDate>Thu, 05 Jan 2023 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.2.313</generator>
+<lastBuildDate>Mon, 09 Jan 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Storage Solutions</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Overview of Available Data Storage Solutions <strong>during the project’s duration</strong> at TU Delft. These storage solutions are primarily for internal use, but can be shared with collaborators.</p>
+<p>Please see <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&amp;from=feffb489-e1f9-49cd-8223-53ae0b70b609">TopDesk</a> for an overview of all the storage solutions available to you. Below follow some more details for each storage solution.</p>
+<section id="tu-delft-network-drives" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft-network-drives">TU Delft network drives</h2>
+<table class="table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 28%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Personal Drive (H:)</th>
+<th>Staff Group Drive (M:)</th>
+<th>Project Drive (U:)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Purpose</td>
+<td>Private work files only (sharing not possible)</td>
+<td>Data shared within research group or department</td>
+<td>Data from individual projects, shared with project members</td>
+</tr>
+<tr class="even">
+<td>Suitable for confidential data?</td>
+<td>Yes</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+<tr class="odd">
+<td>Size</td>
+<td>8 GB</td>
+<td>&gt; 5TB</td>
+<td>&gt; 5TB</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="project-drive" class="level2">
+<h2 class="anchored" data-anchor-id="project-drive">Project Drive</h2>
+<p>The Project Drive is the recommended storage solution for research data.</p>
+<ul>
+<li><p>Project leaders or supervisors should request the drive to ensure that they also have access to the data (especially important for the long term storage of any data).</p></li>
+<li><p>Anyone with a NetID can be added to a Project Drive (for external collaborators this NetID will have to be generated so <a href="https://docs.google.com/spreadsheets/d/1sMhw4URTSdVl4d7a_QPnhWGboR3YDJJGaDNK3KZMaKU/">additional information</a> will need to be provided). To provide access to additional people you can add them when you <a href="https://tudelft.topdesk.net/tas/public/ssp/content/serviceflow?unid=21b6203ec6d74f00a45c32e6034dfc0c&amp;openedFromService=true">request the drive via Topdesk</a>, you can contact the Service Desk of your faculty (servicepuntTNW [at] tudelft.nl), or you can add them using <a href="https://drive.google.com/file/d/13loyAiVFRw8vhIjFfu6h88F947DW4hyk/view?usp=sharing">UMRA</a> (see <a href="https://www.tudelft.nl/en/it-manuals/umra">TU Delft ICT for more UMRA manuals</a>).</p>
+<ul>
+<li>Note that anyone with access to the Project Drive will have viewing or editing rights for the entire Project Drive, unless you’re using UMRA. If you want to easily manage access permissions it may be needed to request multiple Project Drives or work with alternative storage solutions such as SURF/OneDrive.</li>
+</ul></li>
+<li><p>The Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).</p>
+<ul>
+<li>Read more about <a href="https://estherplomp.github.io/TNW-OS-support/posts/access-project-drive/">how to access the Project Drive</a>.</li>
+</ul></li>
+<li><p>To request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with ‘Change’ selected rather than ‘New’. For &gt;5 TB of space, you may be contacted by the faculty IT manager for approval.</p></li>
+</ul>
+<section id="network-drives-and-delft-hpc" class="level3">
+<h3 class="anchored" data-anchor-id="network-drives-and-delft-hpc">Network Drives and Delft HPC</h3>
+<p>Please see the <a href="https://doc.dhpc.tudelft.nl/delftblue/Data-transfer-to-DelftBlue/#network-drives">DelftBlue documentation</a> on the storage of data-transfer recommendations from the HPC clusters.</p>
+</section>
+</section>
+<section id="surfdrive" class="level2">
+<h2 class="anchored" data-anchor-id="surfdrive"><a href="http://surfdrive.surf.nl/">SURFdrive</a></h2>
+<ul>
+<li>Secure cloud storage</li>
+<li>30 days backup, synchronize and share data</li>
+<li><a href="https://wiki.surfnet.nl/display/SURFdrive/Downloads+voor+SURFdrive">Desktop app</a> for synchronization</li>
+<li>500 GB</li>
+<li>Share data with external collaborators
+<ul>
+<li>public link + with password protection + expiry date</li>
+<li>Check the manual</li>
+</ul></li>
+<li>Not suitable for long term storage as this is a personal storage space (account expires when you leave TU Delft)</li>
+<li>Students don’t have accounts but you can give access to folders/files (OneDrive may be more suitable when working with students)</li>
+<li>Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.</li>
+</ul>
+</section>
+<section id="onedrive" class="level2">
+<h2 class="anchored" data-anchor-id="onedrive">OneDrive</h2>
+<p>See the <a href="https://d1rkab7tlqy5f1.cloudfront.net/ICT%20Handleidingen/2%20-%20Nieuwe%20handleidingen/Microsoft%20365/Onedrive/Getting%20started%20with%20OneDrive_ENG.pdf">OneDrive manual</a> on how to get started.</p>
+<ul>
+<li>Secure cloud storage</li>
+<li>30 days backup, synchronize and share data</li>
+<li>1 TB</li>
+<li>Share data with external collaborators by specifying users one by one with their email address</li>
+<li>Not suitable for long term storage account as this is a personal storage space (expires when you leave TU Delft)</li>
+<li>Students also have accounts</li>
+<li>Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.</li>
+<li>Versioning up to 93 days.</li>
+</ul>
+</section>
+<section id="cloud4research" class="level2">
+<h2 class="anchored" data-anchor-id="cloud4research">Cloud4Research</h2>
+<p><a href="https://tu-delft-ict-innovation.github.io/Cloud4Research/">Cloud4Research</a> is a TU Delft IT service to facilitate the use of public cloud for research. Contact the Cloud4Research team for an intake meeting to discuss your infrastructure and support needs, as well as the financial requirements.</p>
+</section>
+<section id="sending-files" class="level2">
+<h2 class="anchored" data-anchor-id="sending-files">Sending files</h2>
+<p><a href="https://www.surf.nl/en/surffilesender-send-large-files-securely-and-encrypted">SURFfilesender</a> can be used to share files up to 1 TB (also with end-to-end encryption up to 2)</p>
+</section>
+<section id="tu-delft-gitlab" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft-gitlab">TU Delft GitLab</h2>
+<p>TU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared. You can create up to 50 repositories/projects.</p>
+<p>For an overview of the options of differences between GitLab/GitHub/Gitea, see this <a href="https://doi.org/10.5281/zenodo.4710206">repository chooser guide</a>.</p>
+<p>GitLab repository can be requested through <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42">TopDesk</a> (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; GitLab TU Delft &gt; Request GitLab).</p>
+</section>
+<section id="subversion-at-tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="subversion-at-tu-delft">Subversion at TU Delft</h2>
+<p>TU Delft provides version control systems for data with backup facility. Access can be controlled by the repository owner.</p>
+<p>Subversion repository can be requested through TopDesk (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; Version Control Tools &gt; Report to Service Desk)</p>
+<p>An alternative (non-TU Delft) solution is <a href="https://www.datalad.org/">Datalad</a>.</p>
+</section>
+<section id="electronic-lab-notebooks" class="level2">
+<h2 class="anchored" data-anchor-id="electronic-lab-notebooks">Electronic Lab Notebooks</h2>
+<p>Electronic Lab Notebooks allow you to capture and organise data digitally, which makes it easier to back up information and search through your files.</p>
+<ul>
+<li><p>Link your data and protocols</p></li>
+<li><p>Collaborate easily by sharing your documents and data directly in the notebook</p></li>
+<li><p>Export data in several formats or directly to a data repository</p></li>
+<li><p>Integration with other software/tools</p></li>
+<li><p>Data and documents have unique IDs associated with them, and automatically generated metadata</p></li>
+<li><p>Easily searchable</p></li>
+<li><p>Automatic recording of document versions supports protection of intellectual property</p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">TU Delft offers licenses for RSpace and eLABjournal</a></p></li>
+<li><p><a href="https://openworking.wordpress.com/2019/07/05/keep-calm-and-go-paperless-electronic-lab-notebooks-can-improve-your-research/">Interview with Siân from TU Delft about her experiences</a></p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/images/paste-4068FDF8.png" class="img-fluid figure-img" width="543"></p>
+<p></p><figcaption class="figure-caption">Illustration by Connie Clare</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Storage</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/index.html</guid>
+  <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/data.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Publishing ethically</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -142,6 +296,7 @@
 <ul>
 <li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/backup/">How to backup your data</a></p></li>
 <li><p><a href="https://www.youtube.com/watch?v=U6FWWMttBrc">True PhD Horror: Hard Drive Failure</a></p></li>
+<li><p><a href="https://figshare.com/articles/media/The_Data_Horror_Stories_Song/21167128">Data horror story song</a></p></li>
 <li><p><a href="https://www.youtube.com/watch?v=RVZbk3GEVSw">Data Sharing</a></p></li>
 <li><p><a href="https://www.youtube.com/watch?v=8dhp_20j0Ys">How Toy Story 2 Almost Got Deleted</a> (from <a href="https://www.city.ac.uk/__data/assets/pdf_file/0003/440346/RDM-slideshow.pdf">Chiarelli 2018</a> - pdf)</p></li>
 </ul>
@@ -1270,55 +1425,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-3-things/index.html</guid>
   <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-3-things/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Peer review flaws</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-peerreview/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The peer review process does not successfully keep out bad science.</p>
-<section id="some-of-the-flaws-of-the-peer-review-process-include" class="level2">
-<h2 class="anchored" data-anchor-id="some-of-the-flaws-of-the-peer-review-process-include">Some of the flaws of the peer review process include:</h2>
-<ul>
-<li><p><strong>Bias</strong>: Reviewers may be biased against certain research or researchers, which can affect their evaluations. For example, reviewers may be more likely to reject research that challenges their own views or that comes from researchers they do not know.There is also a bias in valuing positive results more than negative results.</p></li>
-<li><p><strong>Lack of diversity:</strong> Since identities of peer reviewers are often not known, it is difficult to assess their backgrounds, which can result in a lack of representation and potentially biased evaluations.</p></li>
-<li><p><strong>Limited expertise</strong>: Reviewers may not have the necessary expertise to evaluate certain types of research, which can lead to incomplete or inaccurate evaluations.</p></li>
-<li><p><strong>Slow turnaround time:</strong> The peer review process can be slow, with some studies taking months or even years to be reviewed and published. This can delay the dissemination of important research findings. (See Preprints)</p></li>
-<li><p><strong>Lack of transparency</strong>: The peer review process is often not transparent, as peer reviewer identities are unknown and reviews are not always public. (see Open Peer Review)</p></li>
-<li><p>Agreement among reviewers is weak</p></li>
-<li><p>Rejections/acceptation decisions are inconsistent</p></li>
-<li><p>Major errors and flaws are inconsistently discovered</p></li>
-</ul>
-</section>
-<section id="examples-of-flawed-peer-reviewed-research" class="level2">
-<h2 class="anchored" data-anchor-id="examples-of-flawed-peer-reviewed-research">Examples of flawed peer reviewed research</h2>
-<ul>
-<li><p><a href="https://scholar.social/@LudoWaltman@social.cwts.nl/109558746560823086">Omicron origin study retracted after widespread criticism</a></p></li>
-<li><p><a href="https://drpeterwilmshurst.wordpress.com/2022/11/15/has-cope-membership-become-a-way-for-unprincipled-journals-to-buy-a-fake-badge-of-integrity/">Has COPE membership become a way for unprincipled journals to buy a fake badge of integrity?</a></p></li>
-<li><p><a href="https://doi.org/10.1038/s10038-022-01105-1">The collective effects of genetic variants and complex traits</a></p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://www.winrepo.org/publications/">List of references regarding diversity, biases, and inclusivity studies and opinion pieces</a></li>
-<li><a href="https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review">The rise and fall of peer review</a></li>
-<li></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Integrity</category>
-  <category>Peerreview</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-peerreview/index.html</guid>
-  <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-peerreview/OS-TUD.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
