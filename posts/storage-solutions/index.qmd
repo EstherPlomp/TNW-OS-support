@@ -1,7 +1,7 @@
 ---
 title: "Storage Solutions"
 author: "Esther Plomp"
-date: "2022-11-04"
+date: "2023-01-09"
 categories: [Storage]
 image: "data.jpg"
 ---
@@ -13,7 +13,7 @@ Please see [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/s
 ## TU Delft network drives
 
 |                                 | Personal Drive (H:)                            | Staff Group Drive (M:)                          | Project Drive (U:)                                         |
-|-----------------|-----------------|-----------------|---------------------|
+|-----------------|-----------------|-----------------|--------------------|
 | Purpose                         | Private work files only (sharing not possible) | Data shared within research group or department | Data from individual projects, shared with project members |
 | Suitable for confidential data? | Yes                                            | No                                              | Yes                                                        |
 | Size                            | 8 GB                                           | \> 5TB                                          | \> 5TB                                                     |
@@ -63,6 +63,10 @@ See the [OneDrive manual](https://d1rkab7tlqy5f1.cloudfront.net/ICT%20Handleidin
 -   Students also have accounts
 -   Do not use for highly confidential data such as state secrets, sensitive personal data, or highly sensitive IP material.
 -   Versioning up to 93 days.
+
+## Cloud4Research
+
+[Cloud4Research](https://tu-delft-ict-innovation.github.io/Cloud4Research/) is a TU Delft IT service to facilitate the use of public cloud for research. Contact the Cloud4Research team for an intake meeting to discuss your infrastructure and support needs, as well as the financial requirements.
 
 ## Sending files
 
