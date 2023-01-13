@@ -1,0 +1,17 @@
+---
+title: "Git workflow"
+author: "Esther Plomp"
+date: "2022-09-02"
+categories: [Git, Software]
+image: "image.jpg"
+---
+
+Git workflow:
+
+![Git workflow overview by nikkiandchris.io](https://pbs.twimg.com/media/FluugetagAIuMJf?format=jpg&name=large){alt="Git workflow overview by nikkiandchris.io" ="" Local environment consisting of working directory, staging, stash, and local repository. Specific actions, including pull, add, commit can be done between specific git compartments. There's also a remote environment.="" fig-alt="Local environment consisting of working directory, staging, stash, and local repository. Specific actions, including pull, add, commit can be done between specific git compartments. There's also a remote environment."}
+
+## More information
+
+-   
+
+-   
