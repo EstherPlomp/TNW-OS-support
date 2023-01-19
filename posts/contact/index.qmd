@@ -14,13 +14,19 @@ For more **specific/hands on data/code requests**, you can also contact the [Dig
 
 [Delft High Performance Computing Centre](https://www.tudelft.nl/dhpc) (**DHPC**) is the central **TU Delft computing center**. See the [DelftBlue documentation pages](https://doc.dhpc.tudelft.nl/delftblue/) for more information or contact Dennis Palagin.
 
-If you have any questions about the **basic programming courses** ([Software/Data Carpentry Workshop](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop)), please contact Meta de Keijzer.
+If you have any questions about the **basic programming courses** ([Software/Data Carpentry Workshop](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop)), please contact Meta de Keijzer.\
+
+To **publish/share data** check the [4TU.ResearchData website](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository). For questions, contact [researchdata\@4tu.nl](mailto:researchdata@4tu.nl).
 
 If you want to use an [**Electronic Lab Notebook**](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook) or have any issues/questions regarding this, please contact Madeleine de Smaele.
 
-For information about **data privacy/security** check the [privacy](https://www.tudelft.nl/en/privacy-security/privacy) and [security](https://www.tudelft.nl/en/privacy-security/data-security) websites or contact [privacy-tud\@tudelft.nl](mailto:privacy-tud@tudelft.nl).
+For information about **data privacy/security** check the [privacy](https://www.tudelft.nl/en/privacy-security/privacy) and [security](https://www.tudelft.nl/en/privacy-security/data-security) websites or contact [privacy-tud\@tudelft.nl](mailto:privacy-tud@tudelft.nl). For questions specifically about data security you can also contact Johan Brandenburg (Faculty Information Security Coordinator).
+
+-   Do you need to know what software or tooling is available for different tasks, and which tools have been approved based on privacy & security considerations? Please have a look at the [Software Finder](https://softwarefinder.rs.tudelft.nl/) and the [Educational Tooling](https://teaching-support.tudelft.nl/educational-tooling/) pages.
 
 For more information about research involving **human participants**, check the Human Research Ethics Committee (**HREC**) website, particularly their [application information](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application).
+
+For **Open Access**: Check out the [Journal Browser](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser) (to check if the library has an open access deal with a specific journal), and the [TU Delft Open Access Fund](mailto:TU%20Delft%20Open%20Access%20Fund). You can contact the library via [library\@tudelft.nl](mailto:library@tudelft.nl).
 
 For more specific **TNW contact information**, check [intranet](https://intranet.tudelft.nl/-/technische-natuurwetenschappen-tnw).
 
