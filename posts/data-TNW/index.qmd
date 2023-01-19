@@ -54,8 +54,6 @@ image: "open-data-fountain.jpg"
 
 ## Repositories
 
-[**IDR**](https://idr.openmicroscopy.org/)
-
 [DNA DataBank of Japan (DDBJ)](http://www.ddbj.nig.ac.jp/)
 
 [European Nucleotide Archive (ENA)](http://www.ebi.ac.uk/ena/)
@@ -86,13 +84,46 @@ image: "open-data-fountain.jpg"
 
 [Biological Magnetic Resonance Data Bank (BMRB)](http://www.bmrb.wisc.edu/)
 
-[Electron Microscopy Data Bank (EMDB)](http://www.emdatabank.org/)
+## RNA-seq/qpcr
 
-[**EMPIAR**](https://www.ebi.ac.uk/pdbe/emdb/empiar/)
+-   [European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/home) (ENA)
+
+-   [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) (SRA)
+
+-   [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) (GEO)
+
+-   [ENCODE](https://www.encodeproject.org/)
+
+-   [exRNA Atlas](https://exrna-atlas.org/)
+
+-   [Minimum Information for Publication of Quantitative Real-Time PCR Experiments (MIQE) ](https://rdml.org/miqe.html)
+
+## Microscopy
+
+-   [**IDR**](https://idr.openmicroscopy.org/)
+
+-   [Electron Microscopy Data Bank (EMDB)](http://www.emdatabank.org/)
+
+-   [**EMPIAR**](https://www.ebi.ac.uk/pdbe/emdb/empiar/)
+
+```{=html}
+<!-- -->
+```
+-   [Cell Image Library](http://www.cellimagelibrary.org/)
+
+-   [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/)
+
+-   [Open blink project](https://grussmayerlab.github.io/open-blink/about/)
 
 ## Tools
 
 [ioChem-BD](https://www.iochem-bd.org/)
+
+## Simulation outputs
+
+-   [SED-ML](https://sed-ml.org/)
+
+-   [Minimum Information About a Simulation Experiment (MIASE)](http://biomodels.net/miase)
 
 ## Open Research
 
