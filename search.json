@@ -536,7 +536,7 @@
     "href": "posts/data-sharing-how-PhD/index.html#share-datacode-underlying-the-article",
     "title": "How to share data/code underlying the thesis?",
     "section": "Share data/code underlying the article",
-    "text": "Share data/code underlying the article\nIdeally, you will share the data/code at the same time as you share the preprint or publish your article. This way, all your research outputs are connected with each other and you will not have to go back to organise ‘old’ data/code."
+    "text": "Share data/code underlying the article\nIdeally, you will share the data/code at the same time as you share the preprint or publish your article. This way, all your research outputs are connected with each other and you will not have to go back to organise ‘old’ data/code.\n\nExample of data underlying an article\nExample of raw data underying an article"
   },
   {
     "objectID": "posts/data-sharing-how-PhD/index.html#share-the-datacode-underlying-a-chapter",
@@ -564,14 +564,14 @@
     "href": "posts/data-sharing-how-PhD/index.html#how",
     "title": "How to share data/code underlying the thesis?",
     "section": "How?",
-    "text": "How?\nPending on how complex your dataset is in terms of size or amount of files, there are several solutions on how to organise your data:\n\nHave all the files in one directory together with a READme file, if you do not have a lot of files\n\nexample 1, example 2\n\nSeparate the files per measurement technique\n\neither in separate directories or\nin zip files - see example here\n\nYou can arrange the data/code per chapter\n\nexample 1, example 2\nexample for simulation data\n\nSoftware (example 1)"
+    "text": "How?\nPending on how complex your dataset is in terms of size or amount of files, there are several solutions on how to organise your data:\n\nHave all the files in one directory together with a READme file, if you do not have a lot of files\n\nexample 1, example 2\n\nSeparate the files per measurement technique\n\neither in separate directories or\nin zip files - see example here\n\nYou can arrange the data/code per chapter\n\nexample 1, example 2\nexample for simulation data\n\nSoftware (example 1)\n\nSee here how you can integrate 4TU.ResearchData and GitHub/Lab"
   },
   {
     "objectID": "posts/data-sharing-how-PhD/index.html#where",
     "href": "posts/data-sharing-how-PhD/index.html#where",
     "title": "How to share data/code underlying the thesis?",
     "section": "Where?",
-    "text": "Where?\nTU Delft has a dedicated data repository, 4TU.ResearchData, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the 4TU.ResearchData's guidelines for readme files (pdf).\nIf your group/project is using Zenodo you can also tag a project ‘community’. See for example SAMOSAFER and BatteryNL."
+    "text": "Where?\nTU Delft has a dedicated data repository, 4TU.ResearchData, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the 4TU.ResearchData’s guidelines for readme files (pdf).\nIf your group/project is using Zenodo you can also tag a project ‘community’. See for example SAMOSAFER and BatteryNL."
   },
   {
     "objectID": "posts/data-sharing-how-PhD/index.html#link-between-datacode-and-your-dissertation",
@@ -1390,7 +1390,7 @@
     "href": "posts/data-TNW/index.html#microscopy",
     "title": "Metadata standards and repositories for Applied Sciences/TNW",
     "section": "Microscopy",
-    "text": "Microscopy\n\nIDR\nElectron Microscopy Data Bank (EMDB)\nEMPIAR\n\n\n\nCell Image Library\nBioImage Archive\nOpen blink project"
+    "text": "Microscopy\n\nIDR\nElectron Microscopy Data Bank (EMDB)\nEMPIAR\nCell Image Library\nBioImage Archive\nREMBI: Recommended Metadata for Biological Images\nOpen blink project"
   },
   {
     "objectID": "posts/data-TNW/index.html#tools",

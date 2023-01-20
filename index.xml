@@ -26,6 +26,10 @@
 <section id="share-datacode-underlying-the-article" class="level2">
 <h2 class="anchored" data-anchor-id="share-datacode-underlying-the-article">Share data/code underlying the article</h2>
 <p>Ideally, you will share the data/code <strong>at the same time</strong> as you share the preprint or publish your article. This way, all your <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">research outputs are connected with each other</a> and you will not have to go back to organise ‘old’ data/code.</p>
+<ul>
+<li><p><a href="https://doi.org/10.4121/13031837">Example of data underlying an article</a></p></li>
+<li><p><a href="https://doi.org/10.4121/16539453">Example of raw data underying an article</a></p></li>
+</ul>
 </section>
 <section id="share-the-datacode-underlying-a-chapter" class="level2">
 <h2 class="anchored" data-anchor-id="share-the-datacode-underlying-a-chapter">Share the data/code underlying a chapter</h2>
@@ -60,12 +64,15 @@
 <li><p><a href="https://doi.org/10.4121/uuid:81a65517-5b07-4753-9cbc-c566e6640488">example 1</a>, <a href="https://doi.org/10.4121/uuid:44a6b4eb-c4b6-4199-b023-39a97ab0eae8">example 2</a></p></li>
 <li><p><a href="https://doi.org/10.4121/18996992.v1">example for simulation data</a></p></li>
 </ul></li>
-<li><p>Software (<a href="https://doi.org/10.4121/13066028.v1">example 1</a>)</p></li>
+<li><p>Software (<a href="https://doi.org/10.4121/13066028.v1">example 1</a>)</p>
+<ul>
+<li>See here how you can <a href="https://estherplomp.github.io/TNW-OS-support/posts/Git-4TU-integration/">integrate 4TU.ResearchData and GitHub/Lab</a></li>
+</ul></li>
 </ul>
 </section>
 <section id="where" class="level2">
 <h2 class="anchored" data-anchor-id="where">Where?</h2>
-<p>TU Delft has a dedicated data repository, <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a>, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the <a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData's guidelines for readme files</a> (pdf).</p>
+<p>TU Delft has a dedicated data repository, <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a>, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the <a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf).</p>
 <p>If your group/project is using <a href="https://zenodo.org/">Zenodo</a> you can also tag a project ‘community’. See for example <a href="https://zenodo.org/communities/samosafer">SAMOSAFER</a> and <a href="https://zenodo.org/communities/batterynl/">BatteryNL</a>.</p>
 </section>
 <section id="link-between-datacode-and-your-dissertation" class="level2">
