@@ -1,0 +1,71 @@
+---
+title: "How to share data/code underlying the thesis?"
+author: "Esther Plomp"
+date: "2023-01-20"
+categories: [Open Data, Open Software, PhD, TNW]
+image: "image.jpg"
+---
+
+How to share your PhD research outputs?
+
+TU Delft [Research Data Framework Policy](https://doi.org/10.5281/zenodo.2573159) requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate.
+
+For more information on what data you should share, please see the [what data should be shared post](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/).
+
+## Share data/code underlying the article
+
+Ideally, you will share the data/code **at the same time** as you share the preprint or publish your article. This way, all your [research outputs are connected with each other](https://the-turing-way.netlify.app/communication/citable/citable-linking.html) and you will not have to go back to organise 'old' data/code.
+
+## Share the data/code underlying a chapter
+
+Your thesis may contain chapters that are not published (yet). In that case, you can share the remaining data/code in an upload that you clearly link to your dissertation/thesis (such as, data/code underlying \*title thesis\*).
+
+## Share everything together
+
+You can also choose to bundle everything together in one upload.
+
+If you already shared data/code before, it is better to link to the older uploads instead of re-uploading the same data (unless you made any changes). You can do so in the metadata fields and in the [READme file](https://estherplomp.github.io/TNW-OS-support/posts/readme/).
+
+## I still want to publish my thesis chapter!
+
+In that case you can still share the data/code when you publish the rest of the research outputs connected to your dissertation (because you will get a time stamp and DOI with the data/code that you can later connect to the article)
+
+OR
+
+You can choose to wait with publishing the data/code and do so when you publish the article (as described above for sharing the data/code underlying an article).
+
+## How?
+
+Pending on how complex your dataset is in terms of size or amount of files, there are several solutions on how to organise your data:
+
+-   Have all the files in one directory together with a [READme file](https://estherplomp.github.io/TNW-OS-support/posts/readme/), if you do not have a lot of files
+
+    -   [example 1](https://doi.org/10.4121/13395482.v1), [example 2](https://doi.org/10.4121/uuid:875f0bfd-c047-480c-8a3f-6322a33b3f9a)
+
+-   Separate the files per measurement technique
+
+    -   either in separate directories or
+
+    -   in zip files - see example [here](https://doi.org/10.4121/13200464.v2)
+
+-   You can arrange the data/code per chapter
+
+    -   [example 1](https://doi.org/10.4121/uuid:81a65517-5b07-4753-9cbc-c566e6640488), [example 2](https://doi.org/10.4121/uuid:44a6b4eb-c4b6-4199-b023-39a97ab0eae8)
+
+    -   [example for simulation data](https://doi.org/10.4121/18996992.v1)
+
+-   Software ([example 1](https://doi.org/10.4121/13066028.v1))
+
+## Where?
+
+TU Delft has a dedicated data repository, [4TU.ResearchData](https://data.4tu.nl/info/en/), where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the [4TU.ResearchData\'s guidelines for readme files](https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf) (pdf).
+
+If your group/project is using [Zenodo](https://zenodo.org/) you can also tag a project 'community'. See for example [SAMOSAFER](https://zenodo.org/communities/samosafer) and [BatteryNL](https://zenodo.org/communities/batterynl/).
+
+## Link between data/code and your dissertation
+
+Make sure that you link the 'DOI' from the data/code in your dissertation, and mention the DOI/title of your dissertation in your data/code upload (in the metadata fields of de upload and the READme file).
+
+## More information
+
+-   
