@@ -96,7 +96,7 @@ image: "open-data-fountain.jpg"
 
 -   [exRNA Atlas](https://exrna-atlas.org/)
 
--   [Minimum Information for Publication of Quantitative Real-Time PCR Experiments (MIQE) ](https://rdml.org/miqe.html)
+-   [Minimum Information for Publication of Quantitative Real-Time PCR Experiments (MIQE)](https://rdml.org/miqe.html)
 
 ## Microscopy
 
@@ -106,12 +106,11 @@ image: "open-data-fountain.jpg"
 
 -   [**EMPIAR**](https://www.ebi.ac.uk/pdbe/emdb/empiar/)
 
-```{=html}
-<!-- -->
-```
 -   [Cell Image Library](http://www.cellimagelibrary.org/)
 
 -   [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/)
+
+-   [REMBI: Recommended Metadata for Biological Images](https://doi.org/10.1038/s41592-021-01166-8)
 
 -   [Open blink project](https://grussmayerlab.github.io/open-blink/about/)
 
