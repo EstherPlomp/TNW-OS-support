@@ -38,9 +38,10 @@ The peer review process does not successfully keep out bad science.
 
 Opening up the peer review reports would increase transparency and accountability of peer review. See The [Turing Way for more information about Open Peer Review](https://the-turing-way.netlify.app/communication/peer-review/peer-review-open.html).
 
+[PREreview on how to peer review constructively](https://content.prereview.org/resources/).
+
 ## More information
 
--   [PREreview on how to peer review constructively](https://content.prereview.org/resources/)
 -   [ASAPbio resources on preprint review](https://asapbio.org/fast-principles-for-preprint-feedback#resources)
 -   [List of references regarding diversity, biases, and inclusivity studies and opinion pieces](https://www.winrepo.org/publications/)
 -   [The rise and fall of peer review](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
