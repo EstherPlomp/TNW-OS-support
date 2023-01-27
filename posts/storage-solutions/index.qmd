@@ -13,7 +13,7 @@ Please see [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/s
 ## TU Delft network drives
 
 |                                 | Personal Drive (H:)                            | Staff Group Drive (M:)                          | Project Drive (U:)                                         |
-|-----------------|-----------------|-----------------|--------------------|
+|-----------------|-----------------|-----------------|---------------------|
 | Purpose                         | Private work files only (sharing not possible) | Data shared within research group or department | Data from individual projects, shared with project members |
 | Suitable for confidential data? | Yes                                            | No                                              | Yes                                                        |
 | Size                            | 8 GB                                           | \> 5TB                                          | \> 5TB                                                     |
@@ -78,7 +78,7 @@ TU Delft GitLab is a version control system for code with backup facility. Acces
 
 For an overview of the options of differences between GitLab/GitHub/Gitea, see this [repository chooser guide](https://doi.org/10.5281/zenodo.4710206).
 
-GitLab repository can be requested through [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42) (Topdesk \> Software and Authorisations \> IT for Researchers \> GitLab TU Delft \> Request GitLab).
+Access to a GitLab repository for externals can be requested through [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42) (Topdesk \> Software and Authorisations \> IT for Researchers \> GitLab TU Delft \> Request GitLab).
 
 ## Subversion at TU Delft
 
@@ -112,4 +112,10 @@ Electronic Lab Notebooks allow you to capture and organise data digitally, which
 
 ![Illustration by Connie Clare](images/paste-4068FDF8.png){width="543"}
 
-## **More information**
+## Teams
+
+While not necessarily the best solution for research data, Teams can provide a solution when you need to collaborate with multiple people/teams and set up tasks for group members.
+
+Files shared via Teams are stored on Sharepoint.
+
+See the [Microsoft Teams post for more information](https://estherplomp.github.io/TNW-OS-support/posts/tools-teams/).
