@@ -86,3 +86,4 @@ See [Katz et al. 2020](https://doi.org/10.12688/f1000research.26932.1)) for more
 
 -   See also the posts on [licensing](https://estherplomp.github.io/TNW-OS-support/posts/licenses/), [good enough FAIR software](https://estherplomp.github.io/TNW-OS-support/posts/good-enough-software/)
 -   For more information about the practicalities and timing in [linking your research outputs, see The Turing Way](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
+-   [What \[you\] should know about software citation](https://doi.org/10.5281/zenodo.7560153)
