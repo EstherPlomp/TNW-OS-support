@@ -1,14 +1,14 @@
 ---
 title: "PhD onboarding day - Data Management & Open Science"
 author: "Esther Plomp"
-date: "2022-11-23"
+date: "2023-02-02"
 categories: [Research Data Management, Open Science, PhD, TU Delft]
 image: "stairs.png"
 ---
 
 ## PhD onboarding day - Research Data Management & Open Science
 
-[Link to the slides](https://surfdrive.surf.nl/files/index.php/s/QiYelnVxBMu15f9) of the on-boarding day on the 24th of November 2022.
+[Link to the slides](https://surfdrive.surf.nl/files/index.php/s/JKif66YpHv7N1ds) of the on-boarding day on the 2nd of Feb 2023.
 
 Esther is the Data Steward of the Faculty of Applied Sciences. You can reach her for anything Research Data Management & Open Science related. See [intranet](https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences) for all the related topics. You can also read about her [PhD experiences in an interview](https://intranet.tudelft.nl/-/personal-perspectives-on-phd-in-4-an-interview-with-esther-plomp).
 
@@ -26,11 +26,11 @@ Email Esther or hop by 22.F131.
 
 [Software/coding trainings](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/training-events/training-for-researchers/)
 
-[Research Data Management 101](https://intranet.tudelft.nl/-/r4.a1-research-data-management-101) (Faculty version in March! Please [fill out the form](https://forms.office.com/r/PLm9TMBGGk) if you're interested)
+[Research Data Management 101](https://intranet.tudelft.nl/-/r4.a1-research-data-management-101) (March/Feb & May/June 2023. You can [join the waitinglist](https://forms.office.com/r/PLm9TMBGGk).
 
-[Open Life Science program](https://intranet.tudelft.nl/en/-/open-life-science-programme)
+[Open Science program](https://intranet.tudelft.nl/en/-/open-life-science-programme)
 
-The Open Life Science program is a 16 week training that you can follow for 16 weeks to learn all about applying Open Science practices to your own research project. Next round will probably start in February 2023, with the application deadline in January 2023 (to describe your project and your learning objectives).
+-   The Open Science program is a 16 week training that you can follow for 16 weeks to learn all about applying Open Science practices to your own research project. Next round will probably start in September 2023, with the application deadline in July/August 2023 (to describe your project and your learning objectives).
 
 ## Hands on Data/Software management support
 
@@ -76,7 +76,7 @@ The data management plan allows you to already think about how you will do this!
 
 ![](images/paste-D7775324.png){fig-alt="A woman standing in front of a messy closet with research data, trying to find the data that she generated last year." width="469"}
 
-## Do's and Don'ts 
+## Do's and Don'ts
 
 **Do's:**
 
