@@ -34,7 +34,7 @@ The peer review process does not successfully keep out bad science.
 
 -   [The collective effects of genetic variants and complex traits](https://doi.org/10.1038/s10038-022-01105-1)
 
-## Efforts to improve peer  review
+## Efforts to improve peer review
 
 Opening up the peer review reports would increase transparency and accountability of peer review. See The [Turing Way for more information about Open Peer Review](https://the-turing-way.netlify.app/communication/peer-review/peer-review-open.html).
 
