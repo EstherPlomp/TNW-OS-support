@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/PhD-onboarding/index.html",
       "/posts/data-sharing-how-PhD/index.html",
       "/posts/storage-solutions/index.html",
       "/posts/open-access-flowchart/index.html",
@@ -25,7 +26,6 @@
       "/posts/credit/index.html",
       "/posts/integrity-evaluation/index.html",
       "/posts/credit-dora/index.html",
-      "/posts/PhD-onboarding/index.html",
       "/posts/open-science-TNW/index.html",
       "/posts/open-science-panic/index.html",
       "/posts/data-spreadsheets/index.html",

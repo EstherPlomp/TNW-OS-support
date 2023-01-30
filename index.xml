@@ -10,7 +10,106 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.313</generator>
-<lastBuildDate>Fri, 20 Jan 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Feb 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>PhD onboarding day - Data Management &amp; Open Science</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="phd-onboarding-day---research-data-management-open-science" class="level2">
+<h2 class="anchored" data-anchor-id="phd-onboarding-day---research-data-management-open-science">PhD onboarding day - Research Data Management &amp; Open Science</h2>
+<p><a href="https://surfdrive.surf.nl/files/index.php/s/JKif66YpHv7N1ds">Link to the slides</a> of the on-boarding day on the 2nd of Feb 2023.</p>
+<p>Esther is the Data Steward of the Faculty of Applied Sciences. You can reach her for anything Research Data Management &amp; Open Science related. See <a href="https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences">intranet</a> for all the related topics. You can also read about her <a href="https://intranet.tudelft.nl/-/personal-perspectives-on-phd-in-4-an-interview-with-esther-plomp">PhD experiences in an interview</a>.</p>
+</section>
+<section id="where-to-find-information" class="level2">
+<h2 class="anchored" data-anchor-id="where-to-find-information">Where to find information?</h2>
+<p>Email Esther or hop by 22.F131.</p>
+<p><a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/">Research Data Management Website</a></p>
+<p><a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a></p>
+<p><a href="https://estherplomp.github.io/TNW-OS-support/">Open Science at TNW</a></p>
+</section>
+<section id="available-training" class="level2">
+<h2 class="anchored" data-anchor-id="available-training">Available training</h2>
+<p><a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/r/training-events/training-for-researchers/">Software/coding trainings</a></p>
+<p><a href="https://intranet.tudelft.nl/-/r4.a1-research-data-management-101">Research Data Management 101</a> (March/Feb &amp; May/June 2023. You can <a href="https://forms.office.com/r/PLm9TMBGGk">join the waitinglist</a>.</p>
+<p><a href="https://intranet.tudelft.nl/en/-/open-life-science-programme">Open Science program</a></p>
+<ul>
+<li>The Open Science program is a 16 week training that you can follow for 16 weeks to learn all about applying Open Science practices to your own research project. Next round will probably start in September 2023, with the application deadline in July/August 2023 (to describe your project and your learning objectives).</li>
+</ul>
+</section>
+<section id="hands-on-datasoftware-management-support" class="level2">
+<h2 class="anchored" data-anchor-id="hands-on-datasoftware-management-support">Hands on Data/Software management support</h2>
+<p><a href="https://dcc.tudelft.nl/">Digital Competence Center</a></p>
+</section>
+<section id="open-science-community-delft" class="level2">
+<h2 class="anchored" data-anchor-id="open-science-community-delft">Open Science Community Delft</h2>
+<p><a href="https://osc-delft.github.io/">Website</a></p>
+<p><a href="https://forms.gle/v2dtynQ2j6wSMWTS6">Joining</a></p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/images/paste-55FF12FC.png" class="img-fluid" alt="Logo of the Open Science Community Delft" width="192"></p>
+</section>
+<section id="data-management-plan" class="level2">
+<h2 class="anchored" data-anchor-id="data-management-plan">Data Management plan</h2>
+<p>Any PhD starting after 1st of Jan 2020:</p>
+<ul>
+<li><p><strong>Write a Data Management Plan: as part of the Go/No-Go meeting</strong> in your first year.</p></li>
+<li><p>In the <strong>PhD agreement</strong> you’ll have to describe how you’ll do this</p></li>
+</ul>
+<p>You can fill out a plan using <a href="https://dmponline.tudelft.nl/">DMPonline</a> (see <a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/r/plan/dmponline/dmponline/">here</a> for a short explanation)</p>
+<p>In your Data Management Plan you will focus on questions related to Data Management:</p>
+<ul>
+<li><p>Where do you store your data?</p></li>
+<li><p>How will you share your data from your publications?</p></li>
+</ul>
+<p>Your supervisor will have to approve your plan.</p>
+<p>More detailed information on <a href="https://estherplomp.github.io/TNW-OS-support/posts/DMP-PhD/">this website</a>.</p>
+<p>You can also read up on the policies here: <a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/r/policies/tu-delft-faculty-policies/">TU Delft Research Data Framework</a>, <a href="https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf">Faculty Policy (pdf)</a>.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/images/paste-999D1DDA.png" class="img-fluid" alt="A woman is scared because she thinks she lost all her data because her computer crashed. But it turns out that she had backed up her data thanks to setting out a plan for this in her data management plan!" width="503"></p>
+</section>
+<section id="sharing-the-datacode-underlying-your-articlesthesis" class="level2">
+<h2 class="anchored" data-anchor-id="sharing-the-datacode-underlying-your-articlesthesis">Sharing the data/code underlying your articles/thesis</h2>
+<p>Before your defense you should share your research outputs (data/code underlying the articles/thesis).</p>
+<p>The data management plan allows you to already think about how you will do this!</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/images/paste-D7775324.png" class="img-fluid" alt="A woman standing in front of a messy closet with research data, trying to find the data that she generated last year." width="469"></p>
+</section>
+<section id="dos-and-donts" class="level2">
+<h2 class="anchored" data-anchor-id="dos-and-donts">Do’s and Don’ts</h2>
+<p><strong>Do’s:</strong></p>
+<ul>
+<li><p>Set up a Data Management plan</p></li>
+<li><p>Ask questions</p></li>
+<li><p>Follow workshops/courses (for credits!)</p></li>
+<li><p>Discuss data/code/open science with your supervisor</p></li>
+<li><p><a href="https://forms.gle/v2dtynQ2j6wSMWTS6">Join the Open Science Community</a></p></li>
+</ul>
+<p><strong>Don’ts:</strong></p>
+<ul>
+<li><p>Keep everything closed (unless you have restrictions)</p></li>
+<li><p>Share without discussing this with your supervisor/collaborators</p></li>
+<li><p>Figure everything out yourself</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/">Open Science terminology and developments at TU Delft and (inter)nationally</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <category>Open Science</category>
+  <category>PhD</category>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/index.html</guid>
+  <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/stairs.png" medium="image" type="image/png" height="143" width="144"/>
+</item>
 <item>
   <title>How to share data/code underlying the thesis?</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -115,7 +214,7 @@
 <col style="width: 23%">
 <col style="width: 23%">
 <col style="width: 23%">
-<col style="width: 28%">
+<col style="width: 29%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -210,7 +309,7 @@
 <h2 class="anchored" data-anchor-id="tu-delft-gitlab">TU Delft GitLab</h2>
 <p>TU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared. You can create up to 50 repositories/projects.</p>
 <p>For an overview of the options of differences between GitLab/GitHub/Gitea, see this <a href="https://doi.org/10.5281/zenodo.4710206">repository chooser guide</a>.</p>
-<p>GitLab repository can be requested through <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42">TopDesk</a> (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; GitLab TU Delft &gt; Request GitLab).</p>
+<p>Access to a GitLab repository for externals can be requested through <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42">TopDesk</a> (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; GitLab TU Delft &gt; Request GitLab).</p>
 </section>
 <section id="subversion-at-tu-delft" class="level2">
 <h2 class="anchored" data-anchor-id="subversion-at-tu-delft">Subversion at TU Delft</h2>
@@ -239,8 +338,11 @@
 </figure>
 </div>
 </section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<section id="teams" class="level2">
+<h2 class="anchored" data-anchor-id="teams">Teams</h2>
+<p>While not necessarily the best solution for research data, Teams can provide a solution when you need to collaborate with multiple people/teams and set up tasks for group members.</p>
+<p>Files shared via Teams are stored on Sharepoint.</p>
+<p>See the <a href="https://estherplomp.github.io/TNW-OS-support/posts/tools-teams/">Microsoft Teams post for more information</a>.</p>
 
 
 </section>
@@ -455,13 +557,13 @@
 <ul>
 <li><strong>APCs are correlated to the impact factor</strong> (<a href="https://doi.org/10.1007/s11192-020-03578-3">Budzinski et al., 2020</a>; <a href="https://doi.org/10.1162/qss_a_00015">Schönfelder 2020</a>; <a href="https://zenodo.org/record/7158818#.Y5IMKX2ZOUn">Butler et al.&nbsp;2022</a>)</li>
 </ul></li>
-<li><p>The big five publishers (Elsevier, Sage, Springer-Nature, Taylor &amp; Francis, and Wiley) have <a href="https://doi.org/10.1371/journal.pone.0127502"><strong>profit margins higher than 30%</strong></a>(see also <a href="https://doi.org/10.31229/osf.io/58yhb">Aspesi et al., 2019</a>). A significant amount of these fees that authors are pay to publish are not justified <a href="https://f1000research.com/articles/10-20/v2">compared to the actual costs ($400)</a> related to the publication process.</p></li>
+<li><p>The big five publishers (Elsevier, Sage, Springer-Nature, Taylor &amp; Francis, and Wiley) have <a href="https://doi.org/10.1371/journal.pone.0127502"><strong>profit margins higher than 30%</strong></a>(see also <a href="https://doi.org/10.31229/osf.io/58yhb">Aspesi et al., 2019</a>). A significant amount of these fees that authors are pay to publish are not justified <a href="https://f1000research.com/articles/10-20/v2">compared to the actual costs ($400</a>, <a href="https://figshare.com/articles/online_resource/Dimensions_and_Society_Publishers_Coalition_Members_Report_a_shared_commitment_to_open_scholarship/21922404">£730</a>) related to the publication process.</p></li>
 </ul>
 <p>An alternative to APCs is publishing in venues that are open access but do not charge APCs: diamond open access. The <a href="https://zenodo.org/record/7158818#.Y5IMKX2ZOUn">majority of the Open Access journals do not charge APCs (69.1%)</a>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://zenodo.org/record/7158818#.Y5IMKX2ZOUn"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/images/paste-A1FE8743.png" class="img-fluid figure-img" alt="A preprint by ScholCommLab has examined the total amount of APCs paid to the oligopoly of academic publishers for publishign gold and hybrid articles in 2015-2018. One of the key findings was that authors paid 1.06 dollar for publishing."></a></p>
-<p></p><figcaption class="figure-caption">The Oligopoly’s Shift to Open Access. How For-Profit Publishers Benefit from Article Processing Charges</figcaption><p></p>
+<p></p><figcaption class="figure-caption">The Oligopoly's Shift to Open Access. How For-Profit Publishers Benefit from Article Processing Charges</figcaption><p></p>
 </figure>
 </div>
 <section id="more-information" class="level2">
@@ -471,6 +573,7 @@
 <li><p><a href="https://www.nature.com/articles/d41586-022-03201-w">Why I think ending article-processing charges will save open access</a></p></li>
 <li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding">TU Delft Open Access Funding</a></p></li>
 <li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser">TU Delft Journal Browser</a></p></li>
+<li><p><a href="https://doi.org/10.1111/avsc.12705">The benefits of publishing in society-owned scientific journals</a></p></li>
 </ul>
 
 
@@ -1448,55 +1551,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-3-things/index.html</guid>
   <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-3-things/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Peer review flaws</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-peerreview/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The peer review process does not successfully keep out bad science.</p>
-<section id="some-of-the-flaws-of-the-peer-review-process-include" class="level2">
-<h2 class="anchored" data-anchor-id="some-of-the-flaws-of-the-peer-review-process-include">Some of the flaws of the peer review process include:</h2>
-<ul>
-<li><p><strong>Bias</strong>: Reviewers may be biased against certain research or researchers, which can affect their evaluations. For example, reviewers may be more likely to reject research that challenges their own views or that comes from researchers they do not know.There is also a bias in valuing positive results more than negative results.</p></li>
-<li><p><strong>Lack of diversity:</strong> Since identities of peer reviewers are often not known, it is difficult to assess their backgrounds, which can result in a lack of representation and potentially biased evaluations.</p></li>
-<li><p><strong>Limited expertise</strong>: Reviewers may not have the necessary expertise to evaluate certain types of research, which can lead to incomplete or inaccurate evaluations.</p></li>
-<li><p><strong>Slow turnaround time:</strong> The peer review process can be slow, with some studies taking months or even years to be reviewed and published. This can delay the dissemination of important research findings. (See Preprints)</p></li>
-<li><p><strong>Lack of transparency</strong>: The peer review process is often not transparent, as peer reviewer identities are unknown and reviews are not always public. (see Open Peer Review)</p></li>
-<li><p>Agreement among reviewers is weak</p></li>
-<li><p>Rejections/acceptation decisions are inconsistent</p></li>
-<li><p>Major errors and flaws are inconsistently discovered</p></li>
-</ul>
-</section>
-<section id="examples-of-flawed-peer-reviewed-research" class="level2">
-<h2 class="anchored" data-anchor-id="examples-of-flawed-peer-reviewed-research">Examples of flawed peer reviewed research</h2>
-<ul>
-<li><p><a href="https://scholar.social/@LudoWaltman@social.cwts.nl/109558746560823086">Omicron origin study retracted after widespread criticism</a></p></li>
-<li><p><a href="https://drpeterwilmshurst.wordpress.com/2022/11/15/has-cope-membership-become-a-way-for-unprincipled-journals-to-buy-a-fake-badge-of-integrity/">Has COPE membership become a way for unprincipled journals to buy a fake badge of integrity?</a></p></li>
-<li><p><a href="https://doi.org/10.1038/s10038-022-01105-1">The collective effects of genetic variants and complex traits</a></p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://www.winrepo.org/publications/">List of references regarding diversity, biases, and inclusivity studies and opinion pieces</a></li>
-<li><a href="https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review">The rise and fall of peer review</a></li>
-<li></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Integrity</category>
-  <category>Peerreview</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-peerreview/index.html</guid>
-  <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-peerreview/OS-TUD.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
