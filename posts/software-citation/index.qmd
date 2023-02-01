@@ -20,7 +20,7 @@ Once you shared your software on a data repository and received a DOI, it is imp
 
 ## CFFinit
 
-There is a tool that helps you create a CITATION.cff for your software: [**CFFinit**](https://citation-file-format.github.io/cff-initializer-javascript)**.**
+There is a tool that helps you create a CITATION.cff for your software: [**CFFinit**](https://citation-file-format.github.io/cff-initializer-javascript)**.** Watch the tutorials to learn [how to create a CITATION.cff file](https://www.youtube.com/watch?v=zcgLIT5Qd4M), or [how to update it](https://www.youtube.com/watch?v=6Ik1onYbO3A).
 
 ## Software citation: how to format?
 
