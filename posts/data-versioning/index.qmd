@@ -28,6 +28,8 @@ Version control is important in research projects as it allows for tracking chan
 
 An automatic version control system stores a history of changes and who made them. This is stored within the same file, so that your directory is not filled up by all the previous versions. Automatic version control can save a lot of time and headaches compared to manual version control, but does need some more technical skill. Git is a tool to version control your work - see [The Turing Way on how to get started with Git](https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-git.html).
 
+![](images/image-390514538.png){fig-alt="PhD comic on \"Final\". doc. Where the PhD candidate has a final.doc and then needs to update this several times after feedback from their supervisor. The file name is ending up in \"Final_rev.22.comments49.corrections10#@*#WhyDidIComeToGradschool???.doc"}
+
 ## More information
 
 -   [Version Control - The Turing Way](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
