@@ -65,6 +65,10 @@ Examples of articles that used the Rights Retention Strategy (from [Mounce 2022]
 
 -   Leeson 2021 ([Publisher](https://doi.org/10.1021/acs.jmedchem.1c00416) / [Author](https://europepmc.org/article/MED/33983732))
 
+## Breakdown of the copyright agreement from Taylor and Francis
+
+-   [T&F copyright advice. Author, beware.](https://www.coalition-s.org/blog/tf-copyright-advice-author-beware/)
+
 ## **More information**
 
 -   Stephen Eglen's (2021) [Primer on the Rights Retention Strategy](http://doi.org/10.5281/zenodo.4668132)
