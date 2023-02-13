@@ -13,7 +13,7 @@ Please see [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/s
 ## TU Delft network drives
 
 |                                 | Personal Drive (H:)                            | Staff Group Drive (M:)                          | Project Drive (U:)                                         |
-|------------------|------------------|------------------|--------------------|
+|------------------|------------------|------------------|-------------------|
 | Purpose                         | Private work files only (sharing not possible) | Data shared within research group or department | Data from individual projects, shared with project members |
 | Suitable for confidential data? | Yes                                            | No                                              | Yes                                                        |
 | Size                            | 8 GB                                           | \> 5TB                                          | \> 5TB                                                     |
@@ -55,7 +55,7 @@ Please see the [DelftBlue documentation](https://doc.dhpc.tudelft.nl/delftblue/D
 
 ## OneDrive
 
-See the [OneDrive manual](https://d1rkab7tlqy5f1.cloudfront.net/ICT%20Handleidingen/2%20-%20Nieuwe%20handleidingen/Microsoft%20365/Onedrive/Getting%20started%20with%20OneDrive_ENG.pdf) on how to get started.
+See the [OneDrive manual](https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Manuals/One drive/Getting started with OneDrive_ENG.pdf) on how to get started.
 
 -   Secure cloud storage
 -   30 days backup, synchronize and share data
