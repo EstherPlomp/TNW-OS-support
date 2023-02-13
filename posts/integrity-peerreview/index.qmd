@@ -45,4 +45,4 @@ Opening up the peer review reports would increase transparency and accountabilit
 -   [ASAPbio resources on preprint review](https://asapbio.org/fast-principles-for-preprint-feedback#resources)
 -   [List of references regarding diversity, biases, and inclusivity studies and opinion pieces](https://www.winrepo.org/publications/)
 -   [The rise and fall of peer review](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
--   
+-   [A tragedy of errors](https://doi.org/10.1038/530027a)
