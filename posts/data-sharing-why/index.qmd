@@ -32,6 +32,8 @@ image: "open-data-fountain.jpg"
 
 The Coronavirus crisis is one of several global challenges which has highlighted the critical importance of making research data rapidly available for re-use, as well as curated to common standards [(UNESCO](https://en.unesco.org/covid19/communicationinformationresponse/opensolutions)).
 
+[![A Turing Way illustration of reasons why we should care about working reproducibly.](images/image-1938929832.png){fig-alt="Benefits of open data include tracking of project history, collaborating and reviewing, avoiding of misinformation, writing papers efficiently, getting credit and ensure continuity." fig-align="center"}](https://the-turing-way.netlify.app/reproducible-research/overview/overview-benefit.html)
+
 ## Example: Majorana retraction
 
 The authors of the 2018 article Quantized Majorana conductance have retracted this article. The authors were alerted to problems by two scientists in the same research area and then went on to re-examine their earlier measurements. In doing so, they found that the main conclusion had not been adequately substantiated.
