@@ -77,3 +77,5 @@ try.goodtables.io (or python library github.com/frictionlessdata/goodtables-py /
 -   [Data Carpentry: Data Organization in Spreadsheets](https://doi.org/10.5281/zenodo.5593434)
 
 -   [Webinar: Tables and Pivot Tables in Excel](https://www.youtube.com/watch?v=4IhhdX4Kh1A)
+
+-   [Ten Guidelines for Better Tables](https://doi.org/10.1017/bca.2020.11)
