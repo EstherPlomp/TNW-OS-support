@@ -67,7 +67,7 @@
     "href": "posts/data-sharing-why/index.html",
     "title": "Why share data?",
     "section": "",
-    "text": "Prevent data loss/unfindable files\nCan you still use data when people leave?\nRecognition for all research outputs\nIncreased citations (Colavizza et al. 2020; Christensen et al. 2019; Piwowar et al. 2007; Piwowar and Vision 2013)\nCollaboration\nIncreases quality of scientific practice by increasing reproducibility and transparency of research\nCost/time efficient\nPrevents retractions\nReduces duplication efforts and facilitates data reuse (Martin et al. 2022)\nProvides resources for training and education\nMeeting institutional/funder/industrial requirements\n\nThe Coronavirus crisis is one of several global challenges which has highlighted the critical importance of making research data rapidly available for re-use, as well as curated to common standards (UNESCO)."
+    "text": "Prevent data loss/unfindable files\nCan you still use data when people leave?\nRecognition for all research outputs\nIncreased citations (Colavizza et al. 2020; Christensen et al. 2019; Piwowar et al. 2007; Piwowar and Vision 2013)\nCollaboration\nIncreases quality of scientific practice by increasing reproducibility and transparency of research\nCost/time efficient\nPrevents retractions\nReduces duplication efforts and facilitates data reuse (Martin et al. 2022)\nProvides resources for training and education\nMeeting institutional/funder/industrial requirements\n\nThe Coronavirus crisis is one of several global challenges which has highlighted the critical importance of making research data rapidly available for re-use, as well as curated to common standards (UNESCO).\n\n\n\nA Turing Way illustration of reasons why we should care about working reproducibly."
   },
   {
     "objectID": "posts/data-sharing-why/index.html#example-majorana-retraction",
@@ -109,7 +109,7 @@
     "href": "posts/software-citation/index.html#cffinit",
     "title": "Software Citation",
     "section": "CFFinit",
-    "text": "CFFinit\nThere is a tool that helps you create a CITATION.cff for your software: CFFinit."
+    "text": "CFFinit\nThere is a tool that helps you create a CITATION.cff for your software: CFFinit. Watch the tutorials to learn how to create a CITATION.cff file, or how to update it."
   },
   {
     "objectID": "posts/software-citation/index.html#software-citation-how-to-format",
@@ -767,7 +767,7 @@
     "href": "posts/integrity-peerreview/index.html#more-information",
     "title": "Peer review flaws",
     "section": "More information",
-    "text": "More information\n\nASAPbio resources on preprint review\nList of references regarding diversity, biases, and inclusivity studies and opinion pieces\nThe rise and fall of peer review"
+    "text": "More information\n\nASAPbio resources on preprint review\nList of references regarding diversity, biases, and inclusivity studies and opinion pieces\nThe rise and fall of peer review\nA tragedy of errors"
   },
   {
     "objectID": "posts/open-science-TNW/index.html",
@@ -914,7 +914,7 @@
     "href": "posts/storage-solutions/index.html#project-drive",
     "title": "Storage Solutions",
     "section": "Project Drive",
-    "text": "Project Drive\nThe Project Drive is the recommended storage solution for research data.\n\nProject leaders or supervisors should request the drive to ensure that they also have access to the data (especially important for the long term storage of any data).\nAnyone with a NetID can be added to a Project Drive (for external collaborators this NetID will have to be generated so additional information will need to be provided). To provide access to additional people you can add them when you request the drive via Topdesk, you can contact the Service Desk of your faculty (servicepuntTNW [at] tudelft.nl), or you can add them using UMRA (see TU Delft ICT for more UMRA manuals).\n\nNote that anyone with access to the Project Drive will have viewing or editing rights for the entire Project Drive, unless you’re using UMRA. If you want to easily manage access permissions it may be needed to request multiple Project Drives or work with alternative storage solutions such as SURF/OneDrive.\n\nThe Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).\n\nRead more about how to access the Project Drive.\n\nTo request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with ‘Change’ selected rather than ‘New’. For >5 TB of space, you may be contacted by the faculty IT manager for approval.\n\n\nNetwork Drives and Delft HPC\nPlease see the DelftBlue documentation on the storage of data-transfer recommendations from the HPC clusters."
+    "text": "Project Drive\nThe Project Drive is the recommended storage solution for research data.\n\nProject leaders or supervisors should request the drive to ensure that they also have access to the data (especially important for the long term storage of any data).\nAnyone with a NetID can be added to a Project Drive (for external collaborators this NetID will have to be generated so additional information will need to be provided). To provide access to additional people you can add them when you request the drive via Topdesk, you can contact the Service Desk of your faculty (servicepuntTNW [at] tudelft.nl), or you can add them using UMRA (see TU Delft ICT for more UMRA manuals).\n\nNote that anyone with access to the Project Drive will have viewing or editing rights for the entire Project Drive, unless you’re using UMRA. If you want to easily manage access permissions it may be needed to request multiple Project Drives or work with alternative storage solutions such as SURF/OneDrive.\nEvery account has to be traceable to a person (so not a research group).\nIt is helpful to keep a list of users that have access to your Project Drive(s), since there is no interface that provides you this overview.\n\nThe Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).\n\nRead more about how to access the Project Drive.\n\nTo request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with ‘Change’ selected rather than ‘New’. For >5 TB of space, you may be contacted by the faculty IT manager for approval.\n\n\nNetwork Drives and Delft HPC\nPlease see the DelftBlue documentation on the storage of data-transfer recommendations from the HPC clusters."
   },
   {
     "objectID": "posts/storage-solutions/index.html#surfdrive",
@@ -971,6 +971,13 @@
     "title": "Storage Solutions",
     "section": "Teams",
     "text": "Teams\nWhile not necessarily the best solution for research data, Teams can provide a solution when you need to collaborate with multiple people/teams and set up tasks for group members.\nFiles shared via Teams are stored on Sharepoint.\nSee the Microsoft Teams post for more information."
+  },
+  {
+    "objectID": "posts/storage-solutions/index.html#more-information",
+    "href": "posts/storage-solutions/index.html#more-information",
+    "title": "Storage Solutions",
+    "section": "More Information",
+    "text": "More Information\n\nStorage Finder"
   },
   {
     "objectID": "posts/data-sharing-article/index.html",
@@ -1442,6 +1449,20 @@
     "text": "Publications\n\nTheisen et al. 2023"
   },
   {
+    "objectID": "posts/data-TNW/index.html#battery",
+    "href": "posts/data-TNW/index.html#battery",
+    "title": "Metadata standards and repositories for Applied Sciences/TNW",
+    "section": "Battery",
+    "text": "Battery\n[..E]arly independent battery-data activities include those of Battery Archive, BIG-MAP [(BattINFO ontology)], Batteries Europe, and the Faraday Institution. Their diversity of locations and formats underscores the critical need for a singular approach to improve uniformity.38,41 - Ward et al. 2022\n\nBEEP: A Python library for Battery Evaluation and Early Prediction\nGalvanalyser is a system for automatically storing data generated by battery cycling machines in a database\nBattery Microstructures Library\nMATBOX: Microstructure Analysis Toolbox (Li-ion batteries)\nBruggemanEstimator: Open Source Code for Estimating the Tortuosity Estimation of Lithium Ion Battery Porous Electrodes from SEM images\nTauFactor is an application for calculating tortuosity factors from tomographic data.\nBattery Data Toolkit, converts battery testing data from native formats to a standardized HDF5 file.\nOntologies for battery data (BattINFO & BVCO)\n\n“There are currently two major ongoing initiatives dedicated to ontologizing the battery domain: The Battery Interface Ontology (BattINFO) and the Battery Value Chain Ontology (BVCO). BattINFO describes batteries on the cell level and below, including not only components, materials, and their interfaces, but also electrochemical processes, models, and characterization data. The objective of BattINFO is to support AI workflows and interoperability of battery data in the research and development community. On the other hand, BVCO describes aspects of the battery value chain with a strong focus on battery manufacturing and recycling. Both BattINFO and BVCO stem from the top-level ontology EMMO and are publicly available under open-source licenses.”\n\nBIG-MAP Data Management Plan article + deliverable\nRepositories:\n\nInorganic Crystal Structure Database (ICSD)\nMaterials Cloud\nMaterials Project\nComputational Materials Repository"
+  },
+  {
+    "objectID": "posts/data-TNW/index.html#more-information",
+    "href": "posts/data-TNW/index.html#more-information",
+    "title": "Metadata standards and repositories for Applied Sciences/TNW",
+    "section": "More information",
+    "text": "More information\n\nMetadata Standards Catalog\nFAIRsharing.org"
+  },
+  {
     "objectID": "posts/integrity-evaluation/index.html",
     "href": "posts/integrity-evaluation/index.html",
     "title": "Open Science & Inclusion",
@@ -1754,7 +1775,7 @@
     "href": "posts/contact/index.html",
     "title": "Contact",
     "section": "",
-    "text": "Who can you contact for what support?\nFor anything Open Science/data/code related you can contact the Data Steward, Esther Plomp.\nFor more specific/hands on data/code requests, you can also contact the Digital Competence Center.\nDelft High Performance Computing Centre (DHPC) is the central TU Delft computing center. See the DelftBlue documentation pages for more information or contact Dennis Palagin.\nIf you have any questions about the basic programming courses (Software/Data Carpentry Workshop), please contact Meta de Keijzer.\nTo publish/share data check the 4TU.ResearchData website. For questions, contact researchdata@4tu.nl.\nIf you want to use an Electronic Lab Notebook or have any issues/questions regarding this, please contact Madeleine de Smaele.\nFor information about data privacy/security check the privacy and security websites or contact privacy-tud@tudelft.nl. For questions specifically about data security you can also contact Johan Brandenburg (Faculty Information Security Coordinator).\nFor more information about research involving human participants, check the Human Research Ethics Committee (HREC) website, particularly their application information.\nFor Open Access: Check out the Journal Browser (to check if the library has an open access deal with a specific journal), and the TU Delft Open Access Fund. You can contact the library via library@tudelft.nl.\nFor more specific TNW contact information, check intranet."
+    "text": "Who can you contact for what support?\nFor anything Open Science/data/code related you can contact the Data Steward, Esther Plomp.\nFor more specific/hands on data/code requests, you can also contact the Digital Competence Center.\nDelft High Performance Computing Centre (DHPC) is the central TU Delft computing center. See the DelftBlue documentation pages for more information or contact Dennis Palagin.\nIf you have any questions about the basic programming courses (Software/Data Carpentry Workshop), please contact Meta de Keijzer.\nTo publish/share data check the 4TU.ResearchData website. For questions, contact researchdata@4tu.nl.\nIf you want to use an Electronic Lab Notebook or have any issues/questions regarding this, please contact Madeleine de Smaele.\nFor information about data privacy/security check the privacy and security websites or contact privacy-tud@tudelft.nl. For questions specifically about data security you can also contact Johan Brandenburg (Faculty Information Security Coordinator).\nFor more information about research involving human participants, check the Human Research Ethics Committee (HREC) website, particularly their application information.\nFor Open Access: Check out the Journal Browser (to check if the library has an open access deal with a specific journal), and the TU Delft Open Access Fund. You can contact the library via library@tudelft.nl.\nFor information about Knowledge Security you can check the Sharepoint page that contains the ‘Guidance of Advisory Team Knowledge Security’ and contact information.\nFor more specific TNW contact information, check intranet."
   },
   {
     "objectID": "posts/contact/index.html#more-information",
@@ -1824,7 +1845,7 @@
     "href": "posts/data-spreadsheets/index.html#more-information",
     "title": "Spreadsheets",
     "section": "More information",
-    "text": "More information\n\nData Organisation in Spreadsheets\nData organisation presentation by Eirini Zormpa\nData Carpentry: Data Organization in Spreadsheets\nWebinar: Tables and Pivot Tables in Excel"
+    "text": "More information\n\nData Organisation in Spreadsheets\nData organisation presentation by Eirini Zormpa\nData Carpentry: Data Organization in Spreadsheets\nWebinar: Tables and Pivot Tables in Excel\nTen Guidelines for Better Tables"
   },
   {
     "objectID": "posts/open-science-TUD/index.html",
@@ -1895,6 +1916,13 @@
     "title": "Rights Retention Strategy",
     "section": "Examples",
     "text": "Examples\nExamples of articles that used the Rights Retention Strategy (from Mounce 2022)\n\nZipser 2021 (Publisher / Author)\nTu et al. 2021 (Publisher / Author)\nDrews et al. 2022 (Publisher / Author)\nMoreno et al. 2021 (Publisher / Author)\nBarker 2021 (Publisher / Author)\nLezmy et al. 2021 (Publisher / Author)\nWelch 2021 (Publisher / Author)\nLeeson 2021 (Publisher / Author)"
+  },
+  {
+    "objectID": "posts/open-access-rights-retention/index.html#breakdown-of-the-copyright-agreement-from-taylor-and-francis",
+    "href": "posts/open-access-rights-retention/index.html#breakdown-of-the-copyright-agreement-from-taylor-and-francis",
+    "title": "Rights Retention Strategy",
+    "section": "Breakdown of the copyright agreement from Taylor and Francis",
+    "text": "Breakdown of the copyright agreement from Taylor and Francis\n\nT&F copyright advice. Author, beware."
   },
   {
     "objectID": "posts/open-access-rights-retention/index.html#more-information",
