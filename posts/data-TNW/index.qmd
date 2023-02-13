@@ -175,3 +175,9 @@ image: "open-data-fountain.jpg"
     -   [Materials Project](https://materialsproject.org/)
 
     -   [Computational Materials Repository](https://cmr.fysik.dtu.dk/)
+
+## More information
+
+-   [Metadata Standards Catalog](https://rdamsc.bath.ac.uk/subject-index)
+
+-   [FAIRsharing.org](https://fairsharing.org/)
