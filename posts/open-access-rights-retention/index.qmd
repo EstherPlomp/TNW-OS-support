@@ -85,4 +85,4 @@ Examples of articles that used the Rights Retention Strategy (from [Mounce 2022]
 
 -   [Leiden University: Use the Rights Retention Strategy](https://www.digitalscholarshipleiden.nl/articles/use-the-rights-retention-strategy-publish-with-a-publisher-while-retaining-sufficient-rights-for-full-open-access)
 
--   [University of Sheffield policy](https://www.researchprofessional.com/0/rr/news/uk/universities/2023/1/University-of-Sheffield-approves-policies-to-bolster-open-research.html)
+-   [University of Sheffield policy](https://www.researchprofessional.com/0/rr/news/uk/universities/2023/1/University-of-Sheffield-approves-policies-to-bolster-open-research.html) (see [webinar](https://doi.org/10.15131/shef.data.22116983.v1))
