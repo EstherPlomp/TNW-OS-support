@@ -136,6 +136,14 @@ TU Delft [Research Data Framework Policy](https://doi.org/10.5281/zenodo.2573159
 
 In principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, [4TU.ResearchData](https://data.4tu.nl/info/en/), where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise).
 
+## Disadvantages of having to maintain data yourself
+
+-   Grant funding ends when the project ends, even if your data will have to be stored and maintained for several years afterwards
+
+-   You may switch institutes, careers or retire at some point
+
+-   You're not a data manager or ICT expert, so the data may get lost due to a lack of a proper back up structure
+
 ## Examples
 
 [Lia et al. 2020](https://doi.org/10.12688/wellcomeopenres.15893.2)
