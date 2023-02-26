@@ -1,0 +1,28 @@
+---
+title: "Why not supplemental materials?"
+author: "Esther Plomp"
+date: "2023-02-27"
+categories: [Open Data]
+image: "image.jpg"
+---
+
+## 
+Why not supplemental materials?
+
+**Data control**: cannot be updated, unlike materials available at data repositories.
+
+**Interoperability**: If publishers only allow text and PDF formats it hampers data sharing and it will be difficult to reuse the data
+
+**Availability**: Difficult to access if the article is behind the paywall (supplemental materials are not included in the DOI and therefore the links can also break!)
+
+**Not FAIR**: Data/Software available in supplemental materials is not considered to be [FAIR](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html) (Findable, Accessible, Interoperable, Resuable) - since they do not have a DOI assigned to them specifically (see also the Availability point above).
+
+**Impact**: Data should be a primary research output
+
+**Publisher requirements**: Some publishers recommend using a data repository instead
+
+**Size limits**: There may be size limits in place of how large or how many supplementary materials can be shared.
+
+## More information
+
+-   [The Push to Replace Journal Supplements with Repositories](https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296)
