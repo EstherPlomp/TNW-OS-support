@@ -1,0 +1,16 @@
+---
+title: "Qualtrics"
+author: "Esther Plomp"
+date: "2023-03-06"
+categories: [Tools, Collaboration]
+image: "qualtrics.png"
+---
+
+Qualtrics is a safe solution to collect survey data.
+
+See the [Qualtrics Guidance](https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Privacy/Qualtrics_guidance%202022-08.pdf) for more information.
+
+## **More information**
+
+-   TU Delft now has a [self-paced personal data course](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research). PhD candidates can sign up and follow it for 0.5 GS credits.
+-   
