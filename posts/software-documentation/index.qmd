@@ -10,8 +10,6 @@ How should you provide adequate documentaton with your code to make it understan
 
 ## In-code documentation
 
-Comments
-
 [Comments video by Barbara Vreede](https://vimeo.com/463992354)
 
 ## README
@@ -44,6 +42,15 @@ examples:
 
 [CodeMeta](https://codemeta.github.io/codemeta-generator/) creates a minimal metadata schema for research software and code.
 
+## Reusable code
+
+1.  List dependencies/variables on top
+2.  Using a 'main' code calling other codes to make it more readable
+3.  Add in comments at the start about what the code does, and what in/outputs are expected
+4.  Use functions
+5.  Make tests for the functions
+
 ## More information
 
 -   [Code documentation lesson by Code Refinery](https://coderefinery.github.io/documentation/)
+-   [Writing Reusable and Modular Code](https://uf-repro.github.io/writing-reusable-code/slides.html#1)
