@@ -79,3 +79,5 @@ try.goodtables.io (or python library github.com/frictionlessdata/goodtables-py /
 -   [Webinar: Tables and Pivot Tables in Excel](https://www.youtube.com/watch?v=4IhhdX4Kh1A)
 
 -   [Ten Guidelines for Better Tables](https://doi.org/10.1017/bca.2020.11)
+
+-   [Spreadsheet Problems In Genomic Research (Presentation by Mandhri Abeysooriya](https://www.youtube.com/watch?v=nrbkYm1P9xQ))
