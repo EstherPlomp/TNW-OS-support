@@ -10,7 +10,35 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Mon, 27 Feb 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Mar 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Qualtrics</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Qualtrics is a safe solution to collect survey data.</p>
+<p>See the <a href="https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Privacy/Qualtrics_guidance%202022-08.pdf">Qualtrics Guidance</a> for more information.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li>TU Delft now has a <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research">self-paced personal data course</a>. PhD candidates can sign up and follow it for 0.5 GS credits.</li>
+<li></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Tools</category>
+  <category>Collaboration</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/index.html</guid>
+  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/qualtrics.png" medium="image" type="image/png" height="54" width="144"/>
+</item>
 <item>
   <title>Why not supplemental materials?</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -246,10 +274,10 @@
 <h2 class="anchored" data-anchor-id="tu-delft-network-drives">TU Delft network drives</h2>
 <table class="table">
 <colgroup>
-<col style="width: 24%">
-<col style="width: 24%">
-<col style="width: 24%">
-<col style="width: 26%">
+<col style="width: 17%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 31%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -1217,37 +1245,6 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-resources/reproducibility.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Open Science Workflows</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Incorporating Open Science practices into your workflow may initially take some time, but will pay off for future you.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://osf.io/zy2pc"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/images/paste-A97AF7F9.png" class="img-fluid figure-img" alt="Two workflows representing a typical research project where reding the analyses around peer review take a lot of time, versus a reproducible research project where these reanalyses will go much faster." width="650"></a></p>
-<p></p><figcaption class="figure-caption">You don't lose time doing reproducible science, you just relocate where you spend it.</figcaption><p></p>
-</figure>
-</div>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</guid>
-  <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
   <title>Majorana fermions</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/index.html</link>
@@ -1290,6 +1287,37 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/index.html</guid>
   <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Open Science Workflows</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Incorporating Open Science practices into your workflow may initially take some time, but will pay off for future you.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://osf.io/zy2pc"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/images/paste-A97AF7F9.png" class="img-fluid figure-img" alt="Two workflows representing a typical research project where reding the analyses around peer review take a lot of time, versus a reproducible research project where these reanalyses will go much faster." width="650"></a></p>
+<p></p><figcaption class="figure-caption">You don't lose time doing reproducible science, you just relocate where you spend it.</figcaption><p></p>
+</figure>
+</div>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</guid>
+  <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Open Peer Review</title>
@@ -1415,40 +1443,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-teams/index.html</guid>
   <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-teams/teams.png" medium="image" type="image/png" height="134" width="144"/>
-</item>
-<item>
-  <title>DORA</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The Declaration on Research Assessment (<a href="https://sfdora.org/">DORA</a>) recognizes the need to improve the ways in which researchers and the outputs of scholarly research are evaluated.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/dora.png" class="img-fluid"></p>
-<p>DORA recommends:</p>
-<ul>
-<li><p>The elimination of journal-based metrics, such as Journal Impact Factors, in funding, appointment, and promotion considerations;</p></li>
-<li><p>To assess research on its own merits rather than on the basis of the journal in which the research is published; and</p></li>
-<li><p>To capitalize on the opportunities provided by online publication (such as relaxing unnecessary limits on the number of words, figures, and references in articles, and exploring new indicators of significance and impact).</p></li>
-</ul>
-<p>TU Delft signed DORA via the <a href="https://www.universiteitenvannederland.nl/en_GB/">Association of Universities in the Netherlands</a>. You can also <a href="https://sfdora.org/sign/">sign the declaration</a> as an individual.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/credit/">CRediT</a></li>
-<li><a href="https://openworking.wordpress.com/2021/09/01/quality-is-key/">Quality is key</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Credit</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/index.html</guid>
-  <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-dora/dora.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>
