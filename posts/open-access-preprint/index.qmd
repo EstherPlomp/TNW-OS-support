@@ -16,6 +16,22 @@ You can share your preprint on a preprint server or repository even before you
 
 -   Preprinted articles have increased citations of the published versions, because people are able to read your work earlier and incorporate it.
 
+-   Preprints are openly accessible, without fees for readers and authors
+
+-   Preprints provide evidence of productivity (Instead of adding papers that are still under review to your CV)
+
+-   You can establish priority via preprints
+
+-   Preprint servers also allow for sharing of negative/inconclusive results, or other work not intended to be submitted for journal publication (such as open letters)
+
+-   posting a preprint is associated with higher social media attention (Fraser et al., 2020; Fu & Hughey, 2019; Serghiou & Ioannidis, 2018).
+
+-   Some journals have appointed designated 'preprint editors' who scout the latest research posted at preprint servers and invite submissions to their journal ([Puebla et al. 2021](https://doi.org/10.3998/mpub.12412508)).
+
+-   Preprints allow for feedback at a stage where this can still be incorporated
+
+-   Accelerated speed of scientific discovery and prevention of duplication of research efforts
+
 ## Where to share a preprint?
 
 -   Preprint servers such as [arXiv](https://arxiv.org/) (Physics) and [bioRxiv](https://www.biorxiv.org/) (Biology)
@@ -35,3 +51,4 @@ You can share your preprint on a preprint server or repository even before you
 ## More information
 
 -   [Preprints and open preprint review: a workshop on innovations in scholarly publishing](https://upstream.force11.org/preprints-and-open-preprint-review-a-workshop/)
+-   [Puebla et al. 2021](https://doi.org/10.3998/mpub.12412508)
