@@ -12,7 +12,7 @@ image: "OS-TUD.png"
 
 **Open Science** is [defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO)](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en) as *"an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community."*
 
-[![UNESCO's four pillars of Open Science](images/FAc9xiSXsAkZ7Xq.jpg){fig-alt="According to UNESCO, Open Science has four pillars: Open science infrastructures, Open engagement of societal actors, Open dialogue with other knowledge systems and Open scientific knowledge" fig-align="center"}](https://unesdoc.unesco.org/ark:/48223/pf0000378381.locale=en)
+[![UNESCO\'s four pillars of Open Science](images/FAc9xiSXsAkZ7Xq.jpg){fig-alt="According to UNESCO, Open Science has four pillars: Open science infrastructures, Open engagement of societal actors, Open dialogue with other knowledge systems and Open scientific knowledge" fig-align="center"}](https://unesdoc.unesco.org/ark:/48223/pf0000378381.locale=en)
 
 Several concepts belong under the umbrella term of 'Open Science' and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.
 
@@ -20,7 +20,13 @@ Several concepts belong under the umbrella term of 'Open Science' and these incl
 
 -   Increased impact and visibility: Research will be accessible to anyone, which accelerates scientific discovery and can increase citizen engagement with and participation in research.
 
--   Maximise research effort by making research and [educational](https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html) outputs reusable, making it easier to build on previous work and providing opportunities for collaboration
+-   Maximise research effort by making research and [educational](https://universiteitenvannederland.nl/nl_NL/nieuwsbericht/nieuwsbericht/831-p-hogescholen-universiteiten-en-surf-gaan-em-samenwerken-em-aan-digitale-en-open-leermaterialen-p.html) outputs reusable, making it easier to build on previous work and providing opportunities for collaboration. Economic benefits include:
+
+    -   [Not having FAIR data costs the European economy at least €10.2bn every year](https://publications.europa.eu/resource/cellar/d375368c-1a0a-11e9-8d04-01aa75ed71a1.0001.01/DOC_1).
+
+    -   [Adopting persistent identifiers in research can save 38,000 person days and AUD \$84 million per year.](https://doi.org/10.5281/zenodo.4991733)
+
+    -   [Open Hardware can save up to 87% compared to proprietary tools](https://doi.org/10.1016/j.ohx.2020.e00139).
 
 -   Improving the quality of research through more transparency (facilitating reproducibility) which will [increase trust](https://doi.org/10.1177/09636625221100686) in research
 
