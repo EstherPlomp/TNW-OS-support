@@ -8,6 +8,8 @@ image: "image.jpg"
 
 Publishers generate profit.
 
+[![](images/image-373771131.png){fig-alt="#Elsevier profit is up! Now a margin of more than 37%:  The similarly profitable RELX surveillance section (\"risk\") is tightly coupled, which makes it impossible to know how much of Elsevier's revenue comes from publishing their 600k articles and how much from their 'data analytics' activities. Assuming all surveillance revenue is counted in the 'risk' section, the average Elsevier article is priced at US$5846 with a profit of US$2211."}](https://mastodon.social/@brembs/109982444462601139)
+
 ## More information
 
 -   [How to build better science](https://youtu.be/UYtcvzjmM_8?t=5192) - presentation by Dan Goodman
