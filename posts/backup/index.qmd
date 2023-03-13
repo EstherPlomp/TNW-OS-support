@@ -20,6 +20,8 @@ The more important the data and the more often the datasets change, the more fre
 
 Be careful with storing important data on external drives and flash memory devices (USB/MicroSD cards). They pose a security risk due to their portability, are easily damaged or lost.
 
+![](images/image-495550284.png)
+
 ## Questions to consider for your backup strategy
 
 -   How will you back up your data? What storage solutions meet your needs?
