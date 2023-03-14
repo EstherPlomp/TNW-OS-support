@@ -10,6 +10,8 @@ Qualtrics is a safe solution to collect survey data.
 
 See the [Qualtrics Guidance](https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Privacy/Qualtrics_guidance%202022-08.pdf) for more information.
 
+You can request access to Qualtric licenses [via topdesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=57ec510c3da9408b929c2eeee82b4eaa).
+
 ## **More information**
 
 -   TU Delft now has a [self-paced personal data course](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research). PhD candidates can sign up and follow it for 0.5 GS credits.
