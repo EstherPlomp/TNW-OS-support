@@ -38,7 +38,7 @@ Licensed works, modifications, and larger works may be distributed under **diffe
 
 Derivative code must be open source and distributed under the **same or equivalent license**
 
--   **GNU General Public Licence ([GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/), [GPLv2](https://choosealicense.com/licenses/gpl-2.0/)):** oes not permit incorporating your program into proprietary programs
+-   **GNU General Public Licence ([GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/), [GPLv2](https://choosealicense.com/licenses/gpl-2.0/)):** Does not permit incorporating your program into proprietary programs
 
     -   [**GNU Lesser General Public License v3.0**](https://choosealicense.com/licenses/lgpl-3.0/)**:** Lighter version of GPL. A larger work using the licensed work through interfaces provided by the licensed work may be distributed under different terms and without source code for the larger work. Designed for library routines.
 
