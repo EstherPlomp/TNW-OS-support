@@ -1,0 +1,30 @@
+---
+title: "How to organise inclusive meetings"
+author: "Esther Plomp"
+date: "2023-03-17"
+categories: [Open Science, Inclusion]
+image: "OS-TUD.png"
+---
+
+From the [guide to organizing Inclusive Scientific Meetings: Where to Start](https://500womenscientists.org/inclusive-scientific-meetings)
+
+-   Check implicit biases
+
+-   Whoever talks has the power
+
+-   Participation is not only about who is in the space, but also how they're doing in the space
+
+-   Designing for universal access benefits everyone
+
+-   Make your diversity, equity, inclusion, justice and accessibility work transparent and share the workload equitably
+
+-   Demonstrating progress requires data
+
+-   Set and enforce clear expectations for appropriate behaviour and structures of accountability (for example, a code of conduct)
+
+-   Seek funding that reflects your values around equity and inclusion
+
+## More information
+
+-   [Ten simple rules to host an inclusive conference](https://doi.org/10.1371/journal.pcbi.1010164)
+-   
