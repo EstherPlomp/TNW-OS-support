@@ -10,7 +10,44 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Mon, 06 Mar 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Mar 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>How to organise inclusive meetings</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>From the <a href="https://500womenscientists.org/inclusive-scientific-meetings">guide to organizing Inclusive Scientific Meetings: Where to Start</a></p>
+<ul>
+<li><p>Check implicit biases</p></li>
+<li><p>Whoever talks has the power</p></li>
+<li><p>Participation is not only about who is in the space, but also how they’re doing in the space</p></li>
+<li><p>Designing for universal access benefits everyone</p></li>
+<li><p>Make your diversity, equity, inclusion, justice and accessibility work transparent and share the workload equitably</p></li>
+<li><p>Demonstrating progress requires data</p></li>
+<li><p>Set and enforce clear expectations for appropriate behaviour and structures of accountability (for example, a code of conduct)</p></li>
+<li><p>Seek funding that reflects your values around equity and inclusion</p></li>
+</ul>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1010164">Ten simple rules to host an inclusive conference</a></li>
+<li></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <category>Inclusion</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/index.html</guid>
+  <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/OS-TUD.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Qualtrics</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -22,6 +59,7 @@
 
 <p>Qualtrics is a safe solution to collect survey data.</p>
 <p>See the <a href="https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Privacy/Qualtrics_guidance%202022-08.pdf">Qualtrics Guidance</a> for more information.</p>
+<p>You can request access to Qualtric licenses <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=57ec510c3da9408b929c2eeee82b4eaa">via topdesk</a>.</p>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 <ul>
@@ -691,7 +729,7 @@
 <p><strong>Restrictive/Copyleft licenses</strong> allow you to (commercially) use, copy, modify, merge, publish, distribute the software</p>
 <p>Derivative code must be open source and distributed under the <strong>same or equivalent license</strong></p>
 <ul>
-<li><p><strong>GNU General Public Licence (<a href="https://choosealicense.com/licenses/gpl-3.0/">GNU GPLv3</a>, <a href="https://choosealicense.com/licenses/gpl-2.0/">GPLv2</a>):</strong> oes not permit incorporating your program into proprietary programs</p>
+<li><p><strong>GNU General Public Licence (<a href="https://choosealicense.com/licenses/gpl-3.0/">GNU GPLv3</a>, <a href="https://choosealicense.com/licenses/gpl-2.0/">GPLv2</a>):</strong> Does not permit incorporating your program into proprietary programs</p>
 <ul>
 <li><p><a href="https://choosealicense.com/licenses/lgpl-3.0/"><strong>GNU Lesser General Public License v3.0</strong></a><strong>:</strong> Lighter version of GPL. A larger work using the licensed work through interfaces provided by the licensed work may be distributed under different terms and without source code for the larger work. Designed for library routines.</p></li>
 <li><p><a href="https://choosealicense.com/licenses/agpl-3.0/"><strong>GNU Affero General Public License v3.0</strong></a>Stricter version of GPL. If you run a modified program on a server and let other users communicate with it there, then your server must also allow them to download the source code.</p></li>
@@ -839,6 +877,7 @@
 <li><p><a href="http://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a></p></li>
 <li><p><a href="http://doi.org/10.5281/zenodo.4629635">TU Delft Guidelines on Research Software</a></p></li>
 <li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/software-sharing/">Sharing Software</a></p></li>
+<li><p><a href="https://fsfe.org/freesoftware/legal/faq.en.html">Frequently Asked Questions on Free Software Licensing</a></p></li>
 <li><p><a href="https://open.spotify.com/episode/4ev4QCsY4yIoXkAkhEbiVR?si=ed690dac653b43b1">ByteSized: Software Licences</a> podcast episode</p></li>
 </ul>
 
@@ -936,6 +975,124 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/index.html</guid>
   <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/Plan-S.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>Software Resources</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Overview of resources related to programming, Python, Git(Hub), Shell and programming communities.</p>
+<section id="general-resources" class="level3">
+<h3 class="anchored" data-anchor-id="general-resources">General Resources</h3>
+<ul>
+<li><p><a href="https://the-turing-way.netlify.app/welcome">The Turing Way</a></p></li>
+<li><p><a href="https://github.com/Chris-Engelhardt/data_sci_guide">Overview of guided workshops, R/Python/SQL/Git/Shell courses</a></p></li>
+<li><p><a href="https://dev.to/facundocorradini/why-i-don-t-use-stack-overflow-1f0l">Stack Overflow</a></p></li>
+<li><p><a href="https://guides.uflib.ufl.edu/reproducibility/lessons">Research Reproducibility and Open Science</a> by Hao Ye</p></li>
+<li><p><a href="https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md/#1">Social coding: sharing and citing software</a> by CodeRefinery</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1k8k3EqT8iz96zSeXVt4J7QB5aeXkUJEATZhev900sr4/edit?usp=sharing">Debugging Bingo</a> by Ji Son</p></li>
+<li><p><a href="https://ecorepsci.github.io/reproducible-science/index.html">Computational Tools for Reproducible Science</a> (with an R focus)</p></li>
+<li><p><a href="https://nixos.org/">NixOS</a></p></li>
+<li><p><a href="https://twitter.com/usenextjournal/status/1364880836118663173">Nextjournal</a></p></li>
+<li><p><a href="https://www.software.ac.uk/how-make-your-script-ready-publication">How to make your script ready for publication</a></p></li>
+<li><p>Example of a workflow: ‘<a href="https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/">The task is a quantum of workflow</a>’</p></li>
+<li><p><a href="https://www.ukrn.org/primers/">Open Research Primers</a></p></li>
+<li><p><a href="https://calmcode.io/">Calmcode.io</a></p></li>
+<li><p>Text editors for <strong>Mac:</strong> Atom, Subline Text, TextEdit, BBEdit, Visual Studio Code</p></li>
+<li><p><a href="https://www.software.ac.uk/blog/2021-11-04-top-tips-start-coding-academia">Top Tips to Start Coding in Academia</a></p></li>
+<li><p><a href="https://github.com/danielskatz/repro-fdtd1d/blob/master/Computational_Reproducibility.pdf">Presentation by Daniel Katz</a> on Computational Reproducibility (intermediate/advanced)</p></li>
+<li><p><a href="https://kbroman.org/AdvData/14_clearcode.pdf">Writing clear code</a> by Karl Broman</p></li>
+<li><p><a href="https://doi.org/10.5281/zenodo.3922957">Writing Clean Scientific Software</a> by Nicolas Murphy</p></li>
+</ul>
+</section>
+<section id="shellunix" class="level3">
+<h3 class="anchored" data-anchor-id="shellunix">Shell/Unix</h3>
+<ul>
+<li><p><a href="https://www.nature.com/articles/d41586-021-00263-0">Five reasons why researchers should learn to love the command line</a></p></li>
+<li><p><a href="https://youtu.be/et_QrTWqjNU">Recording of the Automating Task lesson</a>by SoftwareSaved</p></li>
+<li><p><a href="https://datascienceatthecommandline.com/">Data Science at the Command Line</a> by Jeroen Janssen</p></li>
+</ul>
+</section>
+<section id="github" class="level3">
+<h3 class="anchored" data-anchor-id="github">Git(Hub)</h3>
+<ul>
+<li><p><a href="https://www.youtube.com/watch?v=QRUvQgKbVZQ">OLS GitHub intro</a> (OLS1) and a <a href="https://www.youtube.com/watch?v=Wui21rKrCNk">more extensive intro for OLS2</a></p></li>
+<li><p><a href="http://nyu-dataservices.github.io/Intro-Git-GitHub/git.html">GitHub intro</a> by Vicky Steeves (<a href="https://github.com/NYU-DataServices/Intro-Git-GitHub">repository</a>)</p></li>
+<li><p><a href="https://guides.github.com/introduction/flow/">GitHub’s introduction on branches</a></p></li>
+<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a></p></li>
+<li><p><a href="https://coderefinery.github.io/social-coding/">Git + social coding from Code Refinery</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=fTRtzsYo7Ho">Recording of the Git lesson</a>by SoftwareSaved</p></li>
+<li><p><a href="https://tom.preston-werner.com/2009/05/19/the-git-parable.html">The Git Parable</a> by Tom Preston-Werner</p></li>
+<li><p><a href="https://www.smashingmagazine.com/2021/02/getting-the-most-out-of-git/">Getting the most out of git</a> (Intermediate)</p></li>
+<li><p><a href="http://git-scm.com/book/en/v2">Pro Git</a></p></li>
+<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">Git flow</a></p></li>
+<li><p><a href="https://voyteklab.com/git/git-primer/">Git/GitHub primer</a> (beginner)</p></li>
+<li><p><a href="https://orchid00.github.io/git_for_humans/007_resources.html">Git Resources</a> by Paula Andrea Martinez</p></li>
+<li><p><a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Where-system-global-and-local-Windows-Git-config-files-are-saved">Git configuration files</a></p></li>
+<li><p><a href="https://learngitbranching.js.org/">Learn Git Branching</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=gfPP2pQ8Rms">OHBM Brainhack 2021 - Traintrack: Version control</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=w3jLJU7DT5E">What is Github</a> (3-4 min video)</p></li>
+<li><p><a href="https://webinerds.com/version-control-systems-keep-your-code-in-order/">Version Control Systems: Keep Your Code in Order!</a></p></li>
+<li><p><a href="https://doi.org/10.1371/journal.pcbi.1004947">Ten Simple Rules for Taking Advantage of Git and GitHub</a> (Perez-Riverol et al.&nbsp;2016)</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=OPqGR8m6v18">Introduction to Git</a> (more theoretical + GitLab)</p></li>
+</ul>
+</section>
+<section id="python" class="level3">
+<h3 class="anchored" data-anchor-id="python">Python</h3>
+<ul>
+<li><p><a href="https://dabeaz-course.github.io/practical-python">Practical Python Programming</a> by David Beazley&nbsp;</p></li>
+<li><p>Packages</p>
+<ul>
+<li><p><a href="https://education.molssi.org/python-package-best-practices/index.html">Python Package Best Practices</a></p></li>
+<li><p><a href="https://github.com/mwouts/jupytext">Jupytext</a></p></li>
+</ul></li>
+<li><p>Recording of a Python Carpentry Workshop by SoftwareSaved using Jupyter Lab (<a href="https://youtu.be/YHDvqPRM9tE">part 1</a>) (<a href="https://youtu.be/hhTV6BuSmcM">part 2</a>)</p></li>
+<li><p><a href="https://jupyter4edu.github.io/jupyter-edu-book/index.html">Teaching and Learning with Jupyter</a></p></li>
+<li><p><a href="https://hypothesis.readthedocs.io/en/latest/">Hypothesis</a> library</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=G1GjUZgZQbk&amp;list=PL35C27CB854E03FF2">Python videos</a> (beginner?)</p></li>
+<li><p><a href="https://github.com/wmvanvliet/gizmo">Can you speak Python?</a></p></li>
+<li><p><a href="https://carpentries.org/blog/2021/07/pyrse-book/">Research Software Engineering with Python</a></p></li>
+<li><p><a href="https://maneage.org/index.html">Maneage</a>&nbsp;</p></li>
+<li><p><a href="https://speakerdeck.com/trallard/jupyter-notebooks-friends-or-foes">Jupyter notebooks: Friends or foes?</a></p></li>
+<li><p><a href="https://doi.org/10.1371/journal.%20pcbi.1007007">Ten simple rules for writing and sharing Computational analyses in Jupyter Notebooks</a> (Rule et al.&nbsp;2019)</p></li>
+<li><p><a href="https://github.com/JoaoRodrigues/sc-teaching/blob/master/intermediate-python-2020/index.md">Intermediate Python Workshop</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=b1gmh4W3H9A">Build a Dashboard with Python Plotly Dash</a> (webinar by Laura Gutierrez Funderburk)</p></li>
+</ul>
+</section>
+<section id="r" class="level3">
+<h3 class="anchored" data-anchor-id="r">R</h3>
+<p>Please find a curated list for <a href="https://delft-rcafe.github.io/resources/">R resources at the TU Delft R Café</a></p>
+</section>
+<section id="communities" class="level3">
+<h3 class="anchored" data-anchor-id="communities">Communities</h3>
+<ul>
+<li><p>Code Newbies (<a href="https://twitter.com/CodeNewbies">@CodeNewbies</a>)</p></li>
+<li><p>Codecademy (<a href="https://twitter.com/Codecademy">@Codecademy</a>)</p></li>
+<li><p>Stackademic (<a href="https://twitter.com/StackademicHQ">@StackademicHQ</a>)</p></li>
+<li><p>Code .org (<a href="https://twitter.com/codeorg">@codeorg</a>)</p></li>
+<li><p>Women Who Code (<a href="https://twitter.com/WomenWhoCode">@WomenWhoCode</a>)</p></li>
+<li><p>Girls Who Code (<a href="https://twitter.com/GirlsWhoCode">@GirlsWhoCode</a>)</p></li>
+<li><p>Free Code Camp (<a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>)</p></li>
+<li><p>Black Girls Code (<a href="https://twitter.com/BlackGirlsCode">@BlackGirlsCode</a>)</p></li>
+<li><p>Design+Code (<a href="https://twitter.com/designcodeio">@designcodeio</a>)</p></li>
+<li><p>Microsoft Make Code (<a href="https://twitter.com/MSMakeCode">@MSMakeCode</a>)</p></li>
+<li><p>CodeHS (<a href="https://twitter.com/CodeHS">@CodeHS</a>)</p></li>
+</ul>
+<p><br>
+</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Software</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</guid>
+  <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Barriers to data/code sharing</title>
@@ -1080,124 +1237,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/index.html</guid>
   <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Software Resources</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Overview of resources related to programming, Python, Git(Hub), Shell and programming communities.</p>
-<section id="general-resources" class="level3">
-<h3 class="anchored" data-anchor-id="general-resources">General Resources</h3>
-<ul>
-<li><p><a href="https://the-turing-way.netlify.app/welcome">The Turing Way</a></p></li>
-<li><p><a href="https://github.com/Chris-Engelhardt/data_sci_guide">Overview of guided workshops, R/Python/SQL/Git/Shell courses</a></p></li>
-<li><p><a href="https://dev.to/facundocorradini/why-i-don-t-use-stack-overflow-1f0l">Stack Overflow</a></p></li>
-<li><p><a href="https://guides.uflib.ufl.edu/reproducibility/lessons">Research Reproducibility and Open Science</a> by Hao Ye</p></li>
-<li><p><a href="https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md/#1">Social coding: sharing and citing software</a> by CodeRefinery</p></li>
-<li><p><a href="https://docs.google.com/presentation/d/1k8k3EqT8iz96zSeXVt4J7QB5aeXkUJEATZhev900sr4/edit?usp=sharing">Debugging Bingo</a> by Ji Son</p></li>
-<li><p><a href="https://ecorepsci.github.io/reproducible-science/index.html">Computational Tools for Reproducible Science</a> (with an R focus)</p></li>
-<li><p><a href="https://nixos.org/">NixOS</a></p></li>
-<li><p><a href="https://twitter.com/usenextjournal/status/1364880836118663173">Nextjournal</a></p></li>
-<li><p><a href="https://www.software.ac.uk/how-make-your-script-ready-publication">How to make your script ready for publication</a></p></li>
-<li><p>Example of a workflow: ‘<a href="https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/">The task is a quantum of workflow</a>’</p></li>
-<li><p><a href="https://www.ukrn.org/primers/">Open Research Primers</a></p></li>
-<li><p><a href="https://calmcode.io/">Calmcode.io</a></p></li>
-<li><p>Text editors for <strong>Mac:</strong> Atom, Subline Text, TextEdit, BBEdit, Visual Studio Code</p></li>
-<li><p><a href="https://www.software.ac.uk/blog/2021-11-04-top-tips-start-coding-academia">Top Tips to Start Coding in Academia</a></p></li>
-<li><p><a href="https://github.com/danielskatz/repro-fdtd1d/blob/master/Computational_Reproducibility.pdf">Presentation by Daniel Katz</a> on Computational Reproducibility (intermediate/advanced)</p></li>
-<li><p><a href="https://kbroman.org/AdvData/14_clearcode.pdf">Writing clear code</a> by Karl Broman</p></li>
-<li><p><a href="https://doi.org/10.5281/zenodo.3922957">Writing Clean Scientific Software</a> by Nicolas Murphy</p></li>
-</ul>
-</section>
-<section id="shellunix" class="level3">
-<h3 class="anchored" data-anchor-id="shellunix">Shell/Unix</h3>
-<ul>
-<li><p><a href="https://www.nature.com/articles/d41586-021-00263-0">Five reasons why researchers should learn to love the command line</a></p></li>
-<li><p><a href="https://youtu.be/et_QrTWqjNU">Recording of the Automating Task lesson</a>by SoftwareSaved</p></li>
-<li><p><a href="https://datascienceatthecommandline.com/">Data Science at the Command Line</a> by Jeroen Janssen</p></li>
-</ul>
-</section>
-<section id="github" class="level3">
-<h3 class="anchored" data-anchor-id="github">Git(Hub)</h3>
-<ul>
-<li><p><a href="https://www.youtube.com/watch?v=QRUvQgKbVZQ">OLS GitHub intro</a> (OLS1) and a <a href="https://www.youtube.com/watch?v=Wui21rKrCNk">more extensive intro for OLS2</a></p></li>
-<li><p><a href="http://nyu-dataservices.github.io/Intro-Git-GitHub/git.html">GitHub intro</a> by Vicky Steeves (<a href="https://github.com/NYU-DataServices/Intro-Git-GitHub">repository</a>)</p></li>
-<li><p><a href="https://guides.github.com/introduction/flow/">GitHub’s introduction on branches</a></p></li>
-<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a></p></li>
-<li><p><a href="https://coderefinery.github.io/social-coding/">Git + social coding from Code Refinery</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=fTRtzsYo7Ho">Recording of the Git lesson</a>by SoftwareSaved</p></li>
-<li><p><a href="https://tom.preston-werner.com/2009/05/19/the-git-parable.html">The Git Parable</a> by Tom Preston-Werner</p></li>
-<li><p><a href="https://www.smashingmagazine.com/2021/02/getting-the-most-out-of-git/">Getting the most out of git</a> (Intermediate)</p></li>
-<li><p><a href="http://git-scm.com/book/en/v2">Pro Git</a></p></li>
-<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">Git flow</a></p></li>
-<li><p><a href="https://voyteklab.com/git/git-primer/">Git/GitHub primer</a> (beginner)</p></li>
-<li><p><a href="https://orchid00.github.io/git_for_humans/007_resources.html">Git Resources</a> by Paula Andrea Martinez</p></li>
-<li><p><a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Where-system-global-and-local-Windows-Git-config-files-are-saved">Git configuration files</a></p></li>
-<li><p><a href="https://learngitbranching.js.org/">Learn Git Branching</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=gfPP2pQ8Rms">OHBM Brainhack 2021 - Traintrack: Version control</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=w3jLJU7DT5E">What is Github</a> (3-4 min video)</p></li>
-<li><p><a href="https://webinerds.com/version-control-systems-keep-your-code-in-order/">Version Control Systems: Keep Your Code in Order!</a></p></li>
-<li><p><a href="https://doi.org/10.1371/journal.pcbi.1004947">Ten Simple Rules for Taking Advantage of Git and GitHub</a> (Perez-Riverol et al.&nbsp;2016)</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=OPqGR8m6v18">Introduction to Git</a> (more theoretical + GitLab)</p></li>
-</ul>
-</section>
-<section id="python" class="level3">
-<h3 class="anchored" data-anchor-id="python">Python</h3>
-<ul>
-<li><p><a href="https://dabeaz-course.github.io/practical-python">Practical Python Programming</a> by David Beazley&nbsp;</p></li>
-<li><p>Packages</p>
-<ul>
-<li><p><a href="https://education.molssi.org/python-package-best-practices/index.html">Python Package Best Practices</a></p></li>
-<li><p><a href="https://github.com/mwouts/jupytext">Jupytext</a></p></li>
-</ul></li>
-<li><p>Recording of a Python Carpentry Workshop by SoftwareSaved using Jupyter Lab (<a href="https://youtu.be/YHDvqPRM9tE">part 1</a>) (<a href="https://youtu.be/hhTV6BuSmcM">part 2</a>)</p></li>
-<li><p><a href="https://jupyter4edu.github.io/jupyter-edu-book/index.html">Teaching and Learning with Jupyter</a></p></li>
-<li><p><a href="https://hypothesis.readthedocs.io/en/latest/">Hypothesis</a> library</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=G1GjUZgZQbk&amp;list=PL35C27CB854E03FF2">Python videos</a> (beginner?)</p></li>
-<li><p><a href="https://github.com/wmvanvliet/gizmo">Can you speak Python?</a></p></li>
-<li><p><a href="https://carpentries.org/blog/2021/07/pyrse-book/">Research Software Engineering with Python</a></p></li>
-<li><p><a href="https://maneage.org/index.html">Maneage</a>&nbsp;</p></li>
-<li><p><a href="https://speakerdeck.com/trallard/jupyter-notebooks-friends-or-foes">Jupyter notebooks: Friends or foes?</a></p></li>
-<li><p><a href="https://doi.org/10.1371/journal.%20pcbi.1007007">Ten simple rules for writing and sharing Computational analyses in Jupyter Notebooks</a> (Rule et al.&nbsp;2019)</p></li>
-<li><p><a href="https://github.com/JoaoRodrigues/sc-teaching/blob/master/intermediate-python-2020/index.md">Intermediate Python Workshop</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=b1gmh4W3H9A">Build a Dashboard with Python Plotly Dash</a> (webinar by Laura Gutierrez Funderburk)</p></li>
-</ul>
-</section>
-<section id="r" class="level3">
-<h3 class="anchored" data-anchor-id="r">R</h3>
-<p>Please find a curated list for <a href="https://delft-rcafe.github.io/resources/">R resources at the TU Delft R Café</a></p>
-</section>
-<section id="communities" class="level3">
-<h3 class="anchored" data-anchor-id="communities">Communities</h3>
-<ul>
-<li><p>Code Newbies (<a href="https://twitter.com/CodeNewbies">@CodeNewbies</a>)</p></li>
-<li><p>Codecademy (<a href="https://twitter.com/Codecademy">@Codecademy</a>)</p></li>
-<li><p>Stackademic (<a href="https://twitter.com/StackademicHQ">@StackademicHQ</a>)</p></li>
-<li><p>Code .org (<a href="https://twitter.com/codeorg">@codeorg</a>)</p></li>
-<li><p>Women Who Code (<a href="https://twitter.com/WomenWhoCode">@WomenWhoCode</a>)</p></li>
-<li><p>Girls Who Code (<a href="https://twitter.com/GirlsWhoCode">@GirlsWhoCode</a>)</p></li>
-<li><p>Free Code Camp (<a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>)</p></li>
-<li><p>Black Girls Code (<a href="https://twitter.com/BlackGirlsCode">@BlackGirlsCode</a>)</p></li>
-<li><p>Design+Code (<a href="https://twitter.com/designcodeio">@designcodeio</a>)</p></li>
-<li><p>Microsoft Make Code (<a href="https://twitter.com/MSMakeCode">@MSMakeCode</a>)</p></li>
-<li><p>CodeHS (<a href="https://twitter.com/CodeHS">@CodeHS</a>)</p></li>
-</ul>
-<p><br>
-</p>
-
-
-</section>
-
- ]]></description>
-  <category>Software</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</guid>
-  <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Reproducibility resources</title>
@@ -1409,40 +1448,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/index.html</guid>
   <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/snake.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Microsoft Teams</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-teams/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Microsoft Teams provides access to ‘Teams’ in which you can share and collaborate on documents and tasks with people. <a href="https://support.microsoft.com/en-us/office/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f">External members can be invited</a>.</p>
-<p><a href="https://teaching-support.tudelft.nl/teams-setting-up-a-team/">TU Delft provides some info on how to set up your Team</a>.</p>
-<p>If you are invited to an external team, you’ll need to switch from the TU Delft Teams to the external Teams. You can do that by selecting your portrait (or your initials if you haven’t uploaded a photo) and then select the team that you would like to access (see the image below). While in an external Team you will not see notifications and messages from the TU Delft Teams.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-teams/images/paste-AE63544D.png" class="img-fluid figure-img" alt="The menu of teams you'll see when you select your account/portrait. In Esther's case she is part of the University Amsterdan UMC and the Charité as a Guest."></p>
-</figure>
-</div>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><a href="https://www.tudelft.nl/ict-handleidingen/microsoft-teams">TU Delft manuals for Teams</a></li>
-<li>(Dutch) <a href="https://www.scienceguide.nl/2022/12/surf-verbod-gebruik-microsoft-in-nederlands-onderwijs-niet-nodig/">SURF: ‘Verbod gebruik Microsoft in Nederlands onderwijs niet nodig’</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Tools</category>
-  <category>Collaboration</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-teams/index.html</guid>
-  <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-teams/teams.png" medium="image" type="image/png" height="134" width="144"/>
 </item>
 </channel>
 </rss>
