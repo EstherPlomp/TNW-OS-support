@@ -25,6 +25,12 @@ image: "reproducibility.jpg"
 -   [How Does One "Open" Science? Questions of Value in **Biological Research**](https://doi.org/10.1177%2F0162243916672071)
 -   [Promoting Open Science to Increase the Trustworthiness of Evidence in Special **Education**](https://doi.org/10.1177%2F0014402918793138)
 
+## Superconductivity
+
+-   [Allegations of Scientific Misconduct Mount as Physicist Makes His Biggest Claim Yet](https://physics.aps.org/articles/v16/40)
+
+-   [Room-Temperature Superconductor Discovery Meets With Resistance](https://www.quantamagazine.org/room-temperature-superconductor-discovery-meets-with-resistance-20230308/)
+
 ## More information
 
 -   [Reproducibility checklist](https://estherplomp.github.io/TNW-OS-support/posts/reproducibility-checklist/)
