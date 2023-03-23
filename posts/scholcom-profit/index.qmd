@@ -2,7 +2,7 @@
 title: "Publish and profit"
 author: "Esther Plomp"
 date: "2022-09-02"
-categories: [Scholarly communication]
+categories: [Scholarly Communication]
 image: "image.jpg"
 ---
 
