@@ -2,7 +2,7 @@
 title: "Why share data?"
 author: "Esther Plomp"
 date: "2022-09-02"
-categories: [Data, Citation]
+categories: [Open Data, Citation]
 image: "open-data-fountain.jpg"
 ---
 
