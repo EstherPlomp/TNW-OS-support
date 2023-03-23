@@ -46,7 +46,7 @@
   <category>Inclusion</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/index.html</guid>
   <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/OS-TUD.png" medium="image" type="image/png"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/inclusive.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Qualtrics</title>
@@ -557,10 +557,10 @@
 </section>
 
  ]]></description>
-  <category>Scholarly communication</category>
+  <category>Scholarly Communication</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/index.html</guid>
   <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/image-ethics.png" medium="image" type="image/png" height="87" width="144"/>
 </item>
 <item>
   <title>Data Horrors</title>
@@ -726,7 +726,6 @@
 
  ]]></description>
   <category>Open Access</category>
-  <category>APC</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/index.html</guid>
   <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/costs.png" medium="image" type="image/png" height="144" width="144"/>
