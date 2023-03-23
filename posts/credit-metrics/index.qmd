@@ -1,0 +1,17 @@
+---
+title: "Metrics in Academia"
+author: "Esther Plomp"
+date: "2023-01-21"
+categories: [Credit]
+image: "dora.png"
+---
+
+[Metrics in Academia](https://doi.org/10.5281/zenodo.6365456)
+
+![Scriberia image that indicates that we need to move from quantity to quality, focusing on valuing reproducibility as much as the amount of papers published](https://lh5.googleusercontent.com/jMSqjc62rMU0oFhnClBKQXsE0QXKD5sp66G7ho_RJxwXvsZwvzA-O3T1mnSq-S1GiISDtqGKLNvwgkj8naQeiZWrb7L5k7-S44rLIHMHwq0Fx_AFybo6NkDazvX5mzIPWW0kwGiz6mkOxVGBdhck8miia6CC7eAy-qczHPAUVdNbtFwEXXAqFbfm3nScX41K=s2048 "Time for a cultural shift"){alt="Scriberia image that indicates that we need to move from quantity to quality, focusing on valuing reproducibility as much as the amount of papers published"}
+
+## **More information**
+
+-   [spam email for a new service](https://fediscience.org/@ct_bergstrom/109704497476849753)
+-   [Quality is key](https://openworking.wordpress.com/2021/09/01/quality-is-key/)
+-   [Implementing new Recognition & Rewards through six new academic career profiles](https://www.youtube.com/watch?v=iRBCXUC3NDE)

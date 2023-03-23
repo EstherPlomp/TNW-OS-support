@@ -1,0 +1,15 @@
+---
+title: "Quarto"
+author: "Esther Plomp"
+date: "2022-11-30"
+categories: [Tools, Collaboration]
+image: "quartologo.png"
+---
+
+This website has been set up using [Quarto](https://quarto.org/).
+
+## Other helpful Quarto resources:
+
+-   [A Quarto extension for a TU Delft theme](https://github.com/pat-alt/quarto-tudelft)
+
+![](images/image-286585094.png)
