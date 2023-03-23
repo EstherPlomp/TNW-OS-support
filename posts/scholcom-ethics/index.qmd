@@ -3,11 +3,11 @@ title: "Publishing ethically"
 author: "Esther Plomp"
 date: "2023-01-05"
 categories: [Scholarly Communication]
-image: "image.jpg"
+image: "image-ethics.png"
 ---
 
 How to shift your publishing choices towards publishing in more sustainable/ethical venues:
 
-[![Flowchart by Carina Logan, based on \[Logan 2017\](https://doi.org/10.12688/f1000research.11415.2).](images/image-1632415656.png){fig-alt="A flowchart asking the question whether the journal is 100% open access, and whether the publisher is for-profit or non-profit. You should publish in the venue if it is open access and ideally the publisher should be non-profit. The APC should reflect the actual costs, but ideally be not existing because publishing fees come with inequalities. You should choose the CC-BY-4.0 license, make use of open peer review, and choose a journal that does not select articles based on subjective impact." fig-align="center"}](http://corinalogan.com/journals.html)
+[![Flowchart by Carina Logan, based on [Logan 2017](https://doi.org/10.12688/f1000research.11415.2).](images/image-1632415656.png){fig-alt="A flowchart asking the question whether the journal is 100% open access, and whether the publisher is for-profit or non-profit. You should publish in the venue if it is open access and ideally the publisher should be non-profit. The APC should reflect the actual costs, but ideally be not existing because publishing fees come with inequalities. You should choose the CC-BY-4.0 license, make use of open peer review, and choose a journal that does not select articles based on subjective impact." fig-align="center"}](http://corinalogan.com/journals.html)
 
 ## More information
