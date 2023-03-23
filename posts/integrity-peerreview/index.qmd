@@ -3,7 +3,7 @@ title: "Peer review flaws "
 author: "Esther Plomp"
 date: "2022-11-29"
 categories: [Integrity, Peerreview]
-image: "OS-TUD.png"
+image: "mistake.png"
 ---
 
 The peer review process does not successfully keep out bad science.
