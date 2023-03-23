@@ -9,7 +9,7 @@
 <link>https://github.com/EstherPlomp/TNW-OS-support/index.html</link>
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.2.335</generator>
+<generator>quarto-1.2.475</generator>
 <lastBuildDate>Fri, 17 Mar 2023 00:00:00 GMT</lastBuildDate>
 <item>
   <title>How to organise inclusive meetings</title>
@@ -210,6 +210,41 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/index.html</guid>
   <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/stairs.png" medium="image" type="image/png" height="143" width="144"/>
+</item>
+<item>
+  <title>Metrics in Academia</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://doi.org/10.5281/zenodo.6365456">Metrics in Academia</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<figure class="figure">
+<img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/https:/lh5.googleusercontent.com/jMSqjc62rMU0oFhnClBKQXsE0QXKD5sp66G7ho_RJxwXvsZwvzA-O3T1mnSq-S1GiISDtqGKLNvwgkj8naQeiZWrb7L5k7-S44rLIHMHwq0Fx_AFybo6NkDazvX5mzIPWW0kwGiz6mkOxVGBdhck8miia6CC7eAy-qczHPAUVdNbtFwEXXAqFbfm3nScX41K=s2048.png" title="Time for a cultural shift" class="img-fluid figure-img" alt="Scriberia image that indicates that we need to move from quantity to quality, focusing on valuing reproducibility as much as the amount of papers published">
+</figure>
+<p></p><figcaption class="figure-caption">Scriberia image that indicates that we need to move from quantity to quality, focusing on valuing reproducibility as much as the amount of papers published</figcaption><p></p>
+</figure>
+</div>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><a href="https://fediscience.org/@ct_bergstrom/109704497476849753">spam email for a new service</a></li>
+<li><a href="https://openworking.wordpress.com/2021/09/01/quality-is-key/">Quality is key</a></li>
+<li><a href="https://www.youtube.com/watch?v=iRBCXUC3NDE">Implementing new Recognition &amp; Rewards through six new academic career profiles</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Credit</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/index.html</guid>
+  <pubDate>Sat, 21 Jan 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/dora.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>How to share data/code underlying the thesis?</title>
@@ -1268,6 +1303,13 @@
 <li><a href="https://doi.org/10.1177%2F0014402918793138">Promoting Open Science to Increase the Trustworthiness of Evidence in Special <strong>Education</strong></a></li>
 </ul>
 </section>
+<section id="superconductivity" class="level2">
+<h2 class="anchored" data-anchor-id="superconductivity">Superconductivity</h2>
+<ul>
+<li><p><a href="https://physics.aps.org/articles/v16/40">Allegations of Scientific Misconduct Mount as Physicist Makes His Biggest Claim Yet</a></p></li>
+<li><p><a href="https://www.quantamagazine.org/room-temperature-superconductor-discovery-meets-with-resistance-20230308/">Room-Temperature Superconductor Discovery Meets With Resistance</a></p></li>
+</ul>
+</section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
@@ -1359,95 +1401,33 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
-  <title>Open Peer Review</title>
+  <title>Negative Results</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/results-negative/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://fediscience.org/@lindedomingo/109315960101734543"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/images/paste-121DACEA.png" class="img-fluid figure-img" alt="a Mastodon poll asking about people's preferences for signed or anonymous reviewers. 44% prefer signed review, versus 27% anonymous. 17% doesn't have a preference and 13% just wanted to see the results. 112 people voted on the poll that was posted on 9 november 2022."></a></p>
-</figure>
-</div>
-<p>Open Peer review can refer to various practises, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<p>..</p>
+<p>Data papers</p>
+<p>Software papers</p>
+<p>Registered reports</p>
+<p>More information</p>
 <ul>
-<li><p><strong>The Turing Way</strong> has a chapter on <a href="https://the-turing-way.netlify.app/communication/peer-review.html">Peer Review</a>, including a section on <a href="https://the-turing-way.netlify.app/communication/peer-review/peer-review-open.html">Open Peer Review</a>.</p></li>
-<li><p>Check the <a href="https://doi.org/10.5281/zenodo.5484087"><strong>Open Reviewers Review Guide</strong></a>. Pages 28-31 provide insights about what a reviewer would look for when evaluating your manuscript.</p></li>
-<li><p>Read some <a href="http://neural-reckoning.org/reviewing.html">reflections on <strong>reviewing in the publishing system</strong></a>.</p></li>
+<li><p><a href="https://youtu.be/W3y90fagzUE?t=318">Introduction to the Journal of Trial &amp; Error by Sarahanna Field</a> (video starts at 5:18)</p></li>
+<li></li>
 </ul>
 
 
-</section>
 
  ]]></description>
-  <category>Open Science</category>
-  <category>Open Publishing</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/index.html</guid>
-  <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-open-review/open-review.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>A number is a snake chasing it’s tail</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This posts is a summary of the <a href="https://doi.org/10.5281/zenodo.7308248">talk given by Deborah Stone</a> for the LIS-Bibliometrics Conference 2022.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/images/paste-790D9D2B.png" class="img-fluid"></p>
-<p>What is the idea of the nature of the thing that you’re trying to count? Categories are human decisions. Once you decide what belongs in the category you counting, you predetermine the number you’ll find. This is why every number is just a snake eating it’s tail.</p>
-<p>Three points:</p>
-<ol type="1">
-<li>A number reflects human decisions about what is important. What are the important qualities of a thing that make it belong to a category and therefore count?</li>
-<li>The crucial fact about a number is not how big or how small it is. It is about who counted. Who decided what counts?</li>
-<li>Counting is a form of power. It is the power to decide what matters.</li>
-</ol>
-<p>Humans create numbers. Then they claim that their creations are independent of their own subjective judgements. Numbers are no more objective than words.</p>
-<p>If we know numbers aren’t objective: Why do we use them anyway to guide important decisions?</p>
-<p>People want to use numbers, however crude they are, because we fear that the officials who have power over us, might be biased or play favourites. By setting firm, objective criteria to constrain them, we hope to reduce whim, favouritism, and prejudice. We call for numbers to protect ourselves from arbitrary power. Thats why so many institutions that evaluate programmes and people are increasingly using metrics instead of human judges, to promote fairness. Or so the argument goes.</p>
-<p>Evaluation by numbers is supposed to make the people being evaluated feel that they are being treated objectively and fairly. Numbers make human judges feel more confident in their judgement. They rather hide behind the numbers.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/images/paste-E3641D7E.png" class="img-fluid"></p>
-<p>Once we entrust ourselves to numbers, the snake is eating us, not its own tail.</p>
-<p>People have long realised that numbers aren’t the objective gods that we’d like to believe.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/images/paste-DD23E882.png" class="img-fluid"></p>
-<p>Before we think about alternatives measures of impact. What are the hidden impacts of journals, articles and other research outputs that bibliometrics don’t measure?</p>
-<p>The JIF as an evaluation tool creates pressures to conformity and discourages creativity. Citation serves as a mechanism for maintaining hierarchy in the profession. Journals with low JIF scores can still have a huge impact on scientific progress.</p>
-<p>How might we better evaluate the impact of research and publications?</p>
-<ol type="1">
-<li>The people affected by a policy should have a say in it’s development</li>
-<li>Ask people to tell me about a time you felt successful in their work? The answers tell us what people most care about and what their values are.</li>
-<li>Tease out the impacts from respondents words. What is grabbing? Use this as data.</li>
-<li>Ask yourself whether the meanings of impact you discovered can be broken down into countable units. What would that unit be? Would different observers agree?
-<ol type="1">
-<li><p>If you must quantify, don’t rely on one unit like citations, build a multi-factor indicator.</p></li>
-<li><p>Don’t rely exclusively on numbers. Stories are more compelling than numbers and allow space for personal discretion in evaluation decisions.</p></li>
-</ol></li>
-<li>People who count have biases too. They make subjective judgement in order to count. They exercise their biases when they decide what counts. Numbers only hide those judgments and biases and make them invisible. They do not eliminate them. Metrics are more efficient, but when you’re playing with individual’s careers, you owe them individual consideration. If you want to encourage originality and creativity, you need to allow for personal judgement. To reduce prejudice, use multiple evaluators. Insist that they engage in an open discussion about the thinking behind their judgments, preferably face to face.</li>
-</ol>
-<p>Bibliometrics is both a commercial industry and a device for maintaining the status-quo hierarchy of knowledge producers. But if enough will practice these methods we can create a parallel universe in which evaluators and evaluated feel more honest, appreciated and effective.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li>‘Counting: How We Use Numbers to Decide What Matters’ book by Deborah Stone</li>
-<li><a href="https://openworking.wordpress.com/2021/09/01/quality-is-key/">Quality is Key</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <category>Inclusion</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/index.html</guid>
-  <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-counting/snake.jpg" medium="image" type="image/jpeg"/>
+  <category>Research Data Management</category>
+  <category>Open Data</category>
+  <category>Open Methods</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/results-negative/index.html</guid>
+  <pubDate>Sun, 04 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/results-negative/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
