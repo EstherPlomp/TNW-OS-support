@@ -2,7 +2,7 @@
 title: "Mistakes"
 author: "Esther Plomp"
 date: "2022-09-04"
-categories: [Mistakes]
+categories: [Integrity]
 image: "mistake.png"
 ---
 
