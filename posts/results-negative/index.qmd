@@ -1,0 +1,21 @@
+---
+title: "Negative Results"
+author: "Esther Plomp"
+date: "2022-12-04"
+categories: [Research Data Management, Open Data, Open Methods]
+image: "open-data-fountain.jpg"
+---
+
+..
+
+Data papers
+
+Software papers
+
+Registered reports
+
+More information
+
+-   [Introduction to the Journal of Trial & Error by Sarahanna Field](https://youtu.be/W3y90fagzUE?t=318) (video starts at 5:18)
+
+-   
