@@ -2,7 +2,7 @@
 title: "Article Processing Fees"
 author: "Esther Plomp"
 date: "2022-12-20"
-categories: [Open Access, APC]
+categories: [Open Access]
 image: "costs.png"
 ---
 
