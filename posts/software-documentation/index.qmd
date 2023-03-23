@@ -2,7 +2,7 @@
 title: "Software documentation"
 author: "Esther Plomp"
 date: "2022-08-28"
-categories: [Software, Documentation]
+categories: [Software]
 image: "image.jpg"
 ---
 
