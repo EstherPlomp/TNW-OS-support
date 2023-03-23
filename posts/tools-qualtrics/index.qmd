@@ -2,7 +2,7 @@
 title: "Qualtrics"
 author: "Esther Plomp"
 date: "2023-03-06"
-categories: [Tools, Collaboration]
+categories: [Tools]
 image: "qualtrics.png"
 ---
 

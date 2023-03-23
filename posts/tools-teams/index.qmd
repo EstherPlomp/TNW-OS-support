@@ -2,7 +2,7 @@
 title: "Microsoft Teams"
 author: "Esther Plomp"
 date: "2022-11-30"
-categories: [Tools, Collaboration]
+categories: [Tools]
 image: "teams.png"
 ---
 
