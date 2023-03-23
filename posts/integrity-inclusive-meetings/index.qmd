@@ -3,7 +3,7 @@ title: "How to organise inclusive meetings"
 author: "Esther Plomp"
 date: "2023-03-17"
 categories: [Open Science, Inclusion]
-image: "OS-TUD.png"
+image: "inclusive.png"
 ---
 
 From the [guide to organizing Inclusive Scientific Meetings: Where to Start](https://500womenscientists.org/inclusive-scientific-meetings)
