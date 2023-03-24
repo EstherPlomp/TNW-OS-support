@@ -72,7 +72,6 @@
 
  ]]></description>
   <category>Tools</category>
-  <category>Collaboration</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/index.html</guid>
   <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/qualtrics.png" medium="image" type="image/png" height="54" width="144"/>
@@ -307,7 +306,7 @@
 </section>
 <section id="where" class="level2">
 <h2 class="anchored" data-anchor-id="where">Where?</h2>
-<p>TU Delft has a dedicated data repository, <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a>, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the <a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf).</p>
+<p>TU Delft has a dedicated data repository, <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a>, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the <a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf).</p>
 <p>If your group/project is using <a href="https://zenodo.org/">Zenodo</a> you can also tag a project ‘community’. See for example <a href="https://zenodo.org/communities/samosafer">SAMOSAFER</a> and <a href="https://zenodo.org/communities/batterynl/">BatteryNL</a>.</p>
 </section>
 <section id="link-between-datacode-and-your-dissertation" class="level2">
