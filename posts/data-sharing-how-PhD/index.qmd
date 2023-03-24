@@ -64,7 +64,7 @@ Pending on how complex your dataset is in terms of size or amount of files, ther
 
 ## Where?
 
-TU Delft has a dedicated data repository, [4TU.ResearchData](https://data.4tu.nl/info/en/), where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the [4TU.ResearchData's guidelines for readme files](https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf) (pdf).
+TU Delft has a dedicated data repository, [4TU.ResearchData](https://data.4tu.nl/info/en/), where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the [4TU.ResearchData's guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf).
 
 If your group/project is using [Zenodo](https://zenodo.org/) you can also tag a project 'community'. See for example [SAMOSAFER](https://zenodo.org/communities/samosafer) and [BatteryNL](https://zenodo.org/communities/batterynl/).
 
