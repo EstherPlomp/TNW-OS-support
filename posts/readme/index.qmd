@@ -26,7 +26,7 @@ Example templates for data:
 
 -   <https://cornell.app.box.com/v/ReadmeTemplate>
 
--   [4TU.ResearchData's guidelines for readme files](https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf) (pdf).
+-   [4TU.ResearchData's guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf).
 
 -   <https://datamanagement.hms.harvard.edu/collect/readme-files>
 
