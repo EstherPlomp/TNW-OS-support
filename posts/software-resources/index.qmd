@@ -154,4 +154,6 @@ Please find a curated list for [R resources at the TU Delft R Café](https://del
 
 -   CodeHS ([\@CodeHS](https://twitter.com/CodeHS))
 
-\
+##  Funding
+
+-   [Sovereign Tech Fund](https://sovereigntechfund.de/en/applications/)
