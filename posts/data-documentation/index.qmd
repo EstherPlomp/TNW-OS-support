@@ -89,6 +89,12 @@ Add any relevant notes:
 
 ![(copyright by Marta Teperek)](images/paste-C1DEDF1E.png){alt="(copyright by Marta Teperek)" fig-alt="An excel sheet with physical sample organisation. The first column describes sample names, the second the accompanying data in the labbook, the third column the amount of samples left (if there are multiple), the fourth one is the sample sizes and the last column contains any notes about the sample."}
 
+## Electronic Lab Notebooks
+
+TU Delft provides licenses for [RSpace and eLABjournal](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook).
+
+You can also keep a digital copy in solutions such as OneNote, or [logseq](https://www.dannygarside.co.uk/blog/An-open-source-knowledge-management-system-for-the-lab/).
+
 ## More information
 
 -   [DIVIO Documentation guide](https://documentation.divio.com/introduction/)
