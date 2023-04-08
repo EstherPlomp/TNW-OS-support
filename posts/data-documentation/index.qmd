@@ -79,7 +79,7 @@ Metadata is information about your data, such as the title of the dataset, the d
 
 ### Tools available for metadata creation:
 
-<https://frictionlessdata.io/> create.frictionlessdata.io (Data Package Creator) (JSON) (or through Python, [github.com/frictionlessdata/datapackage-pipelines](https://github.com/frictionlessdata/datapackage-pipelines)) (see [this presentation on YouTube](https://www.youtube.com/watch?v=vZAi4OnfH-Q&feature=youtu.be))
+[Frictionless](https://frictionlessdata.io/): [Datapackage Pipelines](https://github.com/frictionlessdata/datapackage-pipelines) (see [this presentation on YouTube](https://www.youtube.com/watch?v=vZAi4OnfH-Q&feature=youtu.be))
 
 ## Physical samples
 
@@ -98,3 +98,4 @@ You can also keep a digital copy in solutions such as OneNote, or [logseq](https
 ## More information
 
 -   [DIVIO Documentation guide](https://documentation.divio.com/introduction/)
+-   
