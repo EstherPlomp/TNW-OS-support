@@ -45,3 +45,5 @@ Example templates for software:
 -   <https://ha0ye.github.io/CW21-README-tips/template_README.html>
 
 -   <https://github.com/othneildrew/Best-README-Template>
+
+-   [https://github.com/matthiasott/README-template](https://github.com/matthiasott/README-templatehttps://github.com/matthiasott/README-template)
