@@ -497,6 +497,34 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/data.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Publishing ethically</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>How to shift your publishing choices towards publishing in more sustainable/ethical venues:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="http://corinalogan.com/journals.html"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/images/image-1632415656.png" class="img-fluid figure-img" alt="A flowchart asking the question whether the journal is 100% open access, and whether the publisher is for-profit or non-profit. You should publish in the venue if it is open access and ideally the publisher should be non-profit. The APC should reflect the actual costs, but ideally be not existing because publishing fees come with inequalities. You should choose the CC-BY-4.0 license, make use of open peer review, and choose a journal that does not select articles based on subjective impact."></a></p>
+<p></p><figcaption class="figure-caption">Flowchart by Carina Logan, based on [Logan 2017](https://doi.org/10.12688/f1000research.11415.2).</figcaption><p></p>
+</figure>
+</div>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Scholarly Communication</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/index.html</guid>
+  <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/image-ethics.png" medium="image" type="image/png" height="87" width="144"/>
+</item>
+<item>
   <title>Open Access Flowchart</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/index.html</link>
@@ -532,34 +560,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/index.html</guid>
   <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/publishing-oa-small.png" medium="image" type="image/png" height="56" width="144"/>
-</item>
-<item>
-  <title>Publishing ethically</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>How to shift your publishing choices towards publishing in more sustainable/ethical venues:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="http://corinalogan.com/journals.html"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/images/image-1632415656.png" class="img-fluid figure-img" alt="A flowchart asking the question whether the journal is 100% open access, and whether the publisher is for-profit or non-profit. You should publish in the venue if it is open access and ideally the publisher should be non-profit. The APC should reflect the actual costs, but ideally be not existing because publishing fees come with inequalities. You should choose the CC-BY-4.0 license, make use of open peer review, and choose a journal that does not select articles based on subjective impact."></a></p>
-<p></p><figcaption class="figure-caption">Flowchart by Carina Logan, based on [Logan 2017](https://doi.org/10.12688/f1000research.11415.2).</figcaption><p></p>
-</figure>
-</div>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-
-
-</section>
-
- ]]></description>
-  <category>Scholarly Communication</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/index.html</guid>
-  <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/image-ethics.png" medium="image" type="image/png" height="87" width="144"/>
 </item>
 <item>
   <title>Data Horrors</title>
@@ -1115,8 +1115,12 @@
 <li><p>Microsoft Make Code (<a href="https://twitter.com/MSMakeCode">@MSMakeCode</a>)</p></li>
 <li><p>CodeHS (<a href="https://twitter.com/CodeHS">@CodeHS</a>)</p></li>
 </ul>
-<p><br>
-</p>
+</section>
+<section id="funding" class="level2">
+<h2 class="anchored" data-anchor-id="funding">Funding</h2>
+<ul>
+<li><a href="https://sovereigntechfund.de/en/applications/">Sovereign Tech Fund</a></li>
+</ul>
 
 
 </section>
@@ -1324,6 +1328,37 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-resources/reproducibility.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Open Science Workflows</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Incorporating Open Science practices into your workflow may initially take some time, but will pay off for future you.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://osf.io/zy2pc"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/images/paste-A97AF7F9.png" class="img-fluid figure-img" alt="Two workflows representing a typical research project where reding the analyses around peer review take a lot of time, versus a reproducible research project where these reanalyses will go much faster." width="650"></a></p>
+<p></p><figcaption class="figure-caption">You don't lose time doing reproducible science, you just relocate where you spend it.</figcaption><p></p>
+</figure>
+</div>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</guid>
+  <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
   <title>Majorana fermions</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/index.html</link>
@@ -1366,37 +1401,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/index.html</guid>
   <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Open Science Workflows</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Incorporating Open Science practices into your workflow may initially take some time, but will pay off for future you.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://osf.io/zy2pc"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/images/paste-A97AF7F9.png" class="img-fluid figure-img" alt="Two workflows representing a typical research project where reding the analyses around peer review take a lot of time, versus a reproducible research project where these reanalyses will go much faster." width="650"></a></p>
-<p></p><figcaption class="figure-caption">You don't lose time doing reproducible science, you just relocate where you spend it.</figcaption><p></p>
-</figure>
-</div>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</guid>
-  <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Negative Results</title>
