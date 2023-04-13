@@ -114,6 +114,8 @@ image: "open-data-fountain.jpg"
 
 -   [Open blink project](https://grussmayerlab.github.io/open-blink/about/)
 
+-   [Confocal Microscopy Data: A Primer for Curators](https://github.com/DataCurationNetwork/data-primers/blob/master/Confocal%20Microscopy%20Images%20Data%20Curation%20Primer/confocal-microscopy-images-data-curation-primer.md)
+
 ## Tools
 
 [ioChem-BD](https://www.iochem-bd.org/)
