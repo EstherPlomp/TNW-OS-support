@@ -17,6 +17,14 @@ image: "OS-TUD.png"
 3.  Use the [CRediT taxonomy](https://estherplomp.github.io/TNW-OS-support/posts/credit/index.html) to record contributions to research outputs
     -   You can use CRediT to describe each contributor's specific contribution to the scholarly output.
 
+When Open Science seems overwhelming, keep in mind that you can take a [buffet approach](https://cogtales.wordpress.com/2023/04/16/the-buffet-approach-to-open-science/):
+
+-   Buffet rule 1: You might not be able to try everything
+
+-   Buffet rule 2: You don't have to try everything at once
+
+-   Buffet rule 3: Label everything (documentation is key!)
+
 ## More information
 
 -   [Open Science terminology and developments at TU Delft and (inter)nationally](https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/)
