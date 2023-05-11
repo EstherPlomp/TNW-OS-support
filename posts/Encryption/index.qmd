@@ -53,3 +53,5 @@ Password managers simplify the process of creating, storing and managing passwor
 -   <https://www.tudelft.nl/en/it-manuals/working-remotely/encryption>
 
 -   [Ghent University Encryption manual with detailed steps for Veracrypt](https://osf.io/nx8km/)
+
+-   [Why a good password is essential for your online security](https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Waarom-een-goed-wachtwoord-essentieel-is-voor-je-online-beveiliging.aspx) by Johan Brandenburg (Faculty Security Information Coordinator)
