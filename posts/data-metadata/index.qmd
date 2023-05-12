@@ -8,6 +8,10 @@ image: "image.jpg"
 
 Metadata is data about data.
 
+## Metadata Standards
+
+-   [Unicode CLDR standard for countries](https://github.com/unicode-org/cldr-json/tree/main)
+
 ## More information
 
 -   [Introduction to Metadata and Metadata Standards by ESIP](https://commons.esipfed.org/node/1422)
