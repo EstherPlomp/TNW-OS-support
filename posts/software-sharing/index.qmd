@@ -58,4 +58,5 @@ Before sharing your code/software in a data repository it can be helpful to ask 
 
 -   Full [presentation](http://doi.org/10.5281/zenodo.4772235) +[recording](https://youtu.be/bPl5sdTvLMM?t=1394) of how to publish software (from 23:14 onwards)
 -   See also the [post on licensing](https://estherplomp.github.io/TNW-OS-support/posts/licenses/)
--   
+-   [Why it's worth making computational methods easy to use](https://www.nature.com/articles/d41586-023-01440-z)
+-   [Using GitHub Container Registry + Zenodo](https://blog.esciencecenter.nl/ditching-docker-hub-serve-research-software-with-ghcr-zenodo-2e47b8c93d88)
