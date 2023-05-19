@@ -20,7 +20,7 @@ To **publish/share data** check the [4TU.ResearchData website](https://data.4tu.
 
 If you want to use an [**Electronic Lab Notebook**](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook) or have any issues/questions regarding this, please contact Madeleine de Smaele.
 
-For information about **data privacy/security** check the [privacy](https://www.tudelft.nl/en/privacy-security/privacy) and [security](https://www.tudelft.nl/en/privacy-security/data-security) websites or contact [privacy-tud\@tudelft.nl](mailto:privacy-tud@tudelft.nl). For questions specifically about data security you can also contact Johan Brandenburg (Faculty Information Security Coordinator).
+For information about **data privacy/security** check the [security & privacy website](https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Home.aspx) or contact [privacy-tud\@tudelft.nl](mailto:privacy-tud@tudelft.nl). For questions specifically about data security you can also contact Johan Brandenburg (Faculty Information Security Coordinator).
 
 -   Do you need to know what software or tooling is available for different tasks, and which tools have been approved based on privacy & security considerations? Please have a look at the [Software Finder](https://softwarefinder.rs.tudelft.nl/) and the [Educational Tooling](https://teaching-support.tudelft.nl/educational-tooling/) pages.
 
