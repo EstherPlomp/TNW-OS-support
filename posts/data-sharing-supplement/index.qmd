@@ -7,6 +7,7 @@ image: "image.jpg"
 ---
 
 ## 
+
 Why not supplemental materials?
 
 **Data control**: cannot be updated, unlike materials available at data repositories.
@@ -22,6 +23,10 @@ Why not supplemental materials?
 **Publisher requirements**: Some publishers recommend using a data repository instead
 
 **Size limits**: There may be size limits in place of how large or how many supplementary materials can be shared.
+
+Links to supplemental materials may also break, as demonstrated in the example below:
+
+[![](images/image-1097387088.png){fig-alt="Screenshot of an article where they mention that there are supplemental materials available on a link that is broken."}](https://www.pnas.org/doi/suppl/10.1073/pnas.2203150119/-/DCSupplemental)
 
 ## More information
 
