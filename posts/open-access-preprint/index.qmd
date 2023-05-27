@@ -52,3 +52,4 @@ You can share your preprint on a preprint server or repository even before you
 
 -   [Preprints and open preprint review: a workshop on innovations in scholarly publishing](https://upstream.force11.org/preprints-and-open-preprint-review-a-workshop/)
 -   [Puebla et al. 2021](https://doi.org/10.3998/mpub.12412508)
+-   [Why preprint?](https://thesamovar.github.io/zavarka/why-preprint/)
