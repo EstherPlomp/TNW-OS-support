@@ -28,6 +28,8 @@ Email Esther or hop by 22.F131.
 
 [Research Data Management 101](https://intranet.tudelft.nl/-/r4.a1-research-data-management-101) (March/Feb & May/June 2023. You can [join the waitinglist](https://forms.office.com/r/PLm9TMBGGk).
 
+-   See also the [self paced materials of this course](https://tu-delft-library.github.io/rdm101-book/intro.html) (for which you unfortunately are not eligible for credits)
+
 [Open Science program](https://intranet.tudelft.nl/en/-/open-life-science-programme)
 
 -   The Open Science program is a 16 week training that you can follow for 16 weeks to learn all about applying Open Science practices to your own research project. Next round will probably start in September 2023, with the application deadline in July/August 2023 (to describe your project and your learning objectives).
