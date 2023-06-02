@@ -30,7 +30,7 @@ image: "image.jpg"
 
 TU Delft encourages sharing of your software/code and the [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629662) preapproves the following licenses: MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0 when you share your software.
 
-You can either use 4TU.ResearchData or another repository to share your software/code
+When sharing your software you should also share a version of the software using a data repository. You can either use [4TU.ResearchData](https://data.4tu.nl/) or another repository to share your software/code:
 
 ### 4TU.ResearchData
 
@@ -49,6 +49,19 @@ You can either use 4TU.ResearchData or another repository to share your software
 -   Select Datasets/Software -\> Software
 
 -   Fill out the metadata in the information fields and add DOI, select license and save the information
+
+### Copyright
+
+Ideally you also add a copyright transfer to the shared software (see [slide 14 in this
+presentation](https://doi.org/10.5281/zenodo.4772235)), for example:
+
+*Technische Universiteit Delft hereby disclaims all copyright interest in the program \"Name program\" (one line description of the content or function) written by the Author(s).*
+
+You can then add a copyright notice to assert your own rights:
+
+*© YEAR, \[NAME\], \[REFERENCE project, grant or study if desired\]*
+
+You can only add copyright transfer to software that you **share under an open source software license**.
 
 ## Feedback
 
