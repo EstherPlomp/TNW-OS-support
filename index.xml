@@ -286,6 +286,31 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/dora.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
+  <title>University rankings</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-rankings/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=QaF6gI4ijC0">Presentation by Elizabeth Gadd for EUA 2023 on University Rankings</a></li>
+<li><a href="https://blogs.berkeley.edu/2023/05/08/ranking-fatigue-is-a-worldwide-phenomenon/">Ranking Fatigue is a Worldwide Phenomenon</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Credit</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-rankings/index.html</guid>
+  <pubDate>Sat, 21 Jan 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-rankings/dora.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
   <title>How to share data/code underlying the thesis?</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how-PhD/index.html</link>
@@ -1400,50 +1425,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</guid>
   <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Majorana fermions</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Quantum computing’s reproducibility crisis: Majorana fermions.</p>
-<p>’ … I think that researchers are cherry-picking — focusing on data that agree with the Majorana theory and sidelining those that don’t.’ <a href="https://doi.org/10.1038/d41586-021-00954-8">Frolov 2021</a></p>
-<p>“Scientists should disclose all data in a repository and comply with sharing standards, such as FAIR (findability, accessibility, interoperability and reusability). Some curation is unavoidable. The volume of data collected in a modern physics laboratory is high: computer scripts control the equipment, which might run 24 hours a day. A remedy is to clearly explain the protocol that is used to perform any data selection — so others might reuse or scrutinize it. Remember, data selection is a form of data processing.” <a href="https://doi.org/10.1038/d41586-021-00954-8">Frolov 2021</a></p>
-<section id="tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="tu-delft">TU Delft</h2>
-<p><a href="https://www.tudelft.nl/en/2021/tu-delft/retraction-nature-article-quantized-majorana-conductance">The investigation by experts concluded</a>:</p>
-<ul>
-<li><p><strong>Authors selected data</strong> that supported the phenomenon they were looking for</p></li>
-<li><p><strong>Authors omitted data</strong> that could have raised questions about the conclusions</p></li>
-</ul>
-<p>“It is a good thing that independent experts have looked at this as part of the integrity investigation,” says Tim van der Hagen, Rector Magnificus of TU Delft. “Science always involves <strong>looking critically at results</strong>, questioning and challenging them.” (<a href="https://www.tudelft.nl/en/2021/tu-delft/retraction-nature-article-quantized-majorana-conductance">source</a>).</p>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><p><a href="https://retractionwatch.com/2021/03/08/authors-retract-nature-majorana-paper-apologize-for-insufficient-scientific-rigour/">Authors retract Nature Majorana paper, apologize for “insufficient scientific rigour”</a></p></li>
-<li><p><a href="https://www.wired.com/story/microsoft-retracts-disputed-quantum-computing-paper/">Microsoft-Led Team Retracts Disputed Quantum-Computing Paper</a></p></li>
-<li><p><a href="https://retractionwatch.com/2021/12/16/another-setback-for-majorana-particle-as-science-paper-earns-an-expression-of-concern/">Another setback for ‘Majorana’</a></p></li>
-<li><p><a href="https://www.tudelft.nl/en/2022/tu-delft/negligence-in-nature-article-on-quantized-majorana-conductance">Negligence in Nature article on Quantized Majorana conductance</a> (see also <a href="https://www.delta.tudelft.nl/article/lowi-majorana-onderzoekers-onzorgvuldig">TU Delft Delta</a>)</p></li>
-<li><p><a href="https://espressospin.org/2012/04/12/background-information-for-our-majorana-fermion-paper/">About our Majorana fermion&nbsp;paper</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=d10LudwLfMk">Majorana Fireside Chats: Vincent Mourik and Sergey Frolov</a> (see also <a href="https://www.youtube.com/watch?v=lhBp-uBqjCc">episode 2)</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <category>Research Data Management</category>
-  <category>FAIR</category>
-  <category>Reproducibility</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/index.html</guid>
-  <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-majorana/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
