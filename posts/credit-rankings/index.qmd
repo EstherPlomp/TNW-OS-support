@@ -1,0 +1,12 @@
+---
+title: "University rankings"
+author: "Esther Plomp"
+date: "2023-01-21"
+categories: [Credit]
+image: "dora.png"
+---
+
+## **More information**
+
+-   [Presentation by Elizabeth Gadd for EUA 2023 on University Rankings](https://www.youtube.com/watch?v=QaF6gI4ijC0)
+-   [Ranking Fatigue is a Worldwide Phenomenon](https://blogs.berkeley.edu/2023/05/08/ranking-fatigue-is-a-worldwide-phenomenon/)

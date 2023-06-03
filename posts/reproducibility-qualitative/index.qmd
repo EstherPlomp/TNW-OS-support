@@ -1,0 +1,19 @@
+---
+title: "Reproducibility checklist"
+author: "Esther Plomp"
+date: "2022-09-04"
+categories: [Reproducibility, Research Data Management]
+image: "agile.png"
+---
+
+This post focuses on resources related to qualitative research.
+
+[Promises and pitfalls of data sharing in qualitative research](http://dx.doi.org/10.1016/j.socscimed.2016.08.004)
+
+## Field notes
+
+-   [Phillippi and Lauderdale 2017](https://doi.org/10.1177/1049732317697102)
+
+## More information
+
+-   

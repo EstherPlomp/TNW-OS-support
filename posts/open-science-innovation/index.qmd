@@ -1,0 +1,11 @@
+---
+title: "Open Innovation"
+author: "Esther Plomp"
+date: "2022-11-21"
+categories: [Open Science, TU Delft]
+image: "OS-TUD.png"
+---
+
+[Opening New Paths to Technology Transfer: Open Science, Intellectual Property, and Technology Transfer](https://upstream.force11.org/opening-new-paths-to-technology-transfer/)
+
+## More information
