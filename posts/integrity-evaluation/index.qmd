@@ -6,7 +6,9 @@ categories: [Open Science, Inclusion]
 image: "OS-TUD.png"
 ---
 
-This posts lists several resources regarding inclusion gaps in the scientific landscape
+This posts lists several resources regarding inclusion gaps in the scientific landscape.
+
+[![Errantscience 2022](https://media.mas.to/masto-public/media_attachments/files/110/497/357/147/248/691/small/acc463aeadc63601.jpeg "Rainbow pie chard with the title"Who can working in scienceA Pie Chart"and a rainbow legend saying "Everyone""){alt="Rainbow pie chard with the title" \"Who can working in science="" A Pie Chart\"="" and a rainbow legend saying \"Everyone\"="" fig-alt="Rainbow pie chard with the title\"Who can working in science A Pie Chart\" and a rainbow legend in the form of the Pride flag  saying \"Everyone\""}](https://mas.to/@errantscience/110497357181881613)
 
 ### Gender
 
@@ -22,7 +24,7 @@ The [**FEM/UM Citation Guide**](https://urldefense.com/v3/__https:/athenasangels
 
 ### Race
 
--   Peer reviewers discriminate based on author race ([Nakamura et al. 2021](https://doi.org/10.7554/ eLife.71368))
+-   Peer reviewers discriminate based on author race ([Nakamura et al. 2021](https://doi.org/10.7554/%20eLife.71368))
 
 ### Language
 
@@ -30,7 +32,7 @@ Articles submitted to journals by authors from countries with low English profic
 
 Resources
 
--   From [Fox et al. 2022](https://doi.org/10.1111/1365-2435.14259): Peer reviewers favour articles by authors from higher-income ([Demarest et al. 2014](https://doi. org/10.1007/s1119 2-014- 1354- z); [Harris, Macinko, et al. 2017](https://doi.org/10.1186/s12992-017-0304-y); [Harris, Marti, et al. 2017](https://doi.org/10.1377/hlthaff.2017.0773); [Kowal et al. 2022](https://doi.org/10.1007/s11192-021-04176-7); [Saposnik et al. 2014](https://doi.org/10.1161/STROKEAHA.114.005413)) or favour papers by authors that are from prestigious institutions ([Blank 1991](https://www.jstor.org/stable/2006906); [Tomkins et al. 2017](https://doi.org/10.1073/pnas.1707323114)) or with prestigious reputations ([Huber et al. 2022](https://doi.org/10.1073/pnas.2205779119); [Okike et al. 2016](https://doi.org/10.1001/jama.2016.11014)), favouring authors that are senior ([Pleskac et al. 2021](https://doi.org/10.31234/osf.io/q2tkw)), or disfavouring newcomers to a discipline ([Seeber & Bacchelli 2017](https://doi.org/10.1007/s11192-017-2264-7))
+-   From [Fox et al. 2022](https://doi.org/10.1111/1365-2435.14259): Peer reviewers favour articles by authors from higher-income ([Demarest et al. 2014](https://doi.%20org/10.1007/s1119%202-014-%201354-%20z); [Harris, Macinko, et al. 2017](https://doi.org/10.1186/s12992-017-0304-y); [Harris, Marti, et al. 2017](https://doi.org/10.1377/hlthaff.2017.0773); [Kowal et al. 2022](https://doi.org/10.1007/s11192-021-04176-7); [Saposnik et al. 2014](https://doi.org/10.1161/STROKEAHA.114.005413)) or favour papers by authors that are from prestigious institutions ([Blank 1991](https://www.jstor.org/stable/2006906); [Tomkins et al. 2017](https://doi.org/10.1073/pnas.1707323114)) or with prestigious reputations ([Huber et al. 2022](https://doi.org/10.1073/pnas.2205779119); [Okike et al. 2016](https://doi.org/10.1001/jama.2016.11014)), favouring authors that are senior ([Pleskac et al. 2021](https://doi.org/10.31234/osf.io/q2tkw)), or disfavouring newcomers to a discipline ([Seeber & Bacchelli 2017](https://doi.org/10.1007/s11192-017-2264-7))
 
 ## More information
 
