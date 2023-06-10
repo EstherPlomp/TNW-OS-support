@@ -411,10 +411,10 @@
 <h2 class="anchored" data-anchor-id="tu-delft-network-drives">TU Delft network drives</h2>
 <table class="table">
 <colgroup>
-<col style="width: 17%">
-<col style="width: 25%">
-<col style="width: 25%">
-<col style="width: 31%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 29%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -509,9 +509,12 @@
 </section>
 <section id="tu-delft-gitlab" class="level2">
 <h2 class="anchored" data-anchor-id="tu-delft-gitlab">TU Delft GitLab</h2>
-<p>TU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared. You can create up to 50 repositories/projects.</p>
-<p>For an overview of the options of differences between GitLab/GitHub/Gitea, see this <a href="https://doi.org/10.5281/zenodo.4710206">repository chooser guide</a>.</p>
+<p>TU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is <strong>primarily meant for confidential code/data</strong> that cannot be publicly shared. You can create up to 50 repositories/projects.</p>
 <p>Access to a GitLab repository for externals can be requested through <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42">TopDesk</a> (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; GitLab TU Delft &gt; Request GitLab).</p>
+<section id="tu-delft-gitlab-or-github" class="level4">
+<h4 class="anchored" data-anchor-id="tu-delft-gitlab-or-github">TU Delft GitLab or GitHub?</h4>
+<p>TU Delft GitLab is primarily intended or secure code management for confidential code. GitHub is easier to use if you want to collaborate with externals and you are comfortable sharing your code publicly (GitHub allows private repositories but features are more limited).</p>
+</section>
 </section>
 <section id="subversion-at-tu-delft" class="level2">
 <h2 class="anchored" data-anchor-id="subversion-at-tu-delft">Subversion at TU Delft</h2>

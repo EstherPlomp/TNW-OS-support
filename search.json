@@ -774,7 +774,7 @@
     "href": "posts/storage-solutions/index.html#tu-delft-gitlab",
     "title": "Storage Solutions",
     "section": "TU Delft GitLab",
-    "text": "TU Delft GitLab\nTU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared. You can create up to 50 repositories/projects.\nFor an overview of the options of differences between GitLab/GitHub/Gitea, see this repository chooser guide.\nAccess to a GitLab repository for externals can be requested through TopDesk (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; GitLab TU Delft &gt; Request GitLab)."
+    "text": "TU Delft GitLab\nTU Delft GitLab is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is primarily meant for confidential code/data that cannot be publicly shared. You can create up to 50 repositories/projects.\nAccess to a GitLab repository for externals can be requested through TopDesk (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; GitLab TU Delft &gt; Request GitLab).\n\nTU Delft GitLab or GitHub?\nTU Delft GitLab is primarily intended or secure code management for confidential code. GitHub is easier to use if you want to collaborate with externals and you are comfortable sharing your code publicly (GitHub allows private repositories but features are more limited)."
   },
   {
     "objectID": "posts/storage-solutions/index.html#subversion-at-tu-delft",
@@ -2461,7 +2461,7 @@
     "href": "posts/integrity-evaluation/index.html",
     "title": "Open Science & Inclusion",
     "section": "",
-    "text": "This posts lists several resources regarding inclusion gaps in the scientific landscape"
+    "text": "This posts lists several resources regarding inclusion gaps in the scientific landscape.\n[Errantscience 2022](https://media.mas.to/masto-public/media_attachments/files/110/497/357/147/248/691/small/acc463aeadc63601.jpeg “Rainbow pie chard with the title”Who can working in scienceA Pie Chart”and a rainbow legend saying “Everyone”“){alt=”Rainbow pie chard with the title” \"Who can working in science=“” A Pie Chart\"=“” and a rainbow legend saying \"Everyone\"=“” fig-alt=“Rainbow pie chard with the title\"Who can working in science A Pie Chart\" and a rainbow legend in the form of the Pride flag saying \"Everyone\"”}"
   },
   {
     "objectID": "posts/integrity-evaluation/index.html#more-information",
