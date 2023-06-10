@@ -34,13 +34,13 @@ Instructions:
 
 ![](images/paste-B79DF3BF.png)
 
-3.  Have a maintainer of the project repository transfer it to the group namespace (go to the project namespace, then from the sidebar go to **Settings** \> **General** \> **Advanced** \> **Transfer Project**)
+3.  Have a maintainer of the project repository transfer it to the group namespace (go to the project namespace, then from the sidebar go to **Settings** \> **General** \> **Advanced** \> **Transfer Project**).
 
 ![](images/paste-9B291D83.png)
 
 4.  After doing this, the maintainer(s) of the project will get an email notifying that the project has been moved to a different location.
 5.  Now the person who the project is being transferred to can move it to their own namespace (go to the project namespace, then from the sidebar, go to **Settings** \> **General** \> **Advanced** \> **Transfer Project** like before).
-6.  If desired, the group can be deleted after the transfer is complete (go to the group namespace, then from the sidebar go to Settings \> General \> Advanced \> Remove Group)
+6.  If desired, the group can be deleted after the transfer is complete (go to the group namespace, then from the sidebar go to Settings \> General \> Advanced \> Remove Group).
 
 ![](images/paste-7598BCE4.png)
 
