@@ -8,7 +8,7 @@ image: "OS-TUD.png"
 
 This posts lists several resources regarding inclusion gaps in the scientific landscape.
 
-[![Errantscience 2022](https://media.mas.to/masto-public/media_attachments/files/110/497/357/147/248/691/small/acc463aeadc63601.jpeg "Rainbow pie chard with the title"Who can working in scienceA Pie Chart"and a rainbow legend saying "Everyone""){alt="Rainbow pie chard with the title" \"Who can working in science="" A Pie Chart\"="" and a rainbow legend saying \"Everyone\"="" fig-alt="Rainbow pie chard with the title\"Who can working in science A Pie Chart\" and a rainbow legend in the form of the Pride flag  saying \"Everyone\""}](https://mas.to/@errantscience/110497357181881613)
+[![Image by ErrantScience.com](https://media.mas.to/masto-public/media_attachments/files/110/497/357/147/248/691/small/acc463aeadc63601.jpeg "Rainbow pie chard with the title"Who can working in scienceA Pie Chart"and a rainbow legend saying "Everyone""){alt="Rainbow pie chard with the title" \"Who can working in science="" A Pie Chart\"="" and a rainbow legend saying \"Everyone\"="" fig-alt="Rainbow pie chart with the title \"Who can working in science - A Pie Chart\" and a rainbow legend saying \"Everyone\""}](https://mas.to/@errantscience/110497357181881613)
 
 ### Gender
 
