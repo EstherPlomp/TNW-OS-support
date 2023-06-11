@@ -1264,7 +1264,7 @@
     "href": "posts/data-spreadsheets/index.html#spreadsheets-can-be-not-so-great",
     "title": "Spreadsheets",
     "section": "Spreadsheets can be not so great:",
-    "text": "Spreadsheets can be not so great:\n\nManual data entry is liable to mistakes (copy pasting wrong cells, accidental deletions)\nIt is not always machine readable. Software cannot process information that relies on context, notes in the margin, spatial layout or field formatting (bold/italics/colours)\nExcel tries to convert everything into a date. Even human genes."
+    "text": "Spreadsheets can be not so great:\n\nManual data entry is liable to mistakes (copy pasting wrong cells, accidental deletions)\nIt is not always machine readable. Software cannot process information that relies on context, notes in the margin, spatial layout or field formatting (bold/italics/colours)\nExcel tries to convert everything into a date. Even human genes. (Watch a short talk on ‘Spreadsheet Problems In Genomic Research’ for more fun!)"
   },
   {
     "objectID": "posts/data-spreadsheets/index.html#set-up-a-spreadsheet",
@@ -1285,7 +1285,14 @@
     "href": "posts/data-spreadsheets/index.html#data-validation",
     "title": "Spreadsheets",
     "section": "Data validation",
-    "text": "Data validation\nExcel support page on data validation\n\nUsing schemas to check your tabular data:\ntry.goodtables.io (or python library github.com/frictionlessdata/goodtables-py / github.com/frictionlessdata/tableschema-py) (see this presentation on YouTube)"
+    "text": "Data validation\n\nExcel support page on data validation"
+  },
+  {
+    "objectID": "posts/data-spreadsheets/index.html#accessibility-data-curation-primer",
+    "href": "posts/data-spreadsheets/index.html#accessibility-data-curation-primer",
+    "title": "Spreadsheets",
+    "section": "Accessibility (Data Curation Primer)",
+    "text": "Accessibility (Data Curation Primer)\nComma- or Tab-Separated Value (CSV/TSV) formats are not only best for preservation, but for accessibility as well. For more information:\n\nMake your Excel documents accessible to people with disabilities (Microsoft Office)\nExcel Tips (Accessibility and Usability at Penn State)\nCreate Accessible Spreadsheets (General Services Administration of the 49 U.S. - focused on Excel)"
   },
   {
     "objectID": "posts/data-spreadsheets/index.html#more-information",
@@ -2461,7 +2468,7 @@
     "href": "posts/integrity-evaluation/index.html",
     "title": "Open Science & Inclusion",
     "section": "",
-    "text": "This posts lists several resources regarding inclusion gaps in the scientific landscape.\n[Errantscience 2022](https://media.mas.to/masto-public/media_attachments/files/110/497/357/147/248/691/small/acc463aeadc63601.jpeg “Rainbow pie chard with the title”Who can working in scienceA Pie Chart”and a rainbow legend saying “Everyone”“){alt=”Rainbow pie chard with the title” \"Who can working in science=“” A Pie Chart\"=“” and a rainbow legend saying \"Everyone\"=“” fig-alt=“Rainbow pie chard with the title\"Who can working in science A Pie Chart\" and a rainbow legend in the form of the Pride flag saying \"Everyone\"”}"
+    "text": "This posts lists several resources regarding inclusion gaps in the scientific landscape.\n[Image by ErrantScience.com](https://media.mas.to/masto-public/media_attachments/files/110/497/357/147/248/691/small/acc463aeadc63601.jpeg “Rainbow pie chard with the title”Who can working in scienceA Pie Chart”and a rainbow legend saying “Everyone”“){alt=”Rainbow pie chard with the title” \"Who can working in science=“” A Pie Chart\"=“” and a rainbow legend saying \"Everyone\"=“” fig-alt=“Rainbow pie chart with the title \"Who can working in science - A Pie Chart\" and a rainbow legend saying \"Everyone\"”}"
   },
   {
     "objectID": "posts/integrity-evaluation/index.html#more-information",
