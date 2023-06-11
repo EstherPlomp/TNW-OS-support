@@ -24,7 +24,7 @@ Spreadsheets are great for certain purposes, but there are some things you need 
 
 -   It is not always machine readable. Software cannot process information that relies on context, notes in the margin, spatial layout or field formatting (bold/italics/colours)
 
--   Excel tries to convert everything into a date. [Even human genes](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates).
+-   Excel tries to convert everything into a date. [Even human genes](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates). (Watch a short talk on '[Spreadsheet Problems In Genomic Research](https://www.youtube.com/watch?v=nrbkYm1P9xQ)' for more fun!)
 
 [![](images/ayMQeKM_700bwp.webp){fig-alt="Anakin/Padme meme: Padme is asking Anakin (which has the excel logo on his face): 'so if I type 12.5 into a cell you won't treat it as a date, right?'" width="523"}](https://9gag.com/gag/ayMQeKM)
 
@@ -62,11 +62,17 @@ See the [extended version](https://surfdrive.surf.nl/files/index.php/s/9aNX69fsW
 
 ## Data validation
 
-[Excel support page on data validation](https://support.office.com/en-us/article/Apply-data-validation-to-cells-29FECBCC-D1B9-42C1-9D76-EFF3CE5F7249)
+-   [Excel support page on data validation](https://support.office.com/en-us/article/Apply-data-validation-to-cells-29FECBCC-D1B9-42C1-9D76-EFF3CE5F7249)
 
-### Using schemas to check your tabular data:
+## Accessibility ([Data Curation Primer](https://github.com/DataCurationNetwork/data-primers/blob/master/Accessibility%20Data%20Curation%20Primer/accessibility-data-curation-primer.md#tabular))
 
-try.goodtables.io (or python library github.com/frictionlessdata/goodtables-py / github.com/frictionlessdata/tableschema-py) (see [this presentation on YouTube](https://www.youtube.com/watch?v=vZAi4OnfH-Q&feature=youtu.be))
+Comma- or Tab-Separated Value (CSV/TSV) formats are not only best for preservation, but for accessibility as well. For more information:
+
+-   [Make your Excel documents accessible to people with disabilities](https://support.microsoft.com/en-us/office/make-your-excel-documents-accessible-to-people-with-disabilities-6cc05fc5-1314-48b5-8eb3-683e49b3e593) (Microsoft Office)
+
+-   [Excel Tips](https://accessibility.psu.edu/microsoftoffice/excel/) (Accessibility and Usability at Penn State)
+
+-   [Create Accessible Spreadsheets](https://www.section508.gov/create/spreadsheets/) (General Services Administration of the 49 U.S. - focused on Excel)
 
 ## More information
 
