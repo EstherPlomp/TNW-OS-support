@@ -28,7 +28,7 @@ The more letters these CC licenses have, the more restrictions they place on re-
 
 ## Software
 
-For software there are different licenses because you can execute software (which makes it a bit more complex). CC-BY and MIT/BSD work quite similar in that they only require citation.
+For software there are different licenses because you can execute software (which makes it more complex). CC-BY and MIT/BSD work quite similar in that they only require citation.
 
 -   [Software license chooser](https://choosealicense.com/) can be used to have a look at software licences, however:
 
