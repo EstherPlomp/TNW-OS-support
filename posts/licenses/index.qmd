@@ -34,7 +34,7 @@ For software there are different licenses because you can execute software (whic
 
 -   Note that the following licenses are pre-approved by the [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629662): MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0
 
-    -   Read more about these [pre-approved TU Delft licences](https://estherplomp.github.io/TNW-OS-support/posts/software-licenses/)
+-   Read more about these [pre-approved TU Delft licences](https://estherplomp.github.io/TNW-OS-support/posts/software-licenses/)
 
 ![<https://moqod.com/understanding-open-source-and-free-software-licensing/>](images/paste-F8565422.png)
 
