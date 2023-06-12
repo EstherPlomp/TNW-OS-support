@@ -28,11 +28,13 @@ The more letters these CC licenses have, the more restrictions they place on re-
 
 ## Software
 
-For software there are different licenses because you can execute software (which makes it a bit more complex). CC-BY and MIT/BSD work quite similar in that they only require citation. GPL is a copyleft license that requires any software that it touches to be shared under the same license which requires open sharing (so this might hamper industry collaboration). I hope this makes a bit more sense? I'm happy to try and clarify this further!
+For software there are different licenses because you can execute software (which makes it a bit more complex). CC-BY and MIT/BSD work quite similar in that they only require citation.
 
--   [Software license chooser](https://choosealicense.com/)
+-   [Software license chooser](https://choosealicense.com/) can be used to have a look at software licences, however:
 
 -   Note that the following licenses are pre-approved by the [TU Delft Research Software Policy](https://doi.org/10.5281/zenodo.4629662): MIT, BSD, Apache, GPL, AGPL, LGPL, EUPL, CC0
+
+    -   Read more about these [pre-approved TU Delft licences](https://estherplomp.github.io/TNW-OS-support/posts/software-licenses/)
 
 ![<https://moqod.com/understanding-open-source-and-free-software-licensing/>](images/paste-F8565422.png)
 
