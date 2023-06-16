@@ -86,6 +86,10 @@ image: "open-data-fountain.jpg"
 
 [Biological Magnetic Resonance Data Bank (BMRB)](http://www.bmrb.wisc.edu/)
 
+## Reporting standards
+
+[MIMARKS](https://doi.org/10.1038/nbt.1823) (and [MINAS](https://mixs-minas.org/) for ancient sequences)
+
 ## RNA-seq/qpcr
 
 -   [European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/home) (ENA)
@@ -99,6 +103,8 @@ image: "open-data-fountain.jpg"
 -   [exRNA Atlas](https://exrna-atlas.org/)
 
 -   [Minimum Information for Publication of Quantitative Real-Time PCR Experiments (MIQE)](https://rdml.org/miqe.html)
+
+-   
 
 ## Microscopy
 
