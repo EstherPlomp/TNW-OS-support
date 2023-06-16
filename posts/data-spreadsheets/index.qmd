@@ -86,4 +86,6 @@ Comma- or Tab-Separated Value (CSV/TSV) formats are not only best for preservati
 
 -   [Ten Guidelines for Better Tables](https://doi.org/10.1017/bca.2020.11)
 
--   [Spreadsheet Problems In Genomic Research (Presentation by Mandhri Abeysooriya](https://www.youtube.com/watch?v=nrbkYm1P9xQ))
+-   [Spreadsheet Problems In Genomic Research (Presentation by Mandhri Abeysooriya](https://www.youtube.com/watch?v=nrbkYm1P9xQ)).
+
+-   [Extracting tables from pdf files with tabulizer](https://blog.djnavarro.net/posts/2023-06-16_tabulizer/)
