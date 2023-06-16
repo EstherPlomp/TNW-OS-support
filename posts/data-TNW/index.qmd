@@ -56,7 +56,7 @@ image: "open-data-fountain.jpg"
 
 [DNA DataBank of Japan (DDBJ)](http://www.ddbj.nig.ac.jp/)
 
-[European Nucleotide Archive (ENA)](http://www.ebi.ac.uk/ena/)
+[**European Nucleotide Archive (ENA)**](http://www.ebi.ac.uk/ena/)
 
 [GenBank](http://www.ncbi.nlm.nih.gov/genbank/)
 
@@ -73,6 +73,8 @@ image: "open-data-fountain.jpg"
 [NCBI Trace Archive](http://www.ncbi.nlm.nih.gov/Traces/home/)
 
 [**NCBI Sequence Read Archive (SRA)**](http://www.ncbi.nlm.nih.gov/sra)
+
+[International Nucleotide Sequence Database Collaboration](https://www.insdc.org/)
 
 [NCBI Assembly](http://www.ncbi.nlm.nih.gov/assembly)
 
