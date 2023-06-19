@@ -10,7 +10,7 @@ Licenses are a standardised way to share data/code and let anyone know what it i
 
 ## Data Licenses
 
-Everything in the list with a CC in front of it is used for data (stands for [Creative Commons](https://creativecommons.org/)).
+For data, we recommend to use CC ([Creative Commons](https://creativecommons.org/)) licenses. (If you used the TU Delft template in DMPonline, everything starting with a CC in question 32 is applicable to data.)
 
 TU Delft recommends **CC-BY** (which is also quite standard in publishing articles)and allows reusers to cite the original work if they reuse it.
 
