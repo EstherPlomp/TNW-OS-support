@@ -1,22 +1,22 @@
 ---
 title: "Readme files"
 author: "Esther Plomp"
-date: "2022-09-04"
+date: "2023-06-20"
 categories: [Open Data, Open Software, FAIR]
 image: "readme.png"
 ---
 
-## How to set up your readme file
+## How to set up your README file
 
-A readme file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A readme file is generally submitted when sharing data and is the landing page of your software repository.
+A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally submitted when sharing data and is the landing page of your software repository.
 
-Readme text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used, etc.). See <https://www.makeareadme.com/> for more information on why readme files are important and how you can set up your own readme files.
+README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used, etc.). See <https://www.makeareadme.com/> for more information on why README files are important and how you can set up your own README files.
 
-## Readme for data
+## README for data
 
 Best practices
 
--   Create one readme file for each dataset
+-   Create one README file for each dataset
 
 -   Name the file README
 
@@ -30,20 +30,24 @@ Example templates for data:
 
 -   <https://datamanagement.hms.harvard.edu/collect/readme-files>
 
-## Readme for software
+## README for software
 
 See this [short presentation by Carlos Martinez](https://www.youtube.com/watch?v=Jgv34Kwgga8&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=7) about the importance of README files for software.
 
 Example templates for software:
 
--   <https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md>
-
--   <https://github.com/benmarwick/rrtools>
-
--   <https://gist.github.com/jxson/1784669>
+-   <https://github.com/othneildrew/Best-README-Template>
 
 -   <https://ha0ye.github.io/CW21-README-tips/template_README.html>
 
--   <https://github.com/othneildrew/Best-README-Template>
+-   More templates
 
--   [https://github.com/matthiasott/README-template](https://github.com/matthiasott/README-templatehttps://github.com/matthiasott/README-template)
+    -   <https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md>
+
+    -   <https://github.com/benmarwick/rrtools>
+
+    -   <https://gist.github.com/jxson/1784669>
+
+    -   <https://github.com/othneildrew/Best-README-Template>
+
+    -   [https://github.com/matthiasott/README-template](https://github.com/matthiasott/README-templatehttps://github.com/matthiasott/README-template)
