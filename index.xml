@@ -10,7 +10,95 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.361</generator>
-<lastBuildDate>Mon, 22 May 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Jun 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>4TU.ResearchData</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post contains general information about the data repository <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> and how to share your research data/code.</p>
+<p>4TU.ResearchData is the archive of the 4TU.ResearchData Consortium (Delft/Wageningen/Eindhoven/Twente) and Groningen University.</p>
+<ul>
+<li><p>Free up to 1TB/TU Delft researcher/year</p></li>
+<li><p>Publication and long-term preservation of research data/code</p></li>
+<li><p>Open access (with embargo and restricted access if necessary)</p></li>
+<li><p>Provides uploads with DOIs (Digital Object Identifier), which allow for citation - see <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-citation/index.html">data citation</a> or <a href="https://estherplomp.github.io/TNW-OS-support/posts/software-citation/index.html">software citation</a> for more information.</p></li>
+</ul>
+<section id="how-to-share-the-datacode" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-share-the-datacode">How to share the data/code?</h2>
+<ol type="1">
+<li><p>Gather and organise the research data and/or code. Describe the outputs in your <a href="https://data.4tu.nl/info//fileadmin/user_upload/Documenten/Guidelines_for_creating_a_README_file.pdf">README file</a>.</p>
+<ul>
+<li><p>Use a consistent folder directory and <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/#file-naming-convention">file naming convention</a> for your files</p></li>
+<li><p>It can be helpful to have a collaborator go over your data/code to see if everything makes sense and check whether they can deploy your software following your documentation, including dependencies information (operating systems, programming languages; interpreters and compilers; packages, libraries, frameworks, or other tools; browsers; databases; web or other online services and resources; file formats, standards and specifications - see <a href="https://doi.org/10.5281/zenodo.1327310">Jackson 2018</a>a for more information)</p></li>
+<li><p>README file: include your contact information (name, affiliation, current email address and your <a href="https://orcid.org/">ORCID</a>!) as well as how you would like the output to be cited (the output itself or the associated article). For software you can also use a <a href="https://the-turing-way.netlify.app/communication/citable/citable-cff.html">CITATION.cff file</a> to recommend citation.</p></li>
+</ul></li>
+<li><p>Go to <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> and login with your netID via the ‘LOG IN’ button in the top right corner:</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-117915048.png" class="img-fluid"></p></li>
+<li><p>Select ‘ADD NEW DATASET’</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-399880224.png" class="img-fluid"></p></li>
+<li><p>Fill out the metadata information fields and select a licence</p>
+<ul>
+<li><p>Ensure a clear title of your dataset so that you can easily find it back if you do not upload and submit your dataset in one go. (For example, if your data/code is part of a publication, you can name the upload ‘dataset/software underlying the publication’[title publication]’.</p></li>
+<li><p>All the fields marked with a red * are required before you can publish your upload.</p></li>
+<li><p>Select a <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/"><strong>license</strong></a><strong>:</strong> Everything with CC in front of it is appropriate for data. The software licenses follow below (you may need to scroll).</p></li>
+<li><p>Add any related references (GitHub/Lab repository, article DOI, other datasets).</p></li>
+<li><p>Take note of the <strong>DOI</strong> your dataset receives. You will need this DOI for your Data Availability Statement and your references.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-1159637109.png" class="img-fluid" width="428"></p></li>
+<li><p>Select <strong>keywords</strong> that your peers would use to find your type of research/data, or that you have discussed with department/section/project members to increase findability.</p></li>
+</ul></li>
+<li><p>Upload the data or code and the README file</p>
+<p>Under files, select the ‘file deposit’ for data, and the ’software deposit for code. You can drop and select files or open up the file explorer by clicking on the upload area.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-700277674.png" class="img-fluid" width="507"></p>
+<p>You can either upload directories separately or decide to use an archive file (open formats are: .zip .tar, .tgz, or tar.bz2 - See <a href="https://doi.org/10.5281/zenodo.1327327">Jackson 2018</a>b)</p></li>
+<li><p>Submit the upload for review</p>
+<p>When the upload is ready to be published, you can submit it for review by selecting the ‘SUBMIT FOR REVIEW’ button on the top of the upload:<img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-1203219886.png" class="img-fluid"></p>
+<ul>
+<li><p>You will get notified if you haven’t filled out all the required metadata fields. If all the fields are completed, you will see the message below and you will receive a confirmation email to the address associated with your account.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-966500337.png" class="img-fluid" width="522"></p></li>
+</ul></li>
+<li><p>You may receive some feedback from 4TU.ResearchData to improve your submission. After any adjustments and your confirmation, the upload is ready to be published!</p></li>
+</ol>
+</section>
+<section id="metadata-record-only" class="level2">
+<h2 class="anchored" data-anchor-id="metadata-record-only">Metadata record only</h2>
+<p>You can use this option if data/code cannot be archived in a repository but you would like to make the data available according to the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/index.html">FAIR principles</a>. Explain what additional datasets/materials exist and why access is restricted. Explain who could gain access to the data and under what circumstances.</p>
+</section>
+<section id="checklist-to-sharing-your-research-karoune-plomp-2022" class="level2">
+<h2 class="anchored" data-anchor-id="checklist-to-sharing-your-research-karoune-plomp-2022">Checklist to sharing your research (<a href="https://doi.org/10.5281/zenodo.6615276">Karoune &amp; Plomp 2022</a>)</h2>
+<ol type="1">
+<li><p>Have you set up a <a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html">Data Management Plan</a>? In this Data Management Plan you can think about how you will store, document and share your research.</p></li>
+<li><p>Ask feedback on how you documented and structured your data and code from someone that is not a co-author: are they able to trace your steps?</p></li>
+<li><p>Decide in what order you want to publish your research objects: do you want to publicly share the data and code before the article is published or would you rather wait? - see The Turing Way (The Turing Way Community 2022e) for more information on <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">how to link your research objects</a> during the sharing process.</p></li>
+<li><p>Make sure a README file is included with your data/code: even if there is an associated article it is important to provide all relevant information to interpret the data or use the code in the same place as the data/code. You can also <a href="https://doi.org/10.5281/zenodo.3482769">let others know how to cite you in this README file</a>.</p></li>
+<li><p>Ensure that you selected a <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">license</a> for your data and code: without it your research objects cannot be reused by others.</p></li>
+<li><p>Provide the DOI of your research objects where it is relevant (for example, table/figure descriptions, materials and methods section, data/code availability statement).</p></li>
+<li><p>Check whether you cited your data and code in the references: this is where citations are counted from - not the acknowledgements or data availability statements. If you <a href="https://doi.org/10.5281/zenodo.3479199">reused any data/software you should also cite these</a>.</p></li>
+</ol>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More Information</h2>
+<ul>
+<li><p><a href="https://data.4tu.nl/s/documents/Deposit_Guidelines_2020.pdf">4TU.ResearchData deposit guidelines</a></p></li>
+<li><p><a href="https://doi.org/10.5281/zenodo.1327323">Software Deposit: What not to deposit</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>4TU.ResearchData</category>
+  <category>Open Data</category>
+  <category>Open Software</category>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/index.html</guid>
+  <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/4TU-logo.png" medium="image" type="image/png" height="43" width="144"/>
+</item>
 <item>
   <title>Data visualisation</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -1397,37 +1485,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-resources/index.html</guid>
   <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/reproducibility-resources/reproducibility.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Open Science Workflows</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Incorporating Open Science practices into your workflow may initially take some time, but will pay off for future you.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://osf.io/zy2pc"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/images/paste-A97AF7F9.png" class="img-fluid figure-img" alt="Two workflows representing a typical research project where reding the analyses around peer review take a lot of time, versus a reproducible research project where these reanalyses will go much faster." width="650"></a></p>
-<figcaption class="figure-caption">You don't lose time doing reproducible science, you just relocate where you spend it.</figcaption>
-</figure>
-</div>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/index.html</guid>
-  <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-workflow/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>
