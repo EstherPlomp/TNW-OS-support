@@ -8,7 +8,7 @@ image: "OS-TUD.png"
 
 This posts lists several resources regarding inclusion gaps in the scientific landscape.
 
-[![Image by ErrantScience.com](images/inclusive-piechart.jpeg "Rainbow pie chard with the title"Who can working in scienceA Pie Chart"and a rainbow legend saying "Everyone""){alt="Rainbow pie chard with the title" \"Who can working in science="" A Pie Chart\"="" and a rainbow legend saying \"Everyone\"="" fig-alt="Rainbow pie chart with the title \"Who can working in science - A Pie Chart\" and a rainbow legend saying \"Everyone\""}](https://mas.to/@errantscience/110497357181881613)
+[![Image by ErrantScience](images/inclusive-piechart-01.jpeg){fig-alt="Rainbow pie chard with the title: Who can working in scienceA Pie Chart. The rainbow legend says: Everyone" width="542"}](https://mas.to/@errantscience/110497357181881613)
 
 ### Gender
 
@@ -16,7 +16,7 @@ This posts lists several resources regarding inclusion gaps in the scientific la
 -   [The gendered nature of independence in the context of research funding and excellence](https://doi.org/10.1007/s43545-022-00563-w)
 -   [The Glass Obstacle Course: Informal and Formal Barriers For Women Ph.D. Students in STEM Fields](https://genderandset.open.ac.uk/index.php/genderandset/article/view/205)
 -   [The extent and drivers of gender imbalance in neuroscience reference lists](https://doi.org/10.1038/s41593-020-0658-y)
--   papers authored by women are rated lower or have lower acceptance rates in academic journals (Fox et al., 2019; Murray et al., 2018; Walker et al., 2015)
+-   Papers authored by women are rated lower or have lower acceptance rates in academic journals ([Fox et al. 2019](https://doi.org/10.1002/ece3.4993); [Murray et al. 2018](https://doi.org/10.1101/400515); [Walker et al. 2015](https://doi.org/10.12688/f1000research.6012.2))
 
 The [**FEM/UM Citation Guide**](https://urldefense.com/v3/__https:/athenasangels.nl/index.php?option=com_acym&ctrl=fronturl&task=click&urlid=488&userid=2191&mailid=92__;!!PAKc-5URQlI!-Z7wHi2Bk7Ca7fpj2Q2ZB-t3G1A2LFDUKD1wHCFd4EF_emK8FnrWZYb9H3PeYVn4Q9NFCBXqqhTQmsnIrRoEsg$) explains how women and other underrepresented groups can become more visible in science through citation practices
 
