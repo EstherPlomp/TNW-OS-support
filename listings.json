@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/readme/index.html",
       "/posts/4TU-info/index.html",
       "/posts/data-visualisation/index.html",
       "/posts/integrity-inclusive-meetings/index.html",
@@ -52,7 +53,6 @@
       "/posts/data-sharing-2021/index.html",
       "/posts/data-organisation/index.html",
       "/posts/software-citation/index.html",
-      "/posts/readme/index.html",
       "/posts/data-sharing-SURFdrive/index.html",
       "/posts/open-science-TUD/index.html",
       "/posts/open-science-buffet/index.html",
