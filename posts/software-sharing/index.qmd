@@ -36,9 +36,15 @@ When sharing your software you should also share a version of the software using
 
 -   Log in right top using TU Delft credentials
 
--   Create a new item or import from GitHub/GitLab
+-   Select 'Add a New Dataset':
+
+    -   ![](images/image-1485752732.png)
 
 -   Add relevant metadata in the information fields
+
+-   Under the header 'Files' you can find the instructions to publish directly from a Git repository under 'Software deposit':
+
+    -   ![](images/image-135793772.png)
 
 ### Other repositories
 
@@ -52,10 +58,9 @@ When sharing your software you should also share a version of the software using
 
 ### Copyright
 
-Ideally you also add a copyright transfer to the shared software (see [slide 14 in this
-presentation](https://doi.org/10.5281/zenodo.4772235)), for example:
+Ideally you also add a copyright transfer to the shared software (see [slide 14 in this presentation](https://doi.org/10.5281/zenodo.4772235)), for example:
 
-*Technische Universiteit Delft hereby disclaims all copyright interest in the program \"Name program\" (one line description of the content or function) written by the Author(s).*
+*Technische Universiteit Delft hereby disclaims all copyright interest in the program "Name program" (one line description of the content or function) written by the Author(s).*
 
 You can then add a copyright notice to assert your own rights:
 
