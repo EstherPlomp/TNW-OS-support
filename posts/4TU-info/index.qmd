@@ -1,7 +1,7 @@
 ---
 title: "4TU.ResearchData"
 author: "Esther Plomp"
-date: "2022-11-01"
+date: "2023-06-20"
 categories: [4TU.ResearchData, Open Data, Open Software, TU Delft]
 image: "4TU-logo.png"
 ---
@@ -93,7 +93,5 @@ You can use this option if data/code cannot be archived in a repository but you 
 ## More Information
 
 -   [4TU.ResearchData deposit guidelines](https://data.4tu.nl/s/documents/Deposit_Guidelines_2020.pdf)
-
--   
 
 -   [Software Deposit: What not to deposit](https://doi.org/10.5281/zenodo.1327323)
