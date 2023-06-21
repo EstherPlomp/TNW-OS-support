@@ -62,6 +62,22 @@ Summary of the investigation by experts:
 
 [![](images/paste-28AC93DB.png){fig-alt="Among the factors that contribute to irreproducible research are the lack of methods, code and data being available for the publications."}](https://doi.org/10.1038/533452a)
 
+## Data available upon request
+
+Several studies indicate that data available upon request, is not actually available upon request:
+
+-   Only "38% of the researchers sent their data immediately or after reminders" [Vanpaemel et al. 2015](http://dx.doi.org/10.1525/collabra.13)
+
+-   "We received only one of ten raw data sets requested." [Savage and Vickers 2009](https://doi.org/10.1371/journal.pone.0007078)
+
+-   " 73% of the authors did not share their data." [Wicherts et al. 2006](https://doi.org/10.1037/0003-066X.61.7.726)
+
+-   .." the odds of a data set being extant fell by 17% per year. In addition, the odds that we could find a working e-mail address for the first, last, or corresponding author fell by 7% per year." [Vines et al. 2014](http://dx.doi.org/10.1016/j.cub.2013.11.014)
+
+-   " We received no response to 41.3% of our data requests." - [Tedersoo et al. 2021](https://doi.org/10.1038/s41597-021-00981-0)
+
+-   " only 7/157 research articles shared their data sets, 4.5%." [Rowhani-Farid and Barnett 2016](http://dx.doi.org/10.1136/bmjopen-2016-011784)
+
 ## Five selfish reasons to work reproducibly
 
 Florian Markowetz provides five selfish reasons in his [article](https://doi.org/10.1186/s13059-015-0850-7) and [presentation](https://youtu.be/1Y_oIjlH-yg?t=355) (50 min) to work more reproducible. Reproducibility:
