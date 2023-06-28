@@ -72,9 +72,21 @@ You can only add copyright transfer to software that you **share under an open s
 
 Before sharing your code/software in a data repository it can be helpful to ask a colleague or collaborator to review it.
 
+## Critical elements for usable software ([Doherty et al. 2023](https://www.software.ac.uk/blog/2023-06-22-sorry-state-usable-software-open-science-results-open-science-retreat))
+
+-   **License**
+
+-   **Documentation:** Usage examples are an integral part of the documentation that is often ignored, but can make a significant difference for the user. Well-structured documentation such as (https://documentation.divio.com/) is essential for software to be usable.
+
+-   **Versioning**: If there are multiple releases of code, it should be bundled in releases and accompanied by changelog and release notes.
+
+-   **Deployability**: There needs to be an installation routine available that takes care of compilation and dependency resolution in an automated fashion (see also [executable containers](https://the-turing-way.netlify.app/reproducible-research/renv/renv-containers.html) so that users can start immediately).
+
+-   **Avoiding proprietary code base**: software that depends on licensed code bases creates severe barriers to portability and adoption.
+
 ## More information
 
--   Full [presentation](http://doi.org/10.5281/zenodo.4772235) +[recording](https://youtu.be/bPl5sdTvLMM?t=1394) of how to publish software (from 23:14 onwards)
+-   Full [presentation](http://doi.org/10.5281/zenodo.4772235) +[recording](https://youtu.be/bPl5sdTvLMM?t=1394) of how to publish software at TU Delft (from 23:14 onwards)
 -   See also the [post on licensing](https://estherplomp.github.io/TNW-OS-support/posts/licenses/)
 -   [Why it's worth making computational methods easy to use](https://www.nature.com/articles/d41586-023-01440-z)
 -   [Using GitHub Container Registry + Zenodo](https://blog.esciencecenter.nl/ditching-docker-hub-serve-research-software-with-ghcr-zenodo-2e47b8c93d88)
