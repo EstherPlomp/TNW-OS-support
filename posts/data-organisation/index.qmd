@@ -40,6 +40,8 @@ In general it is good practise to:
 
 ![](images/paste-B5D16106.png){width="602"}
 
+[![Image by ErrantScience.com](https://media.mas.to/masto-public/media_attachments/files/110/622/028/324/200/378/small/152ef6ee681871c7.jpeg){fig-alt="A drawing with the title: A data management timeline. The timeline starts with a dot that says 'when you should plan out your data management - but don't'. Then you make your first temporary folder, then the temporary folder gets a temporary subfolder. After which there are now 30 temporary folders. After which the data management normally starts."}](https://mas.to/@errantscience/110622028375240046)
+
 ## More information
 
 -   [The Turing Way - Data storage and organisation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html)
@@ -58,6 +60,6 @@ In general it is good practise to:
 
 -   [DataFlowToolkit](https://dataflowtoolkit.dk/)
 
--    [Webinar: Data Management Basics 1: Introduction to data management and sharing](https://www.youtube.com/watch?v=fqpo1tndpQw&list=PLG87Imnep1Sln3F69_kBROUrIbT5iderf&index=2)
+-   [Webinar: Data Management Basics 1: Introduction to data management and sharing](https://www.youtube.com/watch?v=fqpo1tndpQw&list=PLG87Imnep1Sln3F69_kBROUrIbT5iderf&index=2)
 
 -   [Videos on project structure](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=2) by Danielle Navarro
