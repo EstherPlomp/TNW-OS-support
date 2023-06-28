@@ -38,7 +38,7 @@ This post contains general information about the data repository [4TU.ResearchDa
 
 4.  Fill out the metadata information fields and select a licence
 
-    -   Ensure a clear title of your dataset so that you can easily find it back if you do not upload and submit your dataset in one go. (For example, if your data/code is part of a publication, you can name the upload 'dataset/software underlying the publication '\[title publication\]'.
+    -   Ensure a clear title of your dataset so that you can easily find it back if you do not upload and submit your dataset in one go. (For example, if your data/code is part of a publication, you can name the upload 'dataset/software underlying the publication'\[title publication\]'.
 
     -   All the fields marked with a red \* are required before you can publish your upload.
 
@@ -73,6 +73,14 @@ This post contains general information about the data repository [4TU.ResearchDa
 ## Metadata record only
 
 You can use this option if data/code cannot be archived in a repository but you would like to make the data available according to the [FAIR principles](https://estherplomp.github.io/TNW-OS-support/posts/FAIR/index.html). Explain what additional datasets/materials exist and why access is restricted. Explain who could gain access to the data and under what circumstances.
+
+## Sharing a private link
+
+You can share a private link of a draft dataset with peer reviewers or your thesis committee via \'My datasets\', pressing the link button under 'Actions\':
+
+![](images/4TU-private.jpg)
+
+You can then select the 'CREATE NEW PRIVATE LINK ' button.
 
 ## Checklist to sharing your research ([Karoune & Plomp 2022](https://doi.org/10.5281/zenodo.6615276))
 
