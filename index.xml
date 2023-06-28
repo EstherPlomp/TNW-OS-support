@@ -9,7 +9,7 @@
 <link>https://github.com/EstherPlomp/TNW-OS-support/index.html</link>
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.361</generator>
+<generator>quarto-1.3.433</generator>
 <lastBuildDate>Tue, 20 Jun 2023 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Readme files</title>
@@ -124,6 +124,12 @@
 <section id="metadata-record-only" class="level2">
 <h2 class="anchored" data-anchor-id="metadata-record-only">Metadata record only</h2>
 <p>You can use this option if data/code cannot be archived in a repository but you would like to make the data available according to the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/index.html">FAIR principles</a>. Explain what additional datasets/materials exist and why access is restricted. Explain who could gain access to the data and under what circumstances.</p>
+</section>
+<section id="sharing-a-private-link" class="level2">
+<h2 class="anchored" data-anchor-id="sharing-a-private-link">Sharing a private link</h2>
+<p>You can share a private link of a draft dataset with peer reviewers or your thesis committee via 'My datasets', pressing the link button under ’Actions':</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/4TU-private.jpg" class="img-fluid"></p>
+<p>You can then select the ‘CREATE NEW PRIVATE LINK’ button.</p>
 </section>
 <section id="checklist-to-sharing-your-research-karoune-plomp-2022" class="level2">
 <h2 class="anchored" data-anchor-id="checklist-to-sharing-your-research-karoune-plomp-2022">Checklist to sharing your research (<a href="https://doi.org/10.5281/zenodo.6615276">Karoune &amp; Plomp 2022</a>)</h2>
@@ -710,37 +716,6 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/data.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Publishing ethically</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>How to shift your publishing choices towards publishing in more sustainable/ethical venues:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="http://corinalogan.com/journals.html"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/images/image-1632415656.png" class="img-fluid figure-img" alt="A flowchart asking the question whether the journal is 100% open access, and whether the publisher is for-profit or non-profit. You should publish in the venue if it is open access and ideally the publisher should be non-profit. The APC should reflect the actual costs, but ideally be not existing because publishing fees come with inequalities. You should choose the CC-BY-4.0 license, make use of open peer review, and choose a journal that does not select articles based on subjective impact."></a></p>
-<figcaption class="figure-caption">Flowchart by Carina Logan, based on [Logan 2017](https://doi.org/10.12688/f1000research.11415.2).</figcaption>
-</figure>
-</div>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://sometimesimwrong.typepad.com/wrong/2023/05/unearned-prestige.html">unearned prestige</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Scholarly Communication</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/index.html</guid>
-  <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/image-ethics.png" medium="image" type="image/png" height="87" width="144"/>
-</item>
-<item>
   <title>Open Access Flowchart</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/index.html</link>
@@ -776,6 +751,37 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/index.html</guid>
   <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/publishing-oa-small.png" medium="image" type="image/png" height="56" width="144"/>
+</item>
+<item>
+  <title>Publishing ethically</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>How to shift your publishing choices towards publishing in more sustainable/ethical venues:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="http://corinalogan.com/journals.html"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/images/image-1632415656.png" class="img-fluid figure-img" alt="A flowchart asking the question whether the journal is 100% open access, and whether the publisher is for-profit or non-profit. You should publish in the venue if it is open access and ideally the publisher should be non-profit. The APC should reflect the actual costs, but ideally be not existing because publishing fees come with inequalities. You should choose the CC-BY-4.0 license, make use of open peer review, and choose a journal that does not select articles based on subjective impact."></a></p>
+<figcaption class="figure-caption">Flowchart by Carina Logan, based on [Logan 2017](https://doi.org/10.12688/f1000research.11415.2).</figcaption>
+</figure>
+</div>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://sometimesimwrong.typepad.com/wrong/2023/05/unearned-prestige.html">unearned prestige</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Scholarly Communication</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/index.html</guid>
+  <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/scholcom-ethics/image-ethics.png" medium="image" type="image/png" height="87" width="144"/>
 </item>
 <item>
   <title>Data Horrors</title>
