@@ -76,4 +76,4 @@ Put your source code in a code repository, and deposit major versions in a prese
 
 -   Full [presentation](http://doi.org/10.5281/zenodo.4772235) +[recording](https://youtu.be/bPl5sdTvLMM?t=1394) of how to publish software (from 23:14 onwards)
 -   See also the [post on licensing](https://estherplomp.github.io/TNW-OS-support/posts/licenses/)
--   
+-   [Resources for making your research software FAIR](https://www.software.ac.uk/blog/2023-06-29-resources-making-your-research-software-fair)
