@@ -196,6 +196,22 @@ image: "open-data-fountain.jpg"
 
 [Minimum information reporting in bio--nano experimental literature](https://doi.org/10.1038/s41565-018-0246-4) (MIRIBEL)
 
+## CFD
+
+-   [Machine Learning for Computational Fluid Dynamics](https://www.youtube.com/watch?v=IXMSOSEj14Q)
+
+-   Courses:
+
+    -   [ME 702 Computational Fluid Dynamics](https://www.youtube.com/playlist?list=PL30F4C5ABCE62CB61)
+
+    -   [Computational Fluid Dynamics](https://www.youtube.com/playlist?list=PLvOh309NvHlH0cpKf48VVHr_RUxBF57oY)
+
+-   [Books for Computational Fluid Dynamics](https://www.jousefmurad.com/book-notes/computational-fluid-dynamics-cfd-books/)
+
+-   [Fluid Mechanics 101](https://www.youtube.com/channel/UCcqQi9LT0ETkRoUu8eYaEkg)
+
+-   [Computational Fluid Dynamics (CFD) - A Beginner's Guide](https://www.youtube.com/watch?v=NlLy-u61yyk)
+
 ## More information
 
 -   [Metadata Standards Catalog](https://rdamsc.bath.ac.uk/subject-index)
