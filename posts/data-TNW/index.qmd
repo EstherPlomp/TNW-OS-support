@@ -126,7 +126,9 @@ image: "open-data-fountain.jpg"
 
 ## Tools
 
-[ioChem-BD](https://www.iochem-bd.org/)
+-   [ioChem-BD](https://www.iochem-bd.org/)
+
+-   [Procedures for systematic capture and management of analytical data in academia](https://doi.org/10.1016/j.acax.2019.100007)
 
 ## Simulation outputs
 
