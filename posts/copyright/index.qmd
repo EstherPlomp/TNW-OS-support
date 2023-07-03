@@ -3,18 +3,14 @@ title: "Copyright"
 author: "Esther Plomp"
 date: "2022-08-28"
 categories: [Copyright]
-image: "encryption.png"
+image: "copyright.png"
 ---
 
 ## Copyright free images:
-[pexels.com/fr-fr/](https://t.co/oTioaam8Y1)
-[https://unsplash.com](https://t.co/pueZRTCONF)
-[https://pixabay.com](https://t.co/nhx3wlPHhv)
 
-[https://bioicons.com](https://t.co/6XT1z2jgg5)
-[https://thenounproject.com](https://t.co/2KCJU3xCAP)
-[http://phylopic.org](https://t.co/QGnYaLsSjm)
-[https://flaticon.com](https://t.co/TVlAtmlVDz)
+[pexels.com/fr-fr/](https://t.co/oTioaam8Y1) [https://unsplash.com](https://t.co/pueZRTCONF) [https://pixabay.com](https://t.co/nhx3wlPHhv)
+
+[https://bioicons.com](https://t.co/6XT1z2jgg5) [https://thenounproject.com](https://t.co/2KCJU3xCAP) [http://phylopic.org](https://t.co/QGnYaLsSjm) [https://flaticon.com](https://t.co/TVlAtmlVDz)
 
 ## **More information**
 
