@@ -12,6 +12,8 @@ See the [Qualtrics Guidance](https://d2k0ddhflgrk1i.cloudfront.net/Studentenport
 
 You can request access to Qualtric licenses [via topdesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=57ec510c3da9408b929c2eeee82b4eaa).
 
+[Learn more about how to not collect IP addresses/geolocation.](https://renebekkers.wordpress.com/2023/07/03/how-not-to-collect-data-on-qualtrics/)
+
 ## **More information**
 
 -   TU Delft now has a [self-paced personal data course](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research). PhD candidates can sign up and follow it for 0.5 GS credits.
