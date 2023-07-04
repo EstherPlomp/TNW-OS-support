@@ -64,7 +64,7 @@ Summary of the investigation by experts:
 
 ## Data available upon request
 
-Several studies indicate that data available upon request, is not actually available upon request:
+Several studies indicate that **data available upon request, is not actually available upon request**:
 
 -   Only "38% of the researchers sent their data immediately or after reminders" [Vanpaemel et al. 2015](http://dx.doi.org/10.1525/collabra.13)
 
@@ -77,6 +77,10 @@ Several studies indicate that data available upon request, is not actually avail
 -   " We received no response to 41.3% of our data requests." - [Tedersoo et al. 2021](https://doi.org/10.1038/s41597-021-00981-0)
 
 -   " only 7/157 research articles shared their data sets, 4.5%." [Rowhani-Farid and Barnett 2016](http://dx.doi.org/10.1136/bmjopen-2016-011784)
+
+-   "Data were recoverable online or through direct data requests for 30% of this sample. Data recovery declines exponentially with time since publication, halving every 6 years,...." [Minocher et al. 2021](https://doi.org/10.1098/rsos.210450)
+
+-   "Among articles stating that data was available upon request, only 17% shared data upon request." [Hussey 2023](https://doi.org/10.31234/osf.io/jbu9r)
 
 ## Five selfish reasons to work reproducibly
 
