@@ -6,6 +6,8 @@ categories: [Credit]
 image: "dora.png"
 ---
 
+[Nederlandse universiteiten gaan voortaan anders om met rankings](https://www.universiteitenvannederland.nl/nl_NL/nieuws-detail/nieuwsbericht/915-p-nederlandse-universiteiten-gaan-voortaan-anders-om-met-rankings-p.html)
+
 ## **More information**
 
 -   [Presentation by Elizabeth Gadd for EUA 2023 on University Rankings](https://www.youtube.com/watch?v=QaF6gI4ijC0)

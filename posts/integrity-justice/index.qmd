@@ -1,0 +1,14 @@
+---
+title: "Open Science & Inclusion"
+author: "Esther Plomp"
+date: "2022-11-29"
+categories: [Open Science, Inclusion]
+image: "OS-TUD.png"
+---
+
+# [A Resource to Support Decolonization of the Undergraduate Chemistry Curriculum](https://doi.org/10.26434/chemrxiv-2022-t3srw-v3)
+
+## More information
+
+-   [Labor advantages drive the greater productivity of faculty at elite universities](https://doi.org/10.1126/sciadv.abq7056)
+-   [List of references regarding diversity, biases, and inclusivity studies and opinion pieces](https://www.winrepo.org/publications/)
