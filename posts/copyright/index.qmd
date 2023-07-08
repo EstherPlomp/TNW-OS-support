@@ -1,21 +1,25 @@
 ---
-title: "Copyright"
+title: "Copyright free resources"
 author: "Esther Plomp"
 date: "2022-08-28"
-categories: [Copyright]
+categories: [Open Science]
 image: "copyright.png"
 ---
 
 ## Copyright free images:
 
-[pexels.com/fr-fr/](https://t.co/oTioaam8Y1) [https://unsplash.com](https://t.co/pueZRTCONF) [https://pixabay.com](https://t.co/nhx3wlPHhv)
+-   [pexels.com/fr-fr/](https://t.co/oTioaam8Y1)
 
-[https://bioicons.com](https://t.co/6XT1z2jgg5) [https://thenounproject.com](https://t.co/2KCJU3xCAP) [http://phylopic.org](https://t.co/QGnYaLsSjm) [https://flaticon.com](https://t.co/TVlAtmlVDz)
+-   [https://unsplash.com](https://t.co/pueZRTCONF)
 
-## **More information**
+-   [https://pixabay.com](https://t.co/nhx3wlPHhv)
 
--   
+-   [https://bioicons.com](https://t.co/6XT1z2jgg5)
 
--   
+-   [https://thenounproject.com](https://t.co/2KCJU3xCAP)
 
--   
+-   [http://phylopic.org](https://t.co/QGnYaLsSjm)
+
+-   [https://flaticon.com](https://t.co/TVlAtmlVDz)
+
+## 
