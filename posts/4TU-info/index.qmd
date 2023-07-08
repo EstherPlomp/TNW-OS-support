@@ -76,21 +76,21 @@ You can use this option if data/code cannot be archived in a repository but you 
 
 ## Sharing a private link
 
-You can share a private link of a draft dataset with peer reviewers or your thesis committee via \'My datasets\', pressing the link button under 'Actions\':
+You can share a private link of a draft dataset with peer reviewers or your thesis committee via 'My datasets', pressing the link button under 'Actions':
 
 ![](images/4TU-private.jpg)
 
-You can then select the 'CREATE NEW PRIVATE LINK ' button.
+You can then select the 'CREATE NEW PRIVATE LINK' button.
 
 ## Checklist to sharing your research ([Karoune & Plomp 2022](https://doi.org/10.5281/zenodo.6615276))
 
-1.  Have you set up a [Data Management Plan](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html)? In this Data Management Plan you can think about how you will store, document and share your research.
+1.  Have you set up a [Data Management Plan](https://estherplomp.github.io/TNW-OS-support/posts/DMP-templates/)? In this Data Management Plan you can think about how you will store, document and share your research.
 
 2.  Ask feedback on how you documented and structured your data and code from someone that is not a co-author: are they able to trace your steps?
 
-3.  Decide in what order you want to publish your research objects: do you want to publicly share the data and code before the article is published or would you rather wait? - see The Turing Way (The Turing Way Community 2022e) for more information on [how to link your research objects](https://the-turing-way.netlify.app/communication/citable/citable-linking.html) during the sharing process.
+3.  Decide in what order you want to publish your research objects: do you want to publicly share the data and code before the article is published or would you rather wait? - see The Turing Way for more information on [how to link your research objects](https://the-turing-way.netlify.app/communication/citable/citable-linking.html) during the sharing process.
 
-4.  Make sure a README file is included with your data/code: even if there is an associated article it is important to provide all relevant information to interpret the data or use the code in the same place as the data/code. You can also [let others know how to cite you in this README file](https://doi.org/10.5281/zenodo.3482769).
+4.  Make sure a [README file](https://estherplomp.github.io/TNW-OS-support/posts/readme/) is included with your data/code: even if there is an associated article it is important to provide all relevant information to interpret the data or use the code in the same place as the data/code. You can also let others know how to cite you in this README file.
 
 5.  Ensure that you selected a [license](https://estherplomp.github.io/TNW-OS-support/posts/licenses/) for your data and code: without it your research objects cannot be reused by others.
 
