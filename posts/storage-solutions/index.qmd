@@ -13,7 +13,7 @@ Please see [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/s
 ## TU Delft network drives
 
 |                                 | Personal Drive (H:)                            | Staff Group Drive (M:)                          | Project Drive (U:)                                         |
-|-----------------|-----------------|-----------------|---------------------|
+|-----------------|-----------------|-----------------|--------------------|
 | Purpose                         | Private work files only (sharing not possible) | Data shared within research group or department | Data from individual projects, shared with project members |
 | Suitable for confidential data? | Yes                                            | No                                              | Yes                                                        |
 | Size                            | 8 GB                                           | \> 5TB                                          | \> 5TB                                                     |
@@ -32,9 +32,11 @@ The Project Drive is the recommended storage solution for research data.
 
 -   The Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).
 
-    -   Read more about [how to access the Project Drive](https://estherplomp.github.io/TNW-OS-support/posts/access-project-drive/).
+    -   Read more about [how to access the Project Drive](https://estherplomp.github.io/TNW-OS-support/posts/storage-project-drive-access/).
 
 -   To request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with 'Change' selected rather than 'New'. For \>5 TB of space, you may be contacted by the faculty IT manager for approval.
+
+-   [Learn more about how to do an additional back up of the project drive](https://estherplomp.github.io/TNW-OS-support/posts/storage-project-drive-backup/).
 
 ### Network Drives and Delft HPC
 
@@ -80,7 +82,7 @@ TU Delft GitLab is a version control system for code with backup facility. Acces
 
 Access to a GitLab repository for externals can be requested through [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42) (Topdesk \> Software and Authorisations \> IT for Researchers \> GitLab TU Delft \> Request GitLab).
 
-#### TU Delft GitLab or GitHub? 
+#### TU Delft GitLab or GitHub?
 
 TU Delft GitLab is primarily intended or secure code management for confidential code. GitHub is easier to use if you want to collaborate with externals and you are comfortable sharing your code publicly (GitHub allows private repositories but features are more limited).
 
