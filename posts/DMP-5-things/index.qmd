@@ -6,7 +6,7 @@ categories: [Data Management Plan, Checklist]
 image: "DMP.png"
 ---
 
-# Five things that you need to pay attention to when checking a Data Management Plan.
+# Five things that you need to pay attention to when checking a Data Management Plan
 
 As part of the Go/No-Go of a PhD a Data Management Plan is required (PhDs that started after 1st of January 2020).
 
@@ -14,27 +14,27 @@ To help you check the Data Management Plan, this posts describes five things to 
 
 ## 1. Was a Data Steward consulted?
 
-You are not obliged to ask the Data Steward for support on a DMP, but they can provide you with valuable input on the DMP and check whether the answers make sense.
+You are not obliged to ask the Data Steward for support on a Data Management Plan, but they can provide you with valuable input and provide advise.
 
 ## 2. Are you happy with how the data/code is stored?
 
-Ensure that the data will be stored using a storage solution that is automatically backed up and that all project members have access to the data they need to have access to (especially important that access is restricted when working with personal data or confidential data - see number 4).
+Ensure that the data will be stored using a storage solution that is automatically backed up and that all project members have access to the data they need to have access to (especially important that access is restricted when working with personal data or confidential data - see @sec-confidentialdata).
 
 ## 3. Is the data properly organised and documented?
 
-Can you easily figure out which file is what? If you open some of the files, are they properly labelled and described? If the individual responsible for data collection would leave the university, can you still make sense of the data without their input? See the data organisation/documentation post for more information.
+Can you easily figure out which file is what? If you open some of the files, are they properly labelled and described? If the individual responsible for data collection would leave the university, can you still make sense of the data without their input? See the data [organisation](https://estherplomp.github.io/TNW-OS-support/posts/data-organisation/) and [documentation](https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/) posts for more information.
 
-## 4. Is your student working with confidential data?
+## 4. Does the project deal with confidential data? {#sec-confidentialdata}
 
-And are they handling this confidential data properly? Here the advise of the Data Steward can come in extra handy and is required for personal data (as part of the [HREC application](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics)).
+Is the confidential data handled properly? Here the advise of the Data Steward can come in extra handy and is required for personal data (as part of the [HREC application](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics)).
 
-Confidential data can contain:
+**Confidential data** can contain:
 
--   personal information which can allow the identification of living individuals
+-   Personal information which can allow the identification of living individuals
 
--   commercially-confidential information (e.g. something you might want to patent, or data belonging to a third party)
+-   Commercially-confidential information (something you might want to patent, or data belonging to a third party)
 
--   Information related to national security , export control regulations etc.
+-   Information related to national security, export control regulations etc.
 
 ## 5. Is there a clear strategy for data sharing?
 
@@ -46,6 +46,8 @@ TU Delft [Research Data Framework Policy](https://doi.org/10.5281/zenodo.2573159
 
 -   What [licence](https://estherplomp.github.io/TNW-OS-support/posts/licenses/) will be the most suitable for the data (and code)?
 
-In principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, [4TU.ResearchData](https://data.4tu.nl/info/en/), where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise).
+In principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, [4TU.ResearchData](https://data.4tu.nl/info/en/), where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Learn more about [how to use 4TU.ResearchData to share the data/code](https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/). [Discipline specific repositories](https://estherplomp.github.io/TNW-OS-support/posts/data-TNW/#repositories) might also be suitable (the Data Steward can advise).
 
 ## **More information**
+
+-   [Data Management Plan templates and guidance](https://estherplomp.github.io/TNW-OS-support/posts/DMP-templates/)
