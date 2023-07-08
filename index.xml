@@ -70,17 +70,17 @@
 </section>
 <section id="sharing-a-private-link" class="level2">
 <h2 class="anchored" data-anchor-id="sharing-a-private-link">Sharing a private link</h2>
-<p>You can share a private link of a draft dataset with peer reviewers or your thesis committee via 'My datasets', pressing the link button under ’Actions':</p>
+<p>You can share a private link of a draft dataset with peer reviewers or your thesis committee via ‘My datasets’, pressing the link button under ‘Actions’:</p>
 <p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/4TU-private.jpg" class="img-fluid"></p>
 <p>You can then select the ‘CREATE NEW PRIVATE LINK’ button.</p>
 </section>
 <section id="checklist-to-sharing-your-research-karoune-plomp-2022" class="level2">
 <h2 class="anchored" data-anchor-id="checklist-to-sharing-your-research-karoune-plomp-2022">Checklist to sharing your research (<a href="https://doi.org/10.5281/zenodo.6615276">Karoune &amp; Plomp 2022</a>)</h2>
 <ol type="1">
-<li><p>Have you set up a <a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html">Data Management Plan</a>? In this Data Management Plan you can think about how you will store, document and share your research.</p></li>
+<li><p>Have you set up a <a href="https://estherplomp.github.io/TNW-OS-support/posts/DMP-templates/">Data Management Plan</a>? In this Data Management Plan you can think about how you will store, document and share your research.</p></li>
 <li><p>Ask feedback on how you documented and structured your data and code from someone that is not a co-author: are they able to trace your steps?</p></li>
-<li><p>Decide in what order you want to publish your research objects: do you want to publicly share the data and code before the article is published or would you rather wait? - see The Turing Way (The Turing Way Community 2022e) for more information on <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">how to link your research objects</a> during the sharing process.</p></li>
-<li><p>Make sure a README file is included with your data/code: even if there is an associated article it is important to provide all relevant information to interpret the data or use the code in the same place as the data/code. You can also <a href="https://doi.org/10.5281/zenodo.3482769">let others know how to cite you in this README file</a>.</p></li>
+<li><p>Decide in what order you want to publish your research objects: do you want to publicly share the data and code before the article is published or would you rather wait? - see The Turing Way for more information on <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">how to link your research objects</a> during the sharing process.</p></li>
+<li><p>Make sure a <a href="https://estherplomp.github.io/TNW-OS-support/posts/readme/">README file</a> is included with your data/code: even if there is an associated article it is important to provide all relevant information to interpret the data or use the code in the same place as the data/code. You can also let others know how to cite you in this README file.</p></li>
 <li><p>Ensure that you selected a <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">license</a> for your data and code: without it your research objects cannot be reused by others.</p></li>
 <li><p>Provide the DOI of your research objects where it is relevant (for example, table/figure descriptions, materials and methods section, data/code availability statement).</p></li>
 <li><p>Check whether you cited your data and code in the references: this is where citations are counted from - not the acknowledgements or data availability statements. If you <a href="https://doi.org/10.5281/zenodo.3479199">reused any data/software you should also cite these</a>.</p></li>
@@ -231,6 +231,92 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/index.html</guid>
   <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/inclusive.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Excel functionalities</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-excel/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post highlights several Excel functionalities:</p>
+<p><a href="https://support.microsoft.com/en-gb/office/use-sparklines-to-show-data-trends-1474e169-008c-4783-926b-5c60e620f5ca">Sparklines</a> allow you to insert miniature graphs inside an individual cell to easily visualize data.</p>
+<ul>
+<li><p>Select range</p></li>
+<li><p>Insert ⇢ Sparkline</p></li>
+<li><p>Choose type</p></li>
+</ul>
+<p>The <a href="https://www.howtogeek.com/732854/how-to-create-and-customize-a-people-graph-in-microsoft-excel/">People Graph add-on</a> allows you to create an infographic with pictures of humans (great for survey data!).</p>
+<p><a href="https://support.microsoft.com/en-au/office/video-create-and-manage-drop-down-lists-28db87b6-725f-49d7-9b29-ab4bc56cefc2">Create drop down lists</a> to ensure <strong>correct data entry.</strong></p>
+<p><a href="https://support.microsoft.com/en-us/office/using-flash-fill-in-excel-3f9bcf1e-db93-4890-94a0-1578341f73f7">Flash Fill</a> <strong>automatically fills your data when it senses a pattern</strong> (example: separate first and last names from a single column).</p>
+<p><a href="https://support.microsoft.com/en-au/office/consolidate-data-in-multiple-worksheets-007ce8f4-2fae-4fea-9ee5-a0b2c9e36d9b">Consolidate data from multiple tabs</a>. If you create links to the source data the consolidation tab will update automatically!</p>
+<p><a href="https://support.microsoft.com/en-au/office/highlight-patterns-and-trends-with-conditional-formatting-eea152f5-2a7d-4c1a-a2da-c5f893adb621">Highlight patterns with conditional formatting.</a> You can add data bars, heat maps to <strong>highlight trends.</strong></p>
+<p>Use <a href="https://support.microsoft.com/en-au/office/use-the-format-painter-4bb415a9-d4e4-42b7-b579-170adc594e40">Format Painter</a>&nbsp;to <strong>quickly apply the same formatting</strong> (color, font style, size) to multiple pieces of text or graphics</p>
+<ul>
+<li><p>Select the cells you’d like to copy</p></li>
+<li><p>Click the paintbrush</p></li>
+<li><p>Select where you want the formatting to go.</p></li>
+</ul>
+<p><a href="https://answers.microsoft.com/en-us/msoffice/forum/all/how-to-use-camera-function-in-microsoft-excel/44a97349-f694-4bd3-a5ca-e4097f6e9437">Camera Snapshot</a> allows you to <strong>select data and link it as a picture</strong>. When you update the workbook, the data in the picture will also update!</p>
+<p>Insert -&gt; <strong>table</strong> allows extra functionalities for tables.</p>
+<p>For example, <a href="https://support.microsoft.com/en-gb/office/use-slicers-to-filter-data-249f966b-a9d5-4b0f-b31a-12651785d29d">Slicer</a> allows you to filter data:</p>
+<ul>
+<li><p>Click anywhere inside a table</p></li>
+<li><p>Go to table ⇢ insert slicer</p></li>
+<li><p>Select the fields you want</p></li>
+<li><p>A dialog box will appear: Click any slicer button to filter the data</p></li>
+</ul>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/data-spreadsheets/">Spreadsheets</a></p></li>
+<li><p><a href="https://careerfoundry.com/en/blog/data-analytics/data-analysis-in-excel/">10 Essential Excel Features For Data Analysts (and How to Use Them)</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Tools</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-excel/index.html</guid>
+  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-excel/excel.png" medium="image" type="image/png" height="134" width="144"/>
+</item>
+<item>
+  <title>Zotero</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Zotero can be used for</p>
+<p>You can use NotionHQ and the Notero plugin to organise papers in a database and store detailes notes (see an <a href="https://dust-bovid-04d.notion.site/ba1bc5022a4d469abd2ea559e80bc56b?v=a953e6bf2a3449e9ab3083154ce2b238">example template</a>).</p>
+<p><a href="http://zotfile.com/">ZotFile</a></p>
+<p>You can import BibTex files in your ORCID profile:</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/images/image-170768552.png" class="img-fluid"></p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><a href="https://www.zotero.org/support/kb/mendeley_import">How do I import a Mendeley library into Zotero?</a>
+<ul>
+<li>make sure that you tell Mendeley desktop to sync attached files for your *entire* library BEFORE importing to Zotero. You can do this by clicking the Edit Settings button by All Documents in the main desktop window, and clicking Synchronize attached files.</li>
+</ul></li>
+<li><a href="https://www.zotero.org/support/word_processor_plugin_installation">Installing the Zotero Word Processor Plugins</a></li>
+<li><a href="https://calc.hypotheses.org/5692">How to Organize Literature and Notes in Zotero</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Tools</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/index.html</guid>
+  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/zotero.png" medium="image" type="image/png" height="63" width="144"/>
 </item>
 <item>
   <title>Qualtrics</title>
@@ -472,7 +558,7 @@
 
 
 
-<p>How to share your PhD research outputs?</p>
+<p><strong>How to share your PhD research outputs?</strong></p>
 <p>TU Delft <a href="https://doi.org/10.5281/zenodo.2573159">Research Data Framework Policy</a> requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate.</p>
 <p>For more information on what data you should share, please see the <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/">what data should be shared post</a>.</p>
 <section id="share-datacode-underlying-the-article" class="level2">
@@ -483,20 +569,23 @@
 <li><p><a href="https://doi.org/10.4121/16539453">Example of raw data underying an article</a></p></li>
 </ul>
 </section>
-<section id="share-the-datacode-underlying-a-chapter" class="level2">
-<h2 class="anchored" data-anchor-id="share-the-datacode-underlying-a-chapter">Share the data/code underlying a chapter</h2>
-<p>Your thesis may contain chapters that are not published (yet). In that case, you can share the remaining data/code in an upload that you clearly link to your dissertation/thesis (such as, data/code underlying *title thesis*).</p>
-</section>
 <section id="share-everything-together" class="level2">
 <h2 class="anchored" data-anchor-id="share-everything-together">Share everything together</h2>
-<p>You can also choose to bundle everything together in one upload.</p>
+<p>You can also choose to bundle everything together in one upload. Ensure that the name of the upload is linked to your thesis (example title: data/code underlying <em>title thesis</em>).</p>
+<ul>
+<li><p><a href="https://doi.org/10.4121/21725060.v2">Example QN</a></p></li>
+<li><p><a href="https://doi.org/10.4121/20017610.v1">Example QN2</a></p></li>
+<li><p><a href="https://doi.org/10.4121/fa103940-2b19-486f-8bb8-7028695c1da5.v1">Example BT</a></p></li>
+</ul>
 <p>If you already shared data/code before, it is better to link to the older uploads instead of re-uploading the same data (unless you made any changes). You can do so in the metadata fields and in the <a href="https://estherplomp.github.io/TNW-OS-support/posts/readme/">READme file</a>.</p>
 </section>
 <section id="i-still-want-to-publish-my-thesis-chapter" class="level2">
 <h2 class="anchored" data-anchor-id="i-still-want-to-publish-my-thesis-chapter">I still want to publish my thesis chapter!</h2>
-<p>In that case you can still share the data/code when you publish the rest of the research outputs connected to your dissertation (because you will get a time stamp and DOI with the data/code that you can later connect to the article)</p>
+<p>In that case <strong>you can still share</strong> the data/code when you publish the rest of the research outputs connected to your dissertation (because you will get a time stamp and DOI with the data/code that you can later connect to the article)</p>
 <p>OR</p>
-<p>You can choose to wait with publishing the data/code and do so when you publish the article (as described above for sharing the data/code underlying an article).</p>
+<p>You can <strong>choose to wait</strong> with publishing the data/code and do so when you publish the article (as described above for sharing the data/code underlying an article). When you reserve a DOI for the data/code, you can still link to these research outputs in your dissertation. You can also still <a href="https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/#sharing-a-private-link">share a private link</a> so that your promotor(s) and promotion committee can access the files.</p>
+<p>OR</p>
+<p>You can choose to <strong>publish under embargo or restricted access</strong>. This would allow for data access requests (when choosing restricted access) before you publish the chapter. When the data can be publicly accessible you can contact 4TU.ResearchData to change the access permissions.</p>
 </section>
 <section id="how" class="level2">
 <h2 class="anchored" data-anchor-id="how">How?</h2>
@@ -534,7 +623,7 @@
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
-<li></li>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/">How to use 4TU.ResearchData</a></li>
 </ul>
 
 
@@ -544,7 +633,6 @@
   <category>Open Data</category>
   <category>Open Software</category>
   <category>PhD</category>
-  <category>TNW</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how-PhD/index.html</guid>
   <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how-PhD/image.jpg" medium="image" type="image/jpeg"/>
@@ -1136,6 +1224,7 @@
 <li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/software-sharing/">Sharing Software</a></p></li>
 <li><p><a href="https://fsfe.org/freesoftware/legal/faq.en.html">Frequently Asked Questions on Free Software Licensing</a></p></li>
 <li><p><a href="https://open.spotify.com/episode/4ev4QCsY4yIoXkAkhEbiVR?si=ed690dac653b43b1">ByteSized: Software Licences</a> podcast episode</p></li>
+<li><p><a href="https://fossa.com/blog/all-about-permissive-licenses/">All About Permissive Licenses</a></p></li>
 </ul>
 
 
@@ -1232,272 +1321,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/index.html</guid>
   <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/Plan-S.png" medium="image" type="image/png" height="72" width="144"/>
-</item>
-<item>
-  <title>Barriers to data/code sharing</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This post is a summary of the publication by <a href="https://doi.org/10.1098/rspb.2022.1113">Gomes et al.&nbsp;2022</a>, on ‘<strong>Why don’t we share data and code</strong>? Perceived barriers and benefits to public archiving practices’.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://doi.org/10.1098/rspb.2022.1113"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/images/paste-430D1010.png" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<section id="knowledge-barriers" class="level2">
-<h2 class="anchored" data-anchor-id="knowledge-barriers">Knowledge barriers</h2>
-<section id="unsure-about-the-process" class="level3">
-<h3 class="anchored" data-anchor-id="unsure-about-the-process">Unsure about the process</h3>
-<ul>
-<li><p>Not sure about the data repository (see ‘<a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how/">How to share data</a>’)</p></li>
-<li><p>Accept that your practices will improve over time</p></li>
-</ul>
-</section>
-<section id="complex-or-manual-workflows" class="level3">
-<h3 class="anchored" data-anchor-id="complex-or-manual-workflows">Complex or manual workflows</h3>
-<ul>
-<li><p>Detail any manual data processing steps</p></li>
-<li><p>Automation can improve workflows</p></li>
-</ul>
-</section>
-<section id="large-data-files" class="level3">
-<h3 class="anchored" data-anchor-id="large-data-files">Large data files</h3>
-<ul>
-<li>4TU.ResearchData allows for sharing of 1 TB, per researcher, per year</li>
-</ul>
-</section>
-<section id="insecurity" class="level3">
-<h3 class="anchored" data-anchor-id="insecurity">Insecurity</h3>
-<ul>
-<li><p>First share materials with trusted co-authors or peers in a safe environment (lab meetings or code clubs)</p></li>
-<li><p>Getting feedback on code and documentation can improve its efficiency, clarity and utility beyond an individual project</p></li>
-<li><p>There is no such thing as perfect code (<a href="http://dx.doi.org/10.1371/journal.pcbi.1005510">Wilson et al.&nbsp;2017</a>)</p></li>
-<li><p>Thee process of cleaning and reviewing data and code for publication will usually reveal errors before they are exposed publicly, which leads to higher-quality results</p></li>
-<li><p>Foster an inclusive, kind environment that emphasizes growth and learning over criticism and shame. This will reduce individual insecurities and fear associated with publicly sharing research objects.</p></li>
-</ul>
-</section>
-<section id="do-not-see-the-value" class="level3">
-<h3 class="anchored" data-anchor-id="do-not-see-the-value">Do not see the value</h3>
-<ul>
-<li><p>value judgement is an inherently subjective rather than an objective decision.</p></li>
-<li><p>there is a multitude of ways that a given set of data or code could be used by future generations of scientists, which is one reason why major funding agencies and many journals are now requiring open data and code products.</p></li>
-<li><p>data are often useful in novel synthesis analyses that may explore research questions entirely unrelated to the original motivation of the data collection.</p></li>
-<li><p>The more information we leave for future researchers, the better they will be able to progress our understanding of the world around us.</p></li>
-</ul>
-</section>
-</section>
-<section id="reuse-concerns" class="level2">
-<h2 class="anchored" data-anchor-id="reuse-concerns">Reuse concerns</h2>
-<section id="inappropriate-use" class="level3">
-<h3 class="anchored" data-anchor-id="inappropriate-use">Inappropriate Use</h3>
-<ul>
-<li><p>All forms of scientific products can be misused — this is no reason not to publish these scientific products.</p></li>
-<li><p>You can take steps to reduce or avoid the inappropriate use of data and code. By sharing detailed information or an accompanying data/software paper. This may include:</p>
-<ul>
-<li><p>Thorough description of data and processes</p></li>
-<li><p>Terms and conditions for reuse (license)</p></li>
-<li><p>Limitations, assumptions and shortcomings of the work</p></li>
-<li><p>Contact information</p></li>
-</ul></li>
-</ul>
-</section>
-<section id="rights" class="level3">
-<h3 class="anchored" data-anchor-id="rights">Rights</h3>
-<ul>
-<li><p>Data and code may have complex ownership involving multiple people and institutions, complicating sharing efforts. Sharing agreements made early in the research process can specify the plans for ultimately sharing data/code.</p></li>
-<li><p>As TU Delft is your employer, it holds the right to any scientific research you work on</p></li>
-<li><p>Research funding is public funding and should benefit the wider public</p></li>
-</ul>
-</section>
-<section id="sensitive-content" class="level3">
-<h3 class="anchored" data-anchor-id="sensitive-content">Sensitive Content</h3>
-<ul>
-<li><p>Not all data can be shared publicly (see <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/confidential-data/other-types-of-confidential-data">types of confidential data)</a></p></li>
-<li><p>In some cases, aggregating, generalizing or anonymizing data can be used to remove sensitive information (see <a href="https://the-turing-way.netlify.app/project-design/sdpm/sharing-sensitive-data.html">Sharing Sensitive Data</a>)</p></li>
-<li><p>Sharing information about the dataset publicly is following the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a>, and will make the information about the dataset more findable. Researchers can then contact you if they would like to access the dataset.</p></li>
-<li><p>While open data is an important goal for advancing science, it must never perpetuate harm.</p></li>
-</ul>
-</section>
-<section id="transient-storage" class="level3">
-<h3 class="anchored" data-anchor-id="transient-storage">Transient storage</h3>
-<ul>
-<li><p>Share the data/code using a data repository</p></li>
-<li><p>Avoid proprietary file formats and software</p></li>
-<li><p>Consider the use of containers such as <a href="https://www.docker.com/resources/what-container/">Docker</a>/<a href="https://mybinder.readthedocs.io/en/latest/introduction.html#preparing-repositories">Binder</a>.</p></li>
-</ul>
-</section>
-</section>
-<section id="disincentives" class="level2">
-<h2 class="anchored" data-anchor-id="disincentives">Disincentives</h2>
-<section id="scooping" class="level3">
-<h3 class="anchored" data-anchor-id="scooping">Scooping</h3>
-<ul>
-<li><p>Researchers publish most papers using their own datasets within 2 years of original publication, while papers that cite open datasets peak at 5 years after data publication (<a href="http://dx.doi.org/10.7717/peerj.175">Piwowar and Vision 2013</a>).</p></li>
-<li><p>Preprint servers offer the ability to make first claim to a research projects</p>
-<ul>
-<li>pre-printed articles are already citable and benefit from increased viewership, citation rates and collaborations</li>
-</ul></li>
-</ul>
-</section>
-<section id="lack-of-time" class="level3">
-<h3 class="anchored" data-anchor-id="lack-of-time">Lack of time</h3>
-<ul>
-<li><p>Despite the upfront time required, sharing research data and code can ultimately save time for individual researchers and their collaborators, as well as for others who want to reuse it. Your most important collaborator is your future self.</p></li>
-<li><p>Sharing data/code ensures that you always have access to it, regardless of switching institutions or computers.</p></li>
-<li><p>The preparation of data and code should be considered as important as other publication tasks</p></li>
-</ul>
-</section>
-<section id="lack-of-incentives" class="level3">
-<h3 class="anchored" data-anchor-id="lack-of-incentives">Lack of incentives</h3>
-<ul>
-<li><p>Sharing data and code can:</p>
-<ul>
-<li><p>increase visibility and recognition</p></li>
-<li><p>initiate new collaborations</p></li>
-<li><p>increase efficiency,</p></li>
-<li><p>improve understanding of one’s own data and code</p></li>
-<li><p>See ‘<a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-why/">Why sharing data</a>’ for some more benefits</p></li>
-</ul></li>
-<li><p>Funders/publishers/research institutes increasingly require you to share data/code.</p></li>
-</ul>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <category>Open Software</category>
-  <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/index.html</guid>
-  <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Software Resources</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Overview of resources related to programming, Python, Git(Hub), Shell and programming communities.</p>
-<section id="general-resources" class="level3">
-<h3 class="anchored" data-anchor-id="general-resources">General Resources</h3>
-<ul>
-<li><p><a href="https://the-turing-way.netlify.app/welcome">The Turing Way</a></p></li>
-<li><p><a href="https://github.com/Chris-Engelhardt/data_sci_guide">Overview of guided workshops, R/Python/SQL/Git/Shell courses</a></p></li>
-<li><p><a href="https://dev.to/facundocorradini/why-i-don-t-use-stack-overflow-1f0l">Stack Overflow</a></p></li>
-<li><p><a href="https://guides.uflib.ufl.edu/reproducibility/lessons">Research Reproducibility and Open Science</a> by Hao Ye</p></li>
-<li><p><a href="https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md/#1">Social coding: sharing and citing software</a> by CodeRefinery</p></li>
-<li><p><a href="https://docs.google.com/presentation/d/1k8k3EqT8iz96zSeXVt4J7QB5aeXkUJEATZhev900sr4/edit?usp=sharing">Debugging Bingo</a> by Ji Son</p></li>
-<li><p><a href="https://ecorepsci.github.io/reproducible-science/index.html">Computational Tools for Reproducible Science</a> (with an R focus)</p></li>
-<li><p><a href="https://nixos.org/">NixOS</a></p></li>
-<li><p><a href="https://twitter.com/usenextjournal/status/1364880836118663173">Nextjournal</a></p></li>
-<li><p><a href="https://www.software.ac.uk/how-make-your-script-ready-publication">How to make your script ready for publication</a></p></li>
-<li><p>Example of a workflow: ‘<a href="https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/">The task is a quantum of workflow</a>’</p></li>
-<li><p><a href="https://www.ukrn.org/primers/">Open Research Primers</a></p></li>
-<li><p><a href="https://calmcode.io/">Calmcode.io</a></p></li>
-<li><p>Text editors for <strong>Mac:</strong> Atom, Subline Text, TextEdit, BBEdit, Visual Studio Code</p></li>
-<li><p><a href="https://www.software.ac.uk/blog/2021-11-04-top-tips-start-coding-academia">Top Tips to Start Coding in Academia</a></p></li>
-<li><p><a href="https://github.com/danielskatz/repro-fdtd1d/blob/master/Computational_Reproducibility.pdf">Presentation by Daniel Katz</a> on Computational Reproducibility (intermediate/advanced)</p></li>
-<li><p><a href="https://kbroman.org/AdvData/14_clearcode.pdf">Writing clear code</a> by Karl Broman</p></li>
-<li><p><a href="https://doi.org/10.5281/zenodo.3922957">Writing Clean Scientific Software</a> by Nicolas Murphy</p></li>
-</ul>
-</section>
-<section id="shellunix" class="level3">
-<h3 class="anchored" data-anchor-id="shellunix">Shell/Unix</h3>
-<ul>
-<li><p><a href="https://www.nature.com/articles/d41586-021-00263-0">Five reasons why researchers should learn to love the command line</a></p></li>
-<li><p><a href="https://youtu.be/et_QrTWqjNU">Recording of the Automating Task lesson</a>by SoftwareSaved</p></li>
-<li><p><a href="https://datascienceatthecommandline.com/">Data Science at the Command Line</a> by Jeroen Janssen</p></li>
-</ul>
-</section>
-<section id="github" class="level3">
-<h3 class="anchored" data-anchor-id="github">Git(Hub)</h3>
-<ul>
-<li><p><a href="https://www.youtube.com/watch?v=QRUvQgKbVZQ">OLS GitHub intro</a> (OLS1) and a <a href="https://www.youtube.com/watch?v=Wui21rKrCNk">more extensive intro for OLS2</a></p></li>
-<li><p><a href="http://nyu-dataservices.github.io/Intro-Git-GitHub/git.html">GitHub intro</a> by Vicky Steeves (<a href="https://github.com/NYU-DataServices/Intro-Git-GitHub">repository</a>)</p></li>
-<li><p><a href="https://guides.github.com/introduction/flow/">GitHub’s introduction on branches</a></p></li>
-<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a></p></li>
-<li><p><a href="https://coderefinery.github.io/social-coding/">Git + social coding from Code Refinery</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=fTRtzsYo7Ho">Recording of the Git lesson</a>by SoftwareSaved</p></li>
-<li><p><a href="https://tom.preston-werner.com/2009/05/19/the-git-parable.html">The Git Parable</a> by Tom Preston-Werner</p></li>
-<li><p><a href="https://www.smashingmagazine.com/2021/02/getting-the-most-out-of-git/">Getting the most out of git</a> (Intermediate)</p></li>
-<li><p><a href="http://git-scm.com/book/en/v2">Pro Git</a></p></li>
-<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">Git flow</a></p></li>
-<li><p><a href="https://voyteklab.com/git/git-primer/">Git/GitHub primer</a> (beginner)</p></li>
-<li><p><a href="https://orchid00.github.io/git_for_humans/007_resources.html">Git Resources</a> by Paula Andrea Martinez</p></li>
-<li><p><a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Where-system-global-and-local-Windows-Git-config-files-are-saved">Git configuration files</a></p></li>
-<li><p><a href="https://learngitbranching.js.org/">Learn Git Branching</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=gfPP2pQ8Rms">OHBM Brainhack 2021 - Traintrack: Version control</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=w3jLJU7DT5E">What is Github</a> (3-4 min video)</p></li>
-<li><p><a href="https://webinerds.com/version-control-systems-keep-your-code-in-order/">Version Control Systems: Keep Your Code in Order!</a></p></li>
-<li><p><a href="https://doi.org/10.1371/journal.pcbi.1004947">Ten Simple Rules for Taking Advantage of Git and GitHub</a> (Perez-Riverol et al.&nbsp;2016)</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=OPqGR8m6v18">Introduction to Git</a> (more theoretical + GitLab)</p></li>
-</ul>
-</section>
-<section id="python" class="level3">
-<h3 class="anchored" data-anchor-id="python">Python</h3>
-<ul>
-<li><p><a href="https://dabeaz-course.github.io/practical-python">Practical Python Programming</a> by David Beazley&nbsp;</p></li>
-<li><p>Packages</p>
-<ul>
-<li><p><a href="https://education.molssi.org/python-package-best-practices/index.html">Python Package Best Practices</a></p></li>
-<li><p><a href="https://github.com/mwouts/jupytext">Jupytext</a></p></li>
-</ul></li>
-<li><p>Recording of a Python Carpentry Workshop by SoftwareSaved using Jupyter Lab (<a href="https://youtu.be/YHDvqPRM9tE">part 1</a>) (<a href="https://youtu.be/hhTV6BuSmcM">part 2</a>)</p></li>
-<li><p><a href="https://jupyter4edu.github.io/jupyter-edu-book/index.html">Teaching and Learning with Jupyter</a></p></li>
-<li><p><a href="https://hypothesis.readthedocs.io/en/latest/">Hypothesis</a> library</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=G1GjUZgZQbk&amp;list=PL35C27CB854E03FF2">Python videos</a> (beginner?)</p></li>
-<li><p><a href="https://github.com/wmvanvliet/gizmo">Can you speak Python?</a></p></li>
-<li><p><a href="https://carpentries.org/blog/2021/07/pyrse-book/">Research Software Engineering with Python</a></p></li>
-<li><p><a href="https://maneage.org/index.html">Maneage</a>&nbsp;</p></li>
-<li><p><a href="https://speakerdeck.com/trallard/jupyter-notebooks-friends-or-foes">Jupyter notebooks: Friends or foes?</a></p></li>
-<li><p><a href="https://doi.org/10.1371/journal.%20pcbi.1007007">Ten simple rules for writing and sharing Computational analyses in Jupyter Notebooks</a> (Rule et al.&nbsp;2019)</p></li>
-<li><p><a href="https://github.com/JoaoRodrigues/sc-teaching/blob/master/intermediate-python-2020/index.md">Intermediate Python Workshop</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=b1gmh4W3H9A">Build a Dashboard with Python Plotly Dash</a> (webinar by Laura Gutierrez Funderburk)</p></li>
-</ul>
-</section>
-<section id="r" class="level3">
-<h3 class="anchored" data-anchor-id="r">R</h3>
-<p>Please find a curated list for <a href="https://delft-rcafe.github.io/resources/">R resources at the TU Delft R Café</a></p>
-</section>
-<section id="communities" class="level3">
-<h3 class="anchored" data-anchor-id="communities">Communities</h3>
-<ul>
-<li><p>Code Newbies (<a href="https://twitter.com/CodeNewbies">@CodeNewbies</a>)</p></li>
-<li><p>Codecademy (<a href="https://twitter.com/Codecademy">@Codecademy</a>)</p></li>
-<li><p>Stackademic (<a href="https://twitter.com/StackademicHQ">@StackademicHQ</a>)</p></li>
-<li><p>Code .org (<a href="https://twitter.com/codeorg">@codeorg</a>)</p></li>
-<li><p>Women Who Code (<a href="https://twitter.com/WomenWhoCode">@WomenWhoCode</a>)</p></li>
-<li><p>Girls Who Code (<a href="https://twitter.com/GirlsWhoCode">@GirlsWhoCode</a>)</p></li>
-<li><p>Free Code Camp (<a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>)</p></li>
-<li><p>Black Girls Code (<a href="https://twitter.com/BlackGirlsCode">@BlackGirlsCode</a>)</p></li>
-<li><p>Design+Code (<a href="https://twitter.com/designcodeio">@designcodeio</a>)</p></li>
-<li><p>Microsoft Make Code (<a href="https://twitter.com/MSMakeCode">@MSMakeCode</a>)</p></li>
-<li><p>CodeHS (<a href="https://twitter.com/CodeHS">@CodeHS</a>)</p></li>
-</ul>
-</section>
-<section id="funding" class="level2">
-<h2 class="anchored" data-anchor-id="funding">Funding</h2>
-<ul>
-<li><a href="https://sovereigntechfund.de/en/applications/">Sovereign Tech Fund</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Software</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</guid>
-  <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
