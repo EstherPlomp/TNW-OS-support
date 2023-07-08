@@ -655,7 +655,7 @@
 <col style="width: 23%">
 <col style="width: 23%">
 <col style="width: 23%">
-<col style="width: 29%">
+<col style="width: 28%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -700,9 +700,10 @@
 </ul></li>
 <li><p>The Project Drive requires an internet connection. It may be more convenient to use the Project Drive as a backup environment and use another storage solution as your active working environment (SURFdrive/Onedrive).</p>
 <ul>
-<li>Read more about <a href="https://estherplomp.github.io/TNW-OS-support/posts/access-project-drive/">how to access the Project Drive</a>.</li>
+<li>Read more about <a href="https://estherplomp.github.io/TNW-OS-support/posts/storage-project-drive-access/">how to access the Project Drive</a>.</li>
 </ul></li>
 <li><p>To request additional storage space for an existing project, you can contact the service desk or re-submit the TopDesk form with ‘Change’ selected rather than ‘New’. For &gt;5 TB of space, you may be contacted by the faculty IT manager for approval.</p></li>
+<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/storage-project-drive-backup/">Learn more about how to do an additional back up of the project drive</a>.</p></li>
 </ul>
 <section id="network-drives-and-delft-hpc" class="level3">
 <h3 class="anchored" data-anchor-id="network-drives-and-delft-hpc">Network Drives and Delft HPC</h3>
@@ -1313,10 +1314,7 @@
 </section>
 
  ]]></description>
-  <category>Open Data</category>
-  <category>Data Management Plan</category>
-  <category>Open Software</category>
-  <category>FAIR</category>
+  <category>Open Access</category>
   <category>Plan S</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/index.html</guid>
   <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
