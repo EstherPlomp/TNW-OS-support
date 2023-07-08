@@ -12,63 +12,6 @@
 <generator>quarto-1.3.433</generator>
 <lastBuildDate>Tue, 20 Jun 2023 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Readme files</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="how-to-set-up-your-readme-file" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your README file</h2>
-<p>A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally submitted when sharing data and is the landing page of your software repository.</p>
-<p>README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used, etc.). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why README files are important and how you can set up your own README files.</p>
-</section>
-<section id="readme-for-data" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-data">README for data</h2>
-<p>Best practices</p>
-<ul>
-<li><p>Create one README file for each dataset</p></li>
-<li><p>Name the file README</p></li>
-<li><p>Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.</p></li>
-</ul>
-<p>Example templates for data:</p>
-<ul>
-<li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
-<li><p><a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf).</p></li>
-<li><p><a href="https://datamanagement.hms.harvard.edu/collect/readme-files" class="uri">https://datamanagement.hms.harvard.edu/collect/readme-files</a></p></li>
-</ul>
-</section>
-<section id="readme-for-software" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-software">README for software</h2>
-<p>See this <a href="https://www.youtube.com/watch?v=Jgv34Kwgga8&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=7">short presentation by Carlos Martinez</a> about the importance of README files for software.</p>
-<p>Example templates for software:</p>
-<ul>
-<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
-<li><p><a href="https://ha0ye.github.io/CW21-README-tips/template_README.html" class="uri">https://ha0ye.github.io/CW21-README-tips/template_README.html</a></p></li>
-<li><p>More templates</p>
-<ul>
-<li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
-<li><p><a href="https://github.com/benmarwick/rrtools" class="uri">https://github.com/benmarwick/rrtools</a></p></li>
-<li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
-<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
-<li><p><a href="https://github.com/matthiasott/README-templatehttps://github.com/matthiasott/README-template">https://github.com/matthiasott/README-template</a></p></li>
-</ul></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <category>Open Software</category>
-  <category>FAIR</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</guid>
-  <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
-</item>
-<item>
   <title>4TU.ResearchData</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/index.html</link>
@@ -161,6 +104,63 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/index.html</guid>
   <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/4TU-logo.png" medium="image" type="image/png" height="43" width="144"/>
+</item>
+<item>
+  <title>Readme files</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-to-set-up-your-readme-file" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your README file</h2>
+<p>A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally submitted when sharing data and is the landing page of your software repository.</p>
+<p>README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used, etc.). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why README files are important and how you can set up your own README files.</p>
+</section>
+<section id="readme-for-data" class="level2">
+<h2 class="anchored" data-anchor-id="readme-for-data">README for data</h2>
+<p>Best practices</p>
+<ul>
+<li><p>Create one README file for each dataset</p></li>
+<li><p>Name the file README</p></li>
+<li><p>Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.</p></li>
+</ul>
+<p>Example templates for data:</p>
+<ul>
+<li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
+<li><p><a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf).</p></li>
+<li><p><a href="https://datamanagement.hms.harvard.edu/collect/readme-files" class="uri">https://datamanagement.hms.harvard.edu/collect/readme-files</a></p></li>
+</ul>
+</section>
+<section id="readme-for-software" class="level2">
+<h2 class="anchored" data-anchor-id="readme-for-software">README for software</h2>
+<p>See this <a href="https://www.youtube.com/watch?v=Jgv34Kwgga8&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=7">short presentation by Carlos Martinez</a> about the importance of README files for software.</p>
+<p>Example templates for software:</p>
+<ul>
+<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
+<li><p><a href="https://ha0ye.github.io/CW21-README-tips/template_README.html" class="uri">https://ha0ye.github.io/CW21-README-tips/template_README.html</a></p></li>
+<li><p>More templates</p>
+<ul>
+<li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
+<li><p><a href="https://github.com/benmarwick/rrtools" class="uri">https://github.com/benmarwick/rrtools</a></p></li>
+<li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
+<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
+<li><p><a href="https://github.com/matthiasott/README-templatehttps://github.com/matthiasott/README-template">https://github.com/matthiasott/README-template</a></p></li>
+</ul></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>Open Software</category>
+  <category>FAIR</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</guid>
+  <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
   <title>Data visualisation</title>
@@ -405,6 +405,32 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/stairs.png" medium="image" type="image/png" height="143" width="144"/>
 </item>
 <item>
+  <title>University rankings</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-rankings/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.universiteitenvannederland.nl/nl_NL/nieuws-detail/nieuwsbericht/915-p-nederlandse-universiteiten-gaan-voortaan-anders-om-met-rankings-p.html">Nederlandse universiteiten gaan voortaan anders om met rankings</a></p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=QaF6gI4ijC0">Presentation by Elizabeth Gadd for EUA 2023 on University Rankings</a></li>
+<li><a href="https://blogs.berkeley.edu/2023/05/08/ranking-fatigue-is-a-worldwide-phenomenon/">Ranking Fatigue is a Worldwide Phenomenon</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Credit</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-rankings/index.html</guid>
+  <pubDate>Sat, 21 Jan 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-rankings/dora.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
   <title>Metrics in Academia</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/index.html</link>
@@ -436,31 +462,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/index.html</guid>
   <pubDate>Sat, 21 Jan 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/dora.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>University rankings</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-rankings/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=QaF6gI4ijC0">Presentation by Elizabeth Gadd for EUA 2023 on University Rankings</a></li>
-<li><a href="https://blogs.berkeley.edu/2023/05/08/ranking-fatigue-is-a-worldwide-phenomenon/">Ranking Fatigue is a Worldwide Phenomenon</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Credit</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-rankings/index.html</guid>
-  <pubDate>Sat, 21 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-rankings/dora.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>How to share data/code underlying the thesis?</title>
@@ -1233,128 +1234,6 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-2021/Plan-S.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
 <item>
-  <title>Software Resources</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Overview of resources related to programming, Python, Git(Hub), Shell and programming communities.</p>
-<section id="general-resources" class="level3">
-<h3 class="anchored" data-anchor-id="general-resources">General Resources</h3>
-<ul>
-<li><p><a href="https://the-turing-way.netlify.app/welcome">The Turing Way</a></p></li>
-<li><p><a href="https://github.com/Chris-Engelhardt/data_sci_guide">Overview of guided workshops, R/Python/SQL/Git/Shell courses</a></p></li>
-<li><p><a href="https://dev.to/facundocorradini/why-i-don-t-use-stack-overflow-1f0l">Stack Overflow</a></p></li>
-<li><p><a href="https://guides.uflib.ufl.edu/reproducibility/lessons">Research Reproducibility and Open Science</a> by Hao Ye</p></li>
-<li><p><a href="https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md/#1">Social coding: sharing and citing software</a> by CodeRefinery</p></li>
-<li><p><a href="https://docs.google.com/presentation/d/1k8k3EqT8iz96zSeXVt4J7QB5aeXkUJEATZhev900sr4/edit?usp=sharing">Debugging Bingo</a> by Ji Son</p></li>
-<li><p><a href="https://ecorepsci.github.io/reproducible-science/index.html">Computational Tools for Reproducible Science</a> (with an R focus)</p></li>
-<li><p><a href="https://nixos.org/">NixOS</a></p></li>
-<li><p><a href="https://twitter.com/usenextjournal/status/1364880836118663173">Nextjournal</a></p></li>
-<li><p><a href="https://www.software.ac.uk/how-make-your-script-ready-publication">How to make your script ready for publication</a></p></li>
-<li><p>Example of a workflow: ‘<a href="https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/">The task is a quantum of workflow</a>’</p></li>
-<li><p><a href="https://www.ukrn.org/primers/">Open Research Primers</a></p></li>
-<li><p><a href="https://calmcode.io/">Calmcode.io</a></p></li>
-<li><p>Text editors for <strong>Mac:</strong> Atom, Subline Text, TextEdit, BBEdit, Visual Studio Code</p></li>
-<li><p><a href="https://www.software.ac.uk/blog/2021-11-04-top-tips-start-coding-academia">Top Tips to Start Coding in Academia</a></p></li>
-<li><p><a href="https://github.com/danielskatz/repro-fdtd1d/blob/master/Computational_Reproducibility.pdf">Presentation by Daniel Katz</a> on Computational Reproducibility (intermediate/advanced)</p></li>
-<li><p><a href="https://kbroman.org/AdvData/14_clearcode.pdf">Writing clear code</a> by Karl Broman</p></li>
-<li><p><a href="https://doi.org/10.5281/zenodo.3922957">Writing Clean Scientific Software</a> by Nicolas Murphy</p></li>
-</ul>
-</section>
-<section id="shellunix" class="level3">
-<h3 class="anchored" data-anchor-id="shellunix">Shell/Unix</h3>
-<ul>
-<li><p><a href="https://www.nature.com/articles/d41586-021-00263-0">Five reasons why researchers should learn to love the command line</a></p></li>
-<li><p><a href="https://youtu.be/et_QrTWqjNU">Recording of the Automating Task lesson</a>by SoftwareSaved</p></li>
-<li><p><a href="https://datascienceatthecommandline.com/">Data Science at the Command Line</a> by Jeroen Janssen</p></li>
-</ul>
-</section>
-<section id="github" class="level3">
-<h3 class="anchored" data-anchor-id="github">Git(Hub)</h3>
-<ul>
-<li><p><a href="https://www.youtube.com/watch?v=QRUvQgKbVZQ">OLS GitHub intro</a> (OLS1) and a <a href="https://www.youtube.com/watch?v=Wui21rKrCNk">more extensive intro for OLS2</a></p></li>
-<li><p><a href="http://nyu-dataservices.github.io/Intro-Git-GitHub/git.html">GitHub intro</a> by Vicky Steeves (<a href="https://github.com/NYU-DataServices/Intro-Git-GitHub">repository</a>)</p></li>
-<li><p><a href="https://guides.github.com/introduction/flow/">GitHub’s introduction on branches</a></p></li>
-<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a></p></li>
-<li><p><a href="https://coderefinery.github.io/social-coding/">Git + social coding from Code Refinery</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=fTRtzsYo7Ho">Recording of the Git lesson</a>by SoftwareSaved</p></li>
-<li><p><a href="https://tom.preston-werner.com/2009/05/19/the-git-parable.html">The Git Parable</a> by Tom Preston-Werner</p></li>
-<li><p><a href="https://www.smashingmagazine.com/2021/02/getting-the-most-out-of-git/">Getting the most out of git</a> (Intermediate)</p></li>
-<li><p><a href="http://git-scm.com/book/en/v2">Pro Git</a></p></li>
-<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">Git flow</a></p></li>
-<li><p><a href="https://voyteklab.com/git/git-primer/">Git/GitHub primer</a> (beginner)</p></li>
-<li><p><a href="https://orchid00.github.io/git_for_humans/007_resources.html">Git Resources</a> by Paula Andrea Martinez</p></li>
-<li><p><a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Where-system-global-and-local-Windows-Git-config-files-are-saved">Git configuration files</a></p></li>
-<li><p><a href="https://learngitbranching.js.org/">Learn Git Branching</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=gfPP2pQ8Rms">OHBM Brainhack 2021 - Traintrack: Version control</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=w3jLJU7DT5E">What is Github</a> (3-4 min video)</p></li>
-<li><p><a href="https://webinerds.com/version-control-systems-keep-your-code-in-order/">Version Control Systems: Keep Your Code in Order!</a></p></li>
-<li><p><a href="https://doi.org/10.1371/journal.pcbi.1004947">Ten Simple Rules for Taking Advantage of Git and GitHub</a> (Perez-Riverol et al.&nbsp;2016)</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=OPqGR8m6v18">Introduction to Git</a> (more theoretical + GitLab)</p></li>
-</ul>
-</section>
-<section id="python" class="level3">
-<h3 class="anchored" data-anchor-id="python">Python</h3>
-<ul>
-<li><p><a href="https://dabeaz-course.github.io/practical-python">Practical Python Programming</a> by David Beazley&nbsp;</p></li>
-<li><p>Packages</p>
-<ul>
-<li><p><a href="https://education.molssi.org/python-package-best-practices/index.html">Python Package Best Practices</a></p></li>
-<li><p><a href="https://github.com/mwouts/jupytext">Jupytext</a></p></li>
-</ul></li>
-<li><p>Recording of a Python Carpentry Workshop by SoftwareSaved using Jupyter Lab (<a href="https://youtu.be/YHDvqPRM9tE">part 1</a>) (<a href="https://youtu.be/hhTV6BuSmcM">part 2</a>)</p></li>
-<li><p><a href="https://jupyter4edu.github.io/jupyter-edu-book/index.html">Teaching and Learning with Jupyter</a></p></li>
-<li><p><a href="https://hypothesis.readthedocs.io/en/latest/">Hypothesis</a> library</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=G1GjUZgZQbk&amp;list=PL35C27CB854E03FF2">Python videos</a> (beginner?)</p></li>
-<li><p><a href="https://github.com/wmvanvliet/gizmo">Can you speak Python?</a></p></li>
-<li><p><a href="https://carpentries.org/blog/2021/07/pyrse-book/">Research Software Engineering with Python</a></p></li>
-<li><p><a href="https://maneage.org/index.html">Maneage</a>&nbsp;</p></li>
-<li><p><a href="https://speakerdeck.com/trallard/jupyter-notebooks-friends-or-foes">Jupyter notebooks: Friends or foes?</a></p></li>
-<li><p><a href="https://doi.org/10.1371/journal.%20pcbi.1007007">Ten simple rules for writing and sharing Computational analyses in Jupyter Notebooks</a> (Rule et al.&nbsp;2019)</p></li>
-<li><p><a href="https://github.com/JoaoRodrigues/sc-teaching/blob/master/intermediate-python-2020/index.md">Intermediate Python Workshop</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=b1gmh4W3H9A">Build a Dashboard with Python Plotly Dash</a> (webinar by Laura Gutierrez Funderburk)</p></li>
-</ul>
-</section>
-<section id="r" class="level3">
-<h3 class="anchored" data-anchor-id="r">R</h3>
-<p>Please find a curated list for <a href="https://delft-rcafe.github.io/resources/">R resources at the TU Delft R Café</a></p>
-</section>
-<section id="communities" class="level3">
-<h3 class="anchored" data-anchor-id="communities">Communities</h3>
-<ul>
-<li><p>Code Newbies (<a href="https://twitter.com/CodeNewbies">@CodeNewbies</a>)</p></li>
-<li><p>Codecademy (<a href="https://twitter.com/Codecademy">@Codecademy</a>)</p></li>
-<li><p>Stackademic (<a href="https://twitter.com/StackademicHQ">@StackademicHQ</a>)</p></li>
-<li><p>Code .org (<a href="https://twitter.com/codeorg">@codeorg</a>)</p></li>
-<li><p>Women Who Code (<a href="https://twitter.com/WomenWhoCode">@WomenWhoCode</a>)</p></li>
-<li><p>Girls Who Code (<a href="https://twitter.com/GirlsWhoCode">@GirlsWhoCode</a>)</p></li>
-<li><p>Free Code Camp (<a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>)</p></li>
-<li><p>Black Girls Code (<a href="https://twitter.com/BlackGirlsCode">@BlackGirlsCode</a>)</p></li>
-<li><p>Design+Code (<a href="https://twitter.com/designcodeio">@designcodeio</a>)</p></li>
-<li><p>Microsoft Make Code (<a href="https://twitter.com/MSMakeCode">@MSMakeCode</a>)</p></li>
-<li><p>CodeHS (<a href="https://twitter.com/CodeHS">@CodeHS</a>)</p></li>
-</ul>
-</section>
-<section id="funding" class="level2">
-<h2 class="anchored" data-anchor-id="funding">Funding</h2>
-<ul>
-<li><a href="https://sovereigntechfund.de/en/applications/">Sovereign Tech Fund</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Software</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</guid>
-  <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Barriers to data/code sharing</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/index.html</link>
@@ -1497,6 +1376,128 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/index.html</guid>
   <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-barriers/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Software Resources</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Overview of resources related to programming, Python, Git(Hub), Shell and programming communities.</p>
+<section id="general-resources" class="level3">
+<h3 class="anchored" data-anchor-id="general-resources">General Resources</h3>
+<ul>
+<li><p><a href="https://the-turing-way.netlify.app/welcome">The Turing Way</a></p></li>
+<li><p><a href="https://github.com/Chris-Engelhardt/data_sci_guide">Overview of guided workshops, R/Python/SQL/Git/Shell courses</a></p></li>
+<li><p><a href="https://dev.to/facundocorradini/why-i-don-t-use-stack-overflow-1f0l">Stack Overflow</a></p></li>
+<li><p><a href="https://guides.uflib.ufl.edu/reproducibility/lessons">Research Reproducibility and Open Science</a> by Hao Ye</p></li>
+<li><p><a href="https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md/#1">Social coding: sharing and citing software</a> by CodeRefinery</p></li>
+<li><p><a href="https://docs.google.com/presentation/d/1k8k3EqT8iz96zSeXVt4J7QB5aeXkUJEATZhev900sr4/edit?usp=sharing">Debugging Bingo</a> by Ji Son</p></li>
+<li><p><a href="https://ecorepsci.github.io/reproducible-science/index.html">Computational Tools for Reproducible Science</a> (with an R focus)</p></li>
+<li><p><a href="https://nixos.org/">NixOS</a></p></li>
+<li><p><a href="https://twitter.com/usenextjournal/status/1364880836118663173">Nextjournal</a></p></li>
+<li><p><a href="https://www.software.ac.uk/how-make-your-script-ready-publication">How to make your script ready for publication</a></p></li>
+<li><p>Example of a workflow: ‘<a href="https://hrdag.org/2016/06/14/the-task-is-a-quantum-of-workflow/">The task is a quantum of workflow</a>’</p></li>
+<li><p><a href="https://www.ukrn.org/primers/">Open Research Primers</a></p></li>
+<li><p><a href="https://calmcode.io/">Calmcode.io</a></p></li>
+<li><p>Text editors for <strong>Mac:</strong> Atom, Subline Text, TextEdit, BBEdit, Visual Studio Code</p></li>
+<li><p><a href="https://www.software.ac.uk/blog/2021-11-04-top-tips-start-coding-academia">Top Tips to Start Coding in Academia</a></p></li>
+<li><p><a href="https://github.com/danielskatz/repro-fdtd1d/blob/master/Computational_Reproducibility.pdf">Presentation by Daniel Katz</a> on Computational Reproducibility (intermediate/advanced)</p></li>
+<li><p><a href="https://kbroman.org/AdvData/14_clearcode.pdf">Writing clear code</a> by Karl Broman</p></li>
+<li><p><a href="https://doi.org/10.5281/zenodo.3922957">Writing Clean Scientific Software</a> by Nicolas Murphy</p></li>
+</ul>
+</section>
+<section id="shellunix" class="level3">
+<h3 class="anchored" data-anchor-id="shellunix">Shell/Unix</h3>
+<ul>
+<li><p><a href="https://www.nature.com/articles/d41586-021-00263-0">Five reasons why researchers should learn to love the command line</a></p></li>
+<li><p><a href="https://youtu.be/et_QrTWqjNU">Recording of the Automating Task lesson</a>by SoftwareSaved</p></li>
+<li><p><a href="https://datascienceatthecommandline.com/">Data Science at the Command Line</a> by Jeroen Janssen</p></li>
+</ul>
+</section>
+<section id="github" class="level3">
+<h3 class="anchored" data-anchor-id="github">Git(Hub)</h3>
+<ul>
+<li><p><a href="https://www.youtube.com/watch?v=QRUvQgKbVZQ">OLS GitHub intro</a> (OLS1) and a <a href="https://www.youtube.com/watch?v=Wui21rKrCNk">more extensive intro for OLS2</a></p></li>
+<li><p><a href="http://nyu-dataservices.github.io/Intro-Git-GitHub/git.html">GitHub intro</a> by Vicky Steeves (<a href="https://github.com/NYU-DataServices/Intro-Git-GitHub">repository</a>)</p></li>
+<li><p><a href="https://guides.github.com/introduction/flow/">GitHub’s introduction on branches</a></p></li>
+<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a></p></li>
+<li><p><a href="https://coderefinery.github.io/social-coding/">Git + social coding from Code Refinery</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=fTRtzsYo7Ho">Recording of the Git lesson</a>by SoftwareSaved</p></li>
+<li><p><a href="https://tom.preston-werner.com/2009/05/19/the-git-parable.html">The Git Parable</a> by Tom Preston-Werner</p></li>
+<li><p><a href="https://www.smashingmagazine.com/2021/02/getting-the-most-out-of-git/">Getting the most out of git</a> (Intermediate)</p></li>
+<li><p><a href="http://git-scm.com/book/en/v2">Pro Git</a></p></li>
+<li><p><a href="https://nvie.com/posts/a-successful-git-branching-model/">Git flow</a></p></li>
+<li><p><a href="https://voyteklab.com/git/git-primer/">Git/GitHub primer</a> (beginner)</p></li>
+<li><p><a href="https://orchid00.github.io/git_for_humans/007_resources.html">Git Resources</a> by Paula Andrea Martinez</p></li>
+<li><p><a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Where-system-global-and-local-Windows-Git-config-files-are-saved">Git configuration files</a></p></li>
+<li><p><a href="https://learngitbranching.js.org/">Learn Git Branching</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=gfPP2pQ8Rms">OHBM Brainhack 2021 - Traintrack: Version control</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=w3jLJU7DT5E">What is Github</a> (3-4 min video)</p></li>
+<li><p><a href="https://webinerds.com/version-control-systems-keep-your-code-in-order/">Version Control Systems: Keep Your Code in Order!</a></p></li>
+<li><p><a href="https://doi.org/10.1371/journal.pcbi.1004947">Ten Simple Rules for Taking Advantage of Git and GitHub</a> (Perez-Riverol et al.&nbsp;2016)</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=OPqGR8m6v18">Introduction to Git</a> (more theoretical + GitLab)</p></li>
+</ul>
+</section>
+<section id="python" class="level3">
+<h3 class="anchored" data-anchor-id="python">Python</h3>
+<ul>
+<li><p><a href="https://dabeaz-course.github.io/practical-python">Practical Python Programming</a> by David Beazley&nbsp;</p></li>
+<li><p>Packages</p>
+<ul>
+<li><p><a href="https://education.molssi.org/python-package-best-practices/index.html">Python Package Best Practices</a></p></li>
+<li><p><a href="https://github.com/mwouts/jupytext">Jupytext</a></p></li>
+</ul></li>
+<li><p>Recording of a Python Carpentry Workshop by SoftwareSaved using Jupyter Lab (<a href="https://youtu.be/YHDvqPRM9tE">part 1</a>) (<a href="https://youtu.be/hhTV6BuSmcM">part 2</a>)</p></li>
+<li><p><a href="https://jupyter4edu.github.io/jupyter-edu-book/index.html">Teaching and Learning with Jupyter</a></p></li>
+<li><p><a href="https://hypothesis.readthedocs.io/en/latest/">Hypothesis</a> library</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=G1GjUZgZQbk&amp;list=PL35C27CB854E03FF2">Python videos</a> (beginner?)</p></li>
+<li><p><a href="https://github.com/wmvanvliet/gizmo">Can you speak Python?</a></p></li>
+<li><p><a href="https://carpentries.org/blog/2021/07/pyrse-book/">Research Software Engineering with Python</a></p></li>
+<li><p><a href="https://maneage.org/index.html">Maneage</a>&nbsp;</p></li>
+<li><p><a href="https://speakerdeck.com/trallard/jupyter-notebooks-friends-or-foes">Jupyter notebooks: Friends or foes?</a></p></li>
+<li><p><a href="https://doi.org/10.1371/journal.%20pcbi.1007007">Ten simple rules for writing and sharing Computational analyses in Jupyter Notebooks</a> (Rule et al.&nbsp;2019)</p></li>
+<li><p><a href="https://github.com/JoaoRodrigues/sc-teaching/blob/master/intermediate-python-2020/index.md">Intermediate Python Workshop</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=b1gmh4W3H9A">Build a Dashboard with Python Plotly Dash</a> (webinar by Laura Gutierrez Funderburk)</p></li>
+</ul>
+</section>
+<section id="r" class="level3">
+<h3 class="anchored" data-anchor-id="r">R</h3>
+<p>Please find a curated list for <a href="https://delft-rcafe.github.io/resources/">R resources at the TU Delft R Café</a></p>
+</section>
+<section id="communities" class="level3">
+<h3 class="anchored" data-anchor-id="communities">Communities</h3>
+<ul>
+<li><p>Code Newbies (<a href="https://twitter.com/CodeNewbies">@CodeNewbies</a>)</p></li>
+<li><p>Codecademy (<a href="https://twitter.com/Codecademy">@Codecademy</a>)</p></li>
+<li><p>Stackademic (<a href="https://twitter.com/StackademicHQ">@StackademicHQ</a>)</p></li>
+<li><p>Code .org (<a href="https://twitter.com/codeorg">@codeorg</a>)</p></li>
+<li><p>Women Who Code (<a href="https://twitter.com/WomenWhoCode">@WomenWhoCode</a>)</p></li>
+<li><p>Girls Who Code (<a href="https://twitter.com/GirlsWhoCode">@GirlsWhoCode</a>)</p></li>
+<li><p>Free Code Camp (<a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>)</p></li>
+<li><p>Black Girls Code (<a href="https://twitter.com/BlackGirlsCode">@BlackGirlsCode</a>)</p></li>
+<li><p>Design+Code (<a href="https://twitter.com/designcodeio">@designcodeio</a>)</p></li>
+<li><p>Microsoft Make Code (<a href="https://twitter.com/MSMakeCode">@MSMakeCode</a>)</p></li>
+<li><p>CodeHS (<a href="https://twitter.com/CodeHS">@CodeHS</a>)</p></li>
+</ul>
+</section>
+<section id="funding" class="level2">
+<h2 class="anchored" data-anchor-id="funding">Funding</h2>
+<ul>
+<li><a href="https://sovereigntechfund.de/en/applications/">Sovereign Tech Fund</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Software</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/index.html</guid>
+  <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-resources/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
