@@ -8,8 +8,6 @@ image: "excel.png"
 
 This post highlights several Excel functionalities:
 
-![](images/Microsoft_Office_Excel_(2019–present).svg.png)
-
 [Sparklines](https://support.microsoft.com/en-gb/office/use-sparklines-to-show-data-trends-1474e169-008c-4783-926b-5c60e620f5ca) allow you to insert miniature graphs inside an individual cell to easily visualize data.
 
 -   Select range
