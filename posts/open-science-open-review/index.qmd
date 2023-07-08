@@ -2,7 +2,7 @@
 title: "Open Peer Review"
 author: "Esther Plomp"
 date: "2022-12-01"
-categories: [Open Science, Open Publishing]
+categories: [Open Science, Peer Review]
 image: "open-review.jpg"
 ---
 
