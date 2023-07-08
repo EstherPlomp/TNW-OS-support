@@ -6,9 +6,9 @@ categories: [Open Science, Peer Review]
 image: "open-review.jpg"
 ---
 
-[![](images/paste-121DACEA.png){fig-alt="a Mastodon poll asking about people's preferences for signed or anonymous reviewers. 44% prefer signed review, versus 27% anonymous. 17% doesn't have a preference and 13% just wanted to see the results. 112 people voted on the poll that was posted on 9 november 2022." fig-align="center"}](https://fediscience.org/@lindedomingo/109315960101734543)
+**Open Peer Review** can refer to various practices, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process.
 
-Open Peer review can refer to various practises, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process.
+[![](images/paste-121DACEA.png){fig-alt="a Mastodon poll asking about people's preferences for signed or anonymous reviewers. 44% prefer signed review, versus 27% anonymous. 17% doesn't have a preference and 13% just wanted to see the results. 112 people voted on the poll that was posted on 9 november 2022." fig-align="center"}](https://fediscience.org/@lindedomingo/109315960101734543)
 
 ## More information
 

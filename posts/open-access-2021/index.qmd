@@ -2,7 +2,7 @@
 title: "Publishing articles in 2021"
 author: "Esther Plomp"
 date: "2022-12-13"
-categories: [Open Data, Data Management Plan, Open Software, FAIR, Plan S]
+categories: [Open Access, Plan S]
 image: "Plan-S.png"
 ---
 
