@@ -3,7 +3,7 @@ title: "Data Management Plan templates and guidance"
 author: "Esther Plomp"
 date: "2022-09-03"
 categories: [Data Management Plan]
-image: "DMP.jpg"
+image: "DMP.png"
 ---
 
 A **data management plan** (DMP) is a document that describes:
@@ -48,12 +48,12 @@ Main differences between the online platform and word templates:
 
 ### [NWO Data Section](https://surfdrive.surf.nl/files/index.php/s/WT2u5He3LJWjXPY) (Proposal)
 
-### [ZonMw Data Section](https://surfdrive.surf.nl/files/index.php/s/7rYVKvawSeca1Ed)(Proposal)
+### [ZonMw Data Section](https://surfdrive.surf.nl/files/index.php/s/7rYVKvawSeca1Ed) (Proposal)
 
 ### [ERC](https://surfdrive.surf.nl/files/index.php/s/LD2L0jcvRzuT2pK)
 
 ## **More information**
 
--    [The what, why and how of data management planning](https://www.youtube.com/watch?v=gYDb-GP1CA4) (5 min video)
+-   [The what, why and how of data management planning](https://www.youtube.com/watch?v=gYDb-GP1CA4) (5 min video)
 
 -   [Using DMPonline](https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline)
