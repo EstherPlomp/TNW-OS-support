@@ -82,3 +82,5 @@ See <https://choosealicense.com/appendix/> for a complete overview
 -   [Frequently Asked Questions on Free Software Licensing](https://fsfe.org/freesoftware/legal/faq.en.html)
 
 -   [ByteSized: Software Licences](https://open.spotify.com/episode/4ev4QCsY4yIoXkAkhEbiVR?si=ed690dac653b43b1) podcast episode
+
+-   [All About Permissive Licenses](https://fossa.com/blog/all-about-permissive-licenses/)
