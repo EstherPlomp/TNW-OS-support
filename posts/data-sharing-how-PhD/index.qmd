@@ -2,11 +2,11 @@
 title: "How to share data/code underlying the thesis?"
 author: "Esther Plomp"
 date: "2023-01-20"
-categories: [Open Data, Open Software, PhD, TNW]
+categories: [Open Data, Open Software, PhD]
 image: "image.jpg"
 ---
 
-How to share your PhD research outputs?
+**How to share your PhD research outputs?**
 
 TU Delft [Research Data Framework Policy](https://doi.org/10.5281/zenodo.2573159) requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate.
 
@@ -20,23 +20,29 @@ Ideally, you will share the data/code **at the same time** as you share the prep
 
 -   [Example of raw data underying an article](https://doi.org/10.4121/16539453)
 
-## Share the data/code underlying a chapter
-
-Your thesis may contain chapters that are not published (yet). In that case, you can share the remaining data/code in an upload that you clearly link to your dissertation/thesis (such as, data/code underlying \*title thesis\*).
-
 ## Share everything together
 
-You can also choose to bundle everything together in one upload.
+You can also choose to bundle everything together in one upload. Ensure that the name of the upload is linked to your thesis (example title: data/code underlying *title thesis*).
+
+-   [Example QN](https://doi.org/10.4121/21725060.v2)
+
+-   [Example QN2](https://doi.org/10.4121/20017610.v1)
+
+-   [Example BT](https://doi.org/10.4121/fa103940-2b19-486f-8bb8-7028695c1da5.v1)
 
 If you already shared data/code before, it is better to link to the older uploads instead of re-uploading the same data (unless you made any changes). You can do so in the metadata fields and in the [READme file](https://estherplomp.github.io/TNW-OS-support/posts/readme/).
 
 ## I still want to publish my thesis chapter!
 
-In that case you can still share the data/code when you publish the rest of the research outputs connected to your dissertation (because you will get a time stamp and DOI with the data/code that you can later connect to the article)
+In that case **you can still share** the data/code when you publish the rest of the research outputs connected to your dissertation (because you will get a time stamp and DOI with the data/code that you can later connect to the article)
 
 OR
 
-You can choose to wait with publishing the data/code and do so when you publish the article (as described above for sharing the data/code underlying an article).
+You can **choose to wait** with publishing the data/code and do so when you publish the article (as described above for sharing the data/code underlying an article). When you reserve a DOI for the data/code, you can still link to these research outputs in your dissertation. You can also still [share a private link](https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/#sharing-a-private-link) so that your promotor(s) and promotion committee can access the files.
+
+OR
+
+You can choose to **publish under embargo or restricted access**. This would allow for data access requests (when choosing restricted access) before you publish the chapter. When the data can be publicly accessible you can contact 4TU.ResearchData to change the access permissions.
 
 ## How?
 
@@ -74,4 +80,4 @@ Make sure that you link the 'DOI' from the data/code in your dissertation, and m
 
 ## More information
 
--   
+-   [How to use 4TU.ResearchData](https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/)
