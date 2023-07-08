@@ -1,5 +1,5 @@
 ---
-title: "Open Science & Inclusion"
+title: "Open Science & Justice"
 author: "Esther Plomp"
 date: "2022-11-29"
 categories: [Open Science, Inclusion]
