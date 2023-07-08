@@ -1,0 +1,57 @@
+---
+title: "Excel functionalities"
+author: "Esther Plomp"
+date: "2023-03-06"
+categories: [Tools]
+image: "excel.png"
+---
+
+This post highlights several Excel functionalities:
+
+![](images/Microsoft_Office_Excel_(2019–present).svg.png)
+
+[Sparklines](https://support.microsoft.com/en-gb/office/use-sparklines-to-show-data-trends-1474e169-008c-4783-926b-5c60e620f5ca) allow you to insert miniature graphs inside an individual cell to easily visualize data.
+
+-   Select range
+
+-   Insert ⇢ Sparkline
+
+-   Choose type
+
+The [People Graph add-on](https://www.howtogeek.com/732854/how-to-create-and-customize-a-people-graph-in-microsoft-excel/) allows you to create an infographic with pictures of humans (great for survey data!).
+
+[Create drop down lists](https://support.microsoft.com/en-au/office/video-create-and-manage-drop-down-lists-28db87b6-725f-49d7-9b29-ab4bc56cefc2) to ensure **correct data entry.**
+
+[Flash Fill](https://support.microsoft.com/en-us/office/using-flash-fill-in-excel-3f9bcf1e-db93-4890-94a0-1578341f73f7) **automatically fills your data when it senses a pattern** (example: separate first and last names from a single column).
+
+[Consolidate data from multiple tabs](https://support.microsoft.com/en-au/office/consolidate-data-in-multiple-worksheets-007ce8f4-2fae-4fea-9ee5-a0b2c9e36d9b). If you create links to the source data the consolidation tab will update automatically!
+
+[Highlight patterns with conditional formatting.](https://support.microsoft.com/en-au/office/highlight-patterns-and-trends-with-conditional-formatting-eea152f5-2a7d-4c1a-a2da-c5f893adb621) You can add data bars, heat maps to **highlight trends.**
+
+Use [Format Painter](https://support.microsoft.com/en-au/office/use-the-format-painter-4bb415a9-d4e4-42b7-b579-170adc594e40) to **quickly apply the same formatting** (color, font style, size) to multiple pieces of text or graphics
+
+-   Select the cells you'd like to copy
+
+-   Click the paintbrush
+
+-   Select where you want the formatting to go.
+
+[Camera Snapshot](https://answers.microsoft.com/en-us/msoffice/forum/all/how-to-use-camera-function-in-microsoft-excel/44a97349-f694-4bd3-a5ca-e4097f6e9437) allows you to **select data and link it as a picture**. When you update the workbook, the data in the picture will also update!
+
+Insert -\> **table** allows extra functionalities for tables.
+
+For example, [Slicer](https://support.microsoft.com/en-gb/office/use-slicers-to-filter-data-249f966b-a9d5-4b0f-b31a-12651785d29d) allows you to filter data:
+
+-   Click anywhere inside a table
+
+-   Go to table ⇢ insert slicer
+
+-   Select the fields you want
+
+-   A dialog box will appear: Click any slicer button to filter the data
+
+## More information
+
+-   [Spreadsheets](https://estherplomp.github.io/TNW-OS-support/posts/data-spreadsheets/)
+
+-   [10 Essential Excel Features For Data Analysts (and How to Use Them)](https://careerfoundry.com/en/blog/data-analytics/data-analysis-in-excel/)
