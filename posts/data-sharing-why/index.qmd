@@ -84,6 +84,8 @@ Several studies indicate that **data available upon request, is not actually ava
 
 -   "..we found raw data/code for 133 (47%) of those 283 preprints (15% of all analyzed preprint articles)." [Strcic et al. 2022](https://doi.org/10.1007/s11192-022-04346-1)
 
+-   only one (0.8%) out of 130 analyzed articles contained a direct link to the analyzed data ([Gorman 2020](https://doi.org/10.1007/s11948-020-00203-7))
+
 ## Five selfish reasons to work reproducibly
 
 Florian Markowetz provides five selfish reasons in his [article](https://doi.org/10.1186/s13059-015-0850-7) and [presentation](https://youtu.be/1Y_oIjlH-yg?t=355) (50 min) to work more reproducible. Reproducibility:
