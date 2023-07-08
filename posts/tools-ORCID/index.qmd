@@ -2,7 +2,7 @@
 title: "ORCID - PURE integration"
 author: "Esther Plomp"
 date: "2022-09-03"
-categories: [Credit, ORCID]
+categories: [Credit, Tools]
 image: "image.jpg"
 ---
 
