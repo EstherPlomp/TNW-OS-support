@@ -55,7 +55,7 @@ You can explain the file naming convention in a README.txt file, so that it will
 
 -   [Danielle Navarro's videos](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=2) about file naming and project structure
 
--   [File naming at Princeton University](https://libguides.princeton.edu/c.php?g=102546&p=930626)
+-   [ELIXIR Toolkit filenaming information](https://rdmkit.elixir-europe.org/data_organisation.html#what-is-the-best-way-to-name-a-file)
 
 ### Bulk renaming tools (use with care!):
 
@@ -87,7 +87,7 @@ Reference your samples: dates in notebooks + supplier's name/code
 
 Add any relevant notes:
 
-![(copyright by Marta Teperek)](images/paste-C1DEDF1E.png){alt="(copyright by Marta Teperek)" fig-alt="An excel sheet with physical sample organisation. The first column describes sample names, the second the accompanying data in the labbook, the third column the amount of samples left (if there are multiple), the fourth one is the sample sizes and the last column contains any notes about the sample."}
+![(copyright by Marta Teperek)](images/paste-C1DEDF1E.png){fig-alt="An excel sheet with physical sample organisation. The first column describes sample names, the second the accompanying data in the labbook, the third column the amount of samples left (if there are multiple), the fourth one is the sample sizes and the last column contains any notes about the sample."}
 
 ## Electronic Lab Notebooks
 
