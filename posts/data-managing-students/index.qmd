@@ -10,7 +10,7 @@ This post describes **5 pointers for Bachelor/Master students** to take into acc
 
 1.  Check with your supervisor whether they have a **Data Management Plan** in place. [Data Management Plans](https://estherplomp.github.io/TNW-OS-support/posts/DMP-templates/) discuss where the data is stored, who is responsible, matters of [data ownership](https://www.tudelft.nl/en/library/research-data-management/r/plan/data-ownership/), and if/how data will be shared publicly after the project. Most research projects require these plans by their funders and PhD candidates are also required to have this Plan.
 
-    -   When there is no plan in place you can set one up using [DMPonline](https://dmponline.tudelft.nl/) and contact the Data Steward where needed.
+    -   When there is no plan in place you can set one up using [DMPonline](https://dmponline.tudelft.nl/) and [contact the Data Steward](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact) where needed.
     -   *Only when working with **humans/personal data*****:** You are required to have this Data Management Plan if you are working on a project that involves humans and/or personal data:
         -   Setting up the Data Management Plan is part of the [Human Research Ethics Approval](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application) process.
         -   [Read more about privacy](https://www.tudelft.nl/en/privacy-security/privacy) and/or contact the privacy team if you have questions.
