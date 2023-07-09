@@ -30,6 +30,9 @@ This post describes **5 pointers for Bachelor/Master students** to take into acc
 
     -   If you're not working on campus and/or using your own device: use the [TU Delft VPN](https://www.tudelft.nl/studenten/ict/ict-voorzieningen/vpn) (virtual private network) to access the data. Do not store the data on your local device or USB/external drives: this could result in a data breach.
 
+        -   You should refrain from using public networks, hotspots, conference or hotel Wi-Fi to access sensitive data as these networks do not provide adequate security and should not be
+            trusted.
+
     -   [Encrypt](https://estherplomp.github.io/TNW-OS-support/posts/Encryption/index.html) files where needed.
 
 4.  **Follow recommended Research Data Management practices** during the project.
