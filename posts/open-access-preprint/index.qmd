@@ -3,7 +3,7 @@ title: "Preprint"
 author: "Esther Plomp"
 date: "2022-10-11"
 categories: [Open Access]
-image: "image.jpg"
+image: "oa-logo.png"
 ---
 
 A **preprint** is the version of the article before peer review.

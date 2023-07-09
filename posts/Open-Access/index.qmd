@@ -3,7 +3,7 @@ title: "Open Access"
 author: "Esther Plomp"
 date: "2022-08-28"
 categories: [Open Access]
-image: "image.jpg"
+image: "oa-logo.png"
 ---
 
 ## Why?
