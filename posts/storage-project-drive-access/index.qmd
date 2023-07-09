@@ -3,7 +3,7 @@ title: "Access Project Drive"
 author: "Esther Plomp"
 date: "2022-08-28"
 categories: [Storage]
-image: "image.jpg"
+image: "data.jpg"
 ---
 
 This post describes how to access the Project Drive on your computer and how to access it outside of the TU Delft network.
