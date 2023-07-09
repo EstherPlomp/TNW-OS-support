@@ -3,7 +3,7 @@ title: "How to share data/code underlying the thesis?"
 author: "Esther Plomp"
 date: "2023-01-20"
 categories: [Open Data, Open Software, PhD]
-image: "image.jpg"
+image: "open-data-fountain.jpg"
 ---
 
 **How to share your PhD research outputs?**

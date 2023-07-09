@@ -3,7 +3,7 @@ title: "How to share data?"
 author: "Esther Plomp"
 date: "2022-09-03"
 categories: [Open Data]
-image: "image.jpg"
+image: "open-data-fountain.jpg"
 ---
 
 How to share data?
