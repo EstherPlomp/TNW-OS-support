@@ -1,0 +1,55 @@
+---
+title: "Research Data Management for students"
+author: "Esther Plomp"
+date: "2023-07-09"
+categories: [Research Data Management]
+image: "open-data-fountain.jpg"
+---
+
+This post describes **5 pointers for Bachelor/Master students** to take into account before and during their research projects:
+
+1.  Check with your supervisor whether they have a **Data Management Plan** in place. [Data Management Plans](https://estherplomp.github.io/TNW-OS-support/posts/DMP-templates/) discuss where the data is stored, who is responsible, matters of [data ownership](https://www.tudelft.nl/en/library/research-data-management/r/plan/data-ownership/), and if/how data will be shared publicly after the project. Most research projects require these plans by their funders and PhD candidates are also required to have this Plan.
+
+    -   When there is no plan in place you can set one up using [DMPonline](https://dmponline.tudelft.nl/) and contact the Data Steward where needed.
+    -   *Only when working with **humans/personal data*****:** You are required to have this Data Management Plan if you are working on a project that involves humans and/or personal data:
+        -   Setting up the Data Management Plan is part of the [Human Research Ethics Approval](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application) process.
+        -   [Read more about privacy](https://www.tudelft.nl/en/privacy-security/privacy) and/or contact the privacy team if you have questions.
+
+2.  Discuss the **storage location** with your supervisor. For some research (personal data and/or commercial confidential data) you cannot use all storage solutions. TU Delft recommends:
+
+    -   [TU Delft OneDrive](https://www.tudelft.nl/en/it-manuals/office-365/)
+    -   [Project Drive](https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/#project-drive)
+    -   [SURFdrive](http://surfdrive.surf.nl/) (although as a student you cannot have your own account: your supervisor will have to share folders/files with you)
+    -   [TU Delft GitLab](https://gitlab.tudelft.nl)
+    -   [Electronic Lab Notebooks](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook)
+    -   The [Storage Solution post](https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/) contains a more comprehensive overview of TU Delft storage solutions.
+
+3.  Especially when working with personal/commercially confidential data, it is important that you **work securely.**
+
+    -   Use TU Delft computers, network drives, and the storage solutions recommended above. Only use these solutions to transfer data and do not provide access to individuals outside of your research project.
+
+    -   If you're not working on campus and/or using your own device: use the [TU Delft VPN](https://www.tudelft.nl/studenten/ict/ict-voorzieningen/vpn) (virtual private network) to access the data. Do not store the data on your local device or USB/external drives: this could result in a data breach.
+
+    -   [Encrypt](https://estherplomp.github.io/TNW-OS-support/posts/Encryption/index.html) files where needed.
+
+4.  **Follow recommended Research Data Management practices** during the project.
+
+    -   Ensure that everything is properly [organised](https://estherplomp.github.io/TNW-OS-support/posts/data-organisation/) and documented (whether [data](https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/), or [code](https://estherplomp.github.io/TNW-OS-support/posts/software-documentation/)).
+
+    -   [README files](https://estherplomp.github.io/TNW-OS-support/posts/readme/) are helpful tools to document the data/code.
+
+    -   See the [TU Delft Research Data Management 101 course for PhD candidates](https://tu-delft-library.github.io/rdm101-book/intro.html) for more information (you can follow the self-paced materials online!)
+
+5.  **When the project is finishing,** it is important to close off the project properly. This will be easier if you managed the data/code from the start!
+
+    -   Follow the Data Management Plan and share any data/code underlying the project via public solutions, or ensure that the data/code is transferred in a reusable manner to your supervisor.
+
+    -   See this off-boarding checklist ((link to TTW, under construction) if there are any other things that you should take care off.
+
+## More information
+
+-   Slides: [Research Data Management for Bachelor students](https://doi.org/10.5281/zenodo.6477901)
+
+-   [RDM FAQs](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs/)
+
+-   [TU Delft & Faculty Policies regarding Data and Software](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/)
