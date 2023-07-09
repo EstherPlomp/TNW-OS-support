@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Esther Plomp">
-<meta name="dcterms.date" content="2022-09-04">
+<meta name="dcterms.date" content="2023-07-09">
 
-<title>TNW-OS-support - Data Documentation</title>
+<title>TNW-OS-support - Research Data Management for students</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -103,7 +103,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Data Documentation</h1>
+      <h1 class="title">Research Data Management for students</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">Research Data Management</div>
               </div>
@@ -123,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">September 4, 2022</p>
+        <p class="date">July 9, 2023</p>
       </div>
     </div>
     
@@ -141,93 +141,53 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Documentation is important to understand the data/code. This post provides information about documentation, file naming and metadata.</p>
-<section id="documentation" class="level2">
-<h2 class="anchored" data-anchor-id="documentation">Documentation</h2>
-<p>It is important to document your data, as it provides the contextual information needed to interpret the data. Data documentation includes information on the context of the data collection (project objectives and hypotheses), data collection methods (sampling, data collection process, analysis instruments used, software used to process the data etc), temporal and geographic coverage and by whom the data collection took place. Where multiple datasets or multiple versions of the same dataset are generated, the relationship between (the versions of) datasets should be clear.</p>
+<p>This post describes <strong>5 pointers for Bachelor/Master students</strong> to take into account before and during their research projects:</p>
+<ol type="1">
+<li><p>Check with your supervisor whether they have a <strong>Data Management Plan</strong> in place. <a href="https://estherplomp.github.io/TNW-OS-support/posts/DMP-templates/">Data Management Plans</a> discuss where the data is stored, who is responsible, matters of <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/data-ownership/">data ownership</a>, and if/how data will be shared publicly after the project. Most research projects require these plans by their funders and PhD candidates are also required to have this Plan.</p>
 <ul>
-<li><p><a href="https://doi.org/10.5281/zenodo.1914401">Guide for data documentation</a></p></li>
-<li><p><a href="https://uf-repro.github.io/data-organization/slides.html">Data organisation in spreadsheets</a>&nbsp;(see also the <a href="https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary">Open Science Framework guidance</a>)</p></li>
-<li><p><a href="https://libguides.library.kent.edu/SPSS/Codebooks">Code Book</a></p></li>
-<li><p><a href="https://doi.org/10.1177/2515245920928007">Guide on how to create data dictionaries</a></p></li>
-<li><p>check the README post</p></li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://twitter.com/thecrobe/status/1373590641012322306"><img src="images/image-1807077771.png" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-</section>
-<section id="file-naming-convention" class="level2">
-<h2 class="anchored" data-anchor-id="file-naming-convention">File naming convention</h2>
-<p>Structure your file names and set up a template for this. It is very useful to start with the date (when the file was generated: YYYYMMDD) which will sort your files chronologically and also creates a unique identifier for each file. (It will be immediately clear if there are multiple files generated on the same day that will have to be given a version number –or “A, B”-, because otherwise overwriting would occurs if you store these files in the proper folder).</p>
-<p>Examples:<br>
-<strong>20190607_ImPhys_RDMTemplate_v001_eng</strong></p>
+<li>When there is no plan in place you can set one up using <a href="https://dmponline.tudelft.nl/">DMPonline</a> and contact the Data Steward where needed.</li>
+<li><em>Only when working with <strong>humans/personal data</strong></em><strong>:</strong> You are required to have this Data Management Plan if you are working on a project that involves humans and/or personal data:
 <ul>
-<li><p>Date or date range of experiment: YYYYMMDD</p></li>
-<li><p>File type (or language such as the example above)</p></li>
-<li><p>Researcher name/initials</p></li>
-<li><p>Version number of file (v001, v002)</p></li>
-<li><p>Don’t make file names too long (30-70 characters should do the trick)</p></li>
-<li><p>Avoid special characters (?\!@*%{[&lt;&gt;) and spaces</p></li>
-</ul>
-<p>You can explain the file naming convention in a README.txt file, so that it will also become clear to others what the file names mean.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://twitter.com/chazhutton/status/1285955514241875968/photo/1"><img src="images/image-930892278.png" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
-<section id="more-information-on-file-naming" class="level3">
-<h3 class="anchored" data-anchor-id="more-information-on-file-naming">More information on file naming</h3>
+<li>Setting up the Data Management Plan is part of the <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application">Human Research Ethics Approval</a> process.</li>
+<li><a href="https://www.tudelft.nl/en/privacy-security/privacy">Read more about privacy</a> and/or contact the privacy team if you have questions.</li>
+</ul></li>
+</ul></li>
+<li><p>Discuss the <strong>storage location</strong> with your supervisor. For some research (personal data and/or commercial confidential data) you cannot use all storage solutions. TU Delft recommends:</p>
 <ul>
-<li><p><a href="https://speakerdeck.com/jennybc/how-to-name-files">Jenny Bryan’s ‘naming things’ presentation</a></p></li>
-<li><p><a href="https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247">8 step guide</a> on how to set up your file naming convention</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=u6MiDFvAs9w&amp;list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&amp;index=2">Danielle Navarro’s videos</a> about file naming and project structure</p></li>
-<li><p><a href="https://rdmkit.elixir-europe.org/data_organisation.html#what-is-the-best-way-to-name-a-file">ELIXIR Toolkit filenaming information</a></p></li>
-</ul>
-</section>
-<section id="bulk-renaming-tools-use-with-care" class="level3">
-<h3 class="anchored" data-anchor-id="bulk-renaming-tools-use-with-care">Bulk renaming tools (use with care!):</h3>
+<li><a href="https://www.tudelft.nl/en/it-manuals/office-365/">TU Delft OneDrive</a></li>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/#project-drive">Project Drive</a></li>
+<li><a href="http://surfdrive.surf.nl/">SURFdrive</a> (although as a student you cannot have your own account: your supervisor will have to share folders/files with you)</li>
+<li><a href="https://gitlab.tudelft.nl">TU Delft GitLab</a></li>
+<li><a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">Electronic Lab Notebooks</a></li>
+<li>The <a href="https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/">Storage Solution post</a> contains a more comprehensive overview of TU Delft storage solutions.</li>
+</ul></li>
+<li><p>Especially when working with personal/commercially confidential data, it is important that you <strong>work securely.</strong></p>
 <ul>
-<li><p>Windows: <a href="http://www.antp.be/software/renamer">Ant Renamer</a>, <a href="sourceforge.net/prpjects/renameit">RenameIT</a>, <a href="http://www.bulkrenameutility.co.uk/">Bulk Rename Utility</a></p></li>
-<li><p>Mac: <a href="https://renamer.com/">Renamer</a>, <a href="https://mrrsoftware.com/namechanger/">Name Changer</a></p></li>
-<li><p>Linux: <a href="https://gcmd.github.io/">GNOME Commander</a>, <a href="http://gprename.sourceforge.net/">GPRename</a></p></li>
-<li><p>Unix: Using the grep command to search for regular expressions</p></li>
-</ul>
-</section>
-</section>
-<section id="metadata" class="level2">
-<h2 class="anchored" data-anchor-id="metadata">Metadata</h2>
-<p>Metadata is information about your data, such as the title of the dataset, the date, creator(s) and keywords that describe the data. Metadata standards with defined fields ensure machine readability. To look for disciplinary standards you can use the resources below:</p>
-<p>• <a href="https://fairsharing.org/">FAIRsharing.org</a></p>
-<p>• <a href="https://rd-alliance.github.io/metadata-directory/standards/">Research Data Alliance metadata directory</a></p>
-<p>• <a href="http://www.dcc.ac.uk/resources/metadata-standards">Digital Curation Center</a></p>
-<section id="tools-available-for-metadata-creation" class="level3">
-<h3 class="anchored" data-anchor-id="tools-available-for-metadata-creation">Tools available for metadata creation:</h3>
-<p><a href="https://frictionlessdata.io/">Frictionless</a>: <a href="https://github.com/frictionlessdata/datapackage-pipelines">Datapackage Pipelines</a> (see <a href="https://www.youtube.com/watch?v=vZAi4OnfH-Q&amp;feature=youtu.be">this presentation on YouTube</a>)</p>
-</section>
-</section>
-<section id="physical-samples" class="level2">
-<h2 class="anchored" data-anchor-id="physical-samples">Physical samples</h2>
-<p>Reference your samples: dates in notebooks + supplier’s name/code</p>
-<p>Add any relevant notes:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/paste-C1DEDF1E.png" class="img-fluid figure-img" alt="An excel sheet with physical sample organisation. The first column describes sample names, the second the accompanying data in the labbook, the third column the amount of samples left (if there are multiple), the fourth one is the sample sizes and the last column contains any notes about the sample."></p>
-<figcaption class="figure-caption">(copyright by Marta Teperek)</figcaption>
-</figure>
-</div>
-</section>
-<section id="electronic-lab-notebooks" class="level2">
-<h2 class="anchored" data-anchor-id="electronic-lab-notebooks">Electronic Lab Notebooks</h2>
-<p>TU Delft provides licenses for <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook">RSpace and eLABjournal</a>.</p>
-<p>You can also keep a digital copy in solutions such as OneNote, or <a href="https://www.dannygarside.co.uk/blog/An-open-source-knowledge-management-system-for-the-lab/">logseq</a>.</p>
-</section>
+<li><p>Use TU Delft computers, network drives, and the storage solutions recommended above. Only use these solutions to transfer data and do not provide access to individuals outside of your research project.</p></li>
+<li><p>If you’re not working on campus and/or using your own device: use the <a href="https://www.tudelft.nl/studenten/ict/ict-voorzieningen/vpn">TU Delft VPN</a> (virtual private network) to access the data. Do not store the data on your local device or USB/external drives: this could result in a data breach.</p>
+<ul>
+<li>You should refrain from using public networks, hotspots, conference or hotel Wi-Fi to access sensitive data as these networks do not provide adequate security and should not be trusted.</li>
+</ul></li>
+<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/Encryption/index.html">Encrypt</a> files where needed.</p></li>
+</ul></li>
+<li><p><strong>Follow recommended Research Data Management practices</strong> during the project.</p>
+<ul>
+<li><p>Ensure that everything is properly <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-organisation/">organised</a> and documented (whether <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/">data</a>, or <a href="https://estherplomp.github.io/TNW-OS-support/posts/software-documentation/">code</a>).</p></li>
+<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/readme/">README files</a> are helpful tools to document the data/code.</p></li>
+<li><p>See the <a href="https://tu-delft-library.github.io/rdm101-book/intro.html">TU Delft Research Data Management 101 course for PhD candidates</a> for more information (you can follow the self-paced materials online!)</p></li>
+</ul></li>
+<li><p><strong>When the project is finishing,</strong> it is important to close off the project properly. This will be easier if you managed the data/code from the start!</p>
+<ul>
+<li><p>Follow the Data Management Plan and share any data/code underlying the project via public solutions, or ensure that the data/code is transferred in a reusable manner to your supervisor.</p></li>
+<li><p>See this off-boarding checklist ((link to TTW, under construction) if there are any other things that you should take care off.</p></li>
+</ul></li>
+</ol>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
-<li><a href="https://documentation.divio.com/introduction/">DIVIO Documentation guide</a></li>
-<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/software-documentation/">Code Documentation post</a></li>
+<li><p>Slides: <a href="https://doi.org/10.5281/zenodo.6477901">Research Data Management for Bachelor students</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs/">RDM FAQs</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/">TU Delft &amp; Faculty Policies regarding Data and Software</a></p></li>
 </ul>
 
 
