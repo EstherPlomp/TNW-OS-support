@@ -3,10 +3,10 @@ title: "Software documentation"
 author: "Esther Plomp"
 date: "2022-08-28"
 categories: [Software]
-image: "image.jpg"
+image: "documentation.png"
 ---
 
-How should you provide adequate documentaton with your code to make it understandable for reusers?
+How should you provide adequate documentation with your code to make it understandable for reusers?
 
 ## In-code documentation
 
