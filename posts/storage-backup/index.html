@@ -9,7 +9,7 @@
 <meta name="author" content="Esther Plomp">
 <meta name="dcterms.date" content="2022-08-28">
 
-<title>TNW-OS-support - Software documentation</title>
+<title>TNW-OS-support - Backup</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -103,9 +103,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Software documentation</h1>
+      <h1 class="title">Backup</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">Software</div>
+                <div class="quarto-category">Storage</div>
+                <div class="quarto-category">Research Data Management</div>
               </div>
                   </div>
   </div>
@@ -141,48 +142,39 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>How should you provide adequate documentation with your code to make it understandable for reusers?</p>
-<section id="in-code-documentation" class="level2">
-<h2 class="anchored" data-anchor-id="in-code-documentation">In-code documentation</h2>
-<p><a href="https://vimeo.com/463992354">Comments video by Barbara Vreede</a></p>
-</section>
-<section id="readme" class="level2">
-<h2 class="anchored" data-anchor-id="readme">README</h2>
-<p>A README file is a text file that provides information about an open source software project, including details on how to install and use the software, as well as any dependencies or prerequisites that are required. A README file is often the first thing that users will see when they encounter an open source project, and it is an important tool for helping users understand and use the software.</p>
-<p>A README file should contain the following information:</p>
-<ol type="1">
-<li><p>A brief overview of the project, including its purpose and main features.</p></li>
-<li><p>Installation/usage instructions, including any dependencies or prerequisites that are required.</p></li>
-<li><p>License information</p></li>
-<li><p>Recommended citation (see <a href="https://estherplomp.github.io/TNW-OS-support/posts/software-citation/">Software Citation</a>)</p></li>
-</ol>
-<p>When the software is a bigger or on-going project, also include the following information:</p>
-<ol type="1">
-<li><p>Contributing guidelines, if the project is open to contributions from the community.</p></li>
-<li><p>A list of any known issues or bugs, along with any workarounds or fixes that are available.</p></li>
-<li><p>Contact information for the project maintainers or developers, in case users have questions or need support.</p></li>
-</ol>
-<p><a href="https://vimeo.com/464027978">README video by Barbara Vreede</a></p>
-<p>examples:</p>
-<p><a href="https://github.com/PurpleBooth/a-good-readme-template">A template to make good README.md</a></p>
-<p><a href="https://codemeta.github.io/codemeta-generator/">CodeMeta</a> creates a minimal metadata schema for research software and code.</p>
-</section>
-<section id="reusable-code" class="level2">
-<h2 class="anchored" data-anchor-id="reusable-code">Reusable code</h2>
-<ol type="1">
-<li>List dependencies/variables on top</li>
-<li>Using a ‘main’ code calling other codes to make it more readable</li>
-<li>Add in comments at the start about what the code does, and what in/outputs are expected</li>
-<li>Use functions</li>
-<li>Make tests for the functions</li>
-</ol>
+<p>To avoid losing your data, you should follow recommended <strong>backup practices</strong>:</p>
+<ul>
+<li><p>You should have 2 or 3 copies of your files, stored on</p></li>
+<li><p>at least 2 different storage media,</p></li>
+<li><p>in different (physical) locations.</p></li>
+</ul>
+<p>The more important the data and the more often the datasets change, the more frequently you should back them up.</p>
+<p><strong>Automatic backup</strong> is preferred!</p>
+<p>Be careful with storing important data on external drives and flash memory devices (USB/MicroSD cards). They pose a security risk due to their portability, are easily damaged or lost.</p>
+<p><img src="images/image-495550284.png" class="img-fluid"></p>
+<section id="questions-to-consider-for-your-backup-strategy" class="level2">
+<h2 class="anchored" data-anchor-id="questions-to-consider-for-your-backup-strategy">Questions to consider for your backup strategy</h2>
+<ul>
+<li><p>How will you back up your data? What storage solutions meet your needs?</p></li>
+<li><p>How often will you make full backups (backing all your data) and incremental backups (backing up only the data and files that have changed since the previous backup)?</p></li>
+<li><p>How long will backups be stored?</p></li>
+<li><p>How much storage space will be required to maintain this backup schedule? Will multiple storage devices be needed to successfully backup all your data?</p></li>
+<li><p>How will you keep track of different versions of data, especially if backing-up to multiple devices? If using versioning software, which software will you use (Git, Subversion)?</p></li>
+<li><p>Will you be using any backup tools or applications?</p></li>
+<li><p>If the data are sensitive, how will they be stored securely?</p>
+<ul>
+<li>How will you manage the secure deletion or destruction of data if required?</li>
+</ul></li>
+<li><p>How and when will you test your backup system?</p></li>
+</ul>
 </section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
-<li><a href="https://coderefinery.github.io/documentation/">Code documentation lesson by Code Refinery</a></li>
-<li><a href="https://uf-repro.github.io/writing-reusable-code/slides.html#1">Writing Reusable and Modular Code</a></li>
-<li><a href="https://project.software-metadata.pub/">HERMES</a></li>
+<li><p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html#backups">The Turing Way on backups</a></p></li>
+<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/storage-project-drive-backup/">Project Drive Backup</a></p></li>
+<li><p><a href="https://doi.org/10.1038/d41586-019-01040-w">11 ways to avert a data-storage disaster</a></p></li>
+<li><p><a href="https://doi.org/10.1371/journal.pcbi.1005097">Ten Simple Rules for Digital Data Storage</a></p></li>
 </ul>
 
 
