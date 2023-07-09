@@ -8,10 +8,8 @@ image: "image.jpg"
 
 Git workflow:
 
-![Git workflow overview by nikkiandchris.io](https://pbs.twimg.com/media/FluugetagAIuMJf?format=jpg&name=large){alt="Git workflow overview by nikkiandchris.io" ="" Local environment consisting of working directory, staging, stash, and local repository. Specific actions, including pull, add, commit can be done between specific git compartments. There's also a remote environment.="" fig-alt="Local environment consisting of working directory, staging, stash, and local repository. Specific actions, including pull, add, commit can be done between specific git compartments. There's also a remote environment."}
+![](git-workflow){fig-alt="Local environment consisting of working directory, staging, stash, and local repository. Specific actions, including pull, add, commit can be done between specific git compartments. There's also a remote environment" width="909"}
 
 ## More information
 
--   
-
--   
+-   [The Turing Way: Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
