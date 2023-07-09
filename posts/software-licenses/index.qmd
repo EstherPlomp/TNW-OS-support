@@ -3,7 +3,7 @@ title: "TU Delft Approved Software Licenses"
 author: "Esther Plomp"
 date: "2022-12-19"
 categories: [Software, Licenses]
-image: "image.jpg"
+image: "software.png"
 ---
 
 A brief overview of the TU Delft Approved Software Licenses.

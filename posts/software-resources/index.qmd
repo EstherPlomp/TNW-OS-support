@@ -3,7 +3,7 @@ title: "Software Resources"
 author: "Esther Plomp"
 date: "2022-12-12"
 categories: [Software]
-image: "image.jpg"
+image: "software.png"
 ---
 
 Overview of resources related to programming, Python, Git(Hub), Shell and programming communities.
@@ -154,6 +154,6 @@ Please find a curated list for [R resources at the TU Delft R Café](https://del
 
 -   CodeHS ([\@CodeHS](https://twitter.com/CodeHS))
 
-##  Funding
+## Funding
 
 -   [Sovereign Tech Fund](https://sovereigntechfund.de/en/applications/)

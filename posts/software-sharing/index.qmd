@@ -3,7 +3,7 @@ title: "Sharing Software"
 author: "Esther Plomp"
 date: "2022-09-02"
 categories: [Licenses, Software]
-image: "image.jpg"
+image: "software.png"
 ---
 
 ## Why share your software/code?
