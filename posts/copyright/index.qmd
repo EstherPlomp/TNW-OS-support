@@ -6,6 +6,8 @@ categories: [Open Science]
 image: "copyright.png"
 ---
 
+This blogpost contains links to resources that can be freely reused.
+
 ## Copyright free images:
 
 -   [pexels.com/fr-fr/](https://t.co/oTioaam8Y1)
