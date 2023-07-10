@@ -14,9 +14,9 @@ image: "zotero.png"
 
 -   [ZotFile](http://zotfile.com/) is a Zotero plugin to manage your attachments.
 
--   You can import BibTex files from Zotero in your ORCID profile:
+-   You can import BibTex files from Zotero in your [ORCID profile](https://orcid.org/) (an ORCID is a persistent identifier for researchers, where you can manage your research outputs yourself):
 
-    ![](images/image-170768552.png){width="454"}
+    ![](images/image-170768552.png){fig-alt="Screenshot of the ORCID webpage where you can add works via the Import BibTex option" width="454"}
 
 ## **More information**
 
