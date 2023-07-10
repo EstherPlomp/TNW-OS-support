@@ -8,9 +8,9 @@ image: "readme.png"
 
 ## How to set up your README file
 
-A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally submitted when sharing data and is the landing page of your software repository.
+A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally shared together with an open dataset, or can be the landing page of your software repository.
 
-README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used, etc.). See <https://www.makeareadme.com/> for more information on why README files are important and how you can set up your own README files.
+README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). See <https://www.makeareadme.com/> for more information on why README files are important and how you can set up your own README files.
 
 ## README for data
 
@@ -26,9 +26,7 @@ Example templates for data:
 
 -   <https://cornell.app.box.com/v/ReadmeTemplate>
 
--   [4TU.ResearchData's guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf).
-
--   <https://datamanagement.hms.harvard.edu/collect/readme-files>
+-   [4TU.ResearchData's guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf)
 
 ## README for software
 
@@ -44,10 +42,8 @@ Example templates for software:
 
     -   <https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md>
 
-    -   <https://github.com/benmarwick/rrtools>
-
     -   <https://gist.github.com/jxson/1784669>
 
     -   <https://github.com/othneildrew/Best-README-Template>
 
-    -   [https://github.com/matthiasott/README-template](https://github.com/matthiasott/README-templatehttps://github.com/matthiasott/README-template)
+    -   <https://github.com/matthiasott/README-template>
