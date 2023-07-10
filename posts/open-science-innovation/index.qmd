@@ -1,5 +1,5 @@
 ---
-title: "Open Innovation"
+title: "Open Innovation [WIP]"
 author: "Esther Plomp"
 date: "2022-11-21"
 categories: [Open Science, TU Delft]

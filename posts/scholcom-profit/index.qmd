@@ -1,5 +1,5 @@
 ---
-title: "Publish and profit"
+title: "Publish and profit [WIP]"
 author: "Esther Plomp"
 date: "2022-09-02"
 categories: [Scholarly Communication]
