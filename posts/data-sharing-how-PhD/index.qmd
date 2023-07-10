@@ -14,7 +14,7 @@ For more information on what data you should share, please see the [what data sh
 
 ## Share data/code underlying the article
 
-Ideally, you will share the data/code **at the same time** as you share the preprint or publish your article. This way, all your [research outputs are connected with each other](https://the-turing-way.netlify.app/communication/citable/citable-linking.html) and you will not have to go back to organise 'old' data/code.
+Ideally, you will share the data/code **at the same time** as you share the [preprint](https://estherplomp.github.io/TNW-OS-support/posts/open-access-preprint/) or publish your article. This way, all your [research outputs are connected with each other](https://the-turing-way.netlify.app/communication/citable/citable-linking.html) and you will not have to go back to organise 'old' data/code.
 
 -   [Example of data underlying an article](https://doi.org/10.4121/13031837)
 
@@ -24,13 +24,11 @@ Ideally, you will share the data/code **at the same time** as you share the prep
 
 You can also choose to bundle everything together in one upload. Ensure that the name of the upload is linked to your thesis (example title: data/code underlying *title thesis*).
 
--   [Example QN](https://doi.org/10.4121/21725060.v2)
-
--   [Example QN2](https://doi.org/10.4121/20017610.v1)
+-   Example QN [1](https://doi.org/10.4121/21725060.v2) / [2](https://doi.org/10.4121/20017610.v1)
 
 -   [Example BT](https://doi.org/10.4121/fa103940-2b19-486f-8bb8-7028695c1da5.v1)
 
-If you already shared data/code before, it is better to link to the older uploads instead of re-uploading the same data (unless you made any changes). You can do so in the metadata fields and in the [READme file](https://estherplomp.github.io/TNW-OS-support/posts/readme/).
+If you already shared data/code before, it is better to link to the older uploads instead of re-uploading the same data (unless you made any changes). You can do so in the metadata fields and in the [README file](https://estherplomp.github.io/TNW-OS-support/posts/readme/).
 
 ## I still want to publish my thesis chapter!
 
@@ -48,7 +46,7 @@ You can choose to **publish under embargo or restricted access**. This would all
 
 Pending on how complex your dataset is in terms of size or amount of files, there are several solutions on how to organise your data:
 
--   Have all the files in one directory together with a [READme file](https://estherplomp.github.io/TNW-OS-support/posts/readme/), if you do not have a lot of files
+-   Have all the files in one directory together with a [README file](https://estherplomp.github.io/TNW-OS-support/posts/readme/), if you do not have a lot of files
 
     -   [example 1](https://doi.org/10.4121/13395482.v1), [example 2](https://doi.org/10.4121/uuid:875f0bfd-c047-480c-8a3f-6322a33b3f9a)
 
@@ -70,13 +68,13 @@ Pending on how complex your dataset is in terms of size or amount of files, ther
 
 ## Where?
 
-TU Delft has a dedicated data repository, [4TU.ResearchData](https://data.4tu.nl/info/en/), where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the [4TU.ResearchData's guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf).
+TU Delft has a dedicated data repository, [4TU.ResearchData](https://data.4tu.nl/info/en/), where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the [4TU.ResearchData's guidelines for README files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf).
 
 If your group/project is using [Zenodo](https://zenodo.org/) you can also tag a project 'community'. See for example [SAMOSAFER](https://zenodo.org/communities/samosafer) and [BatteryNL](https://zenodo.org/communities/batterynl/).
 
 ## Link between data/code and your dissertation
 
-Make sure that you link the 'DOI' from the data/code in your dissertation, and mention the DOI/title of your dissertation in your data/code upload (in the metadata fields of de upload and the READme file).
+Make sure that you link the 'DOI' from the data/code in your dissertation, and mention the DOI/title of your dissertation in your data/code upload (in the metadata fields of de upload and the README file).
 
 ## More information
 
