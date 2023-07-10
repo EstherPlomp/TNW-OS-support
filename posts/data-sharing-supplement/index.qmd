@@ -3,7 +3,7 @@ title: "Why not supplemental materials?"
 author: "Esther Plomp"
 date: "2023-02-27"
 categories: [Open Data]
-image: "image.jpg"
+image: "404.png"
 ---
 
 ## 
