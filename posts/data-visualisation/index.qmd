@@ -3,27 +3,43 @@ title: "Data visualisation"
 author: "Esther Plomp"
 date: "2023-05-22"
 categories: [Research Data Management]
-image: "open-data-fountain.jpg"
+image: "visualisation.png"
 ---
 
-Resources related to improving data visualisations in scientific papers, posters and other outputs.
+This post contains resources related to improving data visualisations in scientific papers, posters and other outputs.
 
-[Tips to improve interpretability and accessibility](https://www.youtube.com/watch?v=RzT95DVUMnw) by Dr Tracey Weissgerber (video)
+## General resources
 
-[Create Effective Data Visualizations](https://youtu.be/jt-VdyFzjj0) (second part focuses primarily on Tableau) (video)
+-   [Create Effective Data Visualizations](https://youtu.be/jt-VdyFzjj0) (second part focuses primarily on Tableau) (video)
 
-[A detailed guide to colors in data vis style guides](https://blog.datawrapper.de/colors-for-data-vis-style-guides/) (blog)
-
-## More information
+-   [Creating clear and informative image-based figures for scientific publications](https://doi.org/10.1371/journal.pbio.3001161%20See%20th)
 
 -   [Data visualisation for scientific papers](https://www.youtube.com/playlist?list=PLWb8IFSVeQ62NbG-u4vQlh4srFcC2KH5g) videos by ReproducibiliTeach
 
--   [Data Visualization Course](https://exploratory-data-visualization.netlify.app/)
+## BioRender
+
+TU Delft offers licenses for BioRender (pilot programme). BioRender allows you to create professional figures in minutes through the use of pre-made icons and templates.
+
+See also the following resources provided on Data Visualisation provided by BioRender:
+
+-   [Better Grant Figures](https://learn.biorender.com/tutorial/creating-grant-figures)
+
+-   [Designing graphical abstracts](https://learn.biorender.com/tutorial/designing-graphical-abstracts)
+
+-   [Tips for better presentations](https://learn.biorender.com/tutorial/tips-for-better-presentations)
+
+## Accessibility
+
+-   [Tips to improve interpretability and accessibility](https://www.youtube.com/watch?v=RzT95DVUMnw) by Dr Tracey Weissgerber (video)
 
 -   [Writing Meaningful Alt-Texts for Data Visualizations in R](https://www.youtube.com/watch?v=dXV5bx1WQTM)
 
--   [Jambor et al. 2021](https://doi.org/10.1371/journal.pbio.3001161 See th)
+## Colours
+
+-   [A detailed guide to colors in data vis style guides](https://blog.datawrapper.de/colors-for-data-vis-style-guides/) (blog)
+
+## More information
+
+-   [Data Visualization Course](https://exploratory-data-visualization.netlify.app/)
 
 -   [Free visual and communication resources](https://padlet.com/evansemporiumstore/lks3aoyyhkpnkmpe)
-
--   [**"Better Grant Figures**](https://learn.biorender.com/tutorial/creating-grant-figures) **&** [Designing graphical abstracts](https://learn.biorender.com/tutorial/designing-graphical-abstracts) & [Tips for better presentations](https://learn.biorender.com/tutorial/tips-for-better-presentations) **by BioRender**
