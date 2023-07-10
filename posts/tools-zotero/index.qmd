@@ -6,19 +6,21 @@ categories: [Tools]
 image: "zotero.png"
 ---
 
-Zotero can be used for
+[Zotero](https://www.zotero.org/) is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.
 
-You can use NotionHQ and the Notero plugin to organise papers in a database and store detailes notes (see an [example template](https://dust-bovid-04d.notion.site/ba1bc5022a4d469abd2ea559e80bc56b?v=a953e6bf2a3449e9ab3083154ce2b238)).
+## Integration with other plugins and tools
 
-[ZotFile](http://zotfile.com/)
+-   You can use NotionHQ and the Notero plugin to organise papers in a database and store detailes notes (see an [example template](https://dust-bovid-04d.notion.site/ba1bc5022a4d469abd2ea559e80bc56b?v=a953e6bf2a3449e9ab3083154ce2b238)).
 
-You can import BibTex files in your ORCID profile:
+-   [ZotFile](http://zotfile.com/) is a Zotero plugin to manage your attachments.
 
-![](images/image-170768552.png)
+-   You can import BibTex files from Zotero in your ORCID profile:
+
+    ![](images/image-170768552.png){width="454"}
 
 ## **More information**
 
 -   [How do I import a Mendeley library into Zotero?](https://www.zotero.org/support/kb/mendeley_import)
-    -   make sure that you tell Mendeley desktop to sync attached files for your \*entire\* library BEFORE importing to Zotero. You can do this by clicking the Edit Settings button by All Documents in the main desktop window, and clicking Synchronize attached files.
+    -   Ensure that you tell Mendeley desktop to sync attached files for your \*entire\* library **before** importing to Zotero. You can do this by clicking the "Edit Settings" button by "All Documents" in the main desktop window, and clicking "Synchronize attached files".
 -   [Installing the Zotero Word Processor Plugins](https://www.zotero.org/support/word_processor_plugin_installation)
 -   [How to Organize Literature and Notes in Zotero](https://calc.hypotheses.org/5692)
