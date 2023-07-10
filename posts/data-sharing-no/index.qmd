@@ -6,17 +6,15 @@ categories: [Open Data, Citation]
 image: "open-data-fountain.jpg"
 ---
 
-## 
-
 ## What if I cannot share my data/code?
 
 The following types of data/code [may not be suitable to share](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667):
 
 -   **Personal data**
 
-    -   Ensure consent has been given to procces and share the data
+    -   Ensure consent has been given to process and share the data
 
-    -   Anonymise or aggregate the data before sharing or use restricted access to share this data
+    -   Anonymise or aggregate the data before sharing or use restricted access to share this data. See [The Turing Way for more information on sharing sensitive data](https://the-turing-way.netlify.app/project-design/sdpm/sharing-sensitive-data.html).
 
 -   **Commercially confidential data**
 
@@ -40,7 +38,7 @@ The following types of data/code [may not be suitable to share](https://www.tude
 
 -   **Other types of confidential data**
 
-    -   National security, (e.g. nuclear research, military research)
+    -   National security (nuclear research, military research)
 
     -   Export control regulations
 
@@ -48,10 +46,10 @@ The following types of data/code [may not be suitable to share](https://www.tude
 
 -   **Data too large to be published online in a repository**
 
-    -   [4TU.ResearchData](https://data.4tu.nl/info/en/)offers each TU Delft researcher the possibility to publish up to 1TB of data free of charge
+    -   [4TU.ResearchData](https://data.4tu.nl/info/en/) offers each TU Delft researcher the possibility to publish up to 1TB of data free of charge
 
     -   You may need to make a selection of the data you'll share publicly and indicate clearly how you can be contacted if further access is needed
 
 ## More information
 
--   [TU Delft library FAQ](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667)
+-   [TU Delft Library FAQ](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667)
