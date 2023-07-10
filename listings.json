@@ -2,10 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/data-visualisation/index.html",
       "/posts/data-managing-students/index.html",
       "/posts/4TU-info/index.html",
       "/posts/readme/index.html",
-      "/posts/data-visualisation/index.html",
+      "/posts/open-science-OLS/index.html",
       "/posts/integrity-inclusive-meetings/index.html",
       "/posts/tools-excel/index.html",
       "/posts/tools-zotero/index.html",

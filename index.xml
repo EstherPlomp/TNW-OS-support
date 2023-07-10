@@ -10,7 +10,64 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.433</generator>
-<lastBuildDate>Sun, 09 Jul 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Jul 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Data visualisation</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-visualisation/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post contains resources related to improving data visualisations in scientific papers, posters and other outputs.</p>
+<section id="general-resources" class="level2">
+<h2 class="anchored" data-anchor-id="general-resources">General resources</h2>
+<ul>
+<li><p><a href="https://youtu.be/jt-VdyFzjj0">Create Effective Data Visualizations</a> (second part focuses primarily on Tableau) (video)</p></li>
+<li><p><a href="https://doi.org/10.1371/journal.pbio.3001161%20See%20th">Creating clear and informative image-based figures for scientific publications</a></p></li>
+<li><p><a href="https://www.youtube.com/playlist?list=PLWb8IFSVeQ62NbG-u4vQlh4srFcC2KH5g">Data visualisation for scientific papers</a> videos by ReproducibiliTeach</p></li>
+</ul>
+</section>
+<section id="biorender" class="level2">
+<h2 class="anchored" data-anchor-id="biorender">BioRender</h2>
+<p>TU Delft offers licenses for BioRender (pilot programme). BioRender allows you to create professional figures in minutes through the use of pre-made icons and templates.</p>
+<p>See also the following resources provided on Data Visualisation provided by BioRender:</p>
+<ul>
+<li><p><a href="https://learn.biorender.com/tutorial/creating-grant-figures">Better Grant Figures</a></p></li>
+<li><p><a href="https://learn.biorender.com/tutorial/designing-graphical-abstracts">Designing graphical abstracts</a></p></li>
+<li><p><a href="https://learn.biorender.com/tutorial/tips-for-better-presentations">Tips for better presentations</a></p></li>
+</ul>
+</section>
+<section id="accessibility" class="level2">
+<h2 class="anchored" data-anchor-id="accessibility">Accessibility</h2>
+<ul>
+<li><p><a href="https://www.youtube.com/watch?v=RzT95DVUMnw">Tips to improve interpretability and accessibility</a> by Dr Tracey Weissgerber (video)</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=dXV5bx1WQTM">Writing Meaningful Alt-Texts for Data Visualizations in R</a></p></li>
+</ul>
+</section>
+<section id="colours" class="level2">
+<h2 class="anchored" data-anchor-id="colours">Colours</h2>
+<ul>
+<li><a href="https://blog.datawrapper.de/colors-for-data-vis-style-guides/">A detailed guide to colors in data vis style guides</a> (blog)</li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><p><a href="https://exploratory-data-visualization.netlify.app/">Data Visualization Course</a></p></li>
+<li><p><a href="https://padlet.com/evansemporiumstore/lks3aoyyhkpnkmpe">Free visual and communication resources</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-visualisation/index.html</guid>
+  <pubDate>Mon, 10 Jul 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-visualisation/visualisation.png" medium="image" type="image/png" height="128" width="144"/>
+</item>
 <item>
   <title>Research Data Management for students</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -24,7 +81,7 @@
 <ol type="1">
 <li><p>Check with your supervisor whether they have a <strong>Data Management Plan</strong> in place. <a href="https://estherplomp.github.io/TNW-OS-support/posts/DMP-templates/">Data Management Plans</a> discuss where the data is stored, who is responsible, matters of <a href="https://www.tudelft.nl/en/library/research-data-management/r/plan/data-ownership/">data ownership</a>, and if/how data will be shared publicly after the project. Most research projects require these plans by their funders and PhD candidates are also required to have this Plan.</p>
 <ul>
-<li>When there is no plan in place you can set one up using <a href="https://dmponline.tudelft.nl/">DMPonline</a> and contact the Data Steward where needed.</li>
+<li>When there is no plan in place you can set one up using <a href="https://dmponline.tudelft.nl/">DMPonline</a> and <a href="https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact">contact the Data Steward</a> where needed.</li>
 <li><em>Only when working with <strong>humans/personal data</strong></em><strong>:</strong> You are required to have this Data Management Plan if you are working on a project that involves humans and/or personal data:
 <ul>
 <li>Setting up the Data Management Plan is part of the <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application">Human Research Ethics Approval</a> process.</li>
@@ -173,7 +230,7 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/4TU-logo.png" medium="image" type="image/png" height="43" width="144"/>
 </item>
 <item>
-  <title>Readme files</title>
+  <title>README files</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</link>
   <description><![CDATA[ 
@@ -183,8 +240,8 @@
 
 <section id="how-to-set-up-your-readme-file" class="level2">
 <h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your README file</h2>
-<p>A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally submitted when sharing data and is the landing page of your software repository.</p>
-<p>README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used, etc.). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why README files are important and how you can set up your own README files.</p>
+<p>A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally shared together with an open dataset, or can be the landing page of your software repository.</p>
+<p>README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why README files are important and how you can set up your own README files.</p>
 </section>
 <section id="readme-for-data" class="level2">
 <h2 class="anchored" data-anchor-id="readme-for-data">README for data</h2>
@@ -197,8 +254,7 @@
 <p>Example templates for data:</p>
 <ul>
 <li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
-<li><p><a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf).</p></li>
-<li><p><a href="https://datamanagement.hms.harvard.edu/collect/readme-files" class="uri">https://datamanagement.hms.harvard.edu/collect/readme-files</a></p></li>
+<li><p><a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf)</p></li>
 </ul>
 </section>
 <section id="readme-for-software" class="level2">
@@ -211,10 +267,9 @@
 <li><p>More templates</p>
 <ul>
 <li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
-<li><p><a href="https://github.com/benmarwick/rrtools" class="uri">https://github.com/benmarwick/rrtools</a></p></li>
 <li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
 <li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
-<li><p><a href="https://github.com/matthiasott/README-templatehttps://github.com/matthiasott/README-template">https://github.com/matthiasott/README-template</a></p></li>
+<li><p><a href="https://github.com/matthiasott/README-template" class="uri">https://github.com/matthiasott/README-template</a></p></li>
 </ul></li>
 </ul>
 
@@ -230,37 +285,134 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
-  <title>Data visualisation</title>
+  <title>Open Science Programme for PhD candidates of AS/TNW</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-visualisation/index.html</link>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-OLS/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>Resources related to improving data visualisations in scientific papers, posters and other outputs.</p>
-<p><a href="https://www.youtube.com/watch?v=RzT95DVUMnw">Tips to improve interpretability and accessibility</a> by Dr Tracey Weissgerber (video)</p>
-<p><a href="https://youtu.be/jt-VdyFzjj0">Create Effective Data Visualizations</a> (second part focuses primarily on Tableau) (video)</p>
-<p><a href="https://blog.datawrapper.de/colors-for-data-vis-style-guides/">A detailed guide to colors in data vis style guides</a> (blog)</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<section id="course-description" class="level2">
+<h2 class="anchored" data-anchor-id="course-description">Course Description</h2>
+<p>This course provides PhD candidates from the Faculty of Applied Sciences with essential Open Science knowledge and skills. You will learn to manage your research project according to recommended Open Science practices. Learners are introduced to Open Science terms and principles and will apply those principles directly to their projects. During the program you will be supported by a mentor with a connection to your discipline/project. Your mentor will guide your progress by providing constructive feedback.<br>
+<br>
+Mandatory activities in the course:</p>
 <ul>
-<li><p><a href="https://www.youtube.com/playlist?list=PLWb8IFSVeQ62NbG-u4vQlh4srFcC2KH5g">Data visualisation for scientific papers</a> videos by ReproducibiliTeach</p></li>
-<li><p><a href="https://exploratory-data-visualization.netlify.app/">Data Visualization Course</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=dXV5bx1WQTM">Writing Meaningful Alt-Texts for Data Visualizations in R</a></p></li>
-<li><p><a href="https://doi.org/10.1371/journal.pbio.3001161%20See%20th">Jambor et al.&nbsp;2021</a></p></li>
-<li><p><a href="https://padlet.com/evansemporiumstore/lks3aoyyhkpnkmpe">Free visual and communication resources</a></p></li>
-<li><p><a href="https://learn.biorender.com/tutorial/creating-grant-figures"><strong>“Better Grant Figures</strong></a> <strong>&amp;</strong> <a href="https://learn.biorender.com/tutorial/designing-graphical-abstracts">Designing graphical abstracts</a> &amp; <a href="https://learn.biorender.com/tutorial/tips-for-better-presentations">Tips for better presentations</a> <strong>by BioRender</strong></p></li>
+<li><p>Complete course assignments</p></li>
+<li><p>Set up a GitHub repository for the project (a GitHub tutorial is part of the program)</p></li>
+<li><p>Engage in the bi-weekly online calls with the full Open Seeds group</p></li>
+<li><p>Attend bi-weekly mentor calls to discuss your project's progress</p></li>
+<li><p>Present a 5 minute demo of your project at the end of the program</p></li>
 </ul>
+</section>
+<section id="objectives" class="level1">
+<h1>Objectives&nbsp;</h1>
+<p>At the end of the program you will be able to:</p>
+<ul>
+<li><p>Describe and define the terms openness, Open Science, FAIR data/software, open leadership, community interactions, value exchanges, inclusivity, accessibility</p></li>
+<li><p>Give original examples for the types of openness in science</p></li>
+<li><p>Design</p>
+<ul>
+<li><p>Illustrate the need for a project, its vision, and its goals</p></li>
+<li><p>Embrace and communicate the benefits of Open Science and how to strategically apply different open practices to your project</p></li>
+<li><p>Identify public resources to share data</p></li>
+<li><p>Identify different type of Open Access and associated journals</p></li>
+</ul></li>
+<li><p>Build</p>
+<ul>
+<li><p>Start any project with openness in mind from day one</p></li>
+<li><p>Setup a project repository on GitHub using recommended practices for enabling collaboration</p></li>
+<li><p>Choose and apply open licenses appropriately</p></li>
+</ul></li>
+<li><p>Empower</p>
+<ul>
+<li><p>Create and enforce a safe working environment</p></li>
+<li><p>Promote the values of Open Science to empower others to lead and collaborate</p></li>
+<li><p>Include a broad range of contributors in your work</p></li>
+<li><p>Communicate your work and vision in a 5 minute demo/elevator pitch</p></li>
+</ul></li>
+<li><p>Lead an open project in science</p></li>
+</ul>
+</section>
+<section id="get-inspired-by-the-experiences-of-two-phd-colleagues-with-this-program" class="level1">
+<h1>Get inspired by the experiences of two PhD-colleagues with this program!&nbsp;</h1>
+<p><strong>OLS 4 project 'Multibeam electron microscopy for imaging large tissue volumes' by Arent Kievits (ImPhys)</strong></p>
+<p>From September 2021 till January 2022 I participated in the Open Life Science program, with the intention to get familiar with open science while simultaneously applying this to my PhD project. The program allows you to sign up as a team, but individual participation is also possible. I signed up individually. For me, a valuable thing from the Open Life Science program was the mentor program to guide the progress in the program and the project. I had two mentors, one expert in my field and one expert in open data. I got valuable feedback on my assignments / progress and made new connections in the UK community of my research field. The group calls (up to now) have taught me other valuable skills for my PhD project, such as setting up and managing a GitHub repository, basic (software) project development skills, designing and leading an open community and publishing open (preprints, software citation). The course covers a mix of basic and more advanced topics for people that are in different stages of their career. Therefore, not every aspect was valuable to me, but they may be for other people. Overall, I think this course is useful for both early and later stage PhD students, as it covers many aspects of doing science in a new (open) way. Because you can tailor the course to your own PhD project (e.g.&nbsp;work on a paper, computational method), it is a valuable contribution to your PhD.</p>
+<p><strong>OLS 5 project 'Increasing the usability of ChemSpaX, a Python tool for chemical space exploration' by Adarsh Kalikadien (ChemE)</strong></p>
+<p>I participated in the Open Life Science (OLS-5) Program from February 2022 until June 2022. During this program, I aimed at improving a Python package that I created such that it could be used by a larger community. When I signed up for the OLS program, I was surprised to learn about the many aspects of open science. The technical aspects (code/data management and version control) were very valuable, but so were the social aspects (community building and open publishing for example). Apart from the cohort and skill-up calls, where various topics were taught, I was assigned two mentors. Together with my mentors, Esther Plomp (data steward of AS) and Maurits Kok (research software engineer of digital competence center), we managed to divide my milestones into smaller and executable steps. Since I chose to work on something that is relevant to my PhD, the time spent on the program was a valuable contribution to my research. I am able to implement these new skills in my future projects. Overall, I think that this program is useful for early stage PhD students who have a desire to do science in an open way. After all, open science is not as easy and straightforward as it sounds.</p>
+</section>
+<section id="course-setup" class="level1">
+<h1>Course setup</h1>
+<p>The 8th Open Seeds cohort (OLS-8) program will run from September 18 to January 15, 2024. See <a href="https://openlifesci.org/ols-8" class="uri">https://openlifesci.org/ols-8</a> for more details.<br>
+<br>
+<strong>Week 1</strong><br>
+Meet your mentor and discuss your personal motivation, expectations, working practices and project goals.<br>
+<br>
+<strong>Week 2</strong><br>
+First cohort call, where you meet other members of your cohort, share project vision and will be introduced to working openly (open canvas).<br>
+<br>
+<strong>Week 3</strong><br>
+Meet your mentor and discuss assignments from the cohort call and concrete implementations in your project.<br>
+<br>
+<strong>Week 4</strong><br>
+Learn more about tools that are available to make your project more open (GitHub as a community hub, Markdown as a tool to make websites, Licences, Goals and Roadmap, Contributors, Code of Conduct).<br>
+<br>
+<strong>Week 5</strong><br>
+Meet your mentor to discuss your progress and follow a GitHub tutorial if you have no previous experience.<br>
+<br>
+<strong>Week 6</strong><br>
+Learn more about developing Open Projects: Iterative and agile project management, Open- Source, Open Software, Open Hardware, and Open Data.<br>
+<br>
+<strong>Week 7</strong><br>
+Meet your mentor to discuss your progress<br>
+<br>
+<strong>Week 8</strong><br>
+Learn more about sharing your project's outputs: Preprints, DOI and citation, Open protocols, Open Education and Training.<br>
+<br>
+<strong>Week 9</strong><br>
+Meet your mentor to discuss your progress.<br>
+<br>
+<strong>Week 10</strong><br>
+Learn more about how you can apply the FAIR principles to your project.<br>
+<br>
+<strong>Week 11</strong><br>
+Meet your mentor to discuss your progress.<br>
+<br>
+<strong>Week 12</strong><br>
+Learn more about Open Leadership in academia, industry and beyond.<br>
+<br>
+<strong>Week 13</strong><br>
+Meet your mentor to discuss your progress.<br>
+<br>
+<strong>Week 14</strong><br>
+Learn about how to design your project for inclusivity (personas and pathways for contributors, implicit bias and community interactions).<br>
+<br>
+<strong>Week 15</strong><br>
+Meet your mentor to prepare your graduation call and join a preparation call to practise your 5 minute demo.<br>
+<br>
+<strong>Week 16</strong><br>
+Final presentations and graduation call, where you have to present a 5 minute demos of your project.<br>
+&nbsp;</p>
+</section>
+<section id="graduate-school-credits" class="level1">
+<h1>Graduate School Credits</h1>
+<p>By completing the 16 week program you will receive 5 GS credits (Discipline-related skills). Please see the <a href="https://intranet.tudelft.nl/en/group/guest/-/faculty-graduate-school-of-as">Faculty Graduate School intranet page</a> for more information about GS credits.</p>
+</section>
+<section id="course-enrolment-and-preparation" class="level1">
+<h1>Course Enrolment and Preparation</h1>
+<p>To participate in this program you will need to <a href="https://github.com/open-life-science/application-forms">submit an application</a> <strong>before the 7 of July</strong>. You can apply as an individual or as a team. Applicants are welcome from all research disciplines.</p>
+<p>Please notify Esther if you plan to submit an application or need any support with your application. If you need more information about the program or the application process, please join the information session on 3 <strong>July at 16:00</strong>&nbsp;(outdated Zoomlink). A recording from a previous information webinar is available on the Open Life Science YouTube channel.</p>
 
 
 </section>
 
  ]]></description>
-  <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-visualisation/index.html</guid>
-  <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-visualisation/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+  <category>Open Science</category>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-OLS/index.html</guid>
+  <pubDate>Sun, 04 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-OLS/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>How to organise inclusive meetings</title>
@@ -360,17 +512,22 @@
 
 
 
-<p>Zotero can be used for</p>
-<p>You can use NotionHQ and the Notero plugin to organise papers in a database and store detailes notes (see an <a href="https://dust-bovid-04d.notion.site/ba1bc5022a4d469abd2ea559e80bc56b?v=a953e6bf2a3449e9ab3083154ce2b238">example template</a>).</p>
-<p><a href="http://zotfile.com/">ZotFile</a></p>
-<p>You can import BibTex files in your ORCID profile:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/images/image-170768552.png" class="img-fluid"></p>
+<p><a href="https://www.zotero.org/">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</p>
+<section id="integration-with-other-plugins-and-tools" class="level2">
+<h2 class="anchored" data-anchor-id="integration-with-other-plugins-and-tools">Integration with other plugins and tools</h2>
+<ul>
+<li><p>You can use NotionHQ and the Notero plugin to organise papers in a database and store detailes notes (see an <a href="https://dust-bovid-04d.notion.site/ba1bc5022a4d469abd2ea559e80bc56b?v=a953e6bf2a3449e9ab3083154ce2b238">example template</a>).</p></li>
+<li><p><a href="http://zotfile.com/">ZotFile</a> is a Zotero plugin to manage your attachments.</p></li>
+<li><p>You can import BibTex files from Zotero in your <a href="https://orcid.org/">ORCID profile</a> (an ORCID is a persistent identifier for researchers, where you can manage your research outputs yourself):</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/images/image-170768552.png" class="img-fluid" alt="Screenshot of the ORCID webpage where you can add works via the Import BibTex option" width="454"></p></li>
+</ul>
+</section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 <ul>
 <li><a href="https://www.zotero.org/support/kb/mendeley_import">How do I import a Mendeley library into Zotero?</a>
 <ul>
-<li>make sure that you tell Mendeley desktop to sync attached files for your *entire* library BEFORE importing to Zotero. You can do this by clicking the Edit Settings button by All Documents in the main desktop window, and clicking Synchronize attached files.</li>
+<li>Ensure that you tell Mendeley desktop to sync attached files for your *entire* library <strong>before</strong> importing to Zotero. You can do this by clicking the “Edit Settings” button by “All Documents” in the main desktop window, and clicking “Synchronize attached files”.</li>
 </ul></li>
 <li><a href="https://www.zotero.org/support/word_processor_plugin_installation">Installing the Zotero Word Processor Plugins</a></li>
 <li><a href="https://calc.hypotheses.org/5692">How to Organize Literature and Notes in Zotero</a></li>
@@ -394,15 +551,14 @@
 
 
 
-<p>Qualtrics is a safe solution to collect survey data.</p>
-<p>See the <a href="https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Privacy/Qualtrics_guidance%202022-08.pdf">Qualtrics Guidance</a> for more information.</p>
+<p>Qualtrics is a safe solution to collect survey data. See the <a href="https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Privacy/Qualtrics_guidance%202022-08.pdf">Qualtrics Guidance</a> for more information.</p>
 <p>You can request access to Qualtric licenses <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=57ec510c3da9408b929c2eeee82b4eaa">via topdesk</a>.</p>
-<p><a href="https://renebekkers.wordpress.com/2023/07/03/how-not-to-collect-data-on-qualtrics/">Learn more about how to not collect IP addresses/geolocation.</a></p>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 <ul>
 <li>TU Delft now has a <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research">self-paced personal data course</a>. PhD candidates can sign up and follow it for 0.5 GS credits.</li>
-<li></li>
+<li><a href="https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Home.aspx">TU Delft Privacy and Security page</a></li>
+<li><a href="https://renebekkers.wordpress.com/2023/07/03/how-not-to-collect-data-on-qualtrics/">Learn more about how to not collect IP addresses/geolocation.</a></li>
 </ul>
 
 
@@ -453,7 +609,7 @@
   <category>Open Data</category>
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-supplement/index.html</guid>
   <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-supplement/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-supplement/404.png" medium="image" type="image/png" height="20" width="144"/>
 </item>
 <item>
   <title>PhD onboarding day - Data Management &amp; Open Science</title>
@@ -584,7 +740,7 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-rankings/dora.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
-  <title>Metrics in Academia</title>
+  <title>Metrics in Academia [WIP]</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/index.html</link>
   <description><![CDATA[ 
@@ -595,16 +751,16 @@
 <p><a href="https://doi.org/10.5281/zenodo.6365456">Metrics in Academia</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/https:/lh5.googleusercontent.com/jMSqjc62rMU0oFhnClBKQXsE0QXKD5sp66G7ho_RJxwXvsZwvzA-O3T1mnSq-S1GiISDtqGKLNvwgkj8naQeiZWrb7L5k7-S44rLIHMHwq0Fx_AFybo6NkDazvX5mzIPWW0kwGiz6mkOxVGBdhck8miia6CC7eAy-qczHPAUVdNbtFwEXXAqFbfm3nScX41K=s2048.png" title="Time for a cultural shift" class="img-fluid figure-img"></p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/https:/www.turing.ac.uk/sites/default/files/inline-images/Culture%20shift.jpg" title="Time for a cultural shift" class="img-fluid figure-img"></p>
 <figcaption class="figure-caption">Scriberia image that indicates that we need to move from quantity to quality, focusing on valuing reproducibility as much as the amount of papers published</figcaption>
 </figure>
 </div>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 <ul>
-<li><a href="https://fediscience.org/@ct_bergstrom/109704497476849753">spam email for a new service</a></li>
 <li><a href="https://openworking.wordpress.com/2021/09/01/quality-is-key/">Quality is key</a></li>
 <li><a href="https://www.youtube.com/watch?v=iRBCXUC3NDE">Implementing new Recognition &amp; Rewards through six new academic career profiles</a></li>
+<li><a href="https://fediscience.org/@ct_bergstrom/109704497476849753">spam email for a new service</a></li>
 </ul>
 
 
@@ -630,7 +786,7 @@
 <p>For more information on what data you should share, please see the <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/">what data should be shared post</a>.</p>
 <section id="share-datacode-underlying-the-article" class="level2">
 <h2 class="anchored" data-anchor-id="share-datacode-underlying-the-article">Share data/code underlying the article</h2>
-<p>Ideally, you will share the data/code <strong>at the same time</strong> as you share the preprint or publish your article. This way, all your <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">research outputs are connected with each other</a> and you will not have to go back to organise ‘old’ data/code.</p>
+<p>Ideally, you will share the data/code <strong>at the same time</strong> as you share the <a href="https://estherplomp.github.io/TNW-OS-support/posts/open-access-preprint/">preprint</a> or publish your article. This way, all your <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">research outputs are connected with each other</a> and you will not have to go back to organise ‘old’ data/code.</p>
 <ul>
 <li><p><a href="https://doi.org/10.4121/13031837">Example of data underlying an article</a></p></li>
 <li><p><a href="https://doi.org/10.4121/16539453">Example of raw data underying an article</a></p></li>
@@ -640,11 +796,10 @@
 <h2 class="anchored" data-anchor-id="share-everything-together">Share everything together</h2>
 <p>You can also choose to bundle everything together in one upload. Ensure that the name of the upload is linked to your thesis (example title: data/code underlying <em>title thesis</em>).</p>
 <ul>
-<li><p><a href="https://doi.org/10.4121/21725060.v2">Example QN</a></p></li>
-<li><p><a href="https://doi.org/10.4121/20017610.v1">Example QN2</a></p></li>
+<li><p>Example QN <a href="https://doi.org/10.4121/21725060.v2">1</a> / <a href="https://doi.org/10.4121/20017610.v1">2</a></p></li>
 <li><p><a href="https://doi.org/10.4121/fa103940-2b19-486f-8bb8-7028695c1da5.v1">Example BT</a></p></li>
 </ul>
-<p>If you already shared data/code before, it is better to link to the older uploads instead of re-uploading the same data (unless you made any changes). You can do so in the metadata fields and in the <a href="https://estherplomp.github.io/TNW-OS-support/posts/readme/">READme file</a>.</p>
+<p>If you already shared data/code before, it is better to link to the older uploads instead of re-uploading the same data (unless you made any changes). You can do so in the metadata fields and in the <a href="https://estherplomp.github.io/TNW-OS-support/posts/readme/">README file</a>.</p>
 </section>
 <section id="i-still-want-to-publish-my-thesis-chapter" class="level2">
 <h2 class="anchored" data-anchor-id="i-still-want-to-publish-my-thesis-chapter">I still want to publish my thesis chapter!</h2>
@@ -658,7 +813,7 @@
 <h2 class="anchored" data-anchor-id="how">How?</h2>
 <p>Pending on how complex your dataset is in terms of size or amount of files, there are several solutions on how to organise your data:</p>
 <ul>
-<li><p>Have all the files in one directory together with a <a href="https://estherplomp.github.io/TNW-OS-support/posts/readme/">READme file</a>, if you do not have a lot of files</p>
+<li><p>Have all the files in one directory together with a <a href="https://estherplomp.github.io/TNW-OS-support/posts/readme/">README file</a>, if you do not have a lot of files</p>
 <ul>
 <li><a href="https://doi.org/10.4121/13395482.v1">example 1</a>, <a href="https://doi.org/10.4121/uuid:875f0bfd-c047-480c-8a3f-6322a33b3f9a">example 2</a></li>
 </ul></li>
@@ -680,12 +835,12 @@
 </section>
 <section id="where" class="level2">
 <h2 class="anchored" data-anchor-id="where">Where?</h2>
-<p>TU Delft has a dedicated data repository, <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a>, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the <a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf).</p>
+<p>TU Delft has a dedicated data repository, <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a>, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise). See also the <a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for README files</a> (pdf).</p>
 <p>If your group/project is using <a href="https://zenodo.org/">Zenodo</a> you can also tag a project ‘community’. See for example <a href="https://zenodo.org/communities/samosafer">SAMOSAFER</a> and <a href="https://zenodo.org/communities/batterynl/">BatteryNL</a>.</p>
 </section>
 <section id="link-between-datacode-and-your-dissertation" class="level2">
 <h2 class="anchored" data-anchor-id="link-between-datacode-and-your-dissertation">Link between data/code and your dissertation</h2>
-<p>Make sure that you link the ‘DOI’ from the data/code in your dissertation, and mention the DOI/title of your dissertation in your data/code upload (in the metadata fields of de upload and the READme file).</p>
+<p>Make sure that you link the ‘DOI’ from the data/code in your dissertation, and mention the DOI/title of your dissertation in your data/code upload (in the metadata fields of de upload and the README file).</p>
 </section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
@@ -929,7 +1084,8 @@
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
-<li><a href="https://sometimesimwrong.typepad.com/wrong/2023/05/unearned-prestige.html">unearned prestige</a></li>
+<li><a href="https://sometimesimwrong.typepad.com/wrong/2023/05/unearned-prestige.html">unearned prestige</a> (transcribed conference talk)</li>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/scholcom-profit/">Publish and profit</a></li>
 </ul>
 
 
@@ -1109,202 +1265,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/index.html</guid>
   <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/Open-access-APC/costs.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>TU Delft Approved Software Licenses</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-licenses/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>A brief overview of the TU Delft Approved Software Licenses.</p>
-<section id="permissive-licences" class="level2">
-<h2 class="anchored" data-anchor-id="permissive-licences">Permissive licences</h2>
-<p><strong>Permissive</strong>: MIT, BSD, Apache, CC0</p>
-<p><strong>Permissive licenses</strong> allow you to (commercially) use, copy, modify, merge, publish, and distribute the software.</p>
-<p>Licensed works, modifications, and larger works may be distributed under <strong>different terms</strong> and <strong>without source code</strong>.</p>
-<ul>
-<li><p><a href="https://choosealicense.com/licenses/cc0-1.0/"><strong>CC0</strong></a>: Waives copyright and dedicates it to the public domain</p></li>
-<li><p><a href="https://choosealicense.com/licenses/mit/"><strong>MIT License</strong></a><strong>:</strong> Short and simple license</p></li>
-<li><p><strong>BSD</strong></p>
-<ul>
-<li><p><a href="https://choosealicense.com/licenses/bsd-2-clause/"><strong>BSD 2</strong></a><strong>:</strong> Similar to MIT license (with more details)</p></li>
-<li><p><a href="https://choosealicense.com/licenses/bsd-3-clause/"><strong>BSD 3</strong></a>: Contains a clause restricting use of the names of contributors for endorsement of a derived code without specific permission</p></li>
-<li><p><a href="https://choosealicense.com/licenses/bsd-3-clause-clear/"><strong>BSD 3 - Clear</strong></a><strong>:</strong> Provides an option to place the OSS licensed material under patent</p></li>
-</ul></li>
-<li><p><a href="https://choosealicense.com/licenses/apache-2.0/"><strong>Apache Licence 2</strong></a><strong>:</strong> User does not have to worry about infringing any patents (user is granted a licence to any patent that covers the software)</p></li>
-</ul>
-</section>
-<section id="restrictive-licences" class="level2">
-<h2 class="anchored" data-anchor-id="restrictive-licences">Restrictive licences</h2>
-<p><strong>Restrictive/Copyleft</strong>: GPL, AGPL, LGPL, EUPL</p>
-<p><strong>Restrictive/Copyleft licenses</strong> allow you to (commercially) use, copy, modify, merge, publish, distribute the software</p>
-<p>Derivative code must be open source and distributed under the <strong>same or equivalent license</strong></p>
-<ul>
-<li><p><strong>GNU General Public Licence (<a href="https://choosealicense.com/licenses/gpl-3.0/">GNU GPLv3</a>, <a href="https://choosealicense.com/licenses/gpl-2.0/">GPLv2</a>):</strong> Does not permit incorporating your program into proprietary programs</p>
-<ul>
-<li><p><a href="https://choosealicense.com/licenses/lgpl-3.0/"><strong>GNU Lesser General Public License v3.0</strong></a><strong>:</strong> Lighter version of GPL. A larger work using the licensed work through interfaces provided by the licensed work may be distributed under different terms and without source code for the larger work. Designed for library routines.</p></li>
-<li><p><a href="https://choosealicense.com/licenses/agpl-3.0/"><strong>GNU Affero General Public License v3.0</strong></a>Stricter version of GPL. If you run a modified program on a server and let other users communicate with it there, then your server must also allow them to download the source code.</p></li>
-</ul></li>
-<li><p><a href="https://choosealicense.com/licenses/eupl-1.2/"><strong>European Union Public Licence (EUPL)</strong></a>: Created and approved by the European Commission. It is available in 23 European languages. Confirms with all existing (civil law) copyright laws of the EU (limitations of liability and warranty have been precisely defined).</p></li>
-</ul>
-</section>
-<section id="comparison-of-licences" class="level2">
-<h2 class="anchored" data-anchor-id="comparison-of-licences">Comparison of Licences</h2>
-<table class="table">
-<caption>Comparison between the TU Delft approved licences</caption>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 14%">
-<col style="width: 14%">
-<col style="width: 14%">
-<col style="width: 14%">
-<col style="width: 14%">
-<col style="width: 14%">
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th>Permissions</th>
-<th>Conditions</th>
-<th>Conditions</th>
-<th>Conditions</th>
-<th>Conditions</th>
-<th>Limitations</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>License</strong></td>
-<td><strong>Patent use</strong></td>
-<td><strong>Disclose source</strong></td>
-<td><strong>Network use is distribution</strong></td>
-<td>Same License</td>
-<td>State Changes</td>
-<td>Trademark use</td>
-</tr>
-<tr class="even">
-<td>MIT</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>BSD v2, 3</td>
-<td>Y or N (BSDClear)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Apache v2</td>
-<td>Y</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Y</td>
-<td>N</td>
-</tr>
-<tr class="odd">
-<td>GPL v3</td>
-<td>Y</td>
-<td>Y</td>
-<td></td>
-<td>Y</td>
-<td>Y</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>AGPL</td>
-<td>Y</td>
-<td>Y</td>
-<td>Y</td>
-<td>Y</td>
-<td>Y</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>LGPL</td>
-<td>Y</td>
-<td>Y</td>
-<td></td>
-<td>Y (library)</td>
-<td>Y</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>EUPL</td>
-<td>Y</td>
-<td>Y</td>
-<td>Y</td>
-<td>Y</td>
-<td>Y</td>
-<td>N</td>
-</tr>
-<tr class="odd">
-<td>CCO</td>
-<td>N</td>
-<td>N</td>
-<td>N</td>
-<td>N</td>
-<td>N</td>
-<td>N</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>See <a href="https://choosealicense.com/appendix/" class="uri">https://choosealicense.com/appendix/</a> for a complete overview</p>
-</section>
-<section id="compatability-of-licences" class="level2">
-<h2 class="anchored" data-anchor-id="compatability-of-licences">Compatability of licences</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://doi.org/10.5281/zenodo.4629635"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-licenses/images/image-911847391.png" class="img-fluid figure-img" alt="Compatibility of licences indicated, where CCO, MIT, BSD, Apache and EUPL are compatible with one another. Incompatibility exists between GPL and Apache, EUPL."></a></p>
-<figcaption class="figure-caption">TU Delft Guidelines on Research Software, page 19</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://doi.org/10.1371/journal.pcbi.1002598"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-licenses/images/image-1585083497.png" class="img-fluid figure-img" alt="Compatibility of permissive and copyleft licences explained"></a></p>
-<figcaption class="figure-caption">From A Quick Guide to Software Licensing for the Scientist-Programmer. In general, permissively licensed code is forward compatible with any other license type. However, only permissive licenses, such as the BSD and MIT, can feed into other permissive licenses. Restrictive licenses like the GPL are backward compatible with themselves and permissive licenses, but must adopt the restrictive license from then on. Proprietary licenses can incorporate upstream permissively licensed code, but by definition are incompatible with any other downstream license. Grey represents actions that are not permitted without negotiating a separate license agreement with the rights owner. https://doi.org/10.1371/journal.pcbi.1002598.g002</figcaption>
-</figure>
-</div>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More Information</h2>
-<ul>
-<li><p><a href="http://doi.org/10.5281/zenodo.4629662">TU Delft Research Software Policy</a></p></li>
-<li><p><a href="http://doi.org/10.5281/zenodo.4629635">TU Delft Guidelines on Research Software</a></p></li>
-<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/software-sharing/">Sharing Software</a></p></li>
-<li><p><a href="https://fsfe.org/freesoftware/legal/faq.en.html">Frequently Asked Questions on Free Software Licensing</a></p></li>
-<li><p><a href="https://open.spotify.com/episode/4ev4QCsY4yIoXkAkhEbiVR?si=ed690dac653b43b1">ByteSized: Software Licences</a> podcast episode</p></li>
-<li><p><a href="https://fossa.com/blog/all-about-permissive-licenses/">All About Permissive Licenses</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Software</category>
-  <category>Licenses</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-licenses/index.html</guid>
-  <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-licenses/software.png" medium="image" type="image/png" height="134" width="144"/>
 </item>
 </channel>
 </rss>
