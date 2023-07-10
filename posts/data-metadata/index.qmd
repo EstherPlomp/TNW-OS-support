@@ -8,11 +8,13 @@ image: "image.jpg"
 
 Metadata is data about data.
 
+[![Image by Piotr Kononow](https://pbs.twimg.com/media/FTLi4U2WIAAQdC9.png){fig-alt="An image with three bottles with coloured substances and labels. The content of the bottles is the data, and the labels are the metadata. This is helpful information if you want to distinguish between a bottle with labels that say: Juice, Oil and a skull."}](https://twitter.com/aabella/status/1527533226574680064)
+
 ## Metadata Standards
 
 -   [Unicode CLDR standard for countries](https://github.com/unicode-org/cldr-json/tree/main)
+-   Check [FAIRsharing.org](https://fairsharing.org/) if there are any metadata standards used in your discipline
 
 ## More information
 
 -   [Introduction to Metadata and Metadata Standards by ESIP](https://commons.esipfed.org/node/1422)
--   For more information about the practicalities and timing in [linking your research outputs, see The Turing Way](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
