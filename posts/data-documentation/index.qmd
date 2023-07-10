@@ -20,9 +20,9 @@ It is important to document your data, as it provides the contextual information
 
 -   [Guide on how to create data dictionaries](https://doi.org/10.1177/2515245920928007)
 
--   check the README post
+-   [Write README files](https://estherplomp.github.io/TNW-OS-support/posts/readme/)
 
-[![](images/image-1807077771.png)](https://twitter.com/thecrobe/status/1373590641012322306)
+[![](images/image-1807077771.png){fig-alt="a tweet by Justin Steward @thecrobe where he says he skimmed the protocol. Justin is sharing an image of a pan with uncooked spaghetti on the stove. The spaghetti is on fire."}](https://twitter.com/thecrobe/status/1373590641012322306)
 
 ## File naming convention
 
@@ -93,7 +93,7 @@ Add any relevant notes:
 
 TU Delft provides licenses for [RSpace and eLABjournal](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook).
 
-You can also keep a digital copy in solutions such as OneNote, or [logseq](https://www.dannygarside.co.uk/blog/An-open-source-knowledge-management-system-for-the-lab/).
+You can also keep a digital copy in solutions such as OneNote, Obsidian or [logseq](https://www.dannygarside.co.uk/blog/An-open-source-knowledge-management-system-for-the-lab/).
 
 ## More information
 
