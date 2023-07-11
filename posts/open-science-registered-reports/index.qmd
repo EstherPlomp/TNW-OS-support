@@ -2,7 +2,7 @@
 title: "Registered Reports"
 author: "Esther Plomp"
 date: "2022-09-04"
-categories: [Open Science, Scholarly Communication]
+categories: [Reproducibility, Open Science]
 image: "registered-reports.jpg"
 ---
 
