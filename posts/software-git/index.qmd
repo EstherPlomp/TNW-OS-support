@@ -2,7 +2,7 @@
 title: "Git workflow"
 author: "Esther Plomp"
 date: "2022-09-02"
-categories: [Git, Software]
+categories: [Software]
 image: "Git-logo.svg.png"
 ---
 

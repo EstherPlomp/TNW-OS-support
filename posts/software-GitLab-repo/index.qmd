@@ -2,7 +2,7 @@
 title: "Transferring ownership of a GitLab repo"
 author: "Esther Plomp, Lora Armstrong"
 date: "2022-09-02"
-categories: [Git, Software]
+categories: [Software]
 image: "tudelft-gitlab.png"
 ---
 
