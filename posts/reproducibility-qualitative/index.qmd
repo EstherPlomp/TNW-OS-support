@@ -1,5 +1,5 @@
 ---
-title: "Reproducibility checklist"
+title: "Reproducibility and Qualitative Research [WIP]"
 author: "Esther Plomp"
 date: "2022-09-04"
 categories: [Reproducibility, Research Data Management]
