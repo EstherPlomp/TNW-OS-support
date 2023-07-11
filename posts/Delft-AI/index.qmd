@@ -2,7 +2,7 @@
 title: "Artificial Intelligence at TU Delft"
 author: "Esther Plomp"
 date: "2022-10-21"
-categories: [Artificial Intelligence, TU Delft]
+categories: [TU Delft]
 image: "ai.png"
 ---
 
