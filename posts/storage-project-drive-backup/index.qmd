@@ -3,7 +3,7 @@ title: "Backup Project Drive"
 author: "Esther Plomp"
 date: "2022-09-03"
 categories: [Storage, Research Data Management]
-image: "image.jpg"
+image: "data.jpg"
 ---
 
 This post describes how to automatically and manually backup files from the Project Drive to a local drive.
