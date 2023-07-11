@@ -3,7 +3,7 @@ title: "ORCID - PURE integration"
 author: "Esther Plomp"
 date: "2022-09-03"
 categories: [Credit, Tools]
-image: "image.jpg"
+image: "orcid-logo.png"
 ---
 
 How to set up a Pure -- ORCID integration:
