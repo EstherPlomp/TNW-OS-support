@@ -8,6 +8,28 @@ image: "copyright.png"
 
 This blogpost contains links to resources that can be freely reused.
 
+## Pictogram collections ([collected by Helena Jambor](https://vis.social/@helenajambor/110456415144726882))
+
+-   [https://reactome.org/icon-lib/](https://urldefense.com/v3/__https:/reactome.org/icon-lib/__;!!PAKc-5URQlI!7jivo64vxAWb-zHs0CGeCFCFmkkxh0bvMLW6LPALnlmd0nY0Zloc-Pxxs9WrZGR1x0WfKWJSFaOD0UFO8-0$) (bio)
+
+-   [https://bioicons.com](https://urldefense.com/v3/__https:/bioicons.com__;!!PAKc-5URQlI!7jivo64vxAWb-zHs0CGeCFCFmkkxh0bvMLW6LPALnlmd0nY0Zloc-Pxxs9WrZGR1x0WfKWJSFaODyVOEw8w$) (bio)
+
+-   [https://smart.servier.com](https://urldefense.com/v3/__https:/smart.servier.com__;!!PAKc-5URQlI!7jivo64vxAWb-zHs0CGeCFCFmkkxh0bvMLW6LPALnlmd0nY0Zloc-Pxxs9WrZGR1x0WfKWJSFaODajJ0FWI$) (medical)
+
+-   [https://healthicons.org](https://urldefense.com/v3/__https:/healthicons.org__;!!PAKc-5URQlI!7jivo64vxAWb-zHs0CGeCFCFmkkxh0bvMLW6LPALnlmd0nY0Zloc-Pxxs9WrZGR1x0WfKWJSFaODpJs-WgM$) (medical)
+
+-   [https://fontawesome.com](https://urldefense.com/v3/__https:/fontawesome.com__;!!PAKc-5URQlI!7jivo64vxAWb-zHs0CGeCFCFmkkxh0bvMLW6LPALnlmd0nY0Zloc-Pxxs9WrZGR1x0WfKWJSFaOD6SRPZvA$)
+
+-   [https://thenounproject.com](https://urldefense.com/v3/__https:/thenounproject.com__;!!PAKc-5URQlI!7jivo64vxAWb-zHs0CGeCFCFmkkxh0bvMLW6LPALnlmd0nY0Zloc-Pxxs9WrZGR1x0WfKWJSFaODFpAmlvc$)
+
+-   [https://svgrepo.com](https://urldefense.com/v3/__https:/svgrepo.com__;!!PAKc-5URQlI!7jivo64vxAWb-zHs0CGeCFCFmkkxh0bvMLW6LPALnlmd0nY0Zloc-Pxxs9WrZGR1x0WfKWJSFaODfnB4Gcc$)
+
+-   [http://gerdarntz.org/isotype.html](https://urldefense.com/v3/__http:/gerdarntz.org/isotype.html__;!!PAKc-5URQlI!7jivo64vxAWb-zHs0CGeCFCFmkkxh0bvMLW6LPALnlmd0nY0Zloc-Pxxs9WrZGR1x0WfKWJSFaOD9MymAlw$)
+
+-   [https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/](https://urldefense.com/v3/__https:/www.ebi.ac.uk/style-lab/general/fonts/v1.3/__;!!PAKc-5URQlI!7jivo64vxAWb-zHs0CGeCFCFmkkxh0bvMLW6LPALnlmd0nY0Zloc-Pxxs9WrZGR1x0WfKWJSFaODlOA2j5w$)
+
+-    [https://www.phylopic.org/](https://urldefense.com/v3/__https:/www.phylopic.org/__;!!PAKc-5URQlI!7jivo64vxAWb-zHs0CGeCFCFmkkxh0bvMLW6LPALnlmd0nY0Zloc-Pxxs9WrZGR1x0WfKWJSFaOD-JmTa0o$) (animals)
+
 ## Copyright free images:
 
 -   [pexels.com/fr-fr/](https://t.co/oTioaam8Y1)
