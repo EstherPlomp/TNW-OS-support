@@ -3,7 +3,7 @@ title: "Data Citation"
 author: "Esther Plomp"
 date: "2022-09-04"
 categories: [Open Data, Citation, Credit]
-image: "image.jpg"
+image: "data-citation.png"
 ---
 
 ## How should I cite/refer to data in my paper?
@@ -35,7 +35,7 @@ Heydarian, H. (Hamidreza); Schueder, F. (Florian); Strauss, M.T. (Maximilian); v
 
 At [4TU.ResearchData](https://researchdata.4tu.nl/en/) you can click on the "Cite" button to get a suggested citation and to obtain the DOI of the dataset:
 
-![](images/paste-A17BCDA3.png){width="499"}
+![](data-citation.png)
 
 You can also check <http://citeas.org/> to see how you should cite a resource.
 
