@@ -3,7 +3,7 @@ title: "Licenses"
 author: "Esther Plomp"
 date: "2022-09-02"
 categories: [Licenses]
-image: "image.jpg"
+image: "fair-principles.png"
 ---
 
 Licenses are a standardised way to share data/code and let anyone know what it is that they are allowed to do with it. If you share your research without a license, you are not making clear how you wish the research to be used which might prevent it being used the way you intend.
