@@ -36,6 +36,10 @@ Spreadsheets are great for certain purposes, but there are some things you need 
 
 -   Do not leave empty values (use NA)
 
+    -   It is difficult for empty cells to know if a value is missing, and blanks can be confusing when spaces/tabs are used as delimiters
+
+    -   Whatever null value you use, use it consistently and indicate it in the README
+
 -   Put as few information possible in a single cell and one observation per row
 
 -   Create a data dictionary that describes the spreadsheet and any cleaning steps you took
@@ -63,6 +67,10 @@ See the [extended version](https://surfdrive.surf.nl/files/index.php/s/9aNX69fsW
 ## Data validation
 
 -   [Excel support page on data validation](https://support.office.com/en-us/article/Apply-data-validation-to-cells-29FECBCC-D1B9-42C1-9D76-EFF3CE5F7249)
+-   Check manually whether your data is consistent, complete and correct:
+    -   If a column should contain only numeric values or characters, check that there are no non-numeric values or non-character
+    -   Check for consistency in names, unit of measurements, data type and so on
+    -   Check if there are any empty cells and replace them with your chosen null value (see above)
 
 ## Accessibility ([Data Curation Primer](https://github.com/DataCurationNetwork/data-primers/blob/master/Accessibility%20Data%20Curation%20Primer/accessibility-data-curation-primer.md#tabular))
 
