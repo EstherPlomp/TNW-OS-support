@@ -18,9 +18,9 @@ This post describes **5 pointers for Bachelor/Master students** to take into acc
 2.  Discuss the **storage location** with your supervisor. For some research (personal data and/or commercial confidential data) you cannot use all storage solutions. TU Delft recommends:
 
     -   [TU Delft OneDrive](https://www.tudelft.nl/en/it-manuals/office-365/)
-    -   [Project Drive](https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/#project-drive)
+    -   [Project Drive](https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/#project-drive) (check with your supervisor whether they already have a drive set up or whether they will need to request one)
     -   [SURFdrive](http://surfdrive.surf.nl/) (although as a student you cannot have your own account: your supervisor will have to share folders/files with you)
-    -   [TU Delft GitLab](https://gitlab.tudelft.nl)
+    -   [TU Delft GitLab](https://gitlab.tudelft.nl) (check with your supervisor whether they already have a repository set up or whether they will need to request one)
     -   [Electronic Lab Notebooks](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook)
     -   The [Storage Solution post](https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/) contains a more comprehensive overview of TU Delft storage solutions.
 
