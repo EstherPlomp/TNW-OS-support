@@ -1,5 +1,5 @@
 ---
-title: "Open Access"
+title: "Open Access [WIP]"
 author: "Esther Plomp"
 date: "2022-08-28"
 categories: [Open Access]
@@ -37,6 +37,8 @@ https://youtu.be/L5rVH1KGBCY
 ![](images/paste-C573648A.png)
 
 https://www.wosonhj.com/
+
+[CC-BY-NC, and CC-BY-NC-ND + signing over exclusive rights to publishers](https://www.authorsalliance.org/2023/06/05/read-your-open-access-publishing-agreements-or-how-you-might-accidentally-give-elsevier-or-wiley-the-exclusive-right-to-profit-from-your-oa-article/)
 
 ## More information
 
