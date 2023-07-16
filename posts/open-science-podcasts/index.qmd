@@ -1,0 +1,103 @@
+---
+title: "Open Science Podcasts"
+author: "Esther Plomp"
+date: "2023-07-17"
+categories: [Open Science]
+image: "podcast.png"
+---
+
+This post contains several Open Science podcasts and episodes:
+
+## [ORION Open Science Podcast](https://orionopenscience.podbean.com/)
+
+## [Road to Open Science](https://www.uu.nl/en/research/utrecht-young-academy/projects/open-science/road-to-open-science-podcast)
+
+## [Code for Thought](https://codeforthought.buzzsprout.com/)
+
+## [Open Update](https://libscie.org/open-update/)
+
+## [Unsettling Knowledge Inequities](https://knowledgeequitylab.ca/podcast/)
+
+-   [The High Cost of Knowledge Monopoly](https://open.spotify.com/episode/1dg7NzAykuW8kCk9FjYUAP?si=eff2c71700ad4dd5)
+
+## [Labor ins Ohr](https://laborinsohr.de/)
+
+-   [History of Scientific publishing](https://open.spotify.com/episode/0h28zs4Htymv3hPuGO8LW1?si=700ea8cafa204645)
+
+-   [Johan Rooryck and the COAlition S](https://open.spotify.com/episode/3WllXZ1qAPRg3r0Z87kHwd?si=8a2d1dfc6620483e)
+
+## [FAIR Data Podcast](https://www.researchspace.com/fair-data-podcast)
+
+-   [Frederique Belliard](https://open.spotify.com/episode/7pSo97wP8leDKC4wNP57aB?si=544df27cfe3145a5)
+
+-   [Sharif Islam](https://open.spotify.com/episode/4kYTe89xys1oeiTZtwE18j?si=e3bf0139dbeb4f08)
+
+## Leading Lines
+
+-   [Episode 029 - Nicole Allen](https://open.spotify.com/episode/2vzM2bBrepJJF6j8GDHFjJ?si=d81256635b984f84)
+
+## PhD talk
+
+-   [How we make our science more open (episode 48)](https://open.spotify.com/episode/3RXKwPobBKyzXhc3dE0Kue?si=ccd43b892df54779)
+
+## How do you know? 
+
+-   [HDYK Episode 3: Remap with Kirstie Whitaker](https://open.spotify.com/episode/6UeQrXQWtAAxoP9a002zfb?si=e6cc0b1478dd4ce9)
+
+## [Access for Who?](https://africandigitalheritage.org/access-for-who-a-podcast-on-digital-restitution/)
+
+-   [Episode 2: Digital Collections (Part I)](https://open.spotify.com/episode/4Pz76LeJRCtMOHIXRh37U7?si=a39cf5dd3d84415b)
+
+-   [Episode 3: Ownership and Intellectual Property](https://open.spotify.com/episode/2GZfNjPiuQQnxzADa9vqvV?si=d77549abf8fa4aa6)
+
+-   [Episode 4: African Data Futures](https://open.spotify.com/episode/58pG4XOChe2ewzCk0Igryi?si=2c37d776de6e4d2d)
+
+## Down to Earth: A podcast for Geoscientists by Geoscientist
+
+-   [S4E01 Down to Earth: What is Open Science?](https://open.spotify.com/episode/1M9LVppyOZzMeFbGpTpCdf?si=04a3eb6d2d8d4c5a)
+
+-   [S4E02 Down to Earth: Dealing with Data: Infrastructure and Standards](https://open.spotify.com/episode/6N7aDfsb4KMaYjSEDpkJ80?si=61a65b5423f7435a)
+
+-   [S4E07 Down to Earth: Artificial Intelligence: Boon or Bane for Open Science](https://open.spotify.com/episode/7F4BIwxeZKFunIwNmD0FWo?si=fe8eac97ec78428e)
+
+-   [S4E08 Down to Earth: Demystifying the Scientific Process with Data Management, FAIR and Science Communication](https://open.spotify.com/episode/0nt1rBvbjxmJybCYEKxcil?si=14876c5f6a094594)
+
+-   [S4E10 Down to Earth: Training for culture change in Open Science](https://open.spotify.com/episode/6QCJgQOtBLLbGF8GSvj4Fa?si=433007a6b0da44de)
+
+## Machine-Centric Science
+
+-   [Sandra Gesing](https://open.spotify.com/episode/2MAczBBEdANjgVCJvmpiLC?si=67392a954ffd4147)
+
+## The Turing Podcast
+
+-   [Reproducible data science: How hard can it be?](https://open.spotify.com/episode/1OVxFUA5UyIfMSCd842wjD?si=64652726c0314060)
+
+## Within & Between
+
+-   [S2E13: Data Management Episode 1](https://open.spotify.com/episode/6klHxGUi0v5m5pTFUHbkC4?si=1bca0e2e8d27405b) + [S2E14, 2](https://open.spotify.com/episode/27SXLCsjhtvh4LyfaRIG92?si=903edf83875149c1)
+
+## The Juice and the squeeze
+
+-   [Episode 17: Self correcting](http://www.juiceandsqueeze.net/17)
+
+-   [Episode 46: Not overextending ourselves (and helping trainees to do the same)](https://open.spotify.com/episode/2WrDeT1u4XjkANRJz7C5Pm?si=487765a55dd1436a)
+
+## Shifting Power, Regenerative Recovery & Scaling
+
+-   [Now & Center: entrepreneurial Voices from the Margin](https://open.spotify.com/episode/2XejTXwd6siQrCe7fQK7cX?si=151f30987ed74028)
+
+## Grad Chat
+
+-   [Being Disabled in Grad School w/ Dr Roo Steinberg](https://open.spotify.com/episode/5wtoD8cldKg6SN5X30BA4H?si=35a7d961460242fe)
+
+## Test & Code in Python
+
+-   [140: Testing in Scientific Research and Academia - Martin Héroux](https://podcastaddict.com/test-code-in-python/episode/116745171)
+
+## The Intertidal Pod(cast)
+
+-   [#9 Using git to Drive Better Science with Dr Julie Lowndes](https://open.spotify.com/episode/4o2YQW3WUzvMvZixG93C8C?si=16924ae3018c4cce)
+
+## Stereo Chemistry
+
+-   [Ep 33: On being #BlackInChem](https://cen.acs.org/careers/diversity/Podcast-Black-chemists-discuss-strategies/98/web/2020/09)
