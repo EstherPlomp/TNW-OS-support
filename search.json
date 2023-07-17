@@ -154,6 +154,13 @@
     "text": "Open Update"
   },
   {
+    "objectID": "posts/open-science-podcasts/index.html#everything-hertz",
+    "href": "posts/open-science-podcasts/index.html#everything-hertz",
+    "title": "Open Science Podcasts",
+    "section": "Everything Hertz",
+    "text": "Everything Hertz"
+  },
+  {
     "objectID": "posts/open-science-podcasts/index.html#unsettling-knowledge-inequities",
     "href": "posts/open-science-podcasts/index.html#unsettling-knowledge-inequities",
     "title": "Open Science Podcasts",
@@ -208,6 +215,13 @@
     "title": "Open Science Podcasts",
     "section": "Down to Earth: A podcast for Geoscientists by Geoscientist",
     "text": "Down to Earth: A podcast for Geoscientists by Geoscientist\n\nS4E01 Down to Earth: What is Open Science?\nS4E02 Down to Earth: Dealing with Data: Infrastructure and Standards\nS4E07 Down to Earth: Artificial Intelligence: Boon or Bane for Open Science\nS4E08 Down to Earth: Demystifying the Scientific Process with Data Management, FAIR and Science Communication\nS4E10 Down to Earth: Training for culture change in Open Science"
+  },
+  {
+    "objectID": "posts/open-science-podcasts/index.html#open-science-bites",
+    "href": "posts/open-science-podcasts/index.html#open-science-bites",
+    "title": "Open Science Podcasts",
+    "section": "Open Science Bites",
+    "text": "Open Science Bites"
   },
   {
     "objectID": "posts/open-science-podcasts/index.html#machine-centric-science",
@@ -711,14 +725,14 @@
     "href": "posts/open-science-TUD/index.html",
     "title": "Open Science",
     "section": "",
-    "text": "Open Science is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.\nOpen Science is defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO) as “an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”\n\n\n\nUNESCO’s four pillars of Open Science\n\n\nSeveral concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science."
+    "text": "Open Science is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.\nOpen Science is defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO) as “an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”\n\n\n\nUNESCO's four pillars of Open Science\n\n\nSeveral concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science."
   },
   {
     "objectID": "posts/open-science-TUD/index.html#open-science",
     "href": "posts/open-science-TUD/index.html#open-science",
     "title": "Open Science",
     "section": "",
-    "text": "Open Science is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.\nOpen Science is defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO) as “an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”\n\n\n\nUNESCO’s four pillars of Open Science\n\n\nSeveral concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science."
+    "text": "Open Science is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.\nOpen Science is defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO) as “an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”\n\n\n\nUNESCO's four pillars of Open Science\n\n\nSeveral concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science."
   },
   {
     "objectID": "posts/open-science-TUD/index.html#benefits-of-open-science",
@@ -739,7 +753,7 @@
     "href": "posts/open-science-TUD/index.html#the-netherlands",
     "title": "Open Science",
     "section": "the Netherlands",
-    "text": "the Netherlands\n\nIn the Netherlands Open Science is an important component of the Recognition & Rewards movement.\nDutch research funder NWO supports new forms of evaluation, requires 100% Open Access and sharing of data/code underlying research articles.\nThe ‘Strategic Evaluation Protocol’ that universities use to periodically evaluate their research has a strong focus Open Science practices and outputs."
+    "text": "the Netherlands\n\nIn the Netherlands Open Science is an important component of the Recognition & Rewards movement.\n\nSee for example the description and evaluation criteria of the six UMC Utrecht academic career profiles (2023).\n\nDutch research funder NWO supports new forms of evaluation, requires 100% Open Access and sharing of data/code underlying research articles.\nThe ‘Strategic Evaluation Protocol’ that universities use to periodically evaluate their research has a strong focus Open Science practices and outputs."
   },
   {
     "objectID": "posts/open-science-TUD/index.html#internationally",
