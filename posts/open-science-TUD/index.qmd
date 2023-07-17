@@ -12,7 +12,7 @@ image: "OS-TUD.png"
 
 **Open Science** is [defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO)](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en) as *"an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community."*
 
-[![UNESCO's four pillars of Open Science](images/FAc9xiSXsAkZ7Xq.jpg){fig-alt="According to UNESCO, Open Science has four pillars: Open science infrastructures, Open engagement of societal actors, Open dialogue with other knowledge systems and Open scientific knowledge" fig-align="center"}](https://unesdoc.unesco.org/ark:/48223/pf0000378381.locale=en)
+[![UNESCO\'s four pillars of Open Science](images/FAc9xiSXsAkZ7Xq.jpg){fig-alt="According to UNESCO, Open Science has four pillars: Open science infrastructures, Open engagement of societal actors, Open dialogue with other knowledge systems and Open scientific knowledge" fig-align="center"}](https://unesdoc.unesco.org/ark:/48223/pf0000378381.locale=en)
 
 Several concepts belong under the umbrella term of 'Open Science' and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science.
 
@@ -59,6 +59,8 @@ You can find more information on [Open Science at TU Delft](https://www.tudelft.
 ## the Netherlands
 
 -   In the Netherlands Open Science is an important component of the [Recognition & Rewards](https://recognitionrewards.nl/) movement.
+
+    -   See for example the [description and evaluation criteria](https://assets-eu-01.kc-usercontent.com/546dd520-97db-01b7-154d-79bb6d950a2d/5b97a599-5b3c-4727-a995-bc07038dae0b/UMCU%20Academic%20Career%20Profiles_May2023.pdf) of the six UMC Utrecht academic career profiles (2023).
 
 -   Dutch research funder [NWO supports](https://www.nwo.nl/en/open-science) new forms of evaluation, requires 100% Open Access and sharing of data/code underlying research articles.
 
