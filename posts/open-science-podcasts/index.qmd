@@ -66,7 +66,7 @@ This post contains several Open Science podcasts and episodes:
 
 -   [S4E10 Down to Earth: Training for culture change in Open Science](https://open.spotify.com/episode/6QCJgQOtBLLbGF8GSvj4Fa?si=433007a6b0da44de)
 
-## [Open Science Bites](https://www.rug.nl/research/openscience/podcast/?lang=en)
+## 
 
 ## Machine-Centric Science
 
@@ -105,3 +105,7 @@ This post contains several Open Science podcasts and episodes:
 ## Stereo Chemistry
 
 -   [Ep 33: On being #BlackInChem](https://cen.acs.org/careers/diversity/Podcast-Black-chemists-discuss-strategies/98/web/2020/09)
+
+## [Open Science Bites](https://www.rug.nl/research/openscience/podcast/?lang=en) (thanks to [Agata Bochynska](https://fediscience.org/@agata)!)
+
+[The Library of Alexandra \| Alexandra Elbakyan](https://podcastnotes.org/radiolab/the-library-of-alexandra-alexandra-elbakyan-on-radiolab-with-lulu-miller-latif-nasser/) on Radiolab with Lulu Miller & Latif Nasser (thanks to [Dylan Roskams-Edris](https://scicomm.xyz/@dylanwre)!)
