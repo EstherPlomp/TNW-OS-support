@@ -10,7 +10,38 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.433</generator>
-<lastBuildDate>Sun, 16 Jul 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Jul 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Open Science &amp; Patents</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-patents/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Open Science vs Patents</strong></p>
+<p>One of the primary limitations of patens is the inherent <strong>clash between the core principles</strong> of academia and open science and the commercialization of knowledge. Universities are built on the foundation of open sharing and collaboration, promoting the free exchange of ideas to advance human knowledge. Patents, on the other hand, create exclusive rights and monopolies, hindering the dissemination of knowledge (<a href="https://doi.org/10.2202/1555-5879.1438">Boldrin and Levine 2009</a>; <a href="https://doi.org/10.1093/icc/dtm016">Fabrizio 2007</a>). This can impede scientific progress by restricting access to critical research findings. Additionally, the patenting process can be time-consuming and expensive (<a href="http://link.springer.com/10.1007/978-3-319-00026-8_15">Stodden 2014</a>), with little evidence to support the effectiveness of patents (<a href="dx.doi.org/10.1016/j.respol.2009.07.007">Kenney and Patton 2009</a>; <a href="https://doi.org/10.1146/annurev-economics-110216-100959">Williams 2017</a>). Moreover, the competitive nature of patents, and the perverse career pressures to produce more patents - <a href="https://doi.org/10.1089/ees.2016.0223">Edwards and Roy 2017</a>, may hinder collaboration among researchers.</p>
+<p>Some institutions, including the <a href="https://dx.doi.org/10.1126/science.aae0265">Montreal Neurological Institute (MNI)</a> and <a href="https://nat.au.dk/en/collaboration/research-and-innovation-collaboration/open-science/">Aarhus University</a>, have taken a bolder approach by adopting a <strong>'no patenting' policy</strong> to permit the free re-use and distribution of their research. These polices recognise that for most universities acquiring patents and selling licences is <strong>loss-making and inhibits innovation</strong>.</p>
+<p><a href="https://scicomm.xyz/@dylanwre">Dylan Roskams-Edris</a> writes the following in an article about <a href="https://www.qeios.com/read/OMUWEL">Intellectual Property at the Neuro</a>:</p>
+<ul>
+<li>When these basic knowledge outputs are subject to the restrictions imposed by patents because of potential (and in the vast majority of cases unrealized<a href="https://doi.org/10.1080/10438590701709025">[17]</a><a href="https://www.cigionline.org/articles/should-universities-get-out-patent-business/">​[18]​</a>) commercial potential, they pose at worst a serious risk of hindering downstream research and future commercial development<a href="https://doi.org/10.1086/669706">[19]</a>​ and at best contribute little to downstream innovation<a href="https://doi.org/10.1257/aer.20151398">[20]​</a> and the public good<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3443692">[21]</a>​.</li>
+</ul>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://researchenterprise.org/">10 Ways Universities Deal in Patents</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Science</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-patents/index.html</guid>
+  <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-patents/closed-data.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Open Science Podcasts</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -92,8 +123,8 @@
 <li><p><a href="https://open.spotify.com/episode/6QCJgQOtBLLbGF8GSvj4Fa?si=433007a6b0da44de">S4E10 Down to Earth: Training for culture change in Open Science</a></p></li>
 </ul>
 </section>
-<section id="open-science-bites" class="level2">
-<h2 class="anchored" data-anchor-id="open-science-bites"><a href="https://www.rug.nl/research/openscience/podcast/?lang=en">Open Science Bites</a></h2>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
 </section>
 <section id="machine-centric-science" class="level2">
 <h2 class="anchored" data-anchor-id="machine-centric-science">Machine-Centric Science</h2>
@@ -149,6 +180,10 @@
 <ul>
 <li><a href="https://cen.acs.org/careers/diversity/Podcast-Black-chemists-discuss-strategies/98/web/2020/09">Ep 33: On being #BlackInChem</a></li>
 </ul>
+</section>
+<section id="open-science-bites-thanks-to-agata-bochynska" class="level2">
+<h2 class="anchored" data-anchor-id="open-science-bites-thanks-to-agata-bochynska"><a href="https://www.rug.nl/research/openscience/podcast/?lang=en">Open Science Bites</a> (thanks to <a href="https://fediscience.org/@agata">Agata Bochynska</a>!)</h2>
+<p><a href="https://podcastnotes.org/radiolab/the-library-of-alexandra-alexandra-elbakyan-on-radiolab-with-lulu-miller-latif-nasser/">The Library of Alexandra | Alexandra Elbakyan</a> on Radiolab with Lulu Miller &amp; Latif Nasser (thanks to <a href="https://scicomm.xyz/@dylanwre">Dylan Roskams-Edris</a>!)</p>
 
 
 </section>
@@ -1328,47 +1363,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/index.html</guid>
   <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/direct-harm.png" medium="image" type="image/png" height="139" width="144"/>
-</item>
-<item>
-  <title>Contact</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/contact/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Who can you contact for what support?</p>
-<p>For anything <strong>Open Science/data/code</strong> related you can contact the <strong>Data Steward</strong>, Esther Plomp.</p>
-<p>For more <strong>specific/hands on data/code requests</strong>, you can also contact the <a href="https://www.tudelft.nl/library/library-voor-onderzoekers/library-voor-onderzoekers/onderzoek-starten/dcc">Digital Competence Center</a>.</p>
-<p><a href="https://www.tudelft.nl/dhpc">Delft High Performance Computing Centre</a> (<strong>DHPC</strong>) is the central <strong>TU Delft computing center</strong>. See the <a href="https://doc.dhpc.tudelft.nl/delftblue/">DelftBlue documentation pages</a> for more information or contact Dennis Palagin.</p>
-<p>If you have any questions about the <strong>basic programming courses</strong> (<a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop">Software/Data Carpentry Workshop</a>), please contact Meta de Keijzer.<br>
-</p>
-<p>To <strong>publish/share data</strong> check the <a href="https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository">4TU.ResearchData website</a>. For questions, contact <a href="mailto:researchdata@4tu.nl">researchdata@4tu.nl</a>.</p>
-<p>If you want to use an <a href="https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook"><strong>Electronic Lab Notebook</strong></a> or have any issues/questions regarding this, please contact Madeleine de Smaele.</p>
-<p>For information about <strong>data privacy/security</strong> check the <a href="https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Home.aspx">security &amp; privacy website</a> or contact <a href="mailto:privacy-tud@tudelft.nl">privacy-tud@tudelft.nl</a>. For questions specifically about data security you can also contact Johan Brandenburg (Faculty Information Security Coordinator).</p>
-<ul>
-<li>Do you need to know what software or tooling is available for different tasks, and which tools have been approved based on privacy &amp; security considerations? Please have a look at the <a href="https://softwarefinder.rs.tudelft.nl/">Software Finder</a> and the <a href="https://teaching-support.tudelft.nl/educational-tooling/">Educational Tooling</a> pages.</li>
-</ul>
-<p>For more information about research involving <strong>human participants</strong>, check the Human Research Ethics Committee (<strong>HREC</strong>) website, particularly their <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application">application information</a>.</p>
-<p>For <strong>Open Access</strong>: Check out the <a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser">Journal Browser</a> (to check if the library has an open access deal with a specific journal), and the <a href="mailto:TU%20Delft%20Open%20Access%20Fund">TU Delft Open Access Fund</a>. You can contact the library via <a href="mailto:library@tudelft.nl">library@tudelft.nl</a>.</p>
-<p>For information about <strong>Knowledge Security</strong> you can check the <a href="https://sharepoint.tudelft.nl/misc/KnowledgeSecurity/SitePages/Organisatie%20en%20Programma.aspx">Sharepoint page</a> that contains the ‘Guidance of Advisory Team Knowledge Security’ and contact information.</p>
-<p>For more specific <strong>TNW contact information</strong>, check <a href="https://intranet.tudelft.nl/-/technische-natuurwetenschappen-tnw">intranet</a>.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs">FAQ on Research Data Management</a></li>
-<li><a href="https://data.4tu.nl/info/en/about-4turesearchdata/frequently-asked-questions">FAQ 4TU.ResearchData</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/contact/index.html</guid>
-  <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/contact/contact.png" medium="image" type="image/png" height="119" width="144"/>
 </item>
 </channel>
 </rss>
