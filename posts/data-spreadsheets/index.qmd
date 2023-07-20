@@ -82,6 +82,12 @@ Comma- or Tab-Separated Value (CSV/TSV) formats are not only best for preservati
 
 -   [Create Accessible Spreadsheets](https://www.section508.gov/create/spreadsheets/) (General Services Administration of the 49 U.S. - focused on Excel)
 
+## Tools to work with tabular/spreadsheet data
+
+-   [Modern CSV: A Sophisticated CSV Editor/Viewer](https://www.moderncsv.com/)
+
+-   [OpenRefine](https://openrefine.org/)
+
 ## More information
 
 -   [Data Organisation in Spreadsheets](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-spreadsheets.html)
