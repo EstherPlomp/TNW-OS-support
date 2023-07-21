@@ -38,4 +38,6 @@ There are 2 main options: submit to a single journal that offers Registered Repo
 
 -   [Ten simple rules for writing a Registered Report](https://doi.org/10.1371/journal.pcbi.1010571)
 
+-   [Chris Chambers: Registered Reports and the future of open science in psychology](https://zpid.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a46ac804-8d46-470d-87b5-afef009bc7a2) (conference presentation, 50 min)
+
 -   [Zotero group with registered reports](https://www.zotero.org/groups/osf/items/collectionKey/KEJP68G9)
