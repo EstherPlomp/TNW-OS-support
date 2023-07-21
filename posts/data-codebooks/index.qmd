@@ -18,9 +18,9 @@ The codebook ensures that the dataset is interpretable and reusable in the futur
 
 Useful codebooks are human and machine readable (information provided can be accessed using automated approaches). They should be consistent: each variable is referenced in the codebook, the same structure is used for all variables, and there are no empty/undefined cells.
 
-The codebook should at least list all variables that are included in the data, and may include additional variables. It should refer to all variables in the dataset/article.
+The codebook should at least list all variables that are included in the data, and may include additional variables. It should refer to all variables in the dataset/article. You can explain the numerical values, range, units of measurement, sources, classification schemes used or labels of questions asked.
 
-When using a spreadsheet as a codebook, the same formatting principles apply as to regular spreadsheet data.
+When using a spreadsheet as a codebook, the same formatting principles apply as to regular [spreadsheet data](https://estherplomp.github.io/TNW-OS-support/posts/data-spreadsheets/).
 
 ## Examples
 
