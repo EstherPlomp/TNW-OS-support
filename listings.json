@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/data-codebooks/index.html",
       "/posts/open-science-patents/index.html",
       "/posts/open-science-podcasts/index.html",
       "/posts/data-visualisation/index.html",

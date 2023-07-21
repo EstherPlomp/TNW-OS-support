@@ -10,7 +10,47 @@
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.433</generator>
-<lastBuildDate>Wed, 19 Jul 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Codebooks</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-codebooks/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This post contains some pointers on how to set up a codebook that accomanies the dataset, which will allow reuse of the data. This summary is based on <a href="https://doi.org/10.1027/1015-5759/a000620">Horstmann et al.&nbsp;2020</a>.</p>
+<p>See also the <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-spreadsheets/">spreadsheet post</a> for tips on how to manage spreadsheet files/data.</p>
+<section id="purpose-of-a-codebookdata-dictionary" class="level2">
+<h2 class="anchored" data-anchor-id="purpose-of-a-codebookdata-dictionary">Purpose of a Codebook/Data dictionary</h2>
+<p>The codebook ensures that the dataset is interpretable and reusable in the future. Can another researcher analyse/interpret the data without any further information apart from what is provided in the codebook?</p>
+</section>
+<section id="how" class="level2">
+<h2 class="anchored" data-anchor-id="how">How?</h2>
+<p>Useful codebooks are human and machine readable (information provided can be accessed using automated approaches). They should be consistent: each variable is referenced in the codebook, the same structure is used for all variables, and there are no empty/undefined cells.</p>
+<p>The codebook should at least list all variables that are included in the data, and may include additional variables. It should refer to all variables in the dataset/article. You can explain the numerical values, range, units of measurement, sources, classification schemes used or labels of questions asked.</p>
+<p>When using a spreadsheet as a codebook, the same formatting principles apply as to regular <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-spreadsheets/">spreadsheet data</a>.</p>
+</section>
+<section id="examples" class="level2">
+<h2 class="anchored" data-anchor-id="examples">Examples</h2>
+<ul>
+<li><p>See Tables 1 and 2 in <a href="https://doi.org/10.1027/1015-5759/a000620">Horstmann et al.&nbsp;2020</a></p></li>
+<li><p><a href="https://osf.io/nerpa/">Example template</a></p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-codebooks/index.html</guid>
+  <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-codebooks/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Open Science &amp; Patents</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -21,8 +61,8 @@
 
 
 <p><strong>Open Science vs Patents</strong></p>
-<p>One of the primary limitations of patens is the inherent <strong>clash between the core principles</strong> of academia and open science and the commercialization of knowledge. Universities are built on the foundation of open sharing and collaboration, promoting the free exchange of ideas to advance human knowledge. Patents, on the other hand, create exclusive rights and monopolies, hindering the dissemination of knowledge (<a href="https://doi.org/10.2202/1555-5879.1438">Boldrin and Levine 2009</a>; <a href="https://doi.org/10.1093/icc/dtm016">Fabrizio 2007</a>). This can impede scientific progress by restricting access to critical research findings. Additionally, the patenting process can be time-consuming and expensive (<a href="http://link.springer.com/10.1007/978-3-319-00026-8_15">Stodden 2014</a>), with little evidence to support the effectiveness of patents (<a href="dx.doi.org/10.1016/j.respol.2009.07.007">Kenney and Patton 2009</a>; <a href="https://doi.org/10.1146/annurev-economics-110216-100959">Williams 2017</a>). Moreover, the competitive nature of patents, and the perverse career pressures to produce more patents - <a href="https://doi.org/10.1089/ees.2016.0223">Edwards and Roy 2017</a>, may hinder collaboration among researchers.</p>
-<p>Some institutions, including the <a href="https://dx.doi.org/10.1126/science.aae0265">Montreal Neurological Institute (MNI)</a> and <a href="https://nat.au.dk/en/collaboration/research-and-innovation-collaboration/open-science/">Aarhus University</a>, have taken a bolder approach by adopting a <strong>'no patenting' policy</strong> to permit the free re-use and distribution of their research. These polices recognise that for most universities acquiring patents and selling licences is <strong>loss-making and inhibits innovation</strong>.</p>
+<p>One of the primary limitations of patents is the inherent <strong>clash between the core principles</strong> of academia and open science and the commercialization of knowledge. Universities are built on the foundation of open sharing and collaboration, promoting the free exchange of ideas to advance human knowledge. Patents, on the other hand, create exclusive rights and monopolies, hindering the dissemination of knowledge (<a href="https://doi.org/10.2202/1555-5879.1438">Boldrin and Levine 2009</a>; <a href="https://doi.org/10.1093/icc/dtm016">Fabrizio 2007</a>). This can impede scientific progress by restricting access to critical research findings. Additionally, the patenting process can be time-consuming and expensive (<a href="http://link.springer.com/10.1007/978-3-319-00026-8_15">Stodden 2014</a>), with little evidence to support the effectiveness of patents (<a href="dx.doi.org/10.1016/j.respol.2009.07.007">Kenney and Patton 2009</a>; <a href="https://doi.org/10.1146/annurev-economics-110216-100959">Williams 2017</a>). Moreover, the competitive nature of patents, and the perverse career pressures to produce more patents - <a href="https://doi.org/10.1089/ees.2016.0223">Edwards and Roy 2017</a>, may hinder collaboration among researchers.</p>
+<p>Some institutions, including the <a href="https://dx.doi.org/10.1126/science.aae0265">Montreal Neurological Institute (MNI)</a> and <a href="https://nat.au.dk/en/collaboration/research-and-innovation-collaboration/open-science/">Aarhus University</a>, have taken a bolder approach by adopting a <strong>‘no patenting’ policy</strong> to permit the free re-use and distribution of their research. These polices recognise that for most universities acquiring patents and selling licences is <strong>loss-making and inhibits innovation</strong>.</p>
 <p><a href="https://scicomm.xyz/@dylanwre">Dylan Roskams-Edris</a> writes the following in an article about <a href="https://www.qeios.com/read/OMUWEL">Intellectual Property at the Neuro</a>:</p>
 <ul>
 <li>When these basic knowledge outputs are subject to the restrictions imposed by patents because of potential (and in the vast majority of cases unrealized<a href="https://doi.org/10.1080/10438590701709025">[17]</a><a href="https://www.cigionline.org/articles/should-universities-get-out-patent-business/">​[18]​</a>) commercial potential, they pose at worst a serious risk of hindering downstream research and future commercial development<a href="https://doi.org/10.1086/669706">[19]</a>​ and at best contribute little to downstream innovation<a href="https://doi.org/10.1257/aer.20151398">[20]​</a> and the public good<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3443692">[21]</a>​.</li>
@@ -1282,87 +1322,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-ethics-scholcom/index.html</guid>
   <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-ethics-scholcom/image-ethics.png" medium="image" type="image/png" height="87" width="144"/>
-</item>
-<item>
-  <title>Data Horrors</title>
-  <dc:creator>Esther Plomp, Andrea Chiarelli, Data Hazards (image)</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Examples of data horror stories:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://daphartmann.files.wordpress.com/2017/02/tu-delft-bouwkunde-brand-1.jpg"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/https:/daphartmann.files.wordpress.com/2017/02/tu-delft-bouwkunde-brand-1.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">The TU Delft Architecture building on fire</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://blogs.ch.cam.ac.uk/pmr/2011/08/01/why-you-need-a-data-management-plan/"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-1644946693.png" class="img-fluid figure-img" alt="An advertisement for a cash reward if someone finds a lost backpack. Among details regarding the bag the text says \&quot;The external drive is very important to me as it contains five years of research data which are crucial for my PhD thesis!"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://twitter.com/alexwlchan/status/1323236080913686528"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-689718380.png" class="img-fluid figure-img" alt="An addition to the backup rule from Alex Chan, who had their adjustable height desk crash and their IMAc planted into the backup drive setting on the same desk."></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://twitter.com/electricarchaeo/status/1264362337559023616"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-1240159980.png" class="img-fluid figure-img" alt="A tweet saying &quot;give me a horror story from your speciality in five words or less&quot; with Shawn Graham's answer to this: &quot;is this the current version&quot;"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.upi.com/Science_News/2013/12/19/80-percent-of-scientific-data-from-publicly-funded-research-is-lost-within-two-decades/8781387477327/"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-1125274807.png" class="img-fluid figure-img" alt="80 percent of scientific data from publicly-funded research is lost within two decades. Headline from december 19, 2013"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.theatlantic.com/national/archive/2013/12/scientific-data-lost-forever/356422/"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-1516561689.png" class="img-fluid figure-img" alt="Most scientific research data from the 1990s is lost forever. A new study has found that as much as 80 percent of the raw scientific data collected by researchers in the early 1990s is gone forever, mostly because no one knows where to find it. By Danielle Wiener-Bronner. 2013." width="606"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.researchgate.net/post/Can_you_still_publish_if_you_have_lost_the_original_data"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-338631962.png" class="img-fluid figure-img" alt="Can you still publish if you have lost the original data? I have recently completed a MD project and wriitin it up as a paper. My computer has since been stolen and I have lost the MD simulations (backup was taken too). Would the paper still be able to be published?"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.nytimes.com/2002/01/13/us/years-of-data-lost-in-fire-at-university.html"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-1334545154.png" class="img-fluid figure-img" alt="years of data lost in fire at university"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://vu.nl/en/stories/forgotten-collections-a-physical-data-horror-story"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-218605741.png" class="img-fluid figure-img" alt="Forgotten collections - a (physical) data horror story"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://vu.nl/en/stories/data-transfer-in-shopping-bags"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/images/image-254955976.png" class="img-fluid figure-img" alt="Data transfer in shopping bags"></a></p>
-</figure>
-</div>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/backup/">How to backup your data</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=U6FWWMttBrc">True PhD Horror: Hard Drive Failure</a></p></li>
-<li><p><a href="https://figshare.com/articles/media/The_Data_Horror_Stories_Song/21167128">Data horror story song</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=RVZbk3GEVSw">Data Sharing</a></p></li>
-<li><p><a href="https://www.youtube.com/watch?v=8dhp_20j0Ys">How Toy Story 2 Almost Got Deleted</a> (from <a href="https://www.city.ac.uk/__data/assets/pdf_file/0003/440346/RDM-slideshow.pdf">Chiarelli 2018</a> - pdf)</p></li>
-<li><p><a href="https://datahazards.com/">Data Hazards is a project about worst-case scenarios of data science</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/index.html</guid>
-  <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-horrors/direct-harm.png" medium="image" type="image/png" height="139" width="144"/>
 </item>
 </channel>
 </rss>
