@@ -1,0 +1,31 @@
+---
+title: "Codebooks"
+author: "Esther Plomp"
+date: "2023-17-21"
+categories: [Research Data Management]
+image: "open-data-fountain.jpg"
+---
+
+This post contains some pointers on how to set up a codebook that accomanies the dataset, which will allow reuse of the data. This summary is based on [Horstmann et al. 2020](https://doi.org/10.1027/1015-5759/a000620).
+
+See also the [spreadsheet post](https://estherplomp.github.io/TNW-OS-support/posts/data-spreadsheets/) for tips on how to manage spreadsheet files/data.
+
+## Purpose of a Codebook/Data dictionary
+
+The codebook ensures that the dataset is interpretable and reusable in the future. Can another researcher analyse/interpret the data without any further information apart from what is provided in the codebook?
+
+## How?
+
+Useful codebooks are human and machine readable (information provided can be accessed using automated approaches). They should be consistent: each variable is referenced in the codebook, the same structure is used for all variables, and there are no empty/undefined cells.
+
+The codebook should at least list all variables that are included in the data, and may include additional variables. It should refer to all variables in the dataset/article.
+
+When using a spreadsheet as a codebook, the same formatting principles apply as to regular spreadsheet data.
+
+## Examples
+
+-   See Tables 1 and 2 in [Horstmann et al. 2020](https://doi.org/10.1027/1015-5759/a000620)
+
+-   [Example template](https://osf.io/nerpa/)
+
+## More information
