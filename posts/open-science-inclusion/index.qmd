@@ -36,7 +36,17 @@ The [**FEM/UM Citation Guide**](https://urldefense.com/v3/__https:/athenasangels
 
 ### Language
 
-Articles submitted to journals by authors from countries with low English proficiency fare worse during peer review than those with high English proficiency ([Burns & Fox 2017](https://doi.org/10.1007/s11192-017-2517-5); [Ross et al. 2006](https://doi.org/10.1001/jama.295.14.1675); [Saposnik et al. 2014](https://doi.org/10.1161/STROKEAHA.114.005413); [Tregenza 2002](https://doi.org/10.1016/S0169-5347(02)02545-4); [Walker et al. 2015](https://doi.org/10.12688/f1000research.6012.2) - from [Fox et al. 2022](https://doi.org/10.1111/1365-2435.14259){style="font-size: 11pt;"})
+-   Articles submitted to journals by authors from countries with low English proficiency fare worse during peer review than those with high English proficiency ([Burns & Fox 2017](https://doi.org/10.1007/s11192-017-2517-5); [Ross et al. 2006](https://doi.org/10.1001/jama.295.14.1675); [Saposnik et al. 2014](https://doi.org/10.1161/STROKEAHA.114.005413); [Tregenza 2002](https://doi.org/10.1016/S0169-5347(02)02545-4); [Walker et al. 2015](https://doi.org/10.12688/f1000research.6012.2) - from [Fox et al. 2022](https://doi.org/10.1111/1365-2435.14259){style="font-size: 11pt;"})
+
+-   [Non-native English scientists need:](https://theconversation.com/non-native-english-speaking-scientists-work-much-harder-just-to-keep-up-global-research-reveals-208750)
+
+    -   91% more time to read a paper in English
+
+    -   51% more time to write their own paper
+
+    -   Their papers will be rejected 2.6 times more often by journals
+
+    -   If accepted, they'll have to revise it 12.5 more times
 
 ## Resources
 
