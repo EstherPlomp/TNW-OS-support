@@ -66,3 +66,4 @@ From [Fox et al. 2022](https://doi.org/10.1111/1365-2435.14259):
 
 -   [Labor advantages drive the greater productivity of faculty at elite universities](https://doi.org/10.1126/sciadv.abq7056)
 -   [List of references regarding diversity, biases, and inclusivity studies and opinion pieces](https://www.winrepo.org/publications/)
+-   [Systemic racism in science: Reactions matter](https://www.science.org/doi/10.1126/science.adj7675)
