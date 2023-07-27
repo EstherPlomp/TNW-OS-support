@@ -10,6 +10,8 @@ Metadata is data about data.
 
 [![Image by Piotr Kononow](https://pbs.twimg.com/media/FTLi4U2WIAAQdC9.png){fig-alt="An image with three bottles with coloured substances and labels. The content of the bottles is the data, and the labels are the metadata. This is helpful information if you want to distinguish between a bottle with labels that say: Juice, Oil and a skull."}](https://twitter.com/aabella/status/1527533226574680064)
 
+See the [video made by TU Delft library on documentation and metadata](https://tu-delft-library.github.io/rdm101-book/modules/module3.html?highlight=metadata#documentation-and-metadata) (4 min).
+
 ## Metadata Standards
 
 -   [Unicode CLDR standard for countries](https://github.com/unicode-org/cldr-json/tree/main)
