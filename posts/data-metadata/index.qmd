@@ -1,6 +1,6 @@
 ---
 title: "Metadata"
-author: "Esther Plomp"
+author: "Esther Plomp, Image: Piotr Kononow"
 date: "2023-07-27"
 categories: [Open Data, FAIR]
 image: "metadata.jpg"
