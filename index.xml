@@ -52,6 +52,76 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-codebooks/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Research Data Management 101</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-rdm101/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>TU Delft Library provides the Research Data Management 101 (RDM101) course via the Central Graduate School.</p>
+<p>You can sign up via their waiting/notification list via the <a href="https://tudelftgs.opleidingsportaal.nl/en-us/">Trainingportal</a>. Go to ‘<strong>Research – Research Data Management</strong>’ category, and then you can select the ‘<strong>Research Data Management 101</strong>’ course. Then you should be able to see a red button saying ‘<strong>notification list</strong>’. See the screenshot below:</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-rdm101/rdm101-portal-view.png" class="img-fluid" alt="Screenshot of the training portal of the graduate school website. The selected page is the Research Data Management 101 course under the header Research - Research Data Management" width="579"></p>
+<p>Due to the long waiting list for this course, there has also been a Faculty organised version of the course since 2023. The sign up list is currently closed, but you can always email Esther to be added to the waiting list, or to receive more information about the course.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><p><a href="https://intranet.tudelft.nl/en/-/r4.a1-research-data-management-101">Course description RDM101</a></p></li>
+<li><p><a href="https://tu-delft-library.github.io/rdm101-book/intro.html">Online materials of the central course</a></p></li>
+<li><p><a href="https://estherplomp.github.io/TNW-RDM-101/">Online materials of the faculty version</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-rdm101/index.html</guid>
+  <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-rdm101/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Metadata</title>
+  <dc:creator>Esther Plomp, Image: Piotr Kononow</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Metadata is data about data.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://twitter.com/aabella/status/1527533226574680064"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/https:/pbs.twimg.com/media/FTLi4U2WIAAQdC9.png" class="img-fluid figure-img" alt="An image with three bottles with coloured substances and labels. The content of the bottles is the data, and the labels are the metadata. This is helpful information if you want to distinguish between a bottle with labels that say: Juice, Oil and a skull."></a></p>
+<figcaption class="figure-caption">Image by Piotr Kononow</figcaption>
+</figure>
+</div>
+<p>See the <a href="https://tu-delft-library.github.io/rdm101-book/modules/module3.html?highlight=metadata#documentation-and-metadata">video made by TU Delft library on documentation and metadata</a> (4 min).</p>
+<section id="metadata-standards" class="level2">
+<h2 class="anchored" data-anchor-id="metadata-standards">Metadata Standards</h2>
+<ul>
+<li><a href="https://github.com/unicode-org/cldr-json/tree/main">Unicode CLDR standard for countries</a></li>
+<li>Check <a href="https://fairsharing.org/">FAIRsharing.org</a> if there are any metadata standards used in your discipline</li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://commons.esipfed.org/node/1422">Introduction to Metadata and Metadata Standards by ESIP</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>FAIR</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</guid>
+  <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/metadata.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Open Science &amp; Patents</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-patents/index.html</link>
@@ -62,7 +132,7 @@
 
 <p><strong>Open Science vs Patents</strong></p>
 <p>One of the primary limitations of patents is the inherent <strong>clash between the core principles</strong> of academia and open science and the commercialization of knowledge. Universities are built on the foundation of open sharing and collaboration, promoting the free exchange of ideas to advance human knowledge. Patents, on the other hand, create exclusive rights and monopolies, hindering the dissemination of knowledge (<a href="https://doi.org/10.2202/1555-5879.1438">Boldrin and Levine 2009</a>; <a href="https://doi.org/10.1093/icc/dtm016">Fabrizio 2007</a>). This can impede scientific progress by restricting access to critical research findings. Additionally, the patenting process can be time-consuming and expensive (<a href="http://link.springer.com/10.1007/978-3-319-00026-8_15">Stodden 2014</a>), with little evidence to support the effectiveness of patents (<a href="dx.doi.org/10.1016/j.respol.2009.07.007">Kenney and Patton 2009</a>; <a href="https://doi.org/10.1146/annurev-economics-110216-100959">Williams 2017</a>). Moreover, the competitive nature of patents, and the perverse career pressures to produce more patents - <a href="https://doi.org/10.1089/ees.2016.0223">Edwards and Roy 2017</a>, may hinder collaboration among researchers.</p>
-<p>Some institutions, including the <a href="https://dx.doi.org/10.1126/science.aae0265">Montreal Neurological Institute (MNI)</a> and <a href="https://nat.au.dk/en/collaboration/research-and-innovation-collaboration/open-science/">Aarhus University</a>, have taken a bolder approach by adopting a <strong>‘no patenting’ policy</strong> to permit the free re-use and distribution of their research. These polices recognise that for most universities acquiring patents and selling licences is <strong>loss-making and inhibits innovation</strong>.</p>
+<p>Some institutions, including the <a href="https://dx.doi.org/10.1126/science.aae0265">Montreal Neurological Institute (MNI)</a> and <a href="https://nat.au.dk/en/collaboration/research-and-innovation-collaboration/open-science/">Aarhus University</a>, have taken a bolder approach by adopting a <strong>‘no patenting’ policy</strong> to permit the free re-use and distribution of their research. These policies recognise that for most universities acquiring patents and selling licences is <strong>loss-making and inhibits innovation</strong>.</p>
 <p><a href="https://scicomm.xyz/@dylanwre">Dylan Roskams-Edris</a> writes the following in an article about <a href="https://www.qeios.com/read/OMUWEL">Intellectual Property at the Neuro</a>:</p>
 <ul>
 <li>When these basic knowledge outputs are subject to the restrictions imposed by patents because of potential (and in the vast majority of cases unrealized<a href="https://doi.org/10.1080/10438590701709025">[17]</a><a href="https://www.cigionline.org/articles/should-universities-get-out-patent-business/">​[18]​</a>) commercial potential, they pose at worst a serious risk of hindering downstream research and future commercial development<a href="https://doi.org/10.1086/669706">[19]</a>​ and at best contribute little to downstream innovation<a href="https://doi.org/10.1257/aer.20151398">[20]​</a> and the public good<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3443692">[21]</a>​.</li>
@@ -1253,75 +1323,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/index.html</guid>
   <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/storage-solutions/data.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Open Access Flowchart</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Open Access flowchart (or <a href="https://surfdrive.surf.nl/files/index.php/s/cbbn0vZRIjqHz9A">download the image with embedded links</a>):</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/images/Publishing-OA-2.jpg" class="img-fluid" alt="Publishing Open Access flowchart. You can preprint your article. The rest of the workflow depends on whether you have funder requirements or not. If you do not have funder requirements you can join 'You Share, We Take Care', where TU Delft library makes the article available 6 months after publication when you list TU Delft as your affiliation. This is not compliant with many funder requirements. On the other hand, if you do not have a funder it will be difficult to use budget to pay for the article processing fees. Whether you have a funder or not you have several options available that you can check using the Journal Browser. This website allows you to check whether your preferred journal is Open Access or not, what costs there are, whether TU Delft has a deal with the journal of whether there is an article processing charge that you need to pay. You can use the Rigths Retention Strategy if there are no Open Access options available or if the article processing charges are too expensive. You can use the TU Delft Open Access Fund of 2000 euro's if the journal is fully Open Access, which you can check using the DOAJ. You can also use the Journal checker tool to see if you can use research budget for the charges. Always select CC-BY when you sign a license agreement. This is how you can make your article available open access!"></p>
-<p><strong>Preprint</strong>: version of the article before peer review</p>
-<p><strong>Directory of Open Access Journals</strong> (<a href="https://doaj.org/">DOAJ</a>)</p>
-<p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser"><strong>Journal Browser</strong></a></p>
-<p><strong>Diamond Open Access</strong> options that do not charge article processing fees: <a href="https://open-research-europe.ec.europa.eu/">Open Research Europe</a>, <a href="https://www.tudelft.nl/library/actuele-themas/open-publishing">TU Delft Open</a>, <a href="https://scipost.org/">SciPost</a></p>
-<p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding"><strong>TU Delft Open Access Fund</strong></a></p>
-<p><a href="https://journalcheckertool.org/"><strong>Journal Checker Tool</strong></a></p>
-<p><a href="https://creativecommons.org/licenses/by/4.0/">CC-BY license</a></p>
-<p><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-access-rights-retention/">Rights Retention Strategy</a></p>
-<p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/you-share-we-take-care">You share, We take Care</a></p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-access-2021/">Publishing articles in 2021</a></p></li>
-<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/Open-access-APC/">Article Processing Charge (APC)</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Access</category>
-  <category>Plan S</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/index.html</guid>
-  <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-access-flowchart/publishing-oa-small.png" medium="image" type="image/png" height="56" width="144"/>
-</item>
-<item>
-  <title>Publishing ethically</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-ethics-scholcom/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>How to shift your publishing choices towards publishing in more sustainable/ethical venues:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="http://corinalogan.com/journals.html"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-ethics-scholcom/images/image-1632415656.png" class="img-fluid figure-img" alt="A flowchart asking the question whether the journal is 100% open access, and whether the publisher is for-profit or non-profit. You should publish in the venue if it is open access and ideally the publisher should be non-profit. The APC should reflect the actual costs, but ideally be not existing because publishing fees come with inequalities. You should choose the CC-BY-4.0 license, make use of open peer review, and choose a journal that does not select articles based on subjective impact."></a></p>
-<figcaption class="figure-caption">Flowchart by Carina Logan, based on [Logan 2017](https://doi.org/10.12688/f1000research.11415.2).</figcaption>
-</figure>
-</div>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://sometimesimwrong.typepad.com/wrong/2023/05/unearned-prestige.html">unearned prestige</a> (transcribed conference talk)</li>
-<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/scholcom-profit/">Publish and profit</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Integrity</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-ethics-scholcom/index.html</guid>
-  <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-ethics-scholcom/image-ethics.png" medium="image" type="image/png" height="87" width="144"/>
 </item>
 </channel>
 </rss>
