@@ -38,3 +38,4 @@ Overview of resignations: [Is the Tide Turing in Favour of Universal and Equitab
 -   [Study of the evolution of APC costs and electronic subscriptions for French institutions](https://www.ouvrirlascience.fr/retrospective-and-prospective-study-of-the-evolution-of-apc-costs-and-electronic-subscriptions-for-french-institutions-2/)
 -   [Ivy Plus Libraries weigh in on OSTP guidance on access to federally funded research](https://libraries.mit.edu/news/libraries-support-3/34036/)
 -   [Academic publishing is lazy and unethical](https://www.spectator.co.uk/article/academic-publishing-is-lazy-and-unethical/)
+-   [Shifts to open access with high article processing charges hinder research equity and careers](https://doi.org/10.1111/jbi.14697)
