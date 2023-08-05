@@ -45,3 +45,5 @@ See also the following resources provided on Data Visualisation provided by BioR
 -   [Free visual and communication resources](https://padlet.com/evansemporiumstore/lks3aoyyhkpnkmpe)
 
 -   [Five charts that changed the world](https://www.bbc.co.uk/ideas/videos/five-charts-that-changed-the-world/p0fb69c1?playlist=made-in-partnership-with-the-royal-society)
+
+-   [Misleading Data Visualizations](https://www.youtube.com/watch?v=kThRTrsBr9o&list=PLQNlafbQZBQkgcho3_i_mYaQYPpf2Ckzr&index=7) (14 min video)
