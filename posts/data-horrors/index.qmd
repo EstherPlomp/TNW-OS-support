@@ -28,6 +28,8 @@ Examples of data horror stories:
 
 [![](images/image-254955976.png){fig-alt="Data transfer in shopping bags"}](https://vu.nl/en/stories/data-transfer-in-shopping-bags)
 
+[![](images/fire2.png){fig-alt="Headline:  Fire destroys top research centre. With a picture of a building and a lot of smoke."}](http://news.bbc.co.uk/2/hi/uk_news/england/hampshire/4390048.stm)
+
 ## More information
 
 -   [How to backup your data](https://estherplomp.github.io/TNW-OS-support/posts/backup/)
