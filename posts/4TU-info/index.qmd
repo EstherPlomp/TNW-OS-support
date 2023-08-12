@@ -32,6 +32,8 @@ This post contains general information about the data repository [4TU.ResearchDa
 
     ![](images/image-117915048.png)
 
+    You can also [watch an instruction video](https://drive.google.com/file/d/1AbWVT2H2WNgAMPsIA_Bf4ScCFle6yLH-/view?pli=1) (3 minutes).
+
 3.  Select 'ADD NEW DATASET'
 
     ![](images/image-399880224.png)
