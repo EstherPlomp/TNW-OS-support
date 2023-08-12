@@ -9,7 +9,7 @@
 <link>https://github.com/EstherPlomp/TNW-OS-support/index.html</link>
 <atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.433</generator>
+<generator>quarto-1.3.450</generator>
 <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Codebooks</title>
@@ -350,6 +350,8 @@
 <ul>
 <li><p><a href="https://exploratory-data-visualization.netlify.app/">Data Visualization Course</a></p></li>
 <li><p><a href="https://padlet.com/evansemporiumstore/lks3aoyyhkpnkmpe">Free visual and communication resources</a></p></li>
+<li><p><a href="https://www.bbc.co.uk/ideas/videos/five-charts-that-changed-the-world/p0fb69c1?playlist=made-in-partnership-with-the-royal-society">Five charts that changed the world</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=kThRTrsBr9o&amp;list=PLQNlafbQZBQkgcho3_i_mYaQYPpf2Ckzr&amp;index=7">Misleading Data Visualizations</a> (14 min video)</p></li>
 </ul>
 
 
@@ -429,6 +431,61 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-managing-students/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>README files</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-to-set-up-your-readme-file" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your README file</h2>
+<p>A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally shared together with an open dataset, or can be the landing page of your software repository.</p>
+<p>README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why README files are important and how you can set up your own README files.</p>
+</section>
+<section id="readme-for-data" class="level2">
+<h2 class="anchored" data-anchor-id="readme-for-data">README for data</h2>
+<p>Best practices</p>
+<ul>
+<li><p>Create one README file for each dataset</p></li>
+<li><p>Name the file README</p></li>
+<li><p>Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.</p></li>
+</ul>
+<p>Example templates for data:</p>
+<ul>
+<li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
+<li><p><a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf)</p></li>
+</ul>
+</section>
+<section id="readme-for-software" class="level2">
+<h2 class="anchored" data-anchor-id="readme-for-software">README for software</h2>
+<p>See this <a href="https://www.youtube.com/watch?v=Jgv34Kwgga8&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=7">short presentation by Carlos Martinez</a> about the importance of README files for software.</p>
+<p>Example templates for software:</p>
+<ul>
+<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
+<li><p><a href="https://ha0ye.github.io/CW21-README-tips/template_README.html" class="uri">https://ha0ye.github.io/CW21-README-tips/template_README.html</a></p></li>
+<li><p>More templates</p>
+<ul>
+<li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
+<li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
+<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
+<li><p><a href="https://github.com/matthiasott/README-template" class="uri">https://github.com/matthiasott/README-template</a></p></li>
+</ul></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>Open Software</category>
+  <category>FAIR</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</guid>
+  <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
+</item>
+<item>
   <title>4TU.ResearchData</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/index.html</link>
@@ -455,7 +512,8 @@
 <li><p>README file: include your contact information (name, affiliation, current email address and your <a href="https://orcid.org/">ORCID</a>!) as well as how you would like the output to be cited (the output itself or the associated article). For software you can also use a <a href="https://the-turing-way.netlify.app/communication/citable/citable-cff.html">CITATION.cff file</a> to recommend citation.</p></li>
 </ul></li>
 <li><p>Go to <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> and login with your netID via the ‘LOG IN’ button in the top right corner:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-117915048.png" class="img-fluid"></p></li>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-117915048.png" class="img-fluid"></p>
+<p>You can also <a href="https://drive.google.com/file/d/1AbWVT2H2WNgAMPsIA_Bf4ScCFle6yLH-/view?pli=1">watch an instruction video</a> (3 minutes).</p></li>
 <li><p>Select ‘ADD NEW DATASET’</p>
 <p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-399880224.png" class="img-fluid"></p></li>
 <li><p>Fill out the metadata information fields and select a licence</p>
@@ -521,61 +579,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/index.html</guid>
   <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/4TU-logo.png" medium="image" type="image/png" height="43" width="144"/>
-</item>
-<item>
-  <title>README files</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="how-to-set-up-your-readme-file" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your README file</h2>
-<p>A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally shared together with an open dataset, or can be the landing page of your software repository.</p>
-<p>README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why README files are important and how you can set up your own README files.</p>
-</section>
-<section id="readme-for-data" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-data">README for data</h2>
-<p>Best practices</p>
-<ul>
-<li><p>Create one README file for each dataset</p></li>
-<li><p>Name the file README</p></li>
-<li><p>Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.</p></li>
-</ul>
-<p>Example templates for data:</p>
-<ul>
-<li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
-<li><p><a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf)</p></li>
-</ul>
-</section>
-<section id="readme-for-software" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-software">README for software</h2>
-<p>See this <a href="https://www.youtube.com/watch?v=Jgv34Kwgga8&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=7">short presentation by Carlos Martinez</a> about the importance of README files for software.</p>
-<p>Example templates for software:</p>
-<ul>
-<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
-<li><p><a href="https://ha0ye.github.io/CW21-README-tips/template_README.html" class="uri">https://ha0ye.github.io/CW21-README-tips/template_README.html</a></p></li>
-<li><p>More templates</p>
-<ul>
-<li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
-<li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
-<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
-<li><p><a href="https://github.com/matthiasott/README-template" class="uri">https://github.com/matthiasott/README-template</a></p></li>
-</ul></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <category>Open Software</category>
-  <category>FAIR</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</guid>
-  <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
   <title>Open Science Programme for PhD candidates of AS/TNW</title>
@@ -745,6 +748,45 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/inclusive.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
+  <title>Zotero</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.zotero.org/">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</p>
+<section id="integration-with-other-plugins-and-tools" class="level2">
+<h2 class="anchored" data-anchor-id="integration-with-other-plugins-and-tools">Integration with other plugins and tools</h2>
+<ul>
+<li><p>You can use NotionHQ and the Notero plugin to organise papers in a database and store detailes notes (see an <a href="https://dust-bovid-04d.notion.site/ba1bc5022a4d469abd2ea559e80bc56b?v=a953e6bf2a3449e9ab3083154ce2b238">example template</a>).</p></li>
+<li><p><a href="http://zotfile.com/">ZotFile</a> is a Zotero plugin to manage your attachments.</p></li>
+<li><p>You can import BibTex files from Zotero in your <a href="https://orcid.org/">ORCID profile</a> (an ORCID is a persistent identifier for researchers, where you can manage your research outputs yourself):</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/images/image-170768552.png" class="img-fluid" alt="Screenshot of the ORCID webpage where you can add works via the Import BibTex option" width="454"></p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><a href="https://www.zotero.org/support/kb/mendeley_import">How do I import a Mendeley library into Zotero?</a>
+<ul>
+<li>Ensure that you tell Mendeley desktop to sync attached files for your *entire* library <strong>before</strong> importing to Zotero. You can do this by clicking the “Edit Settings” button by “All Documents” in the main desktop window, and clicking “Synchronize attached files”.</li>
+</ul></li>
+<li><a href="https://www.zotero.org/support/word_processor_plugin_installation">Installing the Zotero Word Processor Plugins</a></li>
+<li><a href="https://calc.hypotheses.org/5692">How to Organize Literature and Notes in Zotero</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Tools</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/index.html</guid>
+  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/zotero.png" medium="image" type="image/png" height="63" width="144"/>
+</item>
+<item>
   <title>Excel functionalities</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-excel/index.html</link>
@@ -795,45 +837,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-excel/index.html</guid>
   <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-excel/excel.png" medium="image" type="image/png" height="134" width="144"/>
-</item>
-<item>
-  <title>Zotero</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://www.zotero.org/">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</p>
-<section id="integration-with-other-plugins-and-tools" class="level2">
-<h2 class="anchored" data-anchor-id="integration-with-other-plugins-and-tools">Integration with other plugins and tools</h2>
-<ul>
-<li><p>You can use NotionHQ and the Notero plugin to organise papers in a database and store detailes notes (see an <a href="https://dust-bovid-04d.notion.site/ba1bc5022a4d469abd2ea559e80bc56b?v=a953e6bf2a3449e9ab3083154ce2b238">example template</a>).</p></li>
-<li><p><a href="http://zotfile.com/">ZotFile</a> is a Zotero plugin to manage your attachments.</p></li>
-<li><p>You can import BibTex files from Zotero in your <a href="https://orcid.org/">ORCID profile</a> (an ORCID is a persistent identifier for researchers, where you can manage your research outputs yourself):</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/images/image-170768552.png" class="img-fluid" alt="Screenshot of the ORCID webpage where you can add works via the Import BibTex option" width="454"></p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><a href="https://www.zotero.org/support/kb/mendeley_import">How do I import a Mendeley library into Zotero?</a>
-<ul>
-<li>Ensure that you tell Mendeley desktop to sync attached files for your *entire* library <strong>before</strong> importing to Zotero. You can do this by clicking the “Edit Settings” button by “All Documents” in the main desktop window, and clicking “Synchronize attached files”.</li>
-</ul></li>
-<li><a href="https://www.zotero.org/support/word_processor_plugin_installation">Installing the Zotero Word Processor Plugins</a></li>
-<li><a href="https://calc.hypotheses.org/5692">How to Organize Literature and Notes in Zotero</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Tools</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/index.html</guid>
-  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/zotero.png" medium="image" type="image/png" height="63" width="144"/>
 </item>
 <item>
   <title>Qualtrics</title>
