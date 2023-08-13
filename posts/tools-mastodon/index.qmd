@@ -1,0 +1,16 @@
+---
+title: "Mastdon [WIP]"
+author: "Esther Plomp"
+date: "2022-11-30"
+categories: [Tools]
+image: "mastodon.png"
+---
+
+\[SURF also hosts a pilot\](<https://www.surf.nl/en/mastodon-pilot-for-research-and-education>) which is making it easy to join their instance and get started!
+
+## Other helpful Mastodon resources:
+
+-   [Blogpost by Danielle Navarro](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/)
+-   [How To Join Mastodon blogpost](https://gizmodo.com/how-to-join-mastodon-twitter-alternative-elon-musk-1849739031)
+-   [Blogpost by Stammy on Mastodon](https://paulstamatiou.com/mastodon/)
+-   
