@@ -77,6 +77,8 @@ See <https://choosealicense.com/appendix/> for a complete overview
 
 -   [TU Delft Guidelines on Research Software](http://doi.org/10.5281/zenodo.4629635)
 
+-   [All you need to know about Software Licenses](https://doi.org/10.5281/zenodo.8246557)
+
 -   [Sharing Software](https://estherplomp.github.io/TNW-OS-support/posts/software-sharing/)
 
 -   [Frequently Asked Questions on Free Software Licensing](https://fsfe.org/freesoftware/legal/faq.en.html)
