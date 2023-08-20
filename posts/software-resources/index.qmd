@@ -54,6 +54,8 @@ Overview of resources related to programming, Python, Git(Hub), Shell and progra
 
 -   [Data Science at the Command Line](https://datascienceatthecommandline.com/) by Jeroen Janssen
 
+-   [Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl)
+
 ### Git(Hub)
 
 -   [OLS GitHub intro](https://www.youtube.com/watch?v=QRUvQgKbVZQ) (OLS1) and a [more extensive intro for OLS2](https://www.youtube.com/watch?v=Wui21rKrCNk)
