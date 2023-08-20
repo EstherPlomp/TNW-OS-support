@@ -50,6 +50,8 @@ examples:
 4.  Use functions
 5.  Make tests for the functions
 
+[![](toot-danielle.png){fig-alt="Toot by Danielle Navarro @djnavarro@fosstodon.org: Just once in my life I would like to start learning a new tool and encounter structured documentation written to help a new user learn how it works, rather than a disorganised assortment of random thoughts the developer had while writing the code" fig-align="center"}](https://fosstodon.org/@djnavarro/110920458995061863)
+
 ## More information
 
 -   [Code documentation lesson by Code Refinery](https://coderefinery.github.io/documentation/)
