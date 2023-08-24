@@ -2,7 +2,7 @@
 title: "Encryption"
 author: "Esther Plomp"
 date: "2022-08-28"
-categories: [Research Data Management]
+categories: [Research Data Management, Data Security]
 image: "encryption.png"
 ---
 

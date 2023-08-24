@@ -2,7 +2,7 @@
 title: "Data Security"
 author: "TU Delft Security Team"
 date: "2023-08-24"
-categories: [Research Data management]
+categories: [Research Data management, Data Security]
 image: "data-security.jpg"
 ---
 
