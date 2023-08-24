@@ -1,5 +1,5 @@
 ---
-title: "Open Science & Justice"
+title: "Open Science & Justice [WIP]"
 author: "Esther Plomp"
 date: "2022-11-29"
 categories: [Open Science, Inclusion]
@@ -7,6 +7,8 @@ image: "OS-TUD.png"
 ---
 
 # [A Resource to Support Decolonization of the Undergraduate Chemistry Curriculum](https://doi.org/10.26434/chemrxiv-2022-t3srw-v3)
+
+[FAIR enough? Building DH Resources in an Unequal World](https://lisa.gerda-henkel-stiftung.de/fair_enough_building_dh_resources_in_an_unequal_world?nav_id=9351)
 
 ## More information
 
