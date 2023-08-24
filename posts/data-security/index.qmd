@@ -1,0 +1,15 @@
+---
+title: "Data Security"
+author: "TU Delft Security Team"
+date: "2023-08-24"
+categories: [Research Data management]
+image: "data-security.jpg"
+---
+
+## Six golden rules for working securely
+
+[![](data-security.jpg){fig-alt="Are you working safely and responsibly online? TU Delft's 6 golden rules for security and privacy will help you keep your data safe and ensure your privacy. The Six golden rules are: connect securely, protect your identity, secure your devices, report suspicious content, share and save data securely, think before you click. For more information: security.tudelft.nl"}](https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Awareness-6-Gouden-Regels.aspx)
+
+## More information
+
+[Security.tudelft.nl](https://security.tudelft.nl)
