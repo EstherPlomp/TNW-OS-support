@@ -114,9 +114,9 @@ This post is a summary of the publication by [Gomes et al. 2022](https://doi.org
 
 -   Sharing data and code can:
 
-    -    increase visibility and recognition
+    -   increase visibility and recognition
 
-    -    initiate new collaborations
+    -   initiate new collaborations
 
     -   increase efficiency,
 
@@ -125,3 +125,7 @@ This post is a summary of the publication by [Gomes et al. 2022](https://doi.org
     -   See '[Why sharing data](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-why/)' for some more benefits
 
 -   Funders/publishers/research institutes increasingly require you to share data/code.
+
+## More information
+
+-   [Yours Sincerely, Unsure about Sharing](https://americanethnologist.org/online-content/collections/yours-sincerely-an-uncertain-anthropologist/yours-sincerely-unsure-about-sharing/)
