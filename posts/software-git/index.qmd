@@ -13,3 +13,4 @@ Git workflow:
 ## More information
 
 -   [The Turing Way: Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
+-   <https://learngitbranching.js.org/>
