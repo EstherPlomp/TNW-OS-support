@@ -32,7 +32,7 @@
     "href": "posts/software-git/index.html#more-information",
     "title": "Git workflow",
     "section": "More information",
-    "text": "More information\n\nThe Turing Way: Version Control"
+    "text": "More information\n\nThe Turing Way: Version Control\nhttps://learngitbranching.js.org/"
   },
   {
     "objectID": "posts/data-sharing-what/index.html",
@@ -1397,7 +1397,7 @@
     "href": "posts/readme/index.html#readme-for-software",
     "title": "README files",
     "section": "README for software",
-    "text": "README for software\nSee this short presentation by Carlos Martinez about the importance of README files for software.\nExample templates for software:\n\nhttps://github.com/othneildrew/Best-README-Template\nhttps://ha0ye.github.io/CW21-README-tips/template_README.html\nMore templates\n\nhttps://github.com/Spaak/contextual-cueing-meg/blob/master/README.md\nhttps://gist.github.com/jxson/1784669\nhttps://github.com/othneildrew/Best-README-Template\nhttps://github.com/matthiasott/README-template"
+    "text": "README for software\nSee this short presentation by Carlos Martinez about the importance of README files for software.\nExample templates for software:\n\nhttps://github.com/othneildrew/Best-README-Template\nhttps://ha0ye.github.io/CW21-README-tips/template_README.html\nhttps://github.com/manuGil/fair-code\nMore templates\n\nhttps://github.com/Spaak/contextual-cueing-meg/blob/master/README.md\nhttps://gist.github.com/jxson/1784669\nhttps://github.com/othneildrew/Best-README-Template\nhttps://github.com/matthiasott/README-template"
   },
   {
     "objectID": "posts/data-spreadsheets/index.html",
@@ -1764,6 +1764,13 @@
     "text": "Disincentives\n\nScooping\n\nResearchers publish most papers using their own datasets within 2 years of original publication, while papers that cite open datasets peak at 5 years after data publication (Piwowar and Vision 2013).\nPreprint servers offer the ability to make first claim to a research projects\n\npre-printed articles are already citable and benefit from increased viewership, citation rates and collaborations\n\n\n\n\nLack of time\n\nDespite the upfront time required, sharing research data and code can ultimately save time for individual researchers and their collaborators, as well as for others who want to reuse it. Your most important collaborator is your future self.\nSharing data/code ensures that you always have access to it, regardless of switching institutions or computers.\nThe preparation of data and code should be considered as important as other publication tasks\n\n\n\nLack of incentives\n\nSharing data and code can:\n\nincrease visibility and recognition\ninitiate new collaborations\nincrease efficiency,\nimprove understanding of one’s own data and code\nSee ‘Why sharing data’ for some more benefits\n\nFunders/publishers/research institutes increasingly require you to share data/code."
   },
   {
+    "objectID": "posts/data-sharing-barriers/index.html#more-information",
+    "href": "posts/data-sharing-barriers/index.html#more-information",
+    "title": "Barriers to data/code sharing",
+    "section": "More information",
+    "text": "More information\n\nYours Sincerely, Unsure about Sharing"
+  },
+  {
     "objectID": "posts/data-security/index.html#more-information",
     "href": "posts/data-security/index.html#more-information",
     "title": "Data Security",
@@ -1951,6 +1958,13 @@
     "title": "Copyright free resources",
     "section": "Copyright free images:",
     "text": "Copyright free images:\n\npexels.com/fr-fr/\nhttps://unsplash.com\nhttps://pixabay.com\nhttps://bioicons.com\nhttps://thenounproject.com\nhttp://phylopic.org\nhttps://flaticon.com"
+  },
+  {
+    "objectID": "posts/copyright/index.html#more-information",
+    "href": "posts/copyright/index.html#more-information",
+    "title": "Copyright free resources",
+    "section": "More information",
+    "text": "More information\n\nhttps://www.tudelft.nl/library/copyright/teacher-copyright-answers#c1132165"
   },
   {
     "objectID": "posts/integrity-peerreview/index.html",
