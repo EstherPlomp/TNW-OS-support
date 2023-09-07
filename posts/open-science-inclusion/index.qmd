@@ -38,15 +38,25 @@ The [**FEM/UM Citation Guide**](https://urldefense.com/v3/__https:/athenasangels
 
 -   Articles submitted to journals by authors from countries with low English proficiency fare worse during peer review than those with high English proficiency ([Burns & Fox 2017](https://doi.org/10.1007/s11192-017-2517-5); [Ross et al. 2006](https://doi.org/10.1001/jama.295.14.1675); [Saposnik et al. 2014](https://doi.org/10.1161/STROKEAHA.114.005413); [Tregenza 2002](https://doi.org/10.1016/S0169-5347(02)02545-4); [Walker et al. 2015](https://doi.org/10.12688/f1000research.6012.2) - from [Fox et al. 2022](https://doi.org/10.1111/1365-2435.14259){style="font-size: 11pt;"})
 
--   [Non-native English scientists need:](https://theconversation.com/non-native-english-speaking-scientists-work-much-harder-just-to-keep-up-global-research-reveals-208750)
+-   Journals are less likely to accept papers by researchers in countries where English is not a primary language \[25--27\].
 
-    -   91% more time to read a paper in English
+-   25\. Primack RB, Marrs R. Bias in the review process. Biol Conserv. 2008; 141(12):2919--2920. https://doi.org/10.1016/j.biocon.2008.09.016
 
-    -   51% more time to write their own paper
+    26\. Primack RB, Zipf L. Acceptance rates and number of papers in Biological Conservation from 2005 to 2014 for Australia, Brazil, China, India, Spain, and the United States: Trends or noise? Biol Conserv. 2016; 196:50--52. https://doi.org/10.1016/j.biocon.2016.01.016
+
+    27\. Smith OM, Davis KL, Pizza RB, Waterman R, Dobson KC, Foster B, et al. Peer review perpetuates barriers for historically excluded groups. Nat Ecol Evol. 2023; 7:512--523. https://doi.org/10.1038/s41559-023-01999-w PMID: 36914773
+
+-   [Non-native English researchers need:](https://theconversation.com/non-native-english-speaking-scientists-work-much-harder-just-to-keep-up-global-research-reveals-208750)
+
+    -   up to 91% more time to read a paper in English
+
+    -   up to 51% more time to write their own paper
 
     -   Their papers will be rejected 2.6 times more often by journals
 
     -   If accepted, they'll have to revise it 12.5 more times
+
+    -   When they present in English (they will often avoid English speaking conferences and oral presentations), they need up to 94% more time to prepare their presentations.
 
 ## Resources
 
@@ -67,3 +77,4 @@ From [Fox et al. 2022](https://doi.org/10.1111/1365-2435.14259):
 -   [Labor advantages drive the greater productivity of faculty at elite universities](https://doi.org/10.1126/sciadv.abq7056)
 -   [List of references regarding diversity, biases, and inclusivity studies and opinion pieces](https://www.winrepo.org/publications/)
 -   [Systemic racism in science: Reactions matter](https://www.science.org/doi/10.1126/science.adj7675)
+-   [Multilingual Data Science: Ten Tips to Translate Science and Tech Content](http://datasciencebydesign.org/blog/multilingual-data-science)
