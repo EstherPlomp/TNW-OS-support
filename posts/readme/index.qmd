@@ -38,6 +38,8 @@ Example templates for software:
 
 -   <https://ha0ye.github.io/CW21-README-tips/template_README.html>
 
+-   <https://github.com/manuGil/fair-code>
+
 -   More templates
 
     -   <https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md>
