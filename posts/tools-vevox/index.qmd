@@ -3,7 +3,7 @@ title: "Vevox"
 author: "Esther Plomp"
 date: "2023-03-06"
 categories: [Tools]
-image: "zotero.png"
+image: "vevox.png"
 ---
 
 Vevox is an audience engagement tool acquired by TU Delft as the campus-wide solution for synchronous (live) polling. This is an alternative to similar tools such as Slido and Mentimeter.
