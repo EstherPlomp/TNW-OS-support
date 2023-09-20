@@ -175,11 +175,11 @@
     "text": "To avoid losing your data, you should follow recommended backup practices:\nThe more important the data and the more often the datasets change, the more frequently you should back them up.\nAutomatic backup is preferred!\nBe careful with storing important data on external drives and flash memory devices (USB/MicroSD cards). They pose a security risk due to their portability, are easily damaged or lost."
   },
   {
-    "objectID": "posts/storage-backup/index.html#recommended-backup-workflow",
-    "href": "posts/storage-backup/index.html#recommended-backup-workflow",
+    "objectID": "posts/storage-backup/index.html#suggested-backup-workflow",
+    "href": "posts/storage-backup/index.html#suggested-backup-workflow",
     "title": "Backup",
-    "section": "Recommended Backup workflow",
-    "text": "Recommended Backup workflow\nWhen working with regular research data (no personal/confidential data) you can use either SURFdrive (500 GB) or OneDrive (1 TB) as an active storage solution, and then regularly back things up using the Project Drive. See the Storage Solutions page for more information about these solutions."
+    "section": "Suggested Backup workflow",
+    "text": "Suggested Backup workflow\nWhen working with regular research data (no personal/confidential data) you can use either SURFdrive (500 GB) or OneDrive (1 TB) as an active storage solution, and then regularly back things up using the Project Drive. See the Storage Solutions page for more information about these solutions."
   },
   {
     "objectID": "posts/storage-backup/index.html#questions-to-consider-for-your-backup-strategy",
