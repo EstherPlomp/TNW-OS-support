@@ -86,7 +86,7 @@ This post is based on an earlier [blogpost](https://openworking.wordpress.com/20
 
 -   [Annotated Horizon Europe Grant Agreement](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf)(Annex 5, pages 152-153)
 
--   [Open data guidelines Open Research Europe](https://open-research-europe.ec.europa.eu/blog/open-data-guidelines-open-research-europe)
+-   [Open data guidelines Open Research Europe](https://open-research-europe.ec.europa.eu/blog/open-data-guidelines-open-research-europe) & [Use Open Research Europe to publish a diverse range of outputs](https://open-research-europe.ec.europa.eu/blog/publish-research-outputs-using-diverse-article-types)
 
 -   [NWO: Research Data Management](https://www.nwo.nl/en/research-data-management)
 
