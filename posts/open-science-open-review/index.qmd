@@ -17,3 +17,5 @@ image: "open-review.jpg"
 -   Check the [**Open Reviewers Review Guide**](https://doi.org/10.5281/zenodo.5484087). Pages 28-31 provide insights about what a reviewer would look for when evaluating your manuscript.
 
 -   Read some [reflections on **reviewing in the publishing system**](http://neural-reckoning.org/reviewing.html).
+
+-   Blogpost: [Peer Review and the Future of Publishing](https://open-research-europe.ec.europa.eu/blog/peer-review-and-the-future-of-publishing)
