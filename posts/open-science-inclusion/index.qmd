@@ -74,6 +74,10 @@ From [Fox et al. 2022](https://doi.org/10.1111/1365-2435.14259):
 
 -   or disfavouring newcomers to a discipline ([Seeber & Bacchelli 2017](https://doi.org/10.1007/s11192-017-2264-7)).
 
+::: callout-note
+open by default, and equitable by design - [Heather Joseph](https://council.science/current/blog/open-science-round-up-september-2023/)
+:::
+
 ## More information
 
 -   [Labor advantages drive the greater productivity of faculty at elite universities](https://doi.org/10.1126/sciadv.abq7056)
