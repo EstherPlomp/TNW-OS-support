@@ -12,4 +12,6 @@ image: "data-security.jpg"
 
 ## More information
 
-[Security.tudelft.nl](https://security.tudelft.nl)
+-   [Security.tudelft.nl](https://security.tudelft.nl)
+
+-   [You Can't Control Your Data in the Cloud](https://karl-voit.at/cloud/)
