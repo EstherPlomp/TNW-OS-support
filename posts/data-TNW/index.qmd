@@ -88,7 +88,9 @@ image: "open-data-fountain.jpg"
 
 ## Reporting standards
 
-[MIMARKS](https://doi.org/10.1038/nbt.1823) (and [MINAS](https://mixs-minas.org/) for ancient sequences)
+-   [MIMARKS](https://doi.org/10.1038/nbt.1823) (and [MINAS](https://mixs-minas.org/) for ancient sequences)
+
+-   [REFORMS:](https://reporting-standards.cs.princeton.edu/) Reporting Standards for ML-based Science
 
 ## RNA-seq/qpcr
 
