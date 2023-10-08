@@ -14,4 +14,6 @@ image: "data-security.jpg"
 
 -   [Security.tudelft.nl](https://security.tudelft.nl)
 
+-   [Partnering Tools at TU Delft](https://intranet.tudelft.nl/-/partnering-tools)
+
 -   [You Can't Control Your Data in the Cloud](https://karl-voit.at/cloud/)
