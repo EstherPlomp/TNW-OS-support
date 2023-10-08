@@ -1,5 +1,5 @@
 ---
-title: "How to share data?"
+title: "How to share data? [WIP]"
 author: "Esther Plomp"
 date: "2022-09-03"
 categories: [Open Data]
@@ -111,6 +111,8 @@ https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html
 https://www.nature.com/sdata/policies/repositories
 
 [How To #1: Upload Your Data to 4TU.ResearchData](https://www.youtube.com/watch?v=JasPLg7-9mQ&list=PLbowNAyqknwb-l8GiGwcX53s8CDB7bZv1)
+
+[upload big files directly from our cluster to Zenodo through their AP](https://felipecrp.com/2021/01/01/uploading-to-zenodo-through-api.html)
 
 [![](https://www.wur.nl/upload_mm/3/5/7/2ea09888-4bd0-4d5d-bb3b-841e11c709c9_DataSharingGuidelines.JPG){alt=""}](https://www.wur.nl/en/value-creation-cooperation/collaborating-with-wur-1/wdcc/research-data-management-wdcc/finishing/research-data-sharing-and-guidelines.htm)
 
