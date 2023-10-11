@@ -24,6 +24,8 @@ image: "open-data-fountain.jpg"
 
 [SDMX (Statistical Data and Metadata Exchange)](http://rd-alliance.github.io/metadata-directory/standards/sdmx-statistical-data-and-metadata-exchange.html)
 
+[The Synthetic Biology Open Language (SBOL)](https://sbolstandard.org/) & [SBOL Visual](https://sbolstandard.org/visual-about/)
+
 ## Potentially relevant metadata standards
 
 [Genome Metadata](http://rd-alliance.github.io/metadata-directory/standards/genome-metadata.html)
@@ -85,6 +87,16 @@ image: "open-data-fountain.jpg"
 [UniProtKB](http://www.uniprot.org)
 
 [Biological Magnetic Resonance Data Bank (BMRB)](http://www.bmrb.wisc.edu/)
+
+[Flowrepository](http://flowrepository.org/)
+
+[LIPID MAPS](https://www.lipidmaps.org/resources/data)
+
+[PRIDE](https://www.ebi.ac.uk/pride/)
+
+[SynBioHub](https://synbiohub.org/)
+
+[Open Energy Data Initiative (OEDI)](https://openei.org/wiki/Open_Energy_Data_Initiative_(OEDI))
 
 ## Reporting standards
 
@@ -158,9 +170,10 @@ image: "open-data-fountain.jpg"
 
 -   [The Cancer Imaging Archive](https://www.cancerimagingarchive.net/)
 
-## Publications
+## Publications & articles
 
 -   [Theisen et al. 2023](https://doi.org/10.1016/j.dche.2022.100072)
+-   [How to get microscopes to speak the same language](https://www.nature.com/articles/d41586-023-03064-9)
 
 ## Battery
 
