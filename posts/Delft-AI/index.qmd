@@ -39,3 +39,7 @@ TU Delft hosts several initiatives related to Artificial Intelligence:
 -   [David Maresca](https://www.marescalab.eu/) (ImPhys)
 
 -   [Arjen J. Jakobi](http://jakobilab.tudelft.nl/) (BN)
+
+See also:
+
+-   [RDA Guidance on AI Tools Usage](https://www.rd-alliance.org/about-rda/code-conduct/rda-guidance-ai-tools-usage)
