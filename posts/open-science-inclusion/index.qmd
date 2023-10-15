@@ -84,3 +84,4 @@ open by default, and equitable by design - [Heather Joseph](https://council.scie
 -   [List of references regarding diversity, biases, and inclusivity studies and opinion pieces](https://www.winrepo.org/publications/)
 -   [Systemic racism in science: Reactions matter](https://www.science.org/doi/10.1126/science.adj7675)
 -   [Multilingual Data Science: Ten Tips to Translate Science and Tech Content](http://datasciencebydesign.org/blog/multilingual-data-science)
+-   [Open Grant Reviewers - Strategies to mitigate bias for grant reviewers](https://www.youtube.com/watch?v=F54MgC76XwM&list=PLnH7HkBJWcSs56Fpiu2Q61RdGV8K7Us6m&index=4)
