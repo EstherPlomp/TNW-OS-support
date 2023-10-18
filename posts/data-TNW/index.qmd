@@ -176,6 +176,7 @@ image: "open-data-fountain.jpg"
 
 -   [Theisen et al. 2023](https://doi.org/10.1016/j.dche.2022.100072)
 -   [How to get microscopes to speak the same language](https://www.nature.com/articles/d41586-023-03064-9)
+-   [Reproducible and replicable CFD: it's harder than you think](https://doi.org/10.48550/arXiv.1605.04339)
 
 ## Battery
 
