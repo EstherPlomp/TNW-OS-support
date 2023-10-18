@@ -12,7 +12,19 @@ You can sign up via their waiting/notification list via the [Trainingportal](htt
 
 ![](rdm101-portal-view.png){fig-alt="Screenshot of the training portal of the graduate school website. The selected page is the Research Data Management 101 course under the header Research - Research Data Management" width="579"}
 
+## Faculty/TNW version of the course
+
 Due to the long waiting list for this course, there has also been a Faculty organised version of the course since 2023. The sign up list is currently closed, but you can always email Esther to be added to the waiting list, or to receive more information about the course.
+
+**Main differences between the central GS and AS Faculty version of the course**
+
+-   The faculty version will have two mandatory in-person sessions instead of three
+
+-   The AS Faculty version will take 4-5 weeks instead of 3, covering the same content
+
+-   For the self-paced parts we will not use Brightspace, but a website/GitHub (<https://estherplomp.github.io/TNW-RDM-101/>)
+
+-   The main materials, assignments and Graduate School Credits you'll receive are identical (1.5 credits for **Research Skills**)
 
 ## More information
 
