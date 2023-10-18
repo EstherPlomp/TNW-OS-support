@@ -48,8 +48,11 @@ You can share your preprint on a preprint server or repository even before you
 
 -   **Publishers version** (Version of Record - VOR): fully formatted version published by the publisher
 
+[![](PREReview.png){fig-alt="The publishing process outlined, with differences listed for peer-reviewed journal articles and preprints.  Peer reviewed journal articles may involve multiple journals or review rounds, with possible multiple steps for submission and review, resulting in a published article that can take up to a year.  Preprints can be posted to a preprint server within 1-2 days, where the community can provide feedback and review which can still be incorporated in any updates of the article.  Preprints can provide proof of productivity (funders now accept them, and preprints receive a DOI and can be cited). They also increase visibility as they are available via search tools such as Google Scholar. They are compatible with journals as most journals now accept preprints. They may also protect you from being scooped as the preprint has release date."}](https://mas.to/@ASAPbio/111228550478598057)
+
 ## More information
 
 -   [Preprints and open preprint review: a workshop on innovations in scholarly publishing](https://upstream.force11.org/preprints-and-open-preprint-review-a-workshop/)
 -   [Puebla et al. 2021](https://doi.org/10.3998/mpub.12412508)
 -   [Why preprint?](https://thesamovar.github.io/zavarka/why-preprint/)
+-   [Preprint FAQ](https://asapbio.org/preprint-info/preprint-faq)
