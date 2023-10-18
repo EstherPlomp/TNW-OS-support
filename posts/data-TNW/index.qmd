@@ -26,6 +26,8 @@ image: "open-data-fountain.jpg"
 
 [The Synthetic Biology Open Language (SBOL)](https://sbolstandard.org/) & [SBOL Visual](https://sbolstandard.org/visual-about/)
 
+[STRENDA](https://www.beilstein-institut.de/en/projects/strenda/guidelines/)
+
 ## Potentially relevant metadata standards
 
 [Genome Metadata](http://rd-alliance.github.io/metadata-directory/standards/genome-metadata.html)
