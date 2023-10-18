@@ -12,7 +12,7 @@ When do you need to set up a Data Management Plan as a PhD candidate at TU Delft
 
 During the first three months of the doctoral programme, doctoral candidates need to formulate a PhD agreement in consultation with their supervisors. The Data Management plan is part of the other arrangements, but at this point **you do not need a complete plan**! **A complete Data Management Plan is required for the Go/No-Go**. For the PhD agreement it is sufficient to state how you will set up your Data Management Plan. You can briefly state in the form that:
 
-1.  You will follow a course. (As part of the [Research Data Management 101 course](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101) you need to set up a Data Management Plan. If you're interested in an Applied Science version of the course, [please fill out this form](https://forms.office.com/r/PLm9TMBGGk)).
+1.  You will follow a course. (As part of the [Research Data Management 101 course](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/research-data-management-101) you need to set up a Data Management Plan - this course has a [waiting list you can sign up for](https://estherplomp.github.io/TNW-OS-support/posts/data-rdm101/)).
 2.  You will follow the Data Management Plan that your project/supervisors have already set up.
 3.  You will set up the plan yourself using the online platform [DMPonline](https://dmponline.tudelft.nl/).
 4.  You will set up an appointment with the Data Steward to set up the plan.
