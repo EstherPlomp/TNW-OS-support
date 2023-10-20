@@ -24,6 +24,7 @@ image: "reproducibility.jpg"
 -   [Deriving chemosensitivity from cell lines: Forensic **bioinformatics** and reproducible research in high-throughput biology](https://doi.org/10.1214/09-AOAS291)
 -   [How Does One "Open" Science? Questions of Value in **Biological Research**](https://doi.org/10.1177%2F0162243916672071)
 -   [Promoting Open Science to Increase the Trustworthiness of Evidence in Special **Education**](https://doi.org/10.1177%2F0014402918793138)
+-   [Same data, different analysts: variation in effect sizes due to analytical decisions in **ecology and evolutionary biology**](https://doi.org/10.32942/X2GG62)
 
 ## Superconductivity
 
