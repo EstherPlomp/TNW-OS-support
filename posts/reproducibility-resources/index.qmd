@@ -32,6 +32,8 @@ image: "reproducibility.jpg"
 
 -   [Room-Temperature Superconductor Discovery Meets With Resistance](https://www.quantamagazine.org/room-temperature-superconductor-discovery-meets-with-resistance-20230308/)
 
+-   [Where is a superconductor located at room temperature?](https://www.taylordailypress.net/where-is-a-superconductor-located-at-room-temperature/)
+
 ## More information
 
 -   [Reproducibility checklist](https://estherplomp.github.io/TNW-OS-support/posts/reproducibility-checklist/)
