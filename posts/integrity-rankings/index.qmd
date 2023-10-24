@@ -8,6 +8,24 @@ image: "dora.png"
 
 [Nederlandse universiteiten gaan voortaan anders om met rankings](https://www.universiteitenvannederland.nl/nl_NL/nieuws-detail/nieuwsbericht/915-p-nederlandse-universiteiten-gaan-voortaan-anders-om-met-rankings-p.html)
 
+From [Key considerations for the use of rankings by higher education institutions](https://recognitionrewards.nl/2023/10/19/key-considerations-for-the-use-of-rankings-by-higher-education-institutions/):
+
+-   ... commercial interests of many rankings providers and by a **lack of transparency** around their methodologies.
+
+-   ... high risk of a 'proxy dilemma' or the **risk that available rather than relevant data is used** as a proxy for quality.
+
+-   ... institutions often **do not have any control over the use of this data** ...
+
+-   The use of 'reputation' **as a proxy for quality ... is highly dubious.**
+
+-   Rankings describe institutional quality according to a **very limited set of parameters**, .... The immense diversity of higher education systems and institutions can neither be accounted for nor reflected.
+
+-   ... rankings lead to **declining diversity in higher education**. Smaller and specialised institutions tend to be excluded or rank lower.
+
+-   \[Rankings\] **do not provide an adequate assessment of educational quality.**
+
+-   Global university rankings, ..can **dissuade institutions from promoting the use of a broader set of evaluation practices** for academic careers, including Open Science, social outreach, innovation, and knowledge transfer, and from deploying a wider definition of impact beyond traditional bibliometric indicators. What is more, institutions may even be constrained to limit their engagement to activities that can be summed up using simple quantitative indicators.
+
 ## **More information**
 
 -   [Presentation by Elizabeth Gadd for EUA 2023 on University Rankings](https://www.youtube.com/watch?v=QaF6gI4ijC0)
