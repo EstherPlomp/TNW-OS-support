@@ -6,7 +6,7 @@ categories: [Research Data management]
 image: "metadata.jpg"
 ---
 
-Still needs to be updated
+Still needs to be updated..
 
 ## More information
 
