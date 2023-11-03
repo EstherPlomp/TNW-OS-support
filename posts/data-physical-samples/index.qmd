@@ -1,0 +1,11 @@
+---
+title: "Physical Samples"
+author: "Esther Plomp, Image: Piotr Kononow"
+date: "2023-07-27"
+categories: [Research Data management]
+image: "metadata.jpg"
+---
+
+## More information
+
+-   [Opinion: Science Has a Reproducibility Problem. Can Sample Sharing Help?](https://undark.org/2023/07/27/science-has-a-reproducibility-problem-can-sample-sharing-help/)
