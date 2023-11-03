@@ -1,0 +1,21 @@
+---
+title: "Open Science & Alt text [WIP]"
+author: "Esther Plomp"
+date: "2022-11-29"
+categories: [Open Science, Inclusion]
+image: "os-inclusion.png"
+---
+
+https://www.nottheonlyone.org/?search_query=alt-text
+
+https://webaim.org/techniques/alttext/
+
+https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text
+
+Data visualisations:
+
+https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81
+
+## More information
+
+-   
