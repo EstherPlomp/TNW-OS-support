@@ -1,0 +1,19 @@
+---
+title: "ORCID"
+author: "Esther Plomp"
+date: "2022-09-03"
+categories: [Credit, Tools]
+image: "orcid-logo.png"
+---
+
+What is ORCID
+
+![](images/201809_ORCID_e-flyer.jpg)
+
+## **More information**
+
+-   Contact the library\[at\]tudelft.nl or your Faculty Data Steward
+
+-   [TU Delft information on ORCID](https://www.tudelft.nl/library/orcid)
+
+-   ORCID integration with PURE
