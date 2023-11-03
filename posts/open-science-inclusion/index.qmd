@@ -35,6 +35,7 @@ The [**FEM/UM Citation Guide**](https://urldefense.com/v3/__https:/athenasangels
 ### Race
 
 -   Peer reviewers discriminate based on author race ([Nakamura et al. 2021](https://doi.org/10.7554/%20eLife.71368))
+-   Non-White scientists appear on fewer editorial boards, spend more time under review, and receive fewer citations ([Liu et al. 2023](https://doi.org/10.1073/pnas.2215324120))
 
 ### Language
 
@@ -85,3 +86,5 @@ open by default, and equitable by design - [Heather Joseph](https://council.scie
 -   [Systemic racism in science: Reactions matter](https://www.science.org/doi/10.1126/science.adj7675)
 -   [Multilingual Data Science: Ten Tips to Translate Science and Tech Content](http://datasciencebydesign.org/blog/multilingual-data-science)
 -   [Open Grant Reviewers - Strategies to mitigate bias for grant reviewers](https://www.youtube.com/watch?v=F54MgC76XwM&list=PLnH7HkBJWcSs56Fpiu2Q61RdGV8K7Us6m&index=4)
+
+https://osc.universityofcalifornia.edu/scholarly-publishing/diversity-equity-and-inclusion-in-scholarly-communication/authorship/
