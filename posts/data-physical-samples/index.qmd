@@ -1,6 +1,6 @@
 ---
-title: "Physical Samples"
-author: "Esther Plomp, Image: Piotr Kononow"
+title: "Physical Samples [WIP]"
+author: "Esther Plomp"
 date: "2023-07-27"
 categories: [Research Data management]
 image: "metadata.jpg"
