@@ -13,5 +13,9 @@ Git workflow:
 ## More information
 
 -   [The Turing Way: Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
+
 -   <https://learngitbranching.js.org/>
+
 -   [How to resolve Git merge conflicts](https://opensource.com/article/23/4/resolve-git-merge-conflicts)
+
+-   [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
