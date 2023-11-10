@@ -20,13 +20,15 @@ This posts lists several resources regarding inclusion gaps in the scientific la
 
 -   [The extent and drivers of gender imbalance in neuroscience reference lists](https://doi.org/10.1038/s41593-020-0658-y)
 
--   Papers authored by women are rated lower or have lower acceptance rates in academic journals ([Fox et al. 2019](https://doi.org/10.1002/ece3.4993); [Murray et al. 2018](https://doi.org/10.1101/400515); [Walker et al. 2015](https://doi.org/10.12688/f1000research.6012.2))
+-   Papers authored by women are rated lower or have lower acceptance rates in academic journals ([Fox et al. 2019](https://doi.org/10.1002/ece3.4993); [Hagan et al. 2020](https://doi.org/10.1128/mBio.01680-20); [Murray et al. 2018](https://doi.org/10.1101/400515); [Walker et al. 2015](https://doi.org/10.12688/f1000research.6012.2))
 
 -   *"Numerous studies have demonstrated that the use of standardized proxies of performance, such as journal ratings and impact factors, can reinforce existing gender inequalities in scientific organizations*" ([Brooks et al. 2014](https://doi.org/10.1016/j.respol.2013.12.005), [Hunter et al. 2010](https://doi.org/10.1177/0306312709358472), [Nielsen et al. 2017](https://doi.org/10.1080/03075079.2015.1075197) in [Nielsen et al. 2018](https://doi.org/10.1038/s41562-018-0433-1))
 
     80\.
 
 -   18.43-fold more women and 13.34-fold more men receive more recognition with article-level metrics ([Arabi et al. 2023](https://doi.org/10.1101/2023.09.07.556750))
+
+-   
 
 The [**FEM/UM Citation Guide**](https://urldefense.com/v3/__https:/athenasangels.nl/index.php?option=com_acym&ctrl=fronturl&task=click&urlid=488&userid=2191&mailid=92__;!!PAKc-5URQlI!-Z7wHi2Bk7Ca7fpj2Q2ZB-t3G1A2LFDUKD1wHCFd4EF_emK8FnrWZYb9H3PeYVn4Q9NFCBXqqhTQmsnIrRoEsg$) explains how women and other underrepresented groups can become more visible in science through citation practices
 
