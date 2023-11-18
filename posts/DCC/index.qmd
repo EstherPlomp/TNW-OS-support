@@ -40,6 +40,20 @@ Support can look like:
 
 -   Implement automated software testing for continuous integration
 
+## Previous Applied Sciences projects that received part time support: 
+
+**Towards clinical implementation of fast dose calculation algorithms** (Zoltan Perko and Danny Lathouwers)
+
+-   Making existing solutions ([**OpenGPC**](https://gitlab.com/zperko/opengpc) and [**DoTa**](https://github.com/opaserr/dota)) available to the clinical context
+
+**Interactive Datacube** (Gary Steele)
+
+-   To develop a fast, interactive visualization and analysis tool for multidimensional datasets that are embedded inside a Jupyter Notebook
+
+**OpenDDM (**Iain Muntz and James Conboy)
+
+-   [**OpenDDM**](https://koenderinklab.github.io/OpenDDM/readme.html) is a Python package to analyse an image sequence and measure diffusion properties through Fourier techniques
+
 ## More information
 
 -   [Digital Competence Center Website](https://dcc.tudelft.nl/)
