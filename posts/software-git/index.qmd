@@ -10,6 +10,8 @@ Git workflow:
 
 ![](git-workflow){fig-alt="Local environment consisting of working directory, staging, stash, and local repository. Specific actions, including pull, add, commit can be done between specific git compartments. There's also a remote environment" width="909"}
 
+30 min video: [First steps with git: installation, setting up a repository and first commands](https://www.youtube.com/watch?v=Y4VwIEVfZsY)
+
 ## More information
 
 -   [The Turing Way: Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
