@@ -557,7 +557,7 @@
     "href": "posts/licenses/index.html#data-licenses",
     "title": "Licenses",
     "section": "Data Licenses",
-    "text": "Data Licenses\nFor data, we recommend to use CC (Creative Commons) licenses. (If you used the TU Delft template in DMPonline, everything starting with a CC in question 32 is applicable to data.)\nTU Delft recommends CC-BY (which is also quite standard in publishing articles) and allows reusers to cite the original work if they reuse it.\nThe more letters these CC licenses have, the more restrictions they place on re-use.\n\nNC means non-commercial use is prohibited\nSA stands for share alike, which means that you have to apply the same license.\nND means non-derivative, which means that reusers can only reuse the data in the same form (which is quite restrictive!).\n\nData license chooser\n\n\n\nCreative Commons licenses by Foter (CC-BY-SA)"
+    "text": "Data Licenses\nFor data, we recommend to use CC (Creative Commons) licenses. (If you used the TU Delft template in DMPonline, everything starting with a CC in question 32 is applicable to data.)\nTU Delft recommends CC-BY (which is also quite standard in publishing articles) and allows reusers to cite the original work if they reuse it.\nThe more letters these CC licenses have, the more restrictions they place on re-use.\n\nNC means non-commercial use is prohibited (this includes non-commercial platforms such as blogs, ResearchGate/Academia.edu!)\nSA stands for share alike, which means that you have to apply the same license.\nND means non-derivative, which means that reusers can only reuse the data in the same form (which is quite restrictive!).\n\nData license chooser\n\n\n\nCreative Commons licenses by Foter (CC-BY-SA)"
   },
   {
     "objectID": "posts/licenses/index.html#software",
@@ -1978,14 +1978,14 @@
     "href": "posts/open-science-TUD/index.html",
     "title": "Open Science",
     "section": "",
-    "text": "Open Science is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.\nOpen Science is defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO) as “an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”\n\n\n\nUNESCO's four pillars of Open Science\n\n\nSeveral concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science."
+    "text": "Open Science is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.\nOpen Science is defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO) as “an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”\n\n\n\nUNESCO’s four pillars of Open Science\n\n\nSeveral concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science."
   },
   {
     "objectID": "posts/open-science-TUD/index.html#open-science",
     "href": "posts/open-science-TUD/index.html#open-science",
     "title": "Open Science",
     "section": "",
-    "text": "Open Science is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.\nOpen Science is defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO) as “an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”\n\n\n\nUNESCO's four pillars of Open Science\n\n\nSeveral concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science."
+    "text": "Open Science is the movement to make scientific research and its outputs more accessible and transparently available, allowing a wider range of contributions that will increase research quality.\nOpen Science is defined by the United Nations Educational, Scientific and Cultural Organization (UNESCO) as “an inclusive construct that combines various movements and practices aiming to make multilingual scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community.”\n\n\n\nUNESCO’s four pillars of Open Science\n\n\nSeveral concepts belong under the umbrella term of ‘Open Science’ and these include equity and inclusion, Open Data, Open Software, Open Methods, Open Hardware, Open Review, Open Access, FAIR, Open Education, Community building, Citizen Science."
   },
   {
     "objectID": "posts/open-science-TUD/index.html#benefits-of-open-science",
@@ -2014,6 +2014,13 @@
     "title": "Open Science",
     "section": "Internationally",
     "text": "Internationally\n\nThe San Francisco Declaration on Research Assessment (to which all Dutch universities adhere to).\nThe ‘Reforming research assessment’ agreement by the European Union. Open Science has for years been promoted by the European Commission.\nUNESCO adopted a recommendation on Open Science.\nThe White House also committed the United States to Open Science, which pushes for Open Access, and FAIR data and code sharing.\nThe European Council calls for transparent, equitable, and open access to scholarly publications.\nSee also individual countries progressions and roadmaps, such as: Italy, Slovenia, Norway (see the overview maintained by NASA)."
+  },
+  {
+    "objectID": "posts/open-science-TUD/index.html#open-science-monitorsdashboards",
+    "href": "posts/open-science-TUD/index.html#open-science-monitorsdashboards",
+    "title": "Open Science",
+    "section": "Open Science Monitors/Dashboards",
+    "text": "Open Science Monitors/Dashboards\n\nFrench Open Science Monitor\nHMC Dashboard on Open and FAIR Data in Helmholtz\nCharité Dashboard on Responsible Research"
   },
   {
     "objectID": "posts/open-science-TUD/index.html#more-information",
@@ -2203,6 +2210,13 @@
     "title": "Digital Competence Center",
     "section": "",
     "text": "TU Delft has a Digital Competence Center (DCC) which consists of four Research Software Engineers, two Data Managers and a High Performance Computing Data Steward.\nThe DCC helps you with practically applying the FAIR principles to your research data and code.\nThe DCC helps any researcher at the TU Delft in the following two ways:\nSupport can look like:"
+  },
+  {
+    "objectID": "posts/DCC/index.html#previous-applied-sciences-projects-that-received-part-time-support",
+    "href": "posts/DCC/index.html#previous-applied-sciences-projects-that-received-part-time-support",
+    "title": "Digital Competence Center",
+    "section": "Previous Applied Sciences projects that received part time support:",
+    "text": "Previous Applied Sciences projects that received part time support:\nTowards clinical implementation of fast dose calculation algorithms (Zoltan Perko and Danny Lathouwers)\n\nMaking existing solutions (OpenGPC and DoTa) available to the clinical context\n\nInteractive Datacube (Gary Steele)\n\nTo develop a fast, interactive visualization and analysis tool for multidimensional datasets that are embedded inside a Jupyter Notebook\n\nOpenDDM (Iain Muntz and James Conboy)\n\nOpenDDM is a Python package to analyse an image sequence and measure diffusion properties through Fourier techniques"
   },
   {
     "objectID": "posts/DCC/index.html#more-information",
@@ -2405,7 +2419,7 @@
     "href": "posts/software-git/index.html",
     "title": "Git workflow",
     "section": "",
-    "text": "Git workflow:"
+    "text": "Git workflow:\n30 min video: First steps with git: installation, setting up a repository and first commands"
   },
   {
     "objectID": "posts/software-git/index.html#more-information",
