@@ -122,9 +122,9 @@ Electronic Lab Notebooks allow you to capture and organise data digitally, which
 
 ## Teams
 
-While not necessarily the best solution for research data, Teams can provide a solution when you need to collaborate with multiple people/teams and set up tasks for group members.
+While not necessarily the best solution for research data (especially big data), Teams can provide a solution when you need to collaborate with multiple people/teams and set up tasks for group members.
 
-Files shared via Teams are stored on Sharepoint.
+Files shared via Teams are stored on Sharepoint, which is backed up regularly by TU Delft ICT.
 
 See the [Microsoft Teams post for more information](https://estherplomp.github.io/TNW-OS-support/posts/tools-teams/).
 
