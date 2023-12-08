@@ -52,6 +52,112 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-codebooks/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Software Citation</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Software citation is important to receive credit for software outputs and to ensure permanent references to the software.</p>
+<p>While platforms such as GitHub/GitLab/Bitbucket are great for reuse and collaboration, they are no long-term solutions for software preservation. Instead, a snapshot of the software should be shared using a data repository. This data repository will provide you with a persistent identifier, or DOI, which is key for making the code citable.</p>
+<p>Some data repositories, such as Zenodo and 4TU.ResearchData, have integrations with GitHub so that you can easily share a release of your software repositories.</p>
+<ul>
+<li><p><a href="https://guides.github.com/activities/citable-code/">Zenodo &amp; GitHub</a></p></li>
+<li><p><a href="https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account">Figshare &amp; GitHub</a></p></li>
+</ul>
+<p>Once you shared your software on a data repository and received a DOI, it is important to let others know how they should cite your data. If you’re reusing software of others, you should also properly cite their work.</p>
+<section id="cffinit" class="level2">
+<h2 class="anchored" data-anchor-id="cffinit">CFFinit</h2>
+<p>There is a tool that helps you create a CITATION.cff for your software: <a href="https://citation-file-format.github.io/cff-initializer-javascript"><strong>CFFinit</strong></a><strong>.</strong> Watch the tutorials to learn <a href="https://www.youtube.com/watch?v=zcgLIT5Qd4M">how to create a CITATION.cff file</a>, or <a href="https://www.youtube.com/watch?v=6Ik1onYbO3A">how to update it</a>.</p>
+</section>
+<section id="software-citation-how-to-format" class="level2">
+<h2 class="anchored" data-anchor-id="software-citation-how-to-format">Software citation: how to format?</h2>
+<p>The recommended format (<a href="https://doi.org/10.12688/f1000research.26932.1">Katz et al.&nbsp;2020</a>) for software citation is to include:</p>
+<p><strong>• Creator(s):</strong> the authors or project that developed the software.</p>
+<p>• <strong>Title:</strong> the name of the software.</p>
+<p>• <strong>Publication venue:</strong> the publication venue of the software, preferentially, an archive or repository that provides persistent identifiers.</p>
+<p>• <strong>Date</strong>: the date the software was published.</p>
+<p>• <strong>Identifier:</strong> a resolvable pointer to the software, preferentially, a PID that resolves to a landing page containing descriptive metadata about the software, similar to how a Digital Object Identifier (DOI) for a paper that points to a page about the paper rather than directly to a representation of the paper, such as the PDF.</p>
+<p>• <strong>Version</strong>: the identifier for the version of the software being referenced. If the version is unidentified or unknown, the date of access should be used.</p>
+<p>• <strong>Type</strong>: some citation styles (e.g., APA), require a bracketed description of the citation (e.g., [Computer software]) to be included.</p>
+<p>If a published article exists that describes the software, it should be cited as an additional reference.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Example (APA):</strong> Developer, A. A., Developer, B. B., &amp; Developer, C. C. (yyyy) 1. Title of the software: Subtitle (Version #.#) 2. [Computer software] 3. Publisher 4. <a href="https://URL5" class="uri">https://URL5</a></p>
+<p>See <a href="https://doi.org/10.12688/f1000research.26932.1">Katz et al.&nbsp;2020</a>) for more examples.</p>
+</div>
+</div>
+</section>
+<section id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al.." class="level2">
+<h2 class="anchored" data-anchor-id="software-citation-checklist-for-authors-by-neil-chue-hong-et-al..">Software Citation Checklist for Authors <a href="https://doi.org/10.5281/zenodo.3479199">by Neil Chue Hong et al.</a>.</h2>
+<ul>
+<li><p>Have I identified the software which makes a significant and specialised contribution to my academic work?</p></li>
+<li><p>Have I checked if the software has a recommended citation?</p>
+<ul>
+<li><p>If this is to a paper, have I also cited the software directly?</p></li>
+<li><p>If there’s no recommended citation, have I created as complete a citation as possible?</p>
+<ul>
+<li><p>Who created the software</p></li>
+<li><p>When it was created</p></li>
+<li><p>Title of the software (and version if available)</p></li>
+<li><p>Where the software can be accessed</p></li>
+</ul></li>
+</ul></li>
+<li><p>Have I referenced the software appropriately in my academic work, complying with any citation formatting guidelines?</p></li>
+</ul>
+</section>
+<section id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al." class="level2">
+<h2 class="anchored" data-anchor-id="software-citation-checklist-for-developers-by-neil-chue-hong-et-al.">Software Citation Checklist for Developers <a href="https://doi.org/10.5281/zenodo.3482769">by Neil Chue Hong et al.</a></h2>
+<ul>
+<li><p>Have I assigned an appropriate <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/"><strong>license</strong></a> to my software?</p></li>
+<li><p>Have I <strong>described my software properly</strong>, using an appropriate metadata format, and included this metadata file with my software?</p>
+<ul>
+<li><p>Have I given my software a clear <strong>version number</strong>?</p></li>
+<li><p>Have I determined the <strong>authors to be credited</strong> for this release of my software, and included this in my metadata file?</p></li>
+</ul></li>
+<li><p>Have I procured a <strong>persistent identifier</strong> for this release of my software?</p></li>
+<li><p>Have I added my <strong>recommended citation</strong> to the documentation for my software?</p></li>
+</ul>
+</section>
+<section id="example" class="level2">
+<h2 class="anchored" data-anchor-id="example">Example</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0378873323000825"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/software-citation-example.jpg" class="img-fluid figure-img" alt="Replication material  Data and code to reproduce the results shown in the paper can be obtained from https://github.com/schochastics/centrality-correlation . We used R version 4.2.2 (R. Core Team, 2022) and the following R packages: ggpubr v. 0.5.0 (Kassambara, 2022), ggraph v. 2.1.0 (Pedersen, 2022), igraph v. 1.4.0 (Csardi and Nepusz, 2006), netrankr v. 1.2.0 (Schoch, 2022a), netropy v. 0.1.0 (Shafie, 2022), netUtils v. 0.8.1 (Schoch, 2022b), and networkdata v 0.1.14 (Schoch, 2022c)" width="617"></a></p>
+</figure>
+</div>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li>See also the posts on <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/">licensing</a>, <a href="https://estherplomp.github.io/TNW-OS-support/posts/good-enough-software/">good enough FAIR software</a></li>
+<li>For more information about the practicalities and timing in <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">linking your research outputs, see The Turing Way</a>.</li>
+<li><a href="https://doi.org/10.5281/zenodo.7560153">What [you] should know about software citation</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Licenses</category>
+  <category>Software</category>
+  <category>Citation</category>
+  <category>Credit</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</guid>
+  <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/software-citation.png" medium="image" type="image/png" height="115" width="144"/>
+</item>
+<item>
   <title>Data Security</title>
   <dc:creator>TU Delft Security Team</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-security/index.html</link>
@@ -127,6 +233,31 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-rdm101/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Physical Samples [WIP]</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-physical-samples/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Still needs to be updated..</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://undark.org/2023/07/27/science-has-a-reproducibility-problem-can-sample-sharing-help/">Opinion: Science Has a Reproducibility Problem. Can Sample Sharing Help?</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data management</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-physical-samples/index.html</guid>
+  <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-physical-samples/metadata.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Metadata</title>
   <dc:creator>Esther Plomp, Image: Piotr Kononow</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</link>
@@ -165,31 +296,6 @@
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</guid>
   <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/metadata.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Physical Samples [WIP]</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-physical-samples/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Still needs to be updated..</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://undark.org/2023/07/27/science-has-a-reproducibility-problem-can-sample-sharing-help/">Opinion: Science Has a Reproducibility Problem. Can Sample Sharing Help?</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Research Data management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-physical-samples/index.html</guid>
-  <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-physical-samples/metadata.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Open Science &amp; Patents</title>
@@ -819,6 +925,59 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/inclusive.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
+  <title>Vevox</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-vevox/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Vevox is an audience engagement tool acquired by TU Delft as the campus-wide solution for synchronous (live) polling. This is an alternative to similar tools such as Slido and Mentimeter.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><a href="https://www.tudelft.nl/teaching-support/educational-tools/vevox" class="uri">https://www.tudelft.nl/teaching-support/educational-tools/vevox</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Tools</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-vevox/index.html</guid>
+  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-vevox/vevox.png" medium="image" type="image/png" height="29" width="144"/>
+</item>
+<item>
+  <title>Qualtrics</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Qualtrics is a safe solution to collect survey data. See the <a href="https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Privacy/Qualtrics_guidance%202022-08.pdf">Qualtrics Guidance</a> for more information.</p>
+<p>You can request access to Qualtric licenses <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=57ec510c3da9408b929c2eeee82b4eaa">via topdesk</a>.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li>TU Delft now has a <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research">self-paced personal data course</a>. PhD candidates can sign up and follow it for 0.5 GS credits.</li>
+<li><a href="https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Home.aspx">TU Delft Privacy and Security page</a></li>
+<li><a href="https://renebekkers.wordpress.com/2023/07/03/how-not-to-collect-data-on-qualtrics/">Learn more about how to not collect IP addresses/geolocation.</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Tools</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/index.html</guid>
+  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/qualtrics.png" medium="image" type="image/png" height="54" width="144"/>
+</item>
+<item>
   <title>Excel functionalities</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-excel/index.html</link>
@@ -908,59 +1067,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/index.html</guid>
   <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/zotero.png" medium="image" type="image/png" height="63" width="144"/>
-</item>
-<item>
-  <title>Qualtrics</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Qualtrics is a safe solution to collect survey data. See the <a href="https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Privacy/Qualtrics_guidance%202022-08.pdf">Qualtrics Guidance</a> for more information.</p>
-<p>You can request access to Qualtric licenses <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=57ec510c3da9408b929c2eeee82b4eaa">via topdesk</a>.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li>TU Delft now has a <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research">self-paced personal data course</a>. PhD candidates can sign up and follow it for 0.5 GS credits.</li>
-<li><a href="https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Home.aspx">TU Delft Privacy and Security page</a></li>
-<li><a href="https://renebekkers.wordpress.com/2023/07/03/how-not-to-collect-data-on-qualtrics/">Learn more about how to not collect IP addresses/geolocation.</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Tools</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/index.html</guid>
-  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/qualtrics.png" medium="image" type="image/png" height="54" width="144"/>
-</item>
-<item>
-  <title>Vevox</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-vevox/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Vevox is an audience engagement tool acquired by TU Delft as the campus-wide solution for synchronous (live) polling. This is an alternative to similar tools such as Slido and Mentimeter.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><a href="https://www.tudelft.nl/teaching-support/educational-tools/vevox" class="uri">https://www.tudelft.nl/teaching-support/educational-tools/vevox</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Tools</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-vevox/index.html</guid>
-  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-vevox/vevox.png" medium="image" type="image/png" height="29" width="144"/>
 </item>
 <item>
   <title>Why not supplemental materials?</title>
@@ -1104,39 +1210,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/index.html</guid>
   <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/stairs.png" medium="image" type="image/png" height="143" width="144"/>
-</item>
-<item>
-  <title>Metrics in Academia [WIP]</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://doi.org/10.5281/zenodo.6365456">Metrics in Academia</a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/https:/www.turing.ac.uk/sites/default/files/inline-images/Culture%20shift.jpg" title="Time for a cultural shift" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Scriberia image that indicates that we need to move from quantity to quality, focusing on valuing reproducibility as much as the amount of papers published</figcaption>
-</figure>
-</div>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><a href="https://openworking.wordpress.com/2021/09/01/quality-is-key/">Quality is key</a></li>
-<li><a href="https://www.youtube.com/watch?v=iRBCXUC3NDE">Implementing new Recognition &amp; Rewards through six new academic career profiles</a></li>
-<li><a href="https://fediscience.org/@ct_bergstrom/109704497476849753">spam email for a new service</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Credit</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/index.html</guid>
-  <pubDate>Sat, 21 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/credit-metrics/dora.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>
