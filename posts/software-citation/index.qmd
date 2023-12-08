@@ -1,7 +1,7 @@
 ---
 title: "Software Citation"
 author: "Esther Plomp"
-date: "2022-09-04"
+date: "2023-12-08"
 categories: [Licenses, Software, Citation, Credit]
 image: "software-citation.png"
 ---
@@ -81,6 +81,10 @@ See [Katz et al. 2020](https://doi.org/10.12688/f1000research.26932.1)) for more
 -   Have I procured a **persistent identifier** for this release of my software?
 
 -   Have I added my **recommended citation** to the documentation for my software?
+
+## Example
+
+[![](software-citation-example.jpg){fig-alt="Replication material  Data and code to reproduce the results shown in the paper can be obtained from https://github.com/schochastics/centrality-correlation . We used R version 4.2.2 (R. Core Team, 2022) and the following R packages: ggpubr v. 0.5.0 (Kassambara, 2022), ggraph v. 2.1.0 (Pedersen, 2022), igraph v. 1.4.0 (Csardi and Nepusz, 2006), netrankr v. 1.2.0 (Schoch, 2022a), netropy v. 0.1.0 (Shafie, 2022), netUtils v. 0.8.1 (Schoch, 2022b), and networkdata v 0.1.14 (Schoch, 2022c)" width="617"}](https://www.sciencedirect.com/science/article/pii/S0378873323000825)
 
 ## More information
 
