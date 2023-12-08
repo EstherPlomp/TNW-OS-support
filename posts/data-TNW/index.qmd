@@ -100,6 +100,8 @@ image: "open-data-fountain.jpg"
 
 [Open Energy Data Initiative (OEDI)](https://openei.org/wiki/Open_Energy_Data_Initiative_(OEDI))
 
+[HuggingFace ML datasets](https://huggingface.co/datasets) (see [blogpost](https://huggingface.co/blog/researcher-dataset-sharing) for more info)
+
 ## Reporting standards
 
 -   [MIMARKS](https://doi.org/10.1038/nbt.1823) (and [MINAS](https://mixs-minas.org/) for ancient sequences)
