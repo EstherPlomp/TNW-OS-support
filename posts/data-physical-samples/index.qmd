@@ -2,7 +2,7 @@
 title: "Physical Samples [WIP]"
 author: "Esther Plomp"
 date: "2023-07-27"
-categories: [Research Data management]
+categories: [Research Data Management]
 image: "metadata.jpg"
 ---
 
