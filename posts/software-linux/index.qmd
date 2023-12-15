@@ -1,0 +1,13 @@
+---
+title: "TU Delft Linux"
+author: "Esther Plomp"
+date: "2023-12-15"
+categories: [Software]
+image: "Tux.png"
+---
+
+TU Delft has a Linux User Group:
+
+-   [**Linux Q&A Portal**](https://linux.ewi.tudelft.nl/) - This page aims to be a hub for sharing knowledge, seeking support and prioritizing community issues through upvoting.
+
+-   [**Mattermost channel**](https://mattermost.tudelft.nl/linux-user-group/)
