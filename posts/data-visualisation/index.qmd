@@ -18,7 +18,7 @@ This post contains resources related to improving data visualisations in scienti
 
 ## BioRender
 
-TU Delft offers licenses for BioRender (pilot programme). BioRender allows you to create professional figures in minutes through the use of pre-made icons and templates.
+[TU Delft offers licenses for BioRender](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/biorender) (pilot programme). BioRender allows you to create professional figures in minutes through the use of pre-made icons and templates.
 
 See also the following resources provided on Data Visualisation provided by BioRender:
 
@@ -47,3 +47,5 @@ See also the following resources provided on Data Visualisation provided by BioR
 -   [Five charts that changed the world](https://www.bbc.co.uk/ideas/videos/five-charts-that-changed-the-world/p0fb69c1?playlist=made-in-partnership-with-the-royal-society)
 
 -   [Misleading Data Visualizations](https://www.youtube.com/watch?v=kThRTrsBr9o&list=PLQNlafbQZBQkgcho3_i_mYaQYPpf2Ckzr&index=7) (14 min video)
+
+-   [The Turing Way Data Visualisations resources](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-visualisation)
