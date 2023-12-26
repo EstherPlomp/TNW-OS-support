@@ -30,3 +30,4 @@ When Open Science seems overwhelming, keep in mind that you can take a [buffet a
 ## More information
 
 -   [Open Science terminology and developments at TU Delft and (inter)nationally](https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/)
+-   [Five Ways to Nudge Labmates Toward Better Data Management](http://dataabinitio.com/?p=1126)
