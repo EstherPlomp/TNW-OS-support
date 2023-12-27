@@ -31,3 +31,4 @@ Links to supplemental materials may also break, as demonstrated in the example b
 ## More information
 
 -   [The Push to Replace Journal Supplements with Repositories](https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296)
+-   [The Turing Way: Why not the supplemental materials?](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-repository#why-not-the-supplemental-materials)
