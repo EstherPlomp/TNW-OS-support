@@ -8,7 +8,6 @@
       "/posts/data-security/index.html",
       "/posts/data-rdm101/index.html",
       "/posts/data-metadata/index.html",
-      "/posts/data-physical-samples/index.html",
       "/posts/open-science-patents/index.html",
       "/posts/open-science-podcasts/index.html",
       "/posts/data-visualisation/index.html",
@@ -107,7 +106,8 @@
       "/posts/data-sharing-solutions/index.html",
       "/posts/copyright-info/index.html",
       "/posts/Open-Access/index.html",
-      "/posts/Encryption/index.html"
+      "/posts/Encryption/index.html",
+      "/posts/data-physical-samples/index.html"
     ]
   }
 ]

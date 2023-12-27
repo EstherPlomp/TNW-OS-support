@@ -296,31 +296,6 @@ Note
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/metadata.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Physical Samples [WIP]</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-physical-samples/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Still needs to be updated..</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://undark.org/2023/07/27/science-has-a-reproducibility-problem-can-sample-sharing-help/">Opinion: Science Has a Reproducibility Problem. Can Sample Sharing Help?</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-physical-samples/index.html</guid>
-  <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-physical-samples/metadata.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Open Science &amp; Patents</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-patents/index.html</link>
@@ -523,7 +498,7 @@ Note
 </section>
 <section id="biorender" class="level2">
 <h2 class="anchored" data-anchor-id="biorender">BioRender</h2>
-<p>TU Delft offers licenses for BioRender (pilot programme). BioRender allows you to create professional figures in minutes through the use of pre-made icons and templates.</p>
+<p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/biorender">TU Delft offers licenses for BioRender</a> (pilot programme). BioRender allows you to create professional figures in minutes through the use of pre-made icons and templates.</p>
 <p>See also the following resources provided on Data Visualisation provided by BioRender:</p>
 <ul>
 <li><p><a href="https://learn.biorender.com/tutorial/creating-grant-figures">Better Grant Figures</a></p></li>
@@ -551,6 +526,7 @@ Note
 <li><p><a href="https://padlet.com/evansemporiumstore/lks3aoyyhkpnkmpe">Free visual and communication resources</a></p></li>
 <li><p><a href="https://www.bbc.co.uk/ideas/videos/five-charts-that-changed-the-world/p0fb69c1?playlist=made-in-partnership-with-the-royal-society">Five charts that changed the world</a></p></li>
 <li><p><a href="https://www.youtube.com/watch?v=kThRTrsBr9o&amp;list=PLQNlafbQZBQkgcho3_i_mYaQYPpf2Ckzr&amp;index=7">Misleading Data Visualizations</a> (14 min video)</p></li>
+<li><p><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-visualisation">The Turing Way Data Visualisations resources</a></p></li>
 </ul>
 
 
@@ -1131,6 +1107,108 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-supplement/index.html</guid>
   <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-supplement/404.png" medium="image" type="image/png" height="20" width="144"/>
+</item>
+<item>
+  <title>PhD onboarding day - Data Management &amp; Open Science</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="phd-onboarding-day---research-data-management-open-science" class="level2">
+<h2 class="anchored" data-anchor-id="phd-onboarding-day---research-data-management-open-science">PhD onboarding day - Research Data Management &amp; Open Science</h2>
+<p><a href="https://surfdrive.surf.nl/files/index.php/s/JKif66YpHv7N1ds">Link to the slides</a> of the on-boarding day on the 2nd of Feb 2023.</p>
+<p>Esther is the Data Steward of the Faculty of Applied Sciences. You can reach her for anything Research Data Management &amp; Open Science related. See <a href="https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences">intranet</a> for all the related topics. You can also read about her <a href="https://intranet.tudelft.nl/-/personal-perspectives-on-phd-in-4-an-interview-with-esther-plomp">PhD experiences in an interview</a>.</p>
+</section>
+<section id="where-to-find-information" class="level2">
+<h2 class="anchored" data-anchor-id="where-to-find-information">Where to find information?</h2>
+<p>Email Esther or hop by 22.F131.</p>
+<p><a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/">Research Data Management Website</a></p>
+<p><a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a></p>
+<p><a href="https://estherplomp.github.io/TNW-OS-support/">Open Science at TNW</a></p>
+</section>
+<section id="available-training" class="level2">
+<h2 class="anchored" data-anchor-id="available-training">Available training</h2>
+<p><a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/r/training-events/training-for-researchers/">Software/coding trainings</a></p>
+<p><a href="https://intranet.tudelft.nl/-/r4.a1-research-data-management-101">Research Data Management 101</a> (March/Feb &amp; May/June 2023. You can <a href="https://forms.office.com/r/PLm9TMBGGk">join the waitinglist</a>.</p>
+<ul>
+<li>See also the <a href="https://tu-delft-library.github.io/rdm101-book/intro.html">self paced materials of this course</a> (for which you unfortunately are not eligible for credits)</li>
+</ul>
+<p><a href="https://intranet.tudelft.nl/en/-/open-life-science-programme">Open Science program</a></p>
+<ul>
+<li>The Open Science program is a 16 week training that you can follow for 16 weeks to learn all about applying Open Science practices to your own research project. Next round will probably start in September 2023, with the application deadline in July/August 2023 (to describe your project and your learning objectives).</li>
+</ul>
+</section>
+<section id="hands-on-datasoftware-management-support" class="level2">
+<h2 class="anchored" data-anchor-id="hands-on-datasoftware-management-support">Hands on Data/Software management support</h2>
+<p><a href="https://dcc.tudelft.nl/">Digital Competence Center</a></p>
+</section>
+<section id="open-science-community-delft" class="level2">
+<h2 class="anchored" data-anchor-id="open-science-community-delft">Open Science Community Delft</h2>
+<p><a href="https://osc-delft.github.io/">Website</a></p>
+<p><a href="https://forms.gle/v2dtynQ2j6wSMWTS6">Joining</a></p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/images/paste-55FF12FC.png" class="img-fluid" alt="Logo of the Open Science Community Delft" width="192"></p>
+</section>
+<section id="data-management-plan" class="level2">
+<h2 class="anchored" data-anchor-id="data-management-plan">Data Management plan</h2>
+<p>Any PhD starting after 1st of Jan 2020:</p>
+<ul>
+<li><p><strong>Write a Data Management Plan: as part of the Go/No-Go meeting</strong> in your first year.</p></li>
+<li><p>In the <strong>PhD agreement</strong> you’ll have to describe how you’ll do this</p></li>
+</ul>
+<p>You can fill out a plan using <a href="https://dmponline.tudelft.nl/">DMPonline</a> (see <a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/r/plan/dmponline/dmponline/">here</a> for a short explanation)</p>
+<p>In your Data Management Plan you will focus on questions related to Data Management:</p>
+<ul>
+<li><p>Where do you store your data?</p></li>
+<li><p>How will you share your data from your publications?</p></li>
+</ul>
+<p>Your supervisor will have to approve your plan.</p>
+<p>More detailed information on <a href="https://estherplomp.github.io/TNW-OS-support/posts/DMP-PhD/">this website</a>.</p>
+<p>You can also read up on the policies here: <a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/r/policies/tu-delft-faculty-policies/">TU Delft Research Data Framework</a>, <a href="https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf">Faculty Policy (pdf)</a>.</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/images/paste-999D1DDA.png" class="img-fluid" alt="A woman is scared because she thinks she lost all her data because her computer crashed. But it turns out that she had backed up her data thanks to setting out a plan for this in her data management plan!" width="503"></p>
+</section>
+<section id="sharing-the-datacode-underlying-your-articlesthesis" class="level2">
+<h2 class="anchored" data-anchor-id="sharing-the-datacode-underlying-your-articlesthesis">Sharing the data/code underlying your articles/thesis</h2>
+<p>Before your defense you should share your research outputs (data/code underlying the articles/thesis).</p>
+<p>The data management plan allows you to already think about how you will do this!</p>
+<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/images/paste-D7775324.png" class="img-fluid" alt="A woman standing in front of a messy closet with research data, trying to find the data that she generated last year." width="469"></p>
+</section>
+<section id="dos-and-donts" class="level2">
+<h2 class="anchored" data-anchor-id="dos-and-donts">Do’s and Don’ts</h2>
+<p><strong>Do’s:</strong></p>
+<ul>
+<li><p>Set up a Data Management plan</p></li>
+<li><p>Ask questions</p></li>
+<li><p>Follow workshops/courses (for credits!)</p></li>
+<li><p>Discuss data/code/open science with your supervisor</p></li>
+<li><p><a href="https://forms.gle/v2dtynQ2j6wSMWTS6">Join the Open Science Community</a></p></li>
+</ul>
+<p><strong>Don’ts:</strong></p>
+<ul>
+<li><p>Keep everything closed (unless you have restrictions)</p></li>
+<li><p>Share without discussing this with your supervisor/collaborators</p></li>
+<li><p>Figure everything out yourself</p></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/">Open Science terminology and developments at TU Delft and (inter)nationally</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <category>Open Science</category>
+  <category>PhD</category>
+  <category>TU Delft</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/index.html</guid>
+  <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/stairs.png" medium="image" type="image/png" height="143" width="144"/>
 </item>
 </channel>
 </rss>
