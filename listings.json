@@ -2,10 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/data-codebooks/index.html",
       "/posts/data-sharing-how/index.html",
       "/posts/software-linux/index.html",
       "/posts/software-citation/index.html",
+      "/posts/data-codebooks/index.html",
       "/posts/data-security/index.html",
       "/posts/data-rdm101/index.html",
       "/posts/data-metadata/index.html",
