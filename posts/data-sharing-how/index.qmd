@@ -78,7 +78,7 @@ As a TU Delft researcher you can always make use of 4TU.ResearchData. See the [4
 
 -   **Consider all data/code needed for your data to be reusable or for someone to validate or replicate your analyses.**
 
--   **Processed data:** Sharing the processed data underlying the publication is the minimum requirement from TU Delft. Including raw data can be valuable to ensure that no details are lost and the research is more reproducible.
+-   **Processed data:** Sharing the processed data underlying the publication is the [minimum requirement from TU Delft](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how/#tu-delft-requirements). Including raw data can be valuable to ensure that no details are lost and the research is more reproducible.
 
 -   **External resources:** link to other datasets, code repositories and publications.
 
