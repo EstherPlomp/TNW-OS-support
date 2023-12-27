@@ -1,12 +1,12 @@
 ---
-title: "How to share data? [WIP]"
+title: "How to share data?"
 author: "Esther Plomp"
-date: "2022-09-03"
+date: "2023-12-27"
 categories: [Open Data]
 image: "open-data-fountain.jpg"
 ---
 
-How to share data?
+Where and how to share data?
 
 ## Data not available upon request
 
@@ -14,9 +14,19 @@ How to share data?
 
 -   Only 44% of economists provided their data and materials upon request ([Krawczyk & Reuben 2012](https://doi.org/10.1080/08989621.2012.678688)).
 
--   14% one
+[![](images/paste-8C43FE3F.png)](https://twitter.com/MadS100tist/status/1366103674989277185)
 
-To share the research data in accordance with the [FAIR principles](https://estherplomp.github.io/TNW-OS-support/posts/FAIR/), you need to select a data repository.
+## Disadvantages of having to maintain data yourself
+
+-   Grant funding ends when the project ends, even if your data will have to be stored and maintained for several years afterwards
+
+-   You may switch institutes, careers or retire at some point
+
+-   You're not a data manager or ICT expert, so the data may get lost due to a lack of a proper back up structure
+
+## FAIR data
+
+To share the research data in accordance with the [FAIR principles](https://estherplomp.github.io/TNW-OS-support/posts/FAIR/), you need to select a **data repository**.
 
 When selecting a repository, researchers should consider the following:
 
@@ -30,7 +40,9 @@ When selecting a repository, researchers should consider the following:
 
 -   What are the access and use policies for the repository? Are you able to select a license?
 
-## Discipline specific repository
+[![Image](https://pbs.twimg.com/media/EVzdm1nXQAI1fY_?format=jpg&name=900x900){alt="Image" width="688"}](https://twitter.com/ErrantScience/status/1251118457279647746/photo/1)
+
+## Where: Discipline specific repository
 
 Ideally, your discipline has a data repository available that you can use. There are several benefits of using such a discipline specific repository:
 
@@ -44,17 +56,36 @@ Ideally, your discipline has a data repository available that you can use. There
 
 -   Generally, there is some type of quality assurance during the upload process as the repository is more closely managed by experts in the field
 
-## General repository
+You can use the following resources to find a disciplinary specific repository:
+
+-   [NIH domain specific repository list](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
+
+-   [Nature data repository guidance](https://www.nature.com/sdata/policies/repositories), [PLOS ONE Recommended Repositories](https://journals.plos.org/plosone/s/recommended-repositories), or [Elsevier’s Public repositories to store and find data](https://www.journals.elsevier.com/data-in-brief/policies-and-guidelines/public-repositories-to-store-and-find-data)
+
+-   [FAIRsharing](https://fairsharing.org/) (use keywords that you would normally use to find publications related to your research)
+
+## Where: General repository
 
 Realistically, not every discipline has such a specific data repository available. In this case, you can always make use of more generalist repositories, such as [Zenodo](https://zenodo.org/) and [4TU.ResearchData](https://data.4tu.nl/info//en/). These repositories have less strict requirements when uploading the data and accept a wide range of formats.
 
 [![](images/paste-779AE10E.png){fig-alt="First page of a Zenodo fact sheet" fig-align="center"}](https://www.openaire.eu/factsheet-zenodo-v2/view-document)
 
-## Linking research outputs
+## Where: 4TU.ResearchData
 
-Whether you use a discipline specific repository or a generalist one, it is important to link all the outputs to ensure that they are clearly identifiable and findable. You can do this by providing links/persistent identifiers in the metadata fields, or in the README file, or in the data availability statement in the corresponding article. See The Turing Way for more information about how to [link your research outputs](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
+As a TU Delft researcher you can always make use of 4TU.ResearchData. See the [4TU.ResearchData post](https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/) for more information about how to share your data/code via 4TU.ResearchData.
 
-## Use standard or open file formats
+## How 1#: Gather all data/code needed for reanalysis/validation
+
+-   **Consider all data/code needed for your data to be reusable or for someone to validate or replicate your analyses.**
+
+-   **Processed data:** Sharing the processed data underlying the publication is the minimum requirement from TU Delft. Including raw data can be valuable to ensure that no details are lost and the research is more reproducible.
+
+-   **External resources:** link to other datasets, code repositories and publications.
+
+-   **Review files for errors** such as missing data, misnamed files/variables, incorrectly formatted values, and corrupted
+    files (you can use tools such as [OpenRefine](https://openrefine.org/) or [Frictionless](https://framework.frictionlessdata.io/))
+
+## How 2#: Use standard or open file formats
 
 Using standard or open data formats ensures longer-term usability of data.
 
@@ -62,7 +93,7 @@ Using standard or open data formats ensures longer-term usability of data.
 
 -   **Open Data Formats**: Free to use such as .csv .tab
 
-## Preferred (sustainable) file formats:
+## How 3#: Preferred (sustainable) file formats:
 
 The following file formats are [recommended by 4TU.ResearchData](https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf).
 
@@ -86,69 +117,35 @@ The following file formats are [recommended by 4TU.ResearchData](https://researc
 
 See also [DANS file format recommendations](https://dans.knaw.nl/en/file-formats/).
 
-## Data repositories
+## How 4#: Are you working with personal/confidential data?
 
-Access
+Not all data can be publicly shared via data repositories. See [what data should be shared post](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/). This can be the case if you manage personal/confidential data. Personal/confidential data can contain:
 
-DOI = more citations/visibility
+-   Personal information which can allow the identification of living individuals (have you set up an [HREC application](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics)?)
 
-Long term preservation
+-   Commercially-confidential information (something you might want to patent, or data belonging to a third party)
 
-File format support
-
-[The Push to Replace Journal Supplements with Repositories](https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296)
-
-## [![](images/paste-8C43FE3F.png)](https://twitter.com/MadS100tist/status/1366103674989277185)
-
-[![Image](https://pbs.twimg.com/media/EVzdm1nXQAI1fY_?format=jpg&name=900x900){alt="Image"}](https://twitter.com/ErrantScience/status/1251118457279647746/photo/1)
-
-https://data.4tu.nl/info/fileadmin/user_upload/Documenten/Deposit_Guidelines_2020.pdf
-
-https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories
-
-https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html
-
-https://www.nature.com/sdata/policies/repositories
-
-[How To #1: Upload Your Data to 4TU.ResearchData](https://www.youtube.com/watch?v=JasPLg7-9mQ&list=PLbowNAyqknwb-l8GiGwcX53s8CDB7bZv1)
-
-[upload big files directly from our cluster to Zenodo through their AP](https://felipecrp.com/2021/01/01/uploading-to-zenodo-through-api.html)
+-   Information related to national security and export control regulations.
 
 [![](https://www.wur.nl/upload_mm/3/5/7/2ea09888-4bd0-4d5d-bb3b-841e11c709c9_DataSharingGuidelines.JPG){alt=""}](https://www.wur.nl/en/value-creation-cooperation/collaborating-with-wur-1/wdcc/research-data-management-wdcc/finishing/research-data-sharing-and-guidelines.htm)
 
-## Are you working with personal/confidential data?
+## How 5#: Organise your files and provide documentation.
 
-Personal/confidential data can contain:
+Use a clear folder structure and [file naming convention](https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/#file-naming-convention) to share the data/code. You can document your data via a [README file](https://estherplomp.github.io/TNW-OS-support/posts/readme/index.html).
 
--   personal information which can allow the identification of living individuals (have you set up an [HREC application](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics)?)
-
--   commercially-confidential information (e.g. something you might want to patent, or data belonging to a third party)
-
--   Information related to national security , export control regulations etc.
-
-## 5. Is there a clear strategy for data sharing?
+## TU Delft requirements
 
 TU Delft [Research Data Framework Policy](https://doi.org/10.5281/zenodo.2573159) requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate .
 
--   Did the project team agree what data (and code), when and how will be shared? (See [what data should be shared post](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/))
+For most research done at TU Delft it is possible to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, [4TU.ResearchData](https://data.4tu.nl/info/en/), where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge.
 
--   Will there be any difficulties with data sharing (perhaps not all data is suitable for sharing)?
+## Linking research outputs
 
--   What [licence](https://estherplomp.github.io/TNW-OS-support/posts/licenses/) will be the most suitable for the data (and code)?
-
-In principle, for most research done at TU Delft, it is suitable to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, [4TU.ResearchData](https://data.4tu.nl/info/en/), where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge. Discipline specific repositories might also be suitable (the Data Steward can advise).
-
-## Disadvantages of having to maintain data yourself
-
--   Grant funding ends when the project ends, even if your data will have to be stored and maintained for several years afterwards
-
--   You may switch institutes, careers or retire at some point
-
--   You're not a data manager or ICT expert, so the data may get lost due to a lack of a proper back up structure
+Whether you use a discipline specific repository or a generalist one, it is important to link all the outputs to ensure that they are clearly identifiable and findable. You can do this by providing links/persistent identifiers in the metadata fields, or in the README file, or in the data availability statement in the corresponding article (also cite your research outputs in the citations!). See The Turing Way for more information about how to [link your research outputs](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
 
 ## Examples
 
-[Lia et al. 2020](https://doi.org/10.12688/wellcomeopenres.15893.2)
+-   [Lia et al. 2020](https://doi.org/10.12688/wellcomeopenres.15893.2)
 
 ## More information
 
@@ -157,3 +154,5 @@ In principle, for most research done at TU Delft, it is suitable to make the dat
 -   [CODATA webinar on sharing your data with your publication](https://codata.org/initiatives/strategic-programme/codata-connect/webinar-series-research-skills/webinar-2-writing-an-article-with-excellent-supporting-data/)
 
 -   [Zenodo webinar](https://www.youtube.com/watch?v=yj2r8RayIX8)
+
+-   [upload big files directly from our cluster to Zenodo through their AP](https://felipecrp.com/2021/01/01/uploading-to-zenodo-through-api.html)
