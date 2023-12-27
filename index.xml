@@ -52,6 +52,168 @@
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-codebooks/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>How to share data?</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Where and how to share data?</p>
+<section id="data-not-available-upon-request" class="level2">
+<h2 class="anchored" data-anchor-id="data-not-available-upon-request">Data not available upon request</h2>
+<ul>
+<li><p>Only 26-40% of psychologists and social scientists complied with a request to access the data (<a href="https://doi.org/10.1038/s41597-021-00981-0">Tedersoo et al.&nbsp;2021</a>; <a href="https://doi.org/10.1037/0003-066X.61.7.726">Wicherts et al.&nbsp;2006</a>).</p></li>
+<li><p>Only 44% of economists provided their data and materials upon request (<a href="https://doi.org/10.1080/08989621.2012.678688">Krawczyk &amp; Reuben 2012</a>).</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://twitter.com/MadS100tist/status/1366103674989277185"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/images/paste-8C43FE3F.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</section>
+<section id="disadvantages-of-having-to-maintain-data-yourself" class="level2">
+<h2 class="anchored" data-anchor-id="disadvantages-of-having-to-maintain-data-yourself">Disadvantages of having to maintain data yourself</h2>
+<ul>
+<li><p>Grant funding ends when the project ends, even if your data will have to be stored and maintained for several years afterwards</p></li>
+<li><p>You may switch institutes, careers or retire at some point</p></li>
+<li><p>You’re not a data manager or ICT expert, so the data may get lost due to a lack of a proper back up structure</p></li>
+</ul>
+</section>
+<section id="fair-data" class="level2">
+<h2 class="anchored" data-anchor-id="fair-data">FAIR data</h2>
+<p>To share the research data in accordance with the <a href="https://estherplomp.github.io/TNW-OS-support/posts/FAIR/">FAIR principles</a>, you need to select a <strong>data repository</strong>.</p>
+<p>When selecting a repository, researchers should consider the following:</p>
+<ul>
+<li><p>Where are similar datasets preserved?</p></li>
+<li><p>How long will the data be kept?</p></li>
+<li><p>Who manages the repository? An institution? A commercial provider?</p></li>
+<li><p>What are the costs or file size requirements associated with using the repository? How will those costs be paid? Are the file size requirements sufficient for your research project?</p></li>
+<li><p>What are the access and use policies for the repository? Are you able to select a license?</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://twitter.com/ErrantScience/status/1251118457279647746/photo/1"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/https:/pbs.twimg.com/media/EVzdm1nXQAI1fY_?format=jpg&amp;name=900x900.png" class="img-fluid figure-img" alt="Image" width="688"></a></p>
+<figcaption class="figure-caption">Image</figcaption>
+</figure>
+</div>
+</section>
+<section id="where-discipline-specific-repository" class="level2">
+<h2 class="anchored" data-anchor-id="where-discipline-specific-repository">Where: Discipline specific repository</h2>
+<p>Ideally, your discipline has a data repository available that you can use. There are several benefits of using such a discipline specific repository:</p>
+<ul>
+<li><p>They use relevant metadata and specific requirements when you upload the data</p></li>
+<li><p>They facilitate aggregated datasets as the shared datasets are structured alike</p></li>
+<li><p>Access in community used formats</p></li>
+<li><p>Data is more findable, since similar types of data are available in the same repository</p></li>
+<li><p>Generally, there is some type of quality assurance during the upload process as the repository is more closely managed by experts in the field</p></li>
+</ul>
+<p>You can use the following resources to find a disciplinary specific repository:</p>
+<ul>
+<li><p><a href="https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html">NIH domain specific repository list</a></p></li>
+<li><p><a href="https://www.nature.com/sdata/policies/repositories">Nature data repository guidance</a>, <a href="https://journals.plos.org/plosone/s/recommended-repositories">PLOS ONE Recommended Repositories</a>, or <a href="https://www.journals.elsevier.com/data-in-brief/policies-and-guidelines/public-repositories-to-store-and-find-data">Elsevier’s Public repositories to store and find data</a></p></li>
+<li><p><a href="https://fairsharing.org/">FAIRsharing</a> (use keywords that you would normally use to find publications related to your research)</p></li>
+</ul>
+</section>
+<section id="where-general-repository" class="level2">
+<h2 class="anchored" data-anchor-id="where-general-repository">Where: General repository</h2>
+<p>Realistically, not every discipline has such a specific data repository available. In this case, you can always make use of more generalist repositories, such as <a href="https://zenodo.org/">Zenodo</a> and <a href="https://data.4tu.nl/info//en/">4TU.ResearchData</a>. These repositories have less strict requirements when uploading the data and accept a wide range of formats.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.openaire.eu/factsheet-zenodo-v2/view-document"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/images/paste-779AE10E.png" class="img-fluid figure-img" alt="First page of a Zenodo fact sheet"></a></p>
+</figure>
+</div>
+</section>
+<section id="where-4tu.researchdata" class="level2">
+<h2 class="anchored" data-anchor-id="where-4tu.researchdata">Where: 4TU.ResearchData</h2>
+<p>As a TU Delft researcher you can always make use of 4TU.ResearchData. See the <a href="https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/">4TU.ResearchData post</a> for more information about how to share your data/code via 4TU.ResearchData.</p>
+</section>
+<section id="how-1-gather-all-datacode-needed-for-reanalysisvalidation" class="level2">
+<h2 class="anchored" data-anchor-id="how-1-gather-all-datacode-needed-for-reanalysisvalidation">How 1#: Gather all data/code needed for reanalysis/validation</h2>
+<ul>
+<li><p><strong>Consider all data/code needed for your data to be reusable or for someone to validate or replicate your analyses.</strong></p></li>
+<li><p><strong>Processed data:</strong> Sharing the processed data underlying the publication is the minimum requirement from TU Delft. Including raw data can be valuable to ensure that no details are lost and the research is more reproducible.</p></li>
+<li><p><strong>External resources:</strong> link to other datasets, code repositories and publications.</p></li>
+<li><p><strong>Review files for errors</strong> such as missing data, misnamed files/variables, incorrectly formatted values, and corrupted files (you can use tools such as <a href="https://openrefine.org/">OpenRefine</a> or <a href="https://framework.frictionlessdata.io/">Frictionless</a>)</p></li>
+</ul>
+</section>
+<section id="how-2-use-standard-or-open-file-formats" class="level2">
+<h2 class="anchored" data-anchor-id="how-2-use-standard-or-open-file-formats">How 2#: Use standard or open file formats</h2>
+<p>Using standard or open data formats ensures longer-term usability of data.</p>
+<ul>
+<li><p><strong>Standard Data Formats</strong>: “widely accepted” formats such as .xls .xlsx</p></li>
+<li><p><strong>Open Data Formats</strong>: Free to use such as .csv .tab</p></li>
+</ul>
+</section>
+<section id="how-3-preferred-sustainable-file-formats" class="level2">
+<h2 class="anchored" data-anchor-id="how-3-preferred-sustainable-file-formats">How 3#: Preferred (sustainable) file formats:</h2>
+<p>The following file formats are <a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf">recommended by 4TU.ResearchData</a>.</p>
+<ul>
+<li><p><strong>Text Plain</strong> text, XML, HTML, PDF (PDF/A-1), JSON, PDB (Protein Data Bank), XYZ (all formats should be encoded in UTF-8)</p></li>
+<li><p><strong>Spreadsheets</strong> CSV (Comma-separated values), Tab-delimited values, PDF (PDF/A-1)</p></li>
+<li><p><strong>Images</strong> JPEG, TIFF, PNG, SVG</p></li>
+<li><p><strong>Geospatial</strong> GML (Geographical Mark-up Language), KML (Keyhole Mark-up Language), ESRI Shapefile, Geo-referenced TIFF</p></li>
+<li><p><strong>Numerical</strong> NetCDF, CSV, JSON</p></li>
+<li><p><strong>Video</strong> No sustainable format established</p></li>
+<li><p><strong>Audio</strong> Waveform Audio File Format (WAVE)</p></li>
+<li><p><strong>Databases</strong> Delimited Flat File w/DDL</p></li>
+<li><p><strong>Archives</strong> ZIP, TAR, GZIP, 7Z</p></li>
+</ul>
+<p>See also <a href="https://dans.knaw.nl/en/file-formats/">DANS file format recommendations</a>.</p>
+</section>
+<section id="how-4-are-you-working-with-personalconfidential-data" class="level2">
+<h2 class="anchored" data-anchor-id="how-4-are-you-working-with-personalconfidential-data">How 4#: Are you working with personal/confidential data?</h2>
+<p>Not all data can be publicly shared via data repositories. See <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/">what data should be shared post</a>. This can be the case if you manage personal/confidential data. Personal/confidential data can contain:</p>
+<ul>
+<li><p>Personal information which can allow the identification of living individuals (have you set up an <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics">HREC application</a>?)</p></li>
+<li><p>Commercially-confidential information (something you might want to patent, or data belonging to a third party)</p></li>
+<li><p>Information related to national security and export control regulations.</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.wur.nl/en/value-creation-cooperation/collaborating-with-wur-1/wdcc/research-data-management-wdcc/finishing/research-data-sharing-and-guidelines.htm"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/https:/www.wur.nl/upload_mm/3/5/7/2ea09888-4bd0-4d5d-bb3b-841e11c709c9_DataSharingGuidelines.JPG" class="img-fluid figure-img" alt=""></a></p>
+</figure>
+</div>
+</section>
+<section id="how-5-organise-your-files-and-provide-documentation." class="level2">
+<h2 class="anchored" data-anchor-id="how-5-organise-your-files-and-provide-documentation.">How 5#: Organise your files and provide documentation.</h2>
+<p>Use a clear folder structure and <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/#file-naming-convention">file naming convention</a> to share the data/code. You can document your data via a <a href="https://estherplomp.github.io/TNW-OS-support/posts/readme/index.html">README file</a>.</p>
+</section>
+<section id="tu-delft-requirements" class="level2">
+<h2 class="anchored" data-anchor-id="tu-delft-requirements">TU Delft requirements</h2>
+<p>TU Delft <a href="https://doi.org/10.5281/zenodo.2573159">Research Data Framework Policy</a> requires all PhD students who started on or after 1 January 2019 to deposit research data (and code) supporting their theses before they can graduate .</p>
+<p>For most research done at TU Delft it is possible to make the data and code underpinning research findings available in a data repository. Typically, this is done at the same time as publishing the related papers, theses or reports. TU Delft has a dedicated data repository, <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a>, where all TU Delft researchers can deposit up to 1TB of data per year (per researcher) free of charge.</p>
+</section>
+<section id="linking-research-outputs" class="level2">
+<h2 class="anchored" data-anchor-id="linking-research-outputs">Linking research outputs</h2>
+<p>Whether you use a discipline specific repository or a generalist one, it is important to link all the outputs to ensure that they are clearly identifiable and findable. You can do this by providing links/persistent identifiers in the metadata fields, or in the README file, or in the data availability statement in the corresponding article (also cite your research outputs in the citations!). See The Turing Way for more information about how to <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">link your research outputs</a>.</p>
+</section>
+<section id="examples" class="level2">
+<h2 class="anchored" data-anchor-id="examples">Examples</h2>
+<ul>
+<li><a href="https://doi.org/10.12688/wellcomeopenres.15893.2">Lia et al.&nbsp;2020</a></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><p><a href="https://doi.org/10.5281/zenodo.3946720">Generalist Repository Comparison Chart</a> and/or <a href="https://dataverse.org/blog/comparative-review-various-data-repositories">A Comparative Review of Various Data Repositories</a></p></li>
+<li><p><a href="https://codata.org/initiatives/strategic-programme/codata-connect/webinar-series-research-skills/webinar-2-writing-an-article-with-excellent-supporting-data/">CODATA webinar on sharing your data with your publication</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=yj2r8RayIX8">Zenodo webinar</a></p></li>
+<li><p><a href="https://felipecrp.com/2021/01/01/uploading-to-zenodo-through-api.html">upload big files directly from our cluster to Zenodo through their AP</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/index.html</guid>
+  <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>TU Delft Linux</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-linux/index.html</link>
@@ -1097,6 +1259,7 @@ Final presentations and graduation call, where you have to present a 5 minute de
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
 <li><a href="https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296">The Push to Replace Journal Supplements with Repositories</a></li>
+<li><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-repository#why-not-the-supplemental-materials">The Turing Way: Why not the supplemental materials?</a></li>
 </ul>
 
 
@@ -1107,108 +1270,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-supplement/index.html</guid>
   <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-supplement/404.png" medium="image" type="image/png" height="20" width="144"/>
-</item>
-<item>
-  <title>PhD onboarding day - Data Management &amp; Open Science</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="phd-onboarding-day---research-data-management-open-science" class="level2">
-<h2 class="anchored" data-anchor-id="phd-onboarding-day---research-data-management-open-science">PhD onboarding day - Research Data Management &amp; Open Science</h2>
-<p><a href="https://surfdrive.surf.nl/files/index.php/s/JKif66YpHv7N1ds">Link to the slides</a> of the on-boarding day on the 2nd of Feb 2023.</p>
-<p>Esther is the Data Steward of the Faculty of Applied Sciences. You can reach her for anything Research Data Management &amp; Open Science related. See <a href="https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences">intranet</a> for all the related topics. You can also read about her <a href="https://intranet.tudelft.nl/-/personal-perspectives-on-phd-in-4-an-interview-with-esther-plomp">PhD experiences in an interview</a>.</p>
-</section>
-<section id="where-to-find-information" class="level2">
-<h2 class="anchored" data-anchor-id="where-to-find-information">Where to find information?</h2>
-<p>Email Esther or hop by 22.F131.</p>
-<p><a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/">Research Data Management Website</a></p>
-<p><a href="https://www.tudelft.nl/open-science">Open Science at TU Delft</a></p>
-<p><a href="https://estherplomp.github.io/TNW-OS-support/">Open Science at TNW</a></p>
-</section>
-<section id="available-training" class="level2">
-<h2 class="anchored" data-anchor-id="available-training">Available training</h2>
-<p><a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/r/training-events/training-for-researchers/">Software/coding trainings</a></p>
-<p><a href="https://intranet.tudelft.nl/-/r4.a1-research-data-management-101">Research Data Management 101</a> (March/Feb &amp; May/June 2023. You can <a href="https://forms.office.com/r/PLm9TMBGGk">join the waitinglist</a>.</p>
-<ul>
-<li>See also the <a href="https://tu-delft-library.github.io/rdm101-book/intro.html">self paced materials of this course</a> (for which you unfortunately are not eligible for credits)</li>
-</ul>
-<p><a href="https://intranet.tudelft.nl/en/-/open-life-science-programme">Open Science program</a></p>
-<ul>
-<li>The Open Science program is a 16 week training that you can follow for 16 weeks to learn all about applying Open Science practices to your own research project. Next round will probably start in September 2023, with the application deadline in July/August 2023 (to describe your project and your learning objectives).</li>
-</ul>
-</section>
-<section id="hands-on-datasoftware-management-support" class="level2">
-<h2 class="anchored" data-anchor-id="hands-on-datasoftware-management-support">Hands on Data/Software management support</h2>
-<p><a href="https://dcc.tudelft.nl/">Digital Competence Center</a></p>
-</section>
-<section id="open-science-community-delft" class="level2">
-<h2 class="anchored" data-anchor-id="open-science-community-delft">Open Science Community Delft</h2>
-<p><a href="https://osc-delft.github.io/">Website</a></p>
-<p><a href="https://forms.gle/v2dtynQ2j6wSMWTS6">Joining</a></p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/images/paste-55FF12FC.png" class="img-fluid" alt="Logo of the Open Science Community Delft" width="192"></p>
-</section>
-<section id="data-management-plan" class="level2">
-<h2 class="anchored" data-anchor-id="data-management-plan">Data Management plan</h2>
-<p>Any PhD starting after 1st of Jan 2020:</p>
-<ul>
-<li><p><strong>Write a Data Management Plan: as part of the Go/No-Go meeting</strong> in your first year.</p></li>
-<li><p>In the <strong>PhD agreement</strong> you’ll have to describe how you’ll do this</p></li>
-</ul>
-<p>You can fill out a plan using <a href="https://dmponline.tudelft.nl/">DMPonline</a> (see <a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/r/plan/dmponline/dmponline/">here</a> for a short explanation)</p>
-<p>In your Data Management Plan you will focus on questions related to Data Management:</p>
-<ul>
-<li><p>Where do you store your data?</p></li>
-<li><p>How will you share your data from your publications?</p></li>
-</ul>
-<p>Your supervisor will have to approve your plan.</p>
-<p>More detailed information on <a href="https://estherplomp.github.io/TNW-OS-support/posts/DMP-PhD/">this website</a>.</p>
-<p>You can also read up on the policies here: <a href="https://www.tudelft.nl/en/library/current-topics/research-data-management/r/policies/tu-delft-faculty-policies/">TU Delft Research Data Framework</a>, <a href="https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf">Faculty Policy (pdf)</a>.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/images/paste-999D1DDA.png" class="img-fluid" alt="A woman is scared because she thinks she lost all her data because her computer crashed. But it turns out that she had backed up her data thanks to setting out a plan for this in her data management plan!" width="503"></p>
-</section>
-<section id="sharing-the-datacode-underlying-your-articlesthesis" class="level2">
-<h2 class="anchored" data-anchor-id="sharing-the-datacode-underlying-your-articlesthesis">Sharing the data/code underlying your articles/thesis</h2>
-<p>Before your defense you should share your research outputs (data/code underlying the articles/thesis).</p>
-<p>The data management plan allows you to already think about how you will do this!</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/images/paste-D7775324.png" class="img-fluid" alt="A woman standing in front of a messy closet with research data, trying to find the data that she generated last year." width="469"></p>
-</section>
-<section id="dos-and-donts" class="level2">
-<h2 class="anchored" data-anchor-id="dos-and-donts">Do’s and Don’ts</h2>
-<p><strong>Do’s:</strong></p>
-<ul>
-<li><p>Set up a Data Management plan</p></li>
-<li><p>Ask questions</p></li>
-<li><p>Follow workshops/courses (for credits!)</p></li>
-<li><p>Discuss data/code/open science with your supervisor</p></li>
-<li><p><a href="https://forms.gle/v2dtynQ2j6wSMWTS6">Join the Open Science Community</a></p></li>
-</ul>
-<p><strong>Don’ts:</strong></p>
-<ul>
-<li><p>Keep everything closed (unless you have restrictions)</p></li>
-<li><p>Share without discussing this with your supervisor/collaborators</p></li>
-<li><p>Figure everything out yourself</p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/open-science-TUD/">Open Science terminology and developments at TU Delft and (inter)nationally</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Research Data Management</category>
-  <category>Open Science</category>
-  <category>PhD</category>
-  <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/index.html</guid>
-  <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/PhD-onboarding/stairs.png" medium="image" type="image/png" height="143" width="144"/>
 </item>
 </channel>
 </rss>

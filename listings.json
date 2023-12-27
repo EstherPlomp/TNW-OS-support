@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/data-codebooks/index.html",
+      "/posts/data-sharing-how/index.html",
       "/posts/software-linux/index.html",
       "/posts/software-citation/index.html",
       "/posts/data-security/index.html",
@@ -85,7 +86,6 @@
       "/posts/credit-evidence-CV/index.html",
       "/posts/method-sharing-what/index.html",
       "/posts/data-sharing-what/index.html",
-      "/posts/data-sharing-how/index.html",
       "/posts/FAIR/index.html",
       "/posts/tools-ORCID-PURE/index.html",
       "/posts/data-costs/index.html",
