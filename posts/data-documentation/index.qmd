@@ -57,6 +57,8 @@ You can explain the file naming convention in a README.txt file, so that it will
 
 -   [ELIXIR Toolkit filenaming information](https://rdmkit.elixir-europe.org/data_organisation.html#what-is-the-best-way-to-name-a-file)
 
+-   Stanford's[ best practices for file naming](https://guides.library.stanford.edu/data-best-practices)
+
 ### Bulk renaming tools (use with care!):
 
 -   Windows: [Ant Renamer](http://www.antp.be/software/renamer), [RenameIT](sourceforge.net/prpjects/renameit), [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/)
