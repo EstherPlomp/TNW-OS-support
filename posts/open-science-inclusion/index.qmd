@@ -90,5 +90,6 @@ open by default, and equitable by design - [Heather Joseph](https://council.scie
 -   [Open Grant Reviewers - Strategies to mitigate bias for grant reviewers](https://www.youtube.com/watch?v=F54MgC76XwM&list=PLnH7HkBJWcSs56Fpiu2Q61RdGV8K7Us6m&index=4)
 -   [Why Diverse Teams Outperform Homogeneous Teams](https://neuroleadership.com/your-brain-at-work/why-diverse-teams-outperform-homogeneous-teams/)\
 -   <https://knowledgeequitynetwork.org/>
+-   [Diversity, Equity and Inclusion (DEI) metrics: Breaking barriers in Open Source](https://opensource.net/dei-open-source-metrics/)
 
 https://osc.universityofcalifornia.edu/scholarly-publishing/diversity-equity-and-inclusion-in-scholarly-communication/authorship/
