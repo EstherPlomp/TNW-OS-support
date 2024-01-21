@@ -24,7 +24,7 @@ There are several reasons why APCs have been controversial in the scientific com
 
 An alternative to APCs is publishing in venues that are open access but do not charge APCs: diamond open access. The [majority of the Open Access journals do not charge APCs (69.1%)](https://zenodo.org/record/7158818#.Y5IMKX2ZOUn).
 
-[![The Oligopoly\'s Shift to Open Access. How For-Profit Publishers Benefit from Article Processing Charges](images/paste-A1FE8743.png){fig-alt="A preprint by ScholCommLab has examined the total amount of APCs paid to the oligopoly of academic publishers for publishign gold and hybrid articles in 2015-2018. One of the key findings was that authors paid 1.06 dollar for publishing."}](https://zenodo.org/record/7158818#.Y5IMKX2ZOUn)
+[![The Oligopoly's Shift to Open Access. How For-Profit Publishers Benefit from Article Processing Charges](images/paste-A1FE8743.png){fig-alt="A preprint by ScholCommLab has examined the total amount of APCs paid to the oligopoly of academic publishers for publishign gold and hybrid articles in 2015-2018. One of the key findings was that authors paid 1.06 dollar for publishing."}](https://zenodo.org/record/7158818#.Y5IMKX2ZOUn)
 
 ## **More information**
 
@@ -37,3 +37,5 @@ An alternative to APCs is publishing in venues that are open access but do not c
 -   [TU Delft Journal Browser](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser)
 
 -   [The benefits of publishing in society-owned scientific journals](https://doi.org/10.1111/avsc.12705)
+
+-   [Journal Comparison Service: analysis of the 2022 data](https://www.coalition-s.org/blog/journal-comparison-service-analysis-of-the-2022-data/)
