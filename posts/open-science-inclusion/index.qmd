@@ -91,5 +91,6 @@ open by default, and equitable by design - [Heather Joseph](https://council.scie
 -   [Why Diverse Teams Outperform Homogeneous Teams](https://neuroleadership.com/your-brain-at-work/why-diverse-teams-outperform-homogeneous-teams/)\
 -   <https://knowledgeequitynetwork.org/>
 -   [Diversity, Equity and Inclusion (DEI) metrics: Breaking barriers in Open Source](https://opensource.net/dei-open-source-metrics/)
+-   [GitLab Hiring initiatives](https://handbook.gitlab.com/handbook/company/culture/inclusion/talent-acquisition-initiatives/#hiring-initiatives)
 
 https://osc.universityofcalifornia.edu/scholarly-publishing/diversity-equity-and-inclusion-in-scholarly-communication/authorship/
