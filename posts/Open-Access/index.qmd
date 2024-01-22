@@ -16,6 +16,8 @@ Open access is important because it allows for the free and unrestricted access 
 
 -   Allows us to maintain control over research outputs (see also Rights Retention Strategy)
 
+-   More citations (also citation diversity - see [Huang et al. 2024](https://doi.org/10.1007/s11192-023-04894-0))
+
 [Open access to facilitate research and information on COVID-19](https://en.unesco.org/covid19/communicationinformationresponse/opensolutions)
 
 Explanation preprint, postprint etc. Link with sherpa romeo
