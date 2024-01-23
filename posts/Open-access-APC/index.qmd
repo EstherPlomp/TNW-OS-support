@@ -22,7 +22,7 @@ There are several reasons why APCs have been controversial in the scientific com
 
 -   The big five publishers (Elsevier, Sage, Springer-Nature, Taylor & Francis, and Wiley) have [**profit margins higher than 30%**](https://doi.org/10.1371/journal.pone.0127502)(see also [Aspesi et al., 2019](https://doi.org/10.31229/osf.io/58yhb)). A significant amount of these fees that authors are pay to publish are not justified [compared to the actual costs (\$400](https://f1000research.com/articles/10-20/v2), [£730](https://figshare.com/articles/online_resource/Dimensions_and_Society_Publishers_Coalition_Members_Report_a_shared_commitment_to_open_scholarship/21922404)) related to the publication process.
 
-An alternative to APCs is publishing in venues that are open access but do not charge APCs: diamond open access. The [majority of the Open Access journals do not charge APCs (69.1%)](https://zenodo.org/record/7158818#.Y5IMKX2ZOUn).
+An alternative to APCs is publishing in venues that are open access but do not charge APCs: diamond open access. The [majority of the Open Access journals do not charge APCs (69.1%)](https://zenodo.org/record/7158818#.Y5IMKX2ZOUn). An example is the Journal of Open Source Software (JOSS) that does not charge APCs and have also made their costs transparant ([100 dollar per article](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal)).
 
 [![The Oligopoly's Shift to Open Access. How For-Profit Publishers Benefit from Article Processing Charges](images/paste-A1FE8743.png){fig-alt="A preprint by ScholCommLab has examined the total amount of APCs paid to the oligopoly of academic publishers for publishign gold and hybrid articles in 2015-2018. One of the key findings was that authors paid 1.06 dollar for publishing."}](https://zenodo.org/record/7158818#.Y5IMKX2ZOUn)
 
@@ -39,3 +39,5 @@ An alternative to APCs is publishing in venues that are open access but do not c
 -   [The benefits of publishing in society-owned scientific journals](https://doi.org/10.1111/avsc.12705)
 
 -   [Journal Comparison Service: analysis of the 2022 data](https://www.coalition-s.org/blog/journal-comparison-service-analysis-of-the-2022-data/)
+
+-   
