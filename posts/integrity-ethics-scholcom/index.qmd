@@ -21,3 +21,4 @@ How to shift your publishing choices towards publishing in more sustainable/ethi
 -   [Open Research Conversation on Editorial mass resignations: Collective action in the movement to open research](https://doi.org/10.15131/shef.data.24974859.v1)
 -   [Cost models for running an online open journal](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal) (Journal of Open Source Software (JOSS))
 -   [OASPA’s forthcoming recommendations to increase equity in open access](https://oaspa.org/oaspas-recommendations-to-increase-equity-in-open-access/)
+-   [The Retraction Watch Mass Resignations List](https://retractionwatch.com/the-retraction-watch-mass-resignations-list/)
