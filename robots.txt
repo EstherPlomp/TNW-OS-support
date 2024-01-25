@@ -1,1 +1,1 @@
-Sitemap: https://github.com/EstherPlomp/TNW-OS-support/sitemap.xml
+Sitemap: https://EstherPlomp.github.io/TNW-OS-support/sitemap.xml

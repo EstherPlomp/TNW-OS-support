@@ -6,16 +6,52 @@
       version="2.0">
 <channel>
 <title>TNW-OS-support</title>
-<link>https://github.com/EstherPlomp/TNW-OS-support/index.html</link>
-<atom:link href="https://github.com/EstherPlomp/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://EstherPlomp.github.io/TNW-OS-support/</link>
+<atom:link href="https://EstherPlomp.github.io/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Wed, 27 Dec 2023 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.549</generator>
+<lastBuildDate>Thu, 25 Jan 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Software Management Plan</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/software-management-plan/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This post provides an overview of Software Management Plans and related resources</p>
+<section id="software-management-plan" class="level2">
+<h2 class="anchored" data-anchor-id="software-management-plan">Software Management Plan</h2>
+<p>The&nbsp;Netherlands eScience Center&nbsp;and&nbsp;NWO set up guidance for Software Management Plans in the <a href="https://zenodo.org/doi/10.5281/zenodo.7038280">Practical guide to Software Management Plans</a> (pages 22-28). The questions you’ll have to address in your plan will depend on the size and impact of the software you’re setting up the plan for.</p>
+<p>There are currently no templates available for this in DMPonline.</p>
+</section>
+<section id="examples" class="level2">
+<h2 class="anchored" data-anchor-id="examples">Examples</h2>
+<ul>
+<li><a href="https://zenodo.org/doi/10.5281/zenodo.10473645">Medium/high SMP from WUR</a></li>
+</ul>
+</section>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Software</category>
+  <category>Data Management Plan</category>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/software-management-plan/</guid>
+  <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/software-management-plan/DMP.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>How to share data?</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-how/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -27,11 +63,7 @@
 <li><p>Only 26-40% of psychologists and social scientists complied with a request to access the data (<a href="https://doi.org/10.1038/s41597-021-00981-0">Tedersoo et al.&nbsp;2021</a>; <a href="https://doi.org/10.1037/0003-066X.61.7.726">Wicherts et al.&nbsp;2006</a>).</p></li>
 <li><p>Only 44% of economists provided their data and materials upon request (<a href="https://doi.org/10.1080/08989621.2012.678688">Krawczyk &amp; Reuben 2012</a>).</p></li>
 </ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://twitter.com/MadS100tist/status/1366103674989277185"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/images/paste-8C43FE3F.png" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
+<p><a href="https://twitter.com/MadS100tist/status/1366103674989277185"><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-how/images/paste-8C43FE3F.png" class="img-fluid"></a></p>
 </section>
 <section id="disadvantages-of-having-to-maintain-data-yourself" class="level2">
 <h2 class="anchored" data-anchor-id="disadvantages-of-having-to-maintain-data-yourself">Disadvantages of having to maintain data yourself</h2>
@@ -54,8 +86,8 @@
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://twitter.com/ErrantScience/status/1251118457279647746/photo/1"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/https:/pbs.twimg.com/media/EVzdm1nXQAI1fY_?format=jpg&amp;name=900x900.png" class="img-fluid figure-img" alt="Image" width="688"></a></p>
-<figcaption class="figure-caption">Image</figcaption>
+<p><a href="https://twitter.com/ErrantScience/status/1251118457279647746/photo/1"><img src="https://pbs.twimg.com/media/EVzdm1nXQAI1fY_?format=jpg&amp;name=900x900.png" class="img-fluid figure-img" alt="Image" width="688"></a></p>
+<figcaption>Image</figcaption>
 </figure>
 </div>
 </section>
@@ -81,7 +113,7 @@
 <p>Realistically, not every discipline has such a specific data repository available. In this case, you can always make use of more generalist repositories, such as <a href="https://zenodo.org/">Zenodo</a> and <a href="https://data.4tu.nl/info//en/">4TU.ResearchData</a>. These repositories have less strict requirements when uploading the data and accept a wide range of formats.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.openaire.eu/factsheet-zenodo-v2/view-document"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/images/paste-779AE10E.png" class="img-fluid figure-img" alt="First page of a Zenodo fact sheet"></a></p>
+<p><a href="https://www.openaire.eu/factsheet-zenodo-v2/view-document"><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-how/images/paste-779AE10E.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="First page of a Zenodo fact sheet"></a></p>
 </figure>
 </div>
 </section>
@@ -130,11 +162,7 @@
 <li><p>Commercially-confidential information (something you might want to patent, or data belonging to a third party)</p></li>
 <li><p>Information related to national security and export control regulations.</p></li>
 </ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.wur.nl/en/value-creation-cooperation/collaborating-with-wur-1/wdcc/research-data-management-wdcc/finishing/research-data-sharing-and-guidelines.htm"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/https:/www.wur.nl/upload_mm/3/5/7/2ea09888-4bd0-4d5d-bb3b-841e11c709c9_DataSharingGuidelines.JPG" class="img-fluid figure-img" alt=""></a></p>
-</figure>
-</div>
+<p><a href="https://www.wur.nl/en/value-creation-cooperation/collaborating-with-wur-1/wdcc/research-data-management-wdcc/finishing/research-data-sharing-and-guidelines.htm"><img src="https://www.wur.nl/upload_mm/3/5/7/2ea09888-4bd0-4d5d-bb3b-841e11c709c9_DataSharingGuidelines.JPG" class="img-fluid" alt=""></a></p>
 </section>
 <section id="how-5-organise-your-files-and-provide-documentation." class="level2">
 <h2 class="anchored" data-anchor-id="how-5-organise-your-files-and-provide-documentation.">How 5#: Organise your files and provide documentation.</h2>
@@ -169,15 +197,16 @@
 
  ]]></description>
   <category>Open Data</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-how/</guid>
   <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-how/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-how/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>TU Delft Linux</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-linux/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/software-linux/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -192,15 +221,16 @@
 
  ]]></description>
   <category>Software</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-linux/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/software-linux/</guid>
   <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-linux/Tux.png" medium="image" type="image/png" height="171" width="144"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/software-linux/Tux.png" medium="image" type="image/png" height="171" width="144"/>
 </item>
 <item>
   <title>Software Citation</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/software-citation/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -276,11 +306,7 @@ Note
 </section>
 <section id="example" class="level2">
 <h2 class="anchored" data-anchor-id="example">Example</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0378873323000825"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/software-citation-example.jpg" class="img-fluid figure-img" alt="Replication material  Data and code to reproduce the results shown in the paper can be obtained from https://github.com/schochastics/centrality-correlation . We used R version 4.2.2 (R. Core Team, 2022) and the following R packages: ggpubr v. 0.5.0 (Kassambara, 2022), ggraph v. 2.1.0 (Pedersen, 2022), igraph v. 1.4.0 (Csardi and Nepusz, 2006), netrankr v. 1.2.0 (Schoch, 2022a), netropy v. 0.1.0 (Shafie, 2022), netUtils v. 0.8.1 (Schoch, 2022b), and networkdata v 0.1.14 (Schoch, 2022c)" width="617"></a></p>
-</figure>
-</div>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0378873323000825"><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/software-citation/software-citation-example.jpg" class="img-fluid" alt="Replication material  Data and code to reproduce the results shown in the paper can be obtained from https://github.com/schochastics/centrality-correlation . We used R version 4.2.2 (R. Core Team, 2022) and the following R packages: ggpubr v. 0.5.0 (Kassambara, 2022), ggraph v. 2.1.0 (Pedersen, 2022), igraph v. 1.4.0 (Csardi and Nepusz, 2006), netrankr v. 1.2.0 (Schoch, 2022a), netropy v. 0.1.0 (Shafie, 2022), netUtils v. 0.8.1 (Schoch, 2022b), and networkdata v 0.1.14 (Schoch, 2022c)" width="617"></a></p>
 </section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
@@ -298,15 +324,16 @@ Note
   <category>Software</category>
   <category>Citation</category>
   <category>Credit</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/software-citation/</guid>
   <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/software-citation/software-citation.png" medium="image" type="image/png" height="115" width="144"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/software-citation/software-citation.png" medium="image" type="image/png" height="115" width="144"/>
 </item>
 <item>
   <title>Codebooks</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-codebooks/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/data-codebooks/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -338,26 +365,23 @@ Note
 
  ]]></description>
   <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-codebooks/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/data-codebooks/</guid>
   <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-codebooks/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/data-codebooks/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Data Security</title>
   <dc:creator>TU Delft Security Team</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-security/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/data-security/</link>
   <description><![CDATA[ 
+
 
 
 
 
 <section id="six-golden-rules-for-working-securely" class="level2">
 <h2 class="anchored" data-anchor-id="six-golden-rules-for-working-securely">Six golden rules for working securely</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Awareness-6-Gouden-Regels.aspx"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-security/data-security.jpg" class="img-fluid figure-img" alt="Are you working safely and responsibly online? TU Delft's 6 golden rules for security and privacy will help you keep your data safe and ensure your privacy. The Six golden rules are: connect securely, protect your identity, secure your devices, report suspicious content, share and save data securely, think before you click. For more information: security.tudelft.nl"></a></p>
-</figure>
-</div>
+<p><a href="https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Awareness-6-Gouden-Regels.aspx"><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-security/data-security.jpg" class="img-fluid" alt="Are you working safely and responsibly online? TU Delft's 6 golden rules for security and privacy will help you keep your data safe and ensure your privacy. The Six golden rules are: connect securely, protect your identity, secure your devices, report suspicious content, share and save data securely, think before you click. For more information: security.tudelft.nl"></a></p>
 </section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
@@ -373,22 +397,23 @@ Note
  ]]></description>
   <category>Research Data Management</category>
   <category>Data Security</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-security/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/data-security/</guid>
   <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-security/data-security.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/data-security/data-security.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Research Data Management 101</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-rdm101/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/data-rdm101/</link>
   <description><![CDATA[ 
+
 
 
 
 
 <p>TU Delft Library provides the Research Data Management 101 (RDM101) course via the Central Graduate School.</p>
 <p>You can sign up via their waiting/notification list via the <a href="https://tudelftgs.opleidingsportaal.nl/en-us/">Trainingportal</a>. Go to ‘<strong>Research – Research Data Management</strong>’ category, and then you can select the ‘<strong>Research Data Management 101</strong>’ course. Then you should be able to see a red button saying ‘<strong>notification list</strong>’. See the screenshot below:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-rdm101/rdm101-portal-view.png" class="img-fluid" alt="Screenshot of the training portal of the graduate school website. The selected page is the Research Data Management 101 course under the header Research - Research Data Management" width="579"></p>
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-rdm101/rdm101-portal-view.png" class="img-fluid" alt="Screenshot of the training portal of the graduate school website. The selected page is the Research Data Management 101 course under the header Research - Research Data Management" width="579"></p>
 <section id="facultytnw-version-of-the-course" class="level2">
 <h2 class="anchored" data-anchor-id="facultytnw-version-of-the-course">Faculty/TNW version of the course</h2>
 <p>Due to the long waiting list for this course, there has also been a Faculty organised version of the course since 2023. The sign up list is currently closed, but you can always email Esther to be added to the waiting list, or to receive more information about the course.</p>
@@ -413,15 +438,16 @@ Note
 
  ]]></description>
   <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-rdm101/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/data-rdm101/</guid>
   <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-rdm101/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/data-rdm101/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Metadata</title>
   <dc:creator>Esther Plomp, Image: Piotr Kononow</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/data-metadata/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -429,8 +455,8 @@ Note
 <p>Metadata is data about data.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://twitter.com/aabella/status/1527533226574680064"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/https:/pbs.twimg.com/media/FTLi4U2WIAAQdC9.png" class="img-fluid figure-img" alt="An image with three bottles with coloured substances and labels. The content of the bottles is the data, and the labels are the metadata. This is helpful information if you want to distinguish between a bottle with labels that say: Juice, Oil and a skull."></a></p>
-<figcaption class="figure-caption">Image by Piotr Kononow</figcaption>
+<p><a href="https://twitter.com/aabella/status/1527533226574680064"><img src="https://pbs.twimg.com/media/FTLi4U2WIAAQdC9.png" class="img-fluid figure-img" alt="An image with three bottles with coloured substances and labels. The content of the bottles is the data, and the labels are the metadata. This is helpful information if you want to distinguish between a bottle with labels that say: Juice, Oil and a skull."></a></p>
+<figcaption>Image by Piotr Kononow</figcaption>
 </figure>
 </div>
 <p>See the <a href="https://tu-delft-library.github.io/rdm101-book/modules/module3.html?highlight=metadata#documentation-and-metadata">video made by TU Delft library on documentation and metadata</a> (4 min).</p>
@@ -453,15 +479,16 @@ Note
  ]]></description>
   <category>Open Data</category>
   <category>FAIR</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/data-metadata/</guid>
   <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-metadata/metadata.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/data-metadata/metadata.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Open Science &amp; Patents</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-patents/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-patents/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -484,15 +511,16 @@ Note
 
  ]]></description>
   <category>Open Science</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-patents/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-patents/</guid>
   <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-patents/closed-data.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-patents/closed-data.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Open Science Podcasts</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-podcasts/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-podcasts/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -636,15 +664,16 @@ Note
 
  ]]></description>
   <category>Open Science</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-podcasts/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-podcasts/</guid>
   <pubDate>Sun, 16 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-podcasts/podcast.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-podcasts/podcast.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>Data visualisation</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-visualisation/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/data-visualisation/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -696,15 +725,16 @@ Note
 
  ]]></description>
   <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-visualisation/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/data-visualisation/</guid>
   <pubDate>Mon, 10 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-visualisation/visualisation.png" medium="image" type="image/png" height="128" width="144"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/data-visualisation/visualisation.png" medium="image" type="image/png" height="128" width="144"/>
 </item>
 <item>
   <title>Research Data Management for students</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-managing-students/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/data-managing-students/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -763,15 +793,16 @@ Note
 
  ]]></description>
   <category>Research Data Management</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-managing-students/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/data-managing-students/</guid>
   <pubDate>Sun, 09 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-managing-students/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/data-managing-students/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>4TU.ResearchData</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -794,10 +825,10 @@ Note
 <li><p>README file: include your contact information (name, affiliation, current email address and your <a href="https://orcid.org/">ORCID</a>!) as well as how you would like the output to be cited (the output itself or the associated article). For software you can also use a <a href="https://the-turing-way.netlify.app/communication/citable/citable-cff.html">CITATION.cff file</a> to recommend citation.</p></li>
 </ul></li>
 <li><p>Go to <a href="https://data.4tu.nl/info/en/">4TU.ResearchData</a> and login with your netID via the ‘LOG IN’ button in the top right corner:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-117915048.png" class="img-fluid"></p>
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/images/image-117915048.png" class="img-fluid"></p>
 <p>You can also <a href="https://drive.google.com/file/d/1AbWVT2H2WNgAMPsIA_Bf4ScCFle6yLH-/view?pli=1">watch an instruction video</a> (3 minutes).</p></li>
 <li><p>Select ‘ADD NEW DATASET’</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-399880224.png" class="img-fluid"></p></li>
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/images/image-399880224.png" class="img-fluid"></p></li>
 <li><p>Fill out the metadata information fields and select a licence</p>
 <ul>
 <li><p>Ensure a clear title of your dataset so that you can easily find it back if you do not upload and submit your dataset in one go. (For example, if your data/code is part of a publication, you can name the upload ‘dataset/software underlying the publication’[title publication]’.</p></li>
@@ -805,18 +836,18 @@ Note
 <li><p>Select a <a href="https://estherplomp.github.io/TNW-OS-support/posts/licenses/"><strong>license</strong></a><strong>:</strong> Everything with CC in front of it is appropriate for data. The software licenses follow below (you may need to scroll).</p></li>
 <li><p>Add any related references (GitHub/Lab repository, article DOI, other datasets).</p></li>
 <li><p>Take note of the <strong>DOI</strong> your dataset receives. You will need this DOI for your Data Availability Statement and your references.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-1159637109.png" class="img-fluid" width="428"></p></li>
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/images/image-1159637109.png" class="img-fluid" width="428"></p></li>
 <li><p>Select <strong>keywords</strong> that your peers would use to find your type of research/data, or that you have discussed with department/section/project members to increase findability.</p></li>
 </ul></li>
 <li><p>Upload the data or code and the README file</p>
 <p>Under files, select the ‘file deposit’ for data, and the ’software deposit for code. You can drop and select files or open up the file explorer by clicking on the upload area.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-700277674.png" class="img-fluid" width="507"></p>
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/images/image-700277674.png" class="img-fluid" width="507"></p>
 <p>You can either upload directories separately or decide to use an archive file (open formats are: .zip .tar, .tgz, or tar.bz2 - See <a href="https://doi.org/10.5281/zenodo.1327327">Jackson 2018</a>b)</p></li>
 <li><p>Submit the upload for review</p>
-<p>When the upload is ready to be published, you can submit it for review by selecting the ‘SUBMIT FOR REVIEW’ button on the top of the upload:<img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-1203219886.png" class="img-fluid"></p>
+<p>When the upload is ready to be published, you can submit it for review by selecting the ‘SUBMIT FOR REVIEW’ button on the top of the upload:<img src="https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/images/image-1203219886.png" class="img-fluid"></p>
 <ul>
 <li><p>You will get notified if you haven’t filled out all the required metadata fields. If all the fields are completed, you will see the message below and you will receive a confirmation email to the address associated with your account.</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/image-966500337.png" class="img-fluid" width="522"></p></li>
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/images/image-966500337.png" class="img-fluid" width="522"></p></li>
 </ul></li>
 <li><p>You may receive some feedback from 4TU.ResearchData to improve your submission. After any adjustments and your confirmation, the upload is ready to be published!</p></li>
 </ol>
@@ -828,7 +859,7 @@ Note
 <section id="sharing-a-private-link" class="level2">
 <h2 class="anchored" data-anchor-id="sharing-a-private-link">Sharing a private link</h2>
 <p>You can share a private link of a draft dataset with peer reviewers or your thesis committee via ‘My datasets’, pressing the link button under ‘Actions’:</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/images/4TU-private.jpg" class="img-fluid"></p>
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/images/4TU-private.jpg" class="img-fluid"></p>
 <p>You can then select the ‘CREATE NEW PRIVATE LINK’ button.</p>
 </section>
 <section id="checklist-to-sharing-your-research-karoune-plomp-2022" class="level2">
@@ -858,15 +889,16 @@ Note
   <category>Open Data</category>
   <category>Open Software</category>
   <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/</guid>
   <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/4TU-info/4TU-logo.png" medium="image" type="image/png" height="43" width="144"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/4TU-logo.png" medium="image" type="image/png" height="43" width="144"/>
 </item>
 <item>
   <title>README files</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/readme/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -914,15 +946,16 @@ Note
   <category>Open Data</category>
   <category>Open Software</category>
   <category>FAIR</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/readme/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/readme/</guid>
   <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
   <title>Open Science Programme for PhD candidates of AS/TNW</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-OLS/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-OLS/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1044,15 +1077,16 @@ Final presentations and graduation call, where you have to present a 5 minute de
  ]]></description>
   <category>Open Science</category>
   <category>TU Delft</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-OLS/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-OLS/</guid>
   <pubDate>Sun, 04 Jun 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/open-science-OLS/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-OLS/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>How to organise inclusive meetings</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/integrity-inclusive-meetings/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1081,15 +1115,16 @@ Final presentations and graduation call, where you have to present a 5 minute de
  ]]></description>
   <category>Open Science</category>
   <category>Inclusion</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/integrity-inclusive-meetings/</guid>
   <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/integrity-inclusive-meetings/inclusive.png" medium="image" type="image/png" height="81" width="144"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/integrity-inclusive-meetings/inclusive.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Vevox</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-vevox/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-vevox/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1106,82 +1141,16 @@ Final presentations and graduation call, where you have to present a 5 minute de
 
  ]]></description>
   <category>Tools</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-vevox/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-vevox/</guid>
   <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-vevox/vevox.png" medium="image" type="image/png" height="29" width="144"/>
-</item>
-<item>
-  <title>Zotero</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://www.zotero.org/">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</p>
-<section id="integration-with-other-plugins-and-tools" class="level2">
-<h2 class="anchored" data-anchor-id="integration-with-other-plugins-and-tools">Integration with other plugins and tools</h2>
-<ul>
-<li><p>You can use NotionHQ and the Notero plugin to organise papers in a database and store detailes notes (see an <a href="https://dust-bovid-04d.notion.site/ba1bc5022a4d469abd2ea559e80bc56b?v=a953e6bf2a3449e9ab3083154ce2b238">example template</a>).</p></li>
-<li><p><a href="http://zotfile.com/">ZotFile</a> is a Zotero plugin to manage your attachments.</p></li>
-<li><p>You can import BibTex files from Zotero in your <a href="https://orcid.org/">ORCID profile</a> (an ORCID is a persistent identifier for researchers, where you can manage your research outputs yourself):</p>
-<p><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/images/image-170768552.png" class="img-fluid" alt="Screenshot of the ORCID webpage where you can add works via the Import BibTex option" width="454"></p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><a href="https://www.zotero.org/support/kb/mendeley_import">How do I import a Mendeley library into Zotero?</a>
-<ul>
-<li>Ensure that you tell Mendeley desktop to sync attached files for your *entire* library <strong>before</strong> importing to Zotero. You can do this by clicking the “Edit Settings” button by “All Documents” in the main desktop window, and clicking “Synchronize attached files”.</li>
-</ul></li>
-<li><a href="https://www.zotero.org/support/word_processor_plugin_installation">Installing the Zotero Word Processor Plugins</a></li>
-<li><a href="https://calc.hypotheses.org/5692">How to Organize Literature and Notes in Zotero</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Tools</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/index.html</guid>
-  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-zotero/zotero.png" medium="image" type="image/png" height="63" width="144"/>
-</item>
-<item>
-  <title>Qualtrics</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Qualtrics is a safe solution to collect survey data. See the <a href="https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Privacy/Qualtrics_guidance%202022-08.pdf">Qualtrics Guidance</a> for more information.</p>
-<p>You can request access to Qualtric licenses <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=57ec510c3da9408b929c2eeee82b4eaa">via topdesk</a>.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li>TU Delft now has a <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research">self-paced personal data course</a>. PhD candidates can sign up and follow it for 0.5 GS credits.</li>
-<li><a href="https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Home.aspx">TU Delft Privacy and Security page</a></li>
-<li><a href="https://renebekkers.wordpress.com/2023/07/03/how-not-to-collect-data-on-qualtrics/">Learn more about how to not collect IP addresses/geolocation.</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Tools</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/index.html</guid>
-  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-qualtrics/qualtrics.png" medium="image" type="image/png" height="54" width="144"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-vevox/vevox.png" medium="image" type="image/png" height="29" width="144"/>
 </item>
 <item>
   <title>Excel functionalities</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-excel/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-excel/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -1225,51 +1194,78 @@ Final presentations and graduation call, where you have to present a 5 minute de
 
  ]]></description>
   <category>Tools</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/tools-excel/index.html</guid>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-excel/</guid>
   <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/tools-excel/excel.png" medium="image" type="image/png" height="134" width="144"/>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-excel/excel.png" medium="image" type="image/png" height="134" width="144"/>
 </item>
 <item>
-  <title>Why not supplemental materials?</title>
+  <title>Zotero</title>
   <dc:creator>Esther Plomp</dc:creator>
-  <link>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-supplement/index.html</link>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-zotero/</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
-<p>Why not supplemental materials?</p>
-<p><strong>Data control</strong>: cannot be updated, unlike materials available at data repositories.</p>
-<p><strong>Interoperability</strong>: If publishers only allow text and PDF formats it hampers data sharing and it will be difficult to reuse the data</p>
-<p><strong>Availability</strong>: Difficult to access if the article is behind the paywall (supplemental materials are not included in the DOI and therefore the links can also break!)</p>
-<p><strong>Not FAIR</strong>: Data/Software available in supplemental materials is not considered to be <a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html">FAIR</a> (Findable, Accessible, Interoperable, Resuable) - since they do not have a DOI assigned to them specifically (see also the Availability point above).</p>
-<p><strong>Impact</strong>: Data should be a primary research output</p>
-<p><strong>Publisher requirements</strong>: Some publishers recommend using a data repository instead</p>
-<p><strong>Size limits</strong>: There may be size limits in place of how large or how many supplementary materials can be shared.</p>
-<p>Links to supplemental materials may also break, as demonstrated in the example below:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.pnas.org/doi/suppl/10.1073/pnas.2203150119/-/DCSupplemental"><img src="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-supplement/images/image-1097387088.png" class="img-fluid figure-img" alt="Screenshot of an article where they mention that there are supplemental materials available on a link that is broken."></a></p>
-</figure>
-</div>
+
+<p><a href="https://www.zotero.org/">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</p>
+<section id="integration-with-other-plugins-and-tools" class="level2">
+<h2 class="anchored" data-anchor-id="integration-with-other-plugins-and-tools">Integration with other plugins and tools</h2>
+<ul>
+<li><p>You can use NotionHQ and the Notero plugin to organise papers in a database and store detailes notes (see an <a href="https://dust-bovid-04d.notion.site/ba1bc5022a4d469abd2ea559e80bc56b?v=a953e6bf2a3449e9ab3083154ce2b238">example template</a>).</p></li>
+<li><p><a href="http://zotfile.com/">ZotFile</a> is a Zotero plugin to manage your attachments.</p></li>
+<li><p>You can import BibTex files from Zotero in your <a href="https://orcid.org/">ORCID profile</a> (an ORCID is a persistent identifier for researchers, where you can manage your research outputs yourself):</p>
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-zotero/images/image-170768552.png" class="img-fluid" alt="Screenshot of the ORCID webpage where you can add works via the Import BibTex option" width="454"></p></li>
+</ul>
 </section>
 <section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 <ul>
-<li><a href="https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296">The Push to Replace Journal Supplements with Repositories</a></li>
-<li><a href="https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-repository#why-not-the-supplemental-materials">The Turing Way: Why not the supplemental materials?</a></li>
+<li><a href="https://www.zotero.org/support/kb/mendeley_import">How do I import a Mendeley library into Zotero?</a>
+<ul>
+<li>Ensure that you tell Mendeley desktop to sync attached files for your *entire* library <strong>before</strong> importing to Zotero. You can do this by clicking the “Edit Settings” button by “All Documents” in the main desktop window, and clicking “Synchronize attached files”.</li>
+</ul></li>
+<li><a href="https://www.zotero.org/support/word_processor_plugin_installation">Installing the Zotero Word Processor Plugins</a></li>
+<li><a href="https://calc.hypotheses.org/5692">How to Organize Literature and Notes in Zotero</a></li>
 </ul>
 
 
 </section>
 
  ]]></description>
-  <category>Open Data</category>
-  <guid>https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-supplement/index.html</guid>
-  <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/EstherPlomp/TNW-OS-support/posts/data-sharing-supplement/404.png" medium="image" type="image/png" height="20" width="144"/>
+  <category>Tools</category>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-zotero/</guid>
+  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-zotero/zotero.png" medium="image" type="image/png" height="63" width="144"/>
+</item>
+<item>
+  <title>Qualtrics</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-qualtrics/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Qualtrics is a safe solution to collect survey data. See the <a href="https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Privacy/Qualtrics_guidance%202022-08.pdf">Qualtrics Guidance</a> for more information.</p>
+<p>You can request access to Qualtric licenses <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=57ec510c3da9408b929c2eeee82b4eaa">via topdesk</a>.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li>TU Delft now has a <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research">self-paced personal data course</a>. PhD candidates can sign up and follow it for 0.5 GS credits.</li>
+<li><a href="https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Home.aspx">TU Delft Privacy and Security page</a></li>
+<li><a href="https://renebekkers.wordpress.com/2023/07/03/how-not-to-collect-data-on-qualtrics/">Learn more about how to not collect IP addresses/geolocation.</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Tools</category>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-qualtrics/</guid>
+  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-qualtrics/qualtrics.png" medium="image" type="image/png" height="54" width="144"/>
 </item>
 </channel>
 </rss>
