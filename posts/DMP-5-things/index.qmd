@@ -18,7 +18,7 @@ You are not obliged to ask the Data Steward for support on a Data Management Pla
 
 ## 2. Are you happy with how the data/code is stored?
 
-Ensure that the data will be stored using a storage solution that is automatically backed up and that all project members have access to the data they need to have access to (especially important that access is restricted when working with personal data or confidential data - see @sec-confidentialdata).
+Ensure that the data will be stored using a storage solution that is automatically backed up and that all project members have access to the data they need to have access to (especially important that access is restricted when working with personal data or confidential data - see @sec-confidentialdata). See TU Delft [storage solutions](https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/) for recommended solutions.
 
 ## 3. Is the data properly organised and documented?
 
