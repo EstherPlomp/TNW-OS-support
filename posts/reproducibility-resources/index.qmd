@@ -39,3 +39,4 @@ image: "reproducibility.jpg"
 ## More information
 
 -   [Reproducibility checklist](https://estherplomp.github.io/TNW-OS-support/posts/reproducibility-checklist/)
+-   [Whistleblowers flagged 300 scientific papers for retraction. Many journals ghosted them](https://www.science.org/content/article/whistleblowers-flagged-300-scientific-papers-for-retraction-many-journals-ghosted-them)
