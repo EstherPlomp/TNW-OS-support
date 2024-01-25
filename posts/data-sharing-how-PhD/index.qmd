@@ -79,3 +79,4 @@ Make sure that you link the 'DOI' from the data/code in your dissertation, and m
 ## More information
 
 -   [How to use 4TU.ResearchData](https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/)
+-   [Guidance for doctoral candidates completing their studies](https://www.tudelft.nl/en/library/research-data-management/r/publish/publish-research-data/publish-your-phd-data/guidance-for-doctoral-candidates-completing-their-studies)
