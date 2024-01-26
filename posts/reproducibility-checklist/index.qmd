@@ -16,7 +16,7 @@ This post is a shortened version of the [Agile Reproducibility Checklist](https:
 
 -   Is accessible in a public repository and has an open data [licence](https://estherplomp.github.io/TNW-OS-support/posts/licenses/)
 
-## For all software tools/libraries/packages and computational workflows included/produced, check if: 
+## For all software tools/libraries/packages and computational workflows included/produced, check if:
 
 -   Reproduction steps are explained in a README (plain text file), flowchart, or script
 
@@ -30,13 +30,13 @@ This post is a shortened version of the [Agile Reproducibility Checklist](https:
 
 -   There is a clear connection between tables, figures, maps, and statistical values and the data and code that they are based on, e.g., using file names or documentation in the README
 
-## In the Data and Software Availability section: 
+## In the Data and Software Availability section:
 
 -   Include data/software availability statements (see [The Turing Way](https://the-turing-way.netlify.app/communication/citable/citable-cite.html?#data-availability-statement-examples) for examples)
 
 -   Include the reasons, if any, for not being able to share (parts of) data or code
 
-## For all data and software: 
+## For all data and software:
 
 -   All datasets and code (used or mentioned) are assigned DOIs
 
@@ -45,3 +45,5 @@ This post is a shortened version of the [Agile Reproducibility Checklist](https:
 ## More information
 
 -   [Software citation checklist](https://estherplomp.github.io/TNW-OS-support/posts/software-citation/)
+
+-   [Community-developed checklists for publishing images and image analyses](https://doi.org/10.1038/s41592-023-01987-9)
