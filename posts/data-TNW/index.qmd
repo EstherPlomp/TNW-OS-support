@@ -142,6 +142,8 @@ image: "open-data-fountain.jpg"
 
 -   [Confocal Microscopy Data: A Primer for Curators](https://github.com/DataCurationNetwork/data-primers/blob/master/Confocal%20Microscopy%20Images%20Data%20Curation%20Primer/confocal-microscopy-images-data-curation-primer.md)
 
+-   [Community-developed checklists for publishing images and image analyses](https://doi.org/10.1038/s41592-023-01987-9)
+
 ## Tools
 
 -   [ioChem-BD](https://www.iochem-bd.org/)
