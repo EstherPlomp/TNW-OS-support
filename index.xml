@@ -1128,32 +1128,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/integrity-inclusive-meetings/inclusive.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
-  <title>Vevox</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-vevox/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Vevox is an audience engagement tool acquired by TU Delft as the campus-wide solution for synchronous (live) polling. This is an alternative to similar tools such as Slido and Mentimeter.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><a href="https://www.tudelft.nl/teaching-support/educational-tools/vevox" class="uri">https://www.tudelft.nl/teaching-support/educational-tools/vevox</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Tools</category>
-  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-vevox/</guid>
-  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-vevox/vevox.png" medium="image" type="image/png" height="29" width="144"/>
-</item>
-<item>
   <title>Excel functionalities</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-excel/</link>
@@ -1245,6 +1219,32 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-zotero/</guid>
   <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
   <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-zotero/zotero.png" medium="image" type="image/png" height="63" width="144"/>
+</item>
+<item>
+  <title>Vevox</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-vevox/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Vevox is an audience engagement tool acquired by TU Delft as the campus-wide solution for synchronous (live) polling. This is an alternative to similar tools such as Slido and Mentimeter.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
+<ul>
+<li><a href="https://www.tudelft.nl/teaching-support/educational-tools/vevox" class="uri">https://www.tudelft.nl/teaching-support/educational-tools/vevox</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Tools</category>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-vevox/</guid>
+  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-vevox/vevox.png" medium="image" type="image/png" height="29" width="144"/>
 </item>
 <item>
   <title>Qualtrics</title>
