@@ -1,0 +1,19 @@
+---
+title: "Open Methods"
+author: "Esther Plomp"
+date: "2024-02-01"
+categories: [Research Data Management]
+image: "open-review.jpg"
+---
+
+You can share your methodology in dedicated journals or method repositories.
+
+[protocols.io](https://www.protocols.io/) is such a repository for methods. You can watch two short introduction videos by [Emma Ganley](https://www.youtube.com/watch?v=hva-oTapSWU&list=PL1CvC6Ez54KCcs99wV3eex1v5GUry6Yb7&index=12) and [Lenny Teytelman](https://www.youtube.com/watch?v=1wN6RqCmpqM&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=13) to learn more.
+
+See [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=CzpY4A5G70s&list=PLWb8IFSVeQ620plPweZIQSGQODpGOww8r&index=3) for the differences between **protocol journals and protocol repositories** (at 23:33).
+
+You can also choose to [share your electronic lab notes openly](https://www.lornecampbell.org/?p=179).
+
+## More information
+
+-   [Protocols.io - Share science protocol knowledge](https://www.youtube.com/watch?v=84B8P6BAOgM) (1 min video)
