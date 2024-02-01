@@ -10,7 +10,36 @@
 <atom:link href="https://EstherPlomp.github.io/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.549</generator>
-<lastBuildDate>Thu, 25 Jan 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Feb 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Open Methods</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-open-methods/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>You can share your methodology in dedicated journals or method repositories.</p>
+<p><a href="https://www.protocols.io/">protocols.io</a> is such a repository for methods. You can watch two short introduction videos by <a href="https://www.youtube.com/watch?v=hva-oTapSWU&amp;list=PL1CvC6Ez54KCcs99wV3eex1v5GUry6Yb7&amp;index=12">Emma Ganley</a> and <a href="https://www.youtube.com/watch?v=1wN6RqCmpqM&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=13">Lenny Teytelman</a> to learn more.</p>
+<p>See <a href="https://www.youtube.com/watch?v=CzpY4A5G70s&amp;list=PLWb8IFSVeQ620plPweZIQSGQODpGOww8r&amp;index=3">methods &amp; protocols - ReproducibiliTeach</a> for the differences between <strong>protocol journals and protocol repositories</strong> (at 23:33).</p>
+<p>You can also choose to <a href="https://www.lornecampbell.org/?p=179">share your electronic lab notes openly</a>.</p>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=84B8P6BAOgM">Protocols.io - Share science protocol knowledge</a> (1 min video)</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Research Data Management</category>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-open-methods/</guid>
+  <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-open-methods/open-review.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Software Management Plan</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -1245,35 +1274,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-vevox/</guid>
   <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
   <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-vevox/vevox.png" medium="image" type="image/png" height="29" width="144"/>
-</item>
-<item>
-  <title>Qualtrics</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-qualtrics/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Qualtrics is a safe solution to collect survey data. See the <a href="https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/Centraal/ICT/Privacy/Qualtrics_guidance%202022-08.pdf">Qualtrics Guidance</a> for more information.</p>
-<p>You can request access to Qualtric licenses <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=57ec510c3da9408b929c2eeee82b4eaa">via topdesk</a>.</p>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li>TU Delft now has a <a href="https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research">self-paced personal data course</a>. PhD candidates can sign up and follow it for 0.5 GS credits.</li>
-<li><a href="https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Home.aspx">TU Delft Privacy and Security page</a></li>
-<li><a href="https://renebekkers.wordpress.com/2023/07/03/how-not-to-collect-data-on-qualtrics/">Learn more about how to not collect IP addresses/geolocation.</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Tools</category>
-  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-qualtrics/</guid>
-  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-qualtrics/qualtrics.png" medium="image" type="image/png" height="54" width="144"/>
 </item>
 </channel>
 </rss>
