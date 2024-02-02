@@ -1,0 +1,93 @@
+---
+title: "Gold Open Access Journals"
+author: "Esther Plomp"
+date: "2024-02-02"
+categories: [Open Access]
+image: "oa-logo.png"
+---
+
+This post contains an overview of Gold Open Access journals that TNW/Applied Sciences researchers are publishing in.
+
+Gold Open Access here means that there are **no articles behind a paywall** (whereas hybrid journals offer both paywall and Open Access options). These journals are listed in the [Directory of Open Access Journals](https://doaj.org).
+
+## Open Access without author charges (Diamond Open Access)
+
+-   [Chemical Science](https://www.rsc.org/journals-books-databases/about-journals/chemical-science/)
+
+-   [SciPost](https://scipost.org/)
+
+-   [Water Science and Technology](https://iwaponline.com/wst)
+
+## Open Access thanks to TU Delft deals
+
+-   [Applied Sciences](https://www.mdpi.com/journal/applsci)
+
+-   [Biomedical Optics Express](https://opg.optica.org/boe/home.cfm)
+
+-   [Cancers](https://www.mdpi.com/journal/cancers/)
+
+-   [Cell Reports](https://www.cell.com/cell-reports/home)
+
+-   [Frontiers in Bioengineering and Biotechnology](https://www.frontiersin.org/journals/bioengineering-and-biotechnology)
+
+-   [Frontiers in Chemistry](https://www.frontiersin.org/journals/chemistry)
+
+-   [Frontiers in Microbiology](https://www.frontiersin.org/journals/microbiology)
+
+-   [iScience](https://www.cell.com/iscience/home)
+
+-   [Membranes](https://www.mdpi.com/journal/membranes)
+
+-   [Molecules](http://www.mdpi.com/journal/molecules)
+
+-   [Nanomaterials](https://www.mdpi.com/journal/nanomaterials)
+
+-   [NeuroImage](https://www.sciencedirect.com/journal/neuroimage)
+
+-   [New Journal of Physics](https://iopscience.iop.org/journal/1367-2630)
+
+-   [Optica](https://opg.optica.org/optica/home.cfm)
+
+-   [Optics Express](https://opg.optica.org/oe/home.cfm)
+
+-   [PLOS ONE](https://journals.plos.org/plosone/)
+
+-   [Sensors](https://www.mdpi.com/journal/sensors)
+
+-   [Water Research X](https://www.sciencedirect.com/journal/water-research-x)
+
+## Open Access charges that can be covered with [TU Delft Open Access Fund](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding) (up to € 2.350)
+
+-   [eLife](https://elifesciences.org/) (\$2000)
+
+-   [Materials Advances](https://www.rsc.org/journals-books-databases/about-journals/materials-advances/) (£2000)
+
+-   [RSC Advances](https://www.rsc.org/journals-books-databases/about-journals/rsc-advances/) (£1250)
+
+## Open Access charges that can be covered in NWO/EU Commission projects
+
+-   [Communications Biology](https://www.nature.com/commsbio/) (€3290)
+
+-   [Communications Physics](https://www.nature.com/commsphys/) (€3190)
+
+-   [Microbial Cell Factories](https://microbialcellfactories.biomedcentral.com/) (€2790)
+
+-   [Nature Communications](https://www.nature.com/ncomms/) (€5690)
+
+-   [npj Quantum Information](https://www.nature.com/npjqi/) (€3390)
+
+-   [Nucleic Acids Research](https://academic.oup.com/nar) (\$3802)
+
+-   [Physical Review Research](https://journals.aps.org/prresearch/) (\$2755)
+
+-   [Physical Review X](https://journals.aps.org/prx/) (\$4415)
+
+-   [Science Advances](https://www.science.org/journal/sciadv) (\$4950)
+
+-   [Scientific Reports](https://www.nature.com/srep/) (€2290)
+
+## **More information**
+
+-   [Journal Browser](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser)
+
+-   [Article Processing Charges](https://estherplomp.github.io/TNW-OS-support/posts/Open-access-APC/)
