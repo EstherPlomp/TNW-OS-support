@@ -24,7 +24,7 @@ The peer review process does not successfully keep out bad science.
 
 -   Rejections/acceptation decisions are inconsistent
 
--   Major errors and flaws are inconsistently discovered (see [Andersen 2013](https://doi.org/10.1080/19359705.2013.789459) for a case study)
+-   Major errors and flaws are inconsistently discovered ([Baxt et al. 1998](https://doi.org/10.1016/s0196-0644(98)70006-x), see [Andersen 2013](https://doi.org/10.1080/19359705.2013.789459) for a case study)
 
 ## Examples of flawed peer reviewed research
 
