@@ -6,11 +6,13 @@ categories: [Open Access]
 image: "oa-logo.png"
 ---
 
-This post contains an overview of Gold Open Access journals that TNW/Applied Sciences researchers are publishing in.
+This post contains an overview of Gold Open Access journals that TNW/Applied Sciences researchers are publishing in, thanks to [data made available by TU Delft library](https://tableau.tudelft.nl/#/views/TULibrary20230510V7/JournalCollection?:iid=1).
 
 Gold Open Access here means that there are **no articles behind a paywall** (whereas hybrid journals offer both paywall and Open Access options). These journals are listed in the [Directory of Open Access Journals](https://doaj.org).
 
 ## Open Access without author charges (Diamond Open Access)
+
+-   [Beilstein Journal of Nanotechnology](https://www.beilstein-journals.org/bjnano/home)
 
 -   [Chemical Science](https://www.rsc.org/journals-books-databases/about-journals/chemical-science/)
 
@@ -32,9 +34,13 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 
 -   [Frontiers in Chemistry](https://www.frontiersin.org/journals/chemistry)
 
+-   [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics)
+
 -   [Frontiers in Microbiology](https://www.frontiersin.org/journals/microbiology)
 
 -   [iScience](https://www.cell.com/iscience/home)
+
+-   [Materials](https://www.mdpi.com/journal/materials)
 
 -   [Membranes](https://www.mdpi.com/journal/membranes)
 
@@ -43,6 +49,8 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 -   [Nanomaterials](https://www.mdpi.com/journal/nanomaterials)
 
 -   [NeuroImage](https://www.sciencedirect.com/journal/neuroimage)
+
+-   [NeuroImage: Clinical](https://www.sciencedirect.com/journal/neuroimage-clinical)
 
 -   [New Journal of Physics](https://iopscience.iop.org/journal/1367-2630)
 
@@ -66,9 +74,15 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 
 ## Open Access charges that can be covered in NWO/EU Commission projects
 
+-   [Advanced Materials Interfaces](https://onlinelibrary.wiley.com/journal/21967350) (€2600)
+
 -   [Communications Biology](https://www.nature.com/commsbio/) (€3290)
 
 -   [Communications Physics](https://www.nature.com/commsphys/) (€3190)
+
+-   [EJNMMI Radiopharmacy and Chemistry](https://ejnmmipharmchem.springeropen.com/) (€1890)
+
+-   [mBio](https://journals.asm.org/journal/mbio) (\$3900)
 
 -   [Microbial Cell Factories](https://microbialcellfactories.biomedcentral.com/) (€2790)
 
@@ -86,8 +100,12 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 
 -   [Scientific Reports](https://www.nature.com/srep/) (€2290)
 
+What if your research doesn't fit any of the above journals? Try [B!SON](https://service.tib.eu/bison/) to find a suitable Open Access journal for your publication!
+
 ## **More information**
 
 -   [Journal Browser](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser)
 
 -   [Article Processing Charges](https://estherplomp.github.io/TNW-OS-support/posts/Open-access-APC/)
+
+-   [A Shortlist of Diamond Open Access Journals for the Faculty of Science at Utrecht University](https://zenodo.org/records/8272176)
