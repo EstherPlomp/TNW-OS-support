@@ -21,11 +21,12 @@
 
 
 
-<p>This post contains an overview of Gold Open Access journals that TNW/Applied Sciences researchers are publishing in.</p>
+<p>This post contains an overview of Gold Open Access journals that TNW/Applied Sciences researchers are publishing in, thanks to <a href="https://tableau.tudelft.nl/#/views/TULibrary20230510V7/JournalCollection?:iid=1">data made available by TU Delft library</a>.</p>
 <p>Gold Open Access here means that there are <strong>no articles behind a paywall</strong> (whereas hybrid journals offer both paywall and Open Access options). These journals are listed in the <a href="https://doaj.org">Directory of Open Access Journals</a>.</p>
 <section id="open-access-without-author-charges-diamond-open-access" class="level2">
 <h2 class="anchored" data-anchor-id="open-access-without-author-charges-diamond-open-access">Open Access without author charges (Diamond Open Access)</h2>
 <ul>
+<li><p><a href="https://www.beilstein-journals.org/bjnano/home">Beilstein Journal of Nanotechnology</a></p></li>
 <li><p><a href="https://www.rsc.org/journals-books-databases/about-journals/chemical-science/">Chemical Science</a></p></li>
 <li><p><a href="https://scipost.org/">SciPost</a></p></li>
 <li><p><a href="https://iwaponline.com/wst">Water Science and Technology</a></p></li>
@@ -40,12 +41,15 @@
 <li><p><a href="https://www.cell.com/cell-reports/home">Cell Reports</a></p></li>
 <li><p><a href="https://www.frontiersin.org/journals/bioengineering-and-biotechnology">Frontiers in Bioengineering and Biotechnology</a></p></li>
 <li><p><a href="https://www.frontiersin.org/journals/chemistry">Frontiers in Chemistry</a></p></li>
+<li><p><a href="https://www.frontiersin.org/journals/genetics">Frontiers in Genetics</a></p></li>
 <li><p><a href="https://www.frontiersin.org/journals/microbiology">Frontiers in Microbiology</a></p></li>
 <li><p><a href="https://www.cell.com/iscience/home">iScience</a></p></li>
+<li><p><a href="https://www.mdpi.com/journal/materials">Materials</a></p></li>
 <li><p><a href="https://www.mdpi.com/journal/membranes">Membranes</a></p></li>
 <li><p><a href="http://www.mdpi.com/journal/molecules">Molecules</a></p></li>
 <li><p><a href="https://www.mdpi.com/journal/nanomaterials">Nanomaterials</a></p></li>
 <li><p><a href="https://www.sciencedirect.com/journal/neuroimage">NeuroImage</a></p></li>
+<li><p><a href="https://www.sciencedirect.com/journal/neuroimage-clinical">NeuroImage: Clinical</a></p></li>
 <li><p><a href="https://iopscience.iop.org/journal/1367-2630">New Journal of Physics</a></p></li>
 <li><p><a href="https://opg.optica.org/optica/home.cfm">Optica</a></p></li>
 <li><p><a href="https://opg.optica.org/oe/home.cfm">Optics Express</a></p></li>
@@ -65,8 +69,11 @@
 <section id="open-access-charges-that-can-be-covered-in-nwoeu-commission-projects" class="level2">
 <h2 class="anchored" data-anchor-id="open-access-charges-that-can-be-covered-in-nwoeu-commission-projects">Open Access charges that can be covered in NWO/EU Commission projects</h2>
 <ul>
+<li><p><a href="https://onlinelibrary.wiley.com/journal/21967350">Advanced Materials Interfaces</a> (€2600)</p></li>
 <li><p><a href="https://www.nature.com/commsbio/">Communications Biology</a> (€3290)</p></li>
 <li><p><a href="https://www.nature.com/commsphys/">Communications Physics</a> (€3190)</p></li>
+<li><p><a href="https://ejnmmipharmchem.springeropen.com/">EJNMMI Radiopharmacy and Chemistry</a> (€1890)</p></li>
+<li><p><a href="https://journals.asm.org/journal/mbio">mBio</a> ($3900)</p></li>
 <li><p><a href="https://microbialcellfactories.biomedcentral.com/">Microbial Cell Factories</a> (€2790)</p></li>
 <li><p><a href="https://www.nature.com/ncomms/">Nature Communications</a> (€5690)</p></li>
 <li><p><a href="https://www.nature.com/npjqi/">npj Quantum Information</a> (€3390)</p></li>
@@ -76,12 +83,14 @@
 <li><p><a href="https://www.science.org/journal/sciadv">Science Advances</a> ($4950)</p></li>
 <li><p><a href="https://www.nature.com/srep/">Scientific Reports</a> (€2290)</p></li>
 </ul>
+<p>What if your research doesn’t fit any of the above journals? Try <a href="https://service.tib.eu/bison/">B!SON</a> to find a suitable Open Access journal for your publication!</p>
 </section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 <ul>
 <li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser">Journal Browser</a></p></li>
 <li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/Open-access-APC/">Article Processing Charges</a></p></li>
+<li><p><a href="https://zenodo.org/records/8272176">A Shortlist of Diamond Open Access Journals for the Faculty of Science at Utrecht University</a></p></li>
 </ul>
 
 
