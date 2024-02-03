@@ -16,6 +16,8 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 
 -   [Chemical Science](https://www.rsc.org/journals-books-databases/about-journals/chemical-science/)
 
+-   [Open Research Europe](https://open-research-europe.ec.europa.eu/) (for Horizon Europe projects) (also has the [registered reports](https://estherplomp.github.io/TNW-OS-support/posts/open-science-registered-reports/) format)
+
 -   [SciPost](https://scipost.org/)
 
 -   [Water Science and Technology](https://iwaponline.com/wst)
@@ -26,7 +28,7 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 
 -   [Biomedical Optics Express](https://opg.optica.org/boe/home.cfm)
 
--   [Cancers](https://www.mdpi.com/journal/cancers/)
+-   [Cancers](https://www.mdpi.com/journal/cancers/) (also has the [registered reports](https://estherplomp.github.io/TNW-OS-support/posts/open-science-registered-reports/) format)
 
 -   [Cell Reports](https://www.cell.com/cell-reports/home)
 
@@ -34,7 +36,7 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 
 -   [Frontiers in Chemistry](https://www.frontiersin.org/journals/chemistry)
 
--   [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics)
+-   [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics) (also has the [registered reports](https://estherplomp.github.io/TNW-OS-support/posts/open-science-registered-reports/) format)
 
 -   [Frontiers in Microbiology](https://www.frontiersin.org/journals/microbiology)
 
@@ -58,7 +60,7 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 
 -   [Optics Express](https://opg.optica.org/oe/home.cfm)
 
--   [PLOS ONE](https://journals.plos.org/plosone/)
+-   [PLOS ONE](https://journals.plos.org/plosone/) (also has the [registered reports](https://estherplomp.github.io/TNW-OS-support/posts/open-science-registered-reports/) format)
 
 -   [Sensors](https://www.mdpi.com/journal/sensors)
 
@@ -86,7 +88,7 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 
 -   [Microbial Cell Factories](https://microbialcellfactories.biomedcentral.com/) (€2790)
 
--   [Nature Communications](https://www.nature.com/ncomms/) (€5690)
+-   [Nature Communications](https://www.nature.com/ncomms/) (€5690) (also has optional open peer review and [registered report](https://estherplomp.github.io/TNW-OS-support/posts/open-science-registered-reports/)format)
 
 -   [npj Quantum Information](https://www.nature.com/npjqi/) (€3390)
 
@@ -98,7 +100,7 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 
 -   [Science Advances](https://www.science.org/journal/sciadv) (\$4950)
 
--   [Scientific Reports](https://www.nature.com/srep/) (€2290)
+-   [Scientific Reports](https://www.nature.com/srep/) (€2290) (also has the [registered reports](https://estherplomp.github.io/TNW-OS-support/posts/open-science-registered-reports/) format)
 
 What if your research doesn't fit any of the above journals? Try [B!SON](https://service.tib.eu/bison/) to find a suitable Open Access journal for your publication!
 
