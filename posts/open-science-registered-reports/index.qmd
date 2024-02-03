@@ -1,7 +1,7 @@
 ---
 title: "Registered Reports"
 author: "Esther Plomp"
-date: "2022-09-04"
+date: "2024-02-03"
 categories: [Reproducibility, Open Science]
 image: "registered-reports.jpg"
 ---
@@ -12,23 +12,31 @@ After approved by the reviewers, the results will be published as long as the st
 
 There are 2 main options: submit to a single journal that offers Registered Reports or to the supra-journal platform [Peer Community In Registered Reports](https://rr.peercommunityin.org/) (PCI RR). For the former option, refer to the [current list of journals that offer Registered Reports](https://www.cos.io/initiatives/registered-reports).
 
--   [PLOS ONE](https://journals.plos.org/plosone/s/other-article-types)
+-   [Discover Chemical Engineering](https://www.springer.com/journal/43938/submission-guidelines#Instructions%20for%20Authors_Registered%20Reports)
+
+-   [Discover Water](https://www.springer.com/journal/43832/submission-guidelines#Instructions%20for%20Authors_Registered%20Reports)
+
+-   [Cancers](https://www.mdpi.com/journal/cancers/instructions#reports)
+
+-   [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics#article-types)
+
+-   [JMIR Biomedical Engineering](http://www.researchprotocols.org/)
+
+-   [Nature](https://www.nature.com/articles/d41586-023-00506-2)
 
 -   [Nature Communications](https://www.nature.com/articles/s41467-020-17294-2)
 
 -   [Nature Human Behaviour](https://www.nature.com/uploads/ckeditor/attachments/4825/RegisteredReportsGuidelines_NatureHumanBehaviour.pdf)
 
--   [Scientific Reports](https://www.nature.com/srep/journal-policies/registered-reports)
-
--   [Discover Chemical Engineering](https://www.springer.com/journal/43938/submission-guidelines#Instructions%20for%20Authors_Registered%20Reports)
-
--   [Discover Water](https://www.springer.com/journal/43832/submission-guidelines#Instructions%20for%20Authors_Registered%20Reports)
+-   [NeuroImage Reports](https://www.sciencedirect.com/journal/neuroimage-reports)
 
 -   [PeerJ Materials Science](https://peerj.com/about/author-instructions/chemistry)
 
--   [JMIR Biomedical Engineering](http://www.researchprotocols.org/)
+-   [PLOS ONE](https://journals.plos.org/plosone/s/other-article-types)
 
 -   [Open Research Europe](https://openreseurope.s3.amazonaws.com/resources/ORE-Registered-Report-Guidelines-STM.pdf)
+
+-   [Scientific Reports](https://www.nature.com/srep/journal-policies/registered-reports)
 
 ## More Information
 
