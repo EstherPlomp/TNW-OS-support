@@ -10,7 +10,55 @@
 <atom:link href="https://EstherPlomp.github.io/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.549</generator>
-<lastBuildDate>Fri, 02 Feb 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Feb 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Registered Reports</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-registered-reports/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>A registered report is an article format where the study proposal is peer-reviewed before the research is undertaken.</p>
+<p>After approved by the reviewers, the results will be published as long as the study proposal is followed and deviations are clearly indicated. This article format facilitates the publication of negative results and reduces time wasted on irrelevant study proposals.</p>
+<p>There are 2 main options: submit to a single journal that offers Registered Reports or to the supra-journal platform <a href="https://rr.peercommunityin.org/">Peer Community In Registered Reports</a> (PCI RR). For the former option, refer to the <a href="https://www.cos.io/initiatives/registered-reports">current list of journals that offer Registered Reports</a>.</p>
+<ul>
+<li><p><a href="https://www.springer.com/journal/43938/submission-guidelines#Instructions%20for%20Authors_Registered%20Reports">Discover Chemical Engineering</a></p></li>
+<li><p><a href="https://www.springer.com/journal/43832/submission-guidelines#Instructions%20for%20Authors_Registered%20Reports">Discover Water</a></p></li>
+<li><p><a href="https://www.mdpi.com/journal/cancers/instructions#reports">Cancers</a></p></li>
+<li><p><a href="https://www.frontiersin.org/journals/genetics#article-types">Frontiers in Genetics</a></p></li>
+<li><p><a href="http://www.researchprotocols.org/">JMIR Biomedical Engineering</a></p></li>
+<li><p><a href="https://www.nature.com/articles/d41586-023-00506-2">Nature</a></p></li>
+<li><p><a href="https://www.nature.com/articles/s41467-020-17294-2">Nature Communications</a></p></li>
+<li><p><a href="https://www.nature.com/uploads/ckeditor/attachments/4825/RegisteredReportsGuidelines_NatureHumanBehaviour.pdf">Nature Human Behaviour</a></p></li>
+<li><p><a href="https://www.sciencedirect.com/journal/neuroimage-reports">NeuroImage Reports</a></p></li>
+<li><p><a href="https://peerj.com/about/author-instructions/chemistry">PeerJ Materials Science</a></p></li>
+<li><p><a href="https://journals.plos.org/plosone/s/other-article-types">PLOS ONE</a></p></li>
+<li><p><a href="https://openreseurope.s3.amazonaws.com/resources/ORE-Registered-Report-Guidelines-STM.pdf">Open Research Europe</a></p></li>
+<li><p><a href="https://www.nature.com/srep/journal-policies/registered-reports">Scientific Reports</a></p></li>
+</ul>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More Information</h2>
+<ul>
+<li><p>See the <a href="https://www.cos.io/initiatives/registered-reports">Open Science Framework</a> for more information and resources on Registered Reports.</p></li>
+<li><p>See the <a href="https://www.surrey.ac.uk/library/open-research/preregistration-and-registered-reports">University of Surrey Open Research website</a> for more information about preregistration and registered reports.</p></li>
+<li><p><a href="https://doi.org/10.1371/journal.pcbi.1010571">Ten simple rules for writing a Registered Report</a></p></li>
+<li><p><a href="https://zpid.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a46ac804-8d46-470d-87b5-afef009bc7a2">Chris Chambers: Registered Reports and the future of open science in psychology</a> (conference presentation, 50 min)</p></li>
+<li><p><a href="https://www.zotero.org/groups/osf/items/collectionKey/KEJP68G9">Zotero group with registered reports</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Reproducibility</category>
+  <category>Open Science</category>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-registered-reports/</guid>
+  <pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-registered-reports/registered-reports.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Gold Open Access Journals</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -1299,46 +1347,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-excel/</guid>
   <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
   <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-excel/excel.png" medium="image" type="image/png" height="134" width="144"/>
-</item>
-<item>
-  <title>Zotero</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-zotero/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="https://www.zotero.org/">Zotero</a> is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</p>
-<section id="integration-with-other-plugins-and-tools" class="level2">
-<h2 class="anchored" data-anchor-id="integration-with-other-plugins-and-tools">Integration with other plugins and tools</h2>
-<ul>
-<li><p>You can use NotionHQ and the Notero plugin to organise papers in a database and store detailes notes (see an <a href="https://dust-bovid-04d.notion.site/ba1bc5022a4d469abd2ea559e80bc56b?v=a953e6bf2a3449e9ab3083154ce2b238">example template</a>).</p></li>
-<li><p><a href="http://zotfile.com/">ZotFile</a> is a Zotero plugin to manage your attachments.</p></li>
-<li><p>You can import BibTex files from Zotero in your <a href="https://orcid.org/">ORCID profile</a> (an ORCID is a persistent identifier for researchers, where you can manage your research outputs yourself):</p>
-<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-zotero/images/image-170768552.png" class="img-fluid" alt="Screenshot of the ORCID webpage where you can add works via the Import BibTex option" width="454"></p></li>
-</ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
-<ul>
-<li><a href="https://www.zotero.org/support/kb/mendeley_import">How do I import a Mendeley library into Zotero?</a>
-<ul>
-<li>Ensure that you tell Mendeley desktop to sync attached files for your *entire* library <strong>before</strong> importing to Zotero. You can do this by clicking the “Edit Settings” button by “All Documents” in the main desktop window, and clicking “Synchronize attached files”.</li>
-</ul></li>
-<li><a href="https://www.zotero.org/support/word_processor_plugin_installation">Installing the Zotero Word Processor Plugins</a></li>
-<li><a href="https://calc.hypotheses.org/5692">How to Organize Literature and Notes in Zotero</a></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Tools</category>
-  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-zotero/</guid>
-  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-zotero/zotero.png" medium="image" type="image/png" height="63" width="144"/>
 </item>
 </channel>
 </rss>

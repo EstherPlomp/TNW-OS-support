@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/open-science-registered-reports/index.html",
       "/posts/Open-access-TNW/index.html",
       "/posts/open-science-open-methods/index.html",
       "/posts/software-management-plan/index.html",
@@ -76,7 +77,6 @@
       "/posts/data-sharing-2021/index.html",
       "/posts/open-science-buffet/index.html",
       "/posts/data-citation/index.html",
-      "/posts/open-science-registered-reports/index.html",
       "/posts/DCC/index.html",
       "/posts/reproducibility-qualitative/index.html",
       "/posts/data-documentation/index.html",
