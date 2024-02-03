@@ -20,6 +20,8 @@ DORA recommends:
 
 TU Delft signed DORA via the [Association of Universities in the Netherlands](https://www.universiteitenvannederland.nl/en_GB/). You can also [sign the declaration](https://sfdora.org/sign/) as an individual.
 
+DORA has launched [Reformscape](https://sfdora.org/reformscape/): a searchable collection of criteria and standards for hiring, review, promotion, and tenure from academic institutions.
+
 ## **More information**
 
 -   [CRediT](https://estherplomp.github.io/TNW-OS-support/posts/credit/)
