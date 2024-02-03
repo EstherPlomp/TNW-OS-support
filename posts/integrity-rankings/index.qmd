@@ -26,6 +26,8 @@ From [Key considerations for the use of rankings by higher education institution
 
 -   Global university rankings, ..can **dissuade institutions from promoting the use of a broader set of evaluation practices** for academic careers, including Open Science, social outreach, innovation, and knowledge transfer, and from deploying a wider definition of impact beyond traditional bibliometric indicators. What is more, institutions may even be constrained to limit their engagement to activities that can be summed up using simple quantitative indicators.
 
+Launched in 2024, [the Leiden Ranking Open Edition is the first fully transparent university ranking](https://www.leidenmadtrics.nl/articles/introducing-the-leiden-ranking-open-edition).
+
 ## **More information**
 
 -   [Presentation by Elizabeth Gadd for EUA 2023 on University Rankings](https://www.youtube.com/watch?v=QaF6gI4ijC0)
