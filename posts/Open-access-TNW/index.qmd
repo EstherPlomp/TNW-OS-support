@@ -66,13 +66,20 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 
 -   [Water Research X](https://www.sciencedirect.com/journal/water-research-x)
 
-## Open Access charges that can be covered with [TU Delft Open Access Fund](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding) (up to € 2.350)
+## Open Access charges that can be covered with [TU Delft Open Access Fund](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding) (up to €2.350)
+
+-   [EJNMMI Radiopharmacy and Chemistry](https://ejnmmipharmchem.springeropen.com/) (€1890)
 
 -   [eLife](https://elifesciences.org/) (\$2000)
 
 -   [Materials Advances](https://www.rsc.org/journals-books-databases/about-journals/materials-advances/) (£2000)
 
 -   [RSC Advances](https://www.rsc.org/journals-books-databases/about-journals/rsc-advances/) (£1250)
+
+```{=html}
+<!-- -->
+```
+-   [Scientific Reports](https://www.nature.com/srep/) (€2290) (also has the [registered reports](https://estherplomp.github.io/TNW-OS-support/posts/open-science-registered-reports/) format)
 
 ## Open Access charges that can be covered in NWO/EU Commission projects
 
@@ -81,8 +88,6 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 -   [Communications Biology](https://www.nature.com/commsbio/) (€3290)
 
 -   [Communications Physics](https://www.nature.com/commsphys/) (€3190)
-
--   [EJNMMI Radiopharmacy and Chemistry](https://ejnmmipharmchem.springeropen.com/) (€1890)
 
 -   [mBio](https://journals.asm.org/journal/mbio) (\$3900)
 
@@ -99,8 +104,6 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 -   [Physical Review X](https://journals.aps.org/prx/) (\$4415)
 
 -   [Science Advances](https://www.science.org/journal/sciadv) (\$4950)
-
--   [Scientific Reports](https://www.nature.com/srep/) (€2290) (also has the [registered reports](https://estherplomp.github.io/TNW-OS-support/posts/open-science-registered-reports/) format)
 
 What if your research doesn't fit any of the above journals? Try [B!SON](https://service.tib.eu/bison/) to find a suitable Open Access journal for your publication!
 
