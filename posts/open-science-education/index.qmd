@@ -6,6 +6,10 @@ categories: [Open Science, Open Education]
 image: "open-review.jpg"
 ---
 
+## Why?
+
+[Students may avoid paying for textbooks at expense of academic success](https://www.psu.edu/news/university-libraries/story/students-may-avoid-paying-textbooks-expense-academic-success/)
+
 ## Examples
 
 [Free Energy project, an open educational resource textbook for Physical Chemistry I & II!](https://pchem.digital.uic.edu/)
