@@ -6,7 +6,7 @@ categories: [Open Data]
 image: "open-data-fountain.jpg"
 ---
 
-Where and how to share data?
+Where and how to share data? See also the [How to share data/code underlying the thesis](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how-PhD/) post?
 
 ## Data not available upon request
 
@@ -82,8 +82,7 @@ As a TU Delft researcher you can always make use of 4TU.ResearchData. See the [4
 
 -   **External resources:** link to other datasets, code repositories and publications.
 
--   **Review files for errors** such as missing data, misnamed files/variables, incorrectly formatted values, and corrupted
-    files (you can use tools such as [OpenRefine](https://openrefine.org/) or [Frictionless](https://framework.frictionlessdata.io/))
+-   **Review files for errors** such as missing data, misnamed files/variables, incorrectly formatted values, and corrupted files (you can use tools such as [OpenRefine](https://openrefine.org/) or [Frictionless](https://framework.frictionlessdata.io/))
 
 ## How 2#: Use standard or open file formats
 
@@ -127,9 +126,7 @@ Not all data can be publicly shared via data repositories. See [what data should
 
 -   Information related to national security and export control regulations.
 
-[![](https://www.wur.nl/upload_mm/3/5/7/2ea09888-4bd0-4d5d-bb3b-841e11c709c9_DataSharingGuidelines.JPG){alt=""}](https://www.wur.nl/en/value-creation-cooperation/collaborating-with-wur-1/wdcc/research-data-management-wdcc/finishing/research-data-sharing-and-guidelines.htm)
-
-## How 5#: Organise your files and provide documentation.
+## How 5#: Organise your files and provide documentation
 
 Use a clear folder structure and [file naming convention](https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/#file-naming-convention) to share the data/code. You can document your data via a [README file](https://estherplomp.github.io/TNW-OS-support/posts/readme/index.html).
 
