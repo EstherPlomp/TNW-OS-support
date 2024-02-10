@@ -1,0 +1,32 @@
+---
+title: "Supervisor checklist for sharing PhD outputs"
+author: "Esther Plomp, TUD Data Stewards"
+date: "2024-02-09"
+categories: [Open Data, Open Software, PhD]
+image: "open-data-fountain.jpg"
+---
+
+This is a short checklist for supervisors of PhD projects that need to share the research outputs related to the PhD dissertation.
+
+In accordance with the [TU Delft Research Data Framework Policy](https://filelist.tudelft.nl/Library/Themaportalen/RDM/researchdata-framework-policy.pdf), **all PhD candidates are required to share their research data and code underlying their dissertations before graduating**, unless there are valid reasons not to do so or they started their PhD project before 2019. 
+
+The PhD team should check whether the data and code has been shared before signing [Form B](https://intranet.tudelft.nl/-/graduate-school-forms?p_l_back_url=%2Fsearch%3Fq%3Dgraduate%2Bschool%2Bforms).
+
+Tips on how to share the data/code:
+
+-   Check the Data Management Plan for the plans on where the data should be shared. Data should be shared via data repositories such as [4TU.ResearchData](https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/), [Zenodo](https://zenodo.org/) or [discipline specific data repositories](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how/#where-discipline-specific-repository).
+
+    -   Check posts on [what data to share](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/), [how to share data and code](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how-PhD/)
+
+    -   Not all data and code can be shared: Check [examples](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667) and [advice](https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547686) about what to do in such cases
+
+-   If some of the data and code have already been shared, as there are already publications with underlying data/code shared, do you have a list of the DOIs of these datasets and software repositories?
+
+-   How will you share the data/code that is not shared yet? Is an embargo required?
+
+## More information
+
+-   [How to share data?](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how)
+-   [How to share data/code underlying the thesis?](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how-PhD/)
+-   [How to use 4TU.ResearchData](https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/)
+-   [Guidance for doctoral candidates completing their studies](https://www.tudelft.nl/en/library/research-data-management/r/publish/publish-research-data/publish-your-phd-data/guidance-for-doctoral-candidates-completing-their-studies)
