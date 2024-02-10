@@ -54,6 +54,23 @@ Main differences between the online platform and word templates:
 
 ### [**Horizon Europe**](https://surfdrive.surf.nl/files/index.php/s/I7g73eSwepD48a1)
 
+## Example DMP statement
+
+To ensure optimal reuse of the data, and in adherence to TU Delft and funder policies we have the following workflow:
+
+1.  **(internal) Temporary data storage**
+    -   This is data stored and recorded at computers in the laboratory or during model simulations. This is not a secure/backed up storage location, so all useful data needs to be moved to the shared storage spaces at the same day to prevent data loss! We do not remove the data from measurement devices, unless the storage space is too large (\>100 GB) or more space is required.
+2.  **(internal) Shared storage** *(see [storage solutions](https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/) for an overview of your options)*
+    -   Always keep a copy of the raw data before processing any data. The Project Drive is used to store raw data.
+    -   For cloud-based storage SURFdrive or OneDrive can be used. OneDrive is more accessible for students.
+    -   For additional back-ups the Project Drive can be used.
+3.  **(public) Published data**
+    -   Published data is publicly accessible data associated with publications. This data follows the [FAIR principles](https://estherplomp.github.io/TNW-OS-support/posts/FAIR/index.html) and is shared on a data repository which is accessible to externals.
+    -   We will use [4TU.ResearchData](https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/) and follow their recommendations for the README file.
+    -   Metadata: In the keywords, always include your project acronym.
+    -   File formats: The data will be stored in open format data where possible (.csv, .txt, ASCI or text-based) or to be opened with software that is common in the field (Excel).
+    -   [Licenses](https://estherplomp.github.io/TNW-OS-support/posts/licenses/index.htmlhttps://estherplomp.github.io/TNW-OS-support/posts/licenses/index.html): CC-BY for data and MIT for software (which places limited requirements upon reuse of the data, but does require attribution/citation)
+
 ## **More information**
 
 -   [The what, why and how of data management planning](https://www.youtube.com/watch?v=gYDb-GP1CA4) (5 min video)
