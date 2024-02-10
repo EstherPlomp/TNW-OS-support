@@ -3157,6 +3157,13 @@
     "text": "How to set up a DMP?\nYou can use the Word templates below, or the online platform, DMPonline, to fill out your Data Management Plan.\nMain differences between the online platform and word templates:\n\nThe online platform makes collaboration on templates easier as everyone will have access to the latest version\nWord templates keep the original format of the template, which looks nicer.\n\n\nNWO\n\n\nNWO Data Section (Proposal)\n\n\nZonMw Data Section (Proposal)\n\n\nERC\n\n\nHorizon Europe"
   },
   {
+    "objectID": "posts/DMP-templates/index.html#example-dmp-statement",
+    "href": "posts/DMP-templates/index.html#example-dmp-statement",
+    "title": "Data Management Plan templates and guidance",
+    "section": "Example DMP statement",
+    "text": "Example DMP statement\nTo ensure optimal reuse of the data, and in adherence to TU Delft and funder policies we have the following workflow:\n\n(internal) Temporary data storage\n\nThis is data stored and recorded at computers in the laboratory or during model simulations. This is not a secure/backed up storage location, so all useful data needs to be moved to the shared storage spaces at the same day to prevent data loss! We do not remove the data from measurement devices, unless the storage space is too large (&gt;100 GB) or more space is required.\n\n(internal) Shared storage (see storage solutions for an overview of your options)\n\nAlways keep a copy of the raw data before processing any data. The Project Drive is used to store raw data.\nFor cloud-based storage SURFdrive or OneDrive can be used. OneDrive is more accessible for students.\nFor additional back-ups the Project Drive can be used.\n\n(public) Published data\n\nPublished data is publicly accessible data associated with publications. This data follows the FAIR principles and is shared on a data repository which is accessible to externals.\nWe will use 4TU.ResearchData and follow their recommendations for the README file.\nMetadata: In the keywords, always include your project acronym.\nFile formats: The data will be stored in open format data where possible (.csv, .txt, ASCI or text-based) or to be opened with software that is common in the field (Excel).\nLicenses: CC-BY for data and MIT for software (which places limited requirements upon reuse of the data, but does require attribution/citation)"
+  },
+  {
     "objectID": "posts/DMP-templates/index.html#more-information",
     "href": "posts/DMP-templates/index.html#more-information",
     "title": "Data Management Plan templates and guidance",
