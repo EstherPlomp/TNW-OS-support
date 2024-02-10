@@ -10,13 +10,31 @@ Overview of Available Data Storage Solutions **during the project's duration** a
 
 Please see [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609) for an overview of all the storage solutions available to you. Below follow some more details for each storage solution.
 
+## Storage strategy during the project
+
+Recommended storage solutions for research data are:
+
+**Cloud based:**
+
+-   OneDrive
+
+-   SURFdrive
+
+    These two solutions are personal storage solutions. Ensure that others have access to the data by sharing folders or using a shared project drive!
+
+**Network drive:**
+
+-   Project Drive
+
+    The Project Drive is the most secure solution and intended for long term storage.
+
 ## TU Delft network drives
 
 |                                 | Personal Drive (H:)                            | Staff Group Drive (M:)                          | Staff Group Drive (N:)            | Project Drive (U:)                                         |
-|-----------------|-----------------|-----------------|------------------|-------------------|
+|---------------|---------------|---------------|---------------|---------------|
 | Purpose                         | Private work files only (sharing not possible) | Data shared within research group or department | Temporary location for large data | Data from individual projects, shared with project members |
 | Suitable for confidential data? | Yes                                            | No                                              | No                                | Yes                                                        |
-| Size                            | 8 GB                                           | \> 5TB                                          |                                   | \> 5TB                                                     |
+| Size                            | 8 GB                                           | \> 5TB                                          | \> 5TB                            | \> 5TB                                                     |
 | Backed up?                      | Yes                                            | Yes                                             | **NO**                            | Yes                                                        |
 
 ## Project Drive
