@@ -10,7 +10,50 @@
 <atom:link href="https://EstherPlomp.github.io/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.549</generator>
-<lastBuildDate>Sat, 03 Feb 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Supervisor checklist for sharing PhD outputs</title>
+  <dc:creator>Esther Plomp, TUD Data Stewards</dc:creator>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-how-PhD-supervisor/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a short checklist for supervisors of PhD projects that need to share the research outputs related to the PhD dissertation.</p>
+<p>In accordance with the <a href="https://filelist.tudelft.nl/Library/Themaportalen/RDM/researchdata-framework-policy.pdf">TU Delft Research Data Framework Policy</a>, <strong>all PhD candidates are required to share their research data and code underlying their dissertations before graduating</strong>, unless there are valid reasons not to do so or they started their PhD project before 2019.&nbsp;</p>
+<p>The PhD team should check whether the data and code has been shared before signing <a href="https://intranet.tudelft.nl/-/graduate-school-forms?p_l_back_url=%2Fsearch%3Fq%3Dgraduate%2Bschool%2Bforms">Form B</a>.</p>
+<p>Tips on how to share the data/code:</p>
+<ul>
+<li><p>Check the Data Management Plan for the plans on where the data should be shared. Data should be shared via data repositories such as <a href="https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/">4TU.ResearchData</a>, <a href="https://zenodo.org/">Zenodo</a> or <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how/#where-discipline-specific-repository">discipline specific data repositories</a>.</p>
+<ul>
+<li><p>Check posts on <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/">what data to share</a>, <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how-PhD/">how to share data and code</a></p></li>
+<li><p>Not all data and code can be shared: Check <a href="https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547667">examples</a> and <a href="https://www.tudelft.nl/en/library/research-data-management/r/buttons/faqs#c547686">advice</a> about what to do in such cases</p></li>
+</ul></li>
+<li><p>If some of the data and code have already been shared, as there are already publications with underlying data/code shared, do you have a list of the DOIs of these datasets and software repositories?</p></li>
+<li><p>How will you share the data/code that is not shared yet? Is an embargo required?</p></li>
+</ul>
+<section id="more-information" class="level2">
+<h2 class="anchored" data-anchor-id="more-information">More information</h2>
+<ul>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how">How to share data?</a></li>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how-PhD/">How to share data/code underlying the thesis?</a></li>
+<li><a href="https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/">How to use 4TU.ResearchData</a></li>
+<li><a href="https://www.tudelft.nl/en/library/research-data-management/r/publish/publish-research-data/publish-your-phd-data/guidance-for-doctoral-candidates-completing-their-studies">Guidance for doctoral candidates completing their studies</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>Open Software</category>
+  <category>PhD</category>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-how-PhD-supervisor/</guid>
+  <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-how-PhD-supervisor/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Registered Reports</title>
   <dc:creator>Esther Plomp</dc:creator>
@@ -228,7 +271,7 @@
 
 
 
-<p>Where and how to share data?</p>
+<p>Where and how to share data? See also the <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how-PhD/">How to share data/code underlying the thesis</a> post?</p>
 <section id="data-not-available-upon-request" class="level2">
 <h2 class="anchored" data-anchor-id="data-not-available-upon-request">Data not available upon request</h2>
 <ul>
@@ -334,10 +377,9 @@
 <li><p>Commercially-confidential information (something you might want to patent, or data belonging to a third party)</p></li>
 <li><p>Information related to national security and export control regulations.</p></li>
 </ul>
-<p><a href="https://www.wur.nl/en/value-creation-cooperation/collaborating-with-wur-1/wdcc/research-data-management-wdcc/finishing/research-data-sharing-and-guidelines.htm"><img src="https://www.wur.nl/upload_mm/3/5/7/2ea09888-4bd0-4d5d-bb3b-841e11c709c9_DataSharingGuidelines.JPG" class="img-fluid" alt=""></a></p>
 </section>
-<section id="how-5-organise-your-files-and-provide-documentation." class="level2">
-<h2 class="anchored" data-anchor-id="how-5-organise-your-files-and-provide-documentation.">How 5#: Organise your files and provide documentation.</h2>
+<section id="how-5-organise-your-files-and-provide-documentation" class="level2">
+<h2 class="anchored" data-anchor-id="how-5-organise-your-files-and-provide-documentation">How 5#: Organise your files and provide documentation</h2>
 <p>Use a clear folder structure and <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/#file-naming-convention">file naming convention</a> to share the data/code. You can document your data via a <a href="https://estherplomp.github.io/TNW-OS-support/posts/readme/index.html">README file</a>.</p>
 </section>
 <section id="tu-delft-requirements" class="level2">
@@ -1298,59 +1340,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/integrity-inclusive-meetings/</guid>
   <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
   <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/integrity-inclusive-meetings/inclusive.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Excel functionalities</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-excel/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This post highlights several Excel functionalities:</p>
-<p><a href="https://support.microsoft.com/en-gb/office/use-sparklines-to-show-data-trends-1474e169-008c-4783-926b-5c60e620f5ca">Sparklines</a> allow you to insert miniature graphs inside an individual cell to easily visualize data.</p>
-<ul>
-<li><p>Select range</p></li>
-<li><p>Insert ⇢ Sparkline</p></li>
-<li><p>Choose type</p></li>
-</ul>
-<p>The <a href="https://www.howtogeek.com/732854/how-to-create-and-customize-a-people-graph-in-microsoft-excel/">People Graph add-on</a> allows you to create an infographic with pictures of humans (great for survey data!).</p>
-<p><a href="https://support.microsoft.com/en-au/office/video-create-and-manage-drop-down-lists-28db87b6-725f-49d7-9b29-ab4bc56cefc2">Create drop down lists</a> to ensure <strong>correct data entry.</strong></p>
-<p><a href="https://support.microsoft.com/en-us/office/using-flash-fill-in-excel-3f9bcf1e-db93-4890-94a0-1578341f73f7">Flash Fill</a> <strong>automatically fills your data when it senses a pattern</strong> (example: separate first and last names from a single column).</p>
-<p><a href="https://support.microsoft.com/en-au/office/consolidate-data-in-multiple-worksheets-007ce8f4-2fae-4fea-9ee5-a0b2c9e36d9b">Consolidate data from multiple tabs</a>. If you create links to the source data the consolidation tab will update automatically!</p>
-<p><a href="https://support.microsoft.com/en-au/office/highlight-patterns-and-trends-with-conditional-formatting-eea152f5-2a7d-4c1a-a2da-c5f893adb621">Highlight patterns with conditional formatting.</a> You can add data bars, heat maps to <strong>highlight trends.</strong></p>
-<p>Use <a href="https://support.microsoft.com/en-au/office/use-the-format-painter-4bb415a9-d4e4-42b7-b579-170adc594e40">Format Painter</a>&nbsp;to <strong>quickly apply the same formatting</strong> (color, font style, size) to multiple pieces of text or graphics</p>
-<ul>
-<li><p>Select the cells you’d like to copy</p></li>
-<li><p>Click the paintbrush</p></li>
-<li><p>Select where you want the formatting to go.</p></li>
-</ul>
-<p><a href="https://answers.microsoft.com/en-us/msoffice/forum/all/how-to-use-camera-function-in-microsoft-excel/44a97349-f694-4bd3-a5ca-e4097f6e9437">Camera Snapshot</a> allows you to <strong>select data and link it as a picture</strong>. When you update the workbook, the data in the picture will also update!</p>
-<p>Insert -&gt; <strong>table</strong> allows extra functionalities for tables.</p>
-<p>For example, <a href="https://support.microsoft.com/en-gb/office/use-slicers-to-filter-data-249f966b-a9d5-4b0f-b31a-12651785d29d">Slicer</a> allows you to filter data:</p>
-<ul>
-<li><p>Click anywhere inside a table</p></li>
-<li><p>Go to table ⇢ insert slicer</p></li>
-<li><p>Select the fields you want</p></li>
-<li><p>A dialog box will appear: Click any slicer button to filter the data</p></li>
-</ul>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/data-spreadsheets/">Spreadsheets</a></p></li>
-<li><p><a href="https://careerfoundry.com/en/blog/data-analytics/data-analysis-in-excel/">10 Essential Excel Features For Data Analysts (and How to Use Them)</a></p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Tools</category>
-  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/tools-excel/</guid>
-  <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/tools-excel/excel.png" medium="image" type="image/png" height="134" width="144"/>
 </item>
 </channel>
 </rss>
