@@ -62,6 +62,8 @@ This post contains general information about the data repository [4TU.ResearchDa
 
     You can either upload directories separately or decide to use an archive file (open formats are: .zip .tar, .tgz, or tar.bz2 - See [Jackson 2018](https://doi.org/10.5281/zenodo.1327327)b)
 
+    -   You can also use [Python script](https://data.4tu.nl/private_datasets/hPEHgrDLiDAuKI2zA-v1r30S9_6QZhtBucfvgoX8Kqo) to upload a folder which preserves the folder structure
+
 6.  Submit the upload for review
 
     When the upload is ready to be published, you can submit it for review by selecting the 'SUBMIT FOR REVIEW' button on the top of the upload:![](images/image-1203219886.png)
