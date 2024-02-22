@@ -76,8 +76,6 @@ Gold Open Access here means that there are **no articles behind a paywall** (whe
 
 -   [RSC Advances](https://www.rsc.org/journals-books-databases/about-journals/rsc-advances/) (£1250)
 
-<!-- -->
-
 -   [Scientific Reports](https://www.nature.com/srep/) (€2290) (also has the [registered reports](https://estherplomp.github.io/TNW-OS-support/posts/open-science-registered-reports/) format)
 
 ## Open Access charges that can be covered in NWO/EU Commission projects
