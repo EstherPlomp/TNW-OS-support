@@ -59,7 +59,7 @@ The Project Drive is the recommended storage solution for research data.
 
 ### Network Drives and Delft HPC
 
-Please see the [DelftBlue documentation](https://doc.dhpc.tudelft.nl/delftblue/Data-transfer-to-DelftBlue/#network-drives) on the storage of data-transfer recommendations from the HPC clusters.
+Please see the [DelftBlue documentation](https://doc.dhpc.tudelft.nl/delftblue/Data-transfer-to-DelftBlue/#network-drives) on the storage of data-transfer recommendations from the HPC clusters. See also the [Delft AI Cluster](https://daic.tudelft.nl/).
 
 ## [SURFdrive](http://surfdrive.surf.nl/)
 
