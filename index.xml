@@ -10,7 +10,72 @@
 <atom:link href="https://EstherPlomp.github.io/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.550</generator>
-<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Feb 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>OneDrive sharing</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-Onedrive/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="sharing-data-with-onedrive" class="level2">
+<h2 class="anchored" data-anchor-id="sharing-data-with-onedrive">Sharing Data with OneDrive</h2>
+<p>You can share data with OneDrive by right clicking on a file and selecting ‘share’.</p>
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-Onedrive/1-share.jpg" class="img-fluid"></p>
+<p>You can share your file with selected people, or create a link to share it within TU Delft:</p>
+</section>
+<section id="share-with-certain-people" class="level2">
+<h2 class="anchored" data-anchor-id="share-with-certain-people">Share with certain people</h2>
+<ol type="1">
+<li>Type the name in the box and select the person you want to share the file with:</li>
+</ol>
+<ul>
+<li><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-Onedrive/1-share-people.jpg" class="img-fluid"></li>
+</ul>
+<p>You can edit their permissions by selecting the eye button on the right:</p>
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-Onedrive/1-share-people-options.jpg" class="img-fluid" alt="OneDrive share window where the access options are available: can edit, can view, can't download."></p>
+<ol start="2" type="1">
+<li>You can write an optional message, or directly select the ‘Invite’ button to provide access to the file.</li>
+</ol>
+</section>
+<section id="share-via-a-link" class="level2">
+<h2 class="anchored" data-anchor-id="share-via-a-link">Share via a link</h2>
+<p>To create a link which you can share with TU Delft people (without having to specify exactly who they are), you need to:</p>
+<ol type="1">
+<li><p>select the link options:</p>
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-Onedrive/2-share-link.jpg" class="img-fluid" alt="OneDrive sharing window with the link settings selected"></p></li>
+<li><p>Select the second option:</p></li>
+</ol>
+<ul>
+<li><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-Onedrive/2-share-link-tud.jpg" class="img-fluid"></li>
+</ul>
+<ol start="3" type="1">
+<li>Select what they can do with the file by selecting the options below marked with the eye:</li>
+</ol>
+<ul>
+<li><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-Onedrive/2-share-link-tud-options.jpg" class="img-fluid"></li>
+</ul>
+<ol start="4" type="1">
+<li><p>Click ‘Apply’</p></li>
+<li><p>Click ‘Copy link’:</p>
+<ul>
+<li><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-Onedrive/images/clipboard-2077865343.png" class="img-fluid"></li>
+</ul></li>
+<li><p>Share the link with people that you want to share the file with.</p></li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>Storage</category>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-Onedrive/</guid>
+  <pubDate>Sat, 24 Feb 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-Onedrive/OneDrive.png" medium="image" type="image/png" height="90" width="144"/>
+</item>
 <item>
   <title>Supervisor checklist for sharing PhD outputs</title>
   <dc:creator>Esther Plomp, TUD Data Stewards</dc:creator>
@@ -1305,44 +1370,6 @@ Final presentations and graduation call, where you have to present a 5 minute de
   <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-OLS/</guid>
   <pubDate>Sun, 04 Jun 2023 00:00:00 GMT</pubDate>
   <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-OLS/OS-TUD.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>How to organise inclusive meetings</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/integrity-inclusive-meetings/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>From the <a href="https://500womenscientists.org/inclusive-scientific-meetings">guide to organizing Inclusive Scientific Meetings: Where to Start</a></p>
-<ul>
-<li><p>Check implicit biases</p></li>
-<li><p>Whoever talks has the power</p></li>
-<li><p>Participation is not only about who is in the space, but also how they’re doing in the space</p></li>
-<li><p>Designing for universal access benefits everyone</p></li>
-<li><p>Make your diversity, equity, inclusion, justice and accessibility work transparent and share the workload equitably</p></li>
-<li><p>Demonstrating progress requires data</p></li>
-<li><p>Set and enforce clear expectations for appropriate behaviour and structures of accountability (for example, a code of conduct)</p></li>
-<li><p>Seek funding that reflects your values around equity and inclusion</p></li>
-</ul>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
-<ul>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1010164">Ten simple rules to host an inclusive conference</a></li>
-<li></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Science</category>
-  <category>Inclusion</category>
-  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/integrity-inclusive-meetings/</guid>
-  <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/integrity-inclusive-meetings/inclusive.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>
