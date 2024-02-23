@@ -87,6 +87,7 @@ open by default, and equitable by design - [Heather Joseph](https://council.scie
 ## Resources to improve inclusion
 
 -   Disrupting Racism and Global Exclusion in Academic Publishing: Recommendations and Resources for Authors, Reviewers, and Editors ([Ledgerwood et al. 2023](https://osf.io/preprints/psyarxiv/whc76))
+-   [A new tool for evaluating health equity in academic journals; the Diversity Factor](https://doi.org/10.1371/journal.pgph.0002252)
 
 ## More information
 
