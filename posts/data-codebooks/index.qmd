@@ -29,3 +29,5 @@ When using a spreadsheet as a codebook, the same formatting principles apply as 
 -   [Example template](https://osf.io/nerpa/)
 
 ## More information
+
+-   [Using a data dictionary as your roadmap to quality data](https://cghlewis.com/blog/data_dictionary/)
