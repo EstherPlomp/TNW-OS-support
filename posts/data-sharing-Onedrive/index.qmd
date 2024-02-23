@@ -1,0 +1,51 @@
+---
+title: "OneDrive sharing"
+author: "Esther Plomp"
+date: "2024-02-24"
+categories: [Storage]
+image: "OneDrive.png"
+---
+
+## Sharing Data with OneDrive
+
+You can share data with OneDrive by right clicking on a file and selecting 'share'.
+
+![](1-share.jpg)
+
+You can share your file with selected people, or create a link to share it within TU Delft:
+
+## Share with certain people
+
+1.  Type the name in the box and select the person you want to share the file with:
+
+-   ![](1-share-people.jpg)
+
+You can edit their permissions by selecting the eye button on the right:
+
+![](1-share-people-options.jpg){fig-alt="OneDrive share window where the access options are available: can edit, can view, can't download."}
+
+2.  You can write an optional message, or directly select the 'Invite' button to provide access to the file.
+
+## Share via a link
+
+To create a link which you can share with TU Delft people (without having to specify exactly who they are), you need to:
+
+1.  select the link options:
+
+    ![](2-share-link.jpg){fig-alt="OneDrive sharing window with the link settings selected"}
+
+2.  Select the second option:
+
+-   ![](2-share-link-tud.jpg)
+
+3.  Select what they can do with the file by selecting the options below marked with the eye:
+
+-   ![](2-share-link-tud-options.jpg)
+
+4.  Click 'Apply'
+
+5.  Click 'Copy link':
+
+    -   ![](images/clipboard-2077865343.png)
+
+6.  Share the link with people that you want to share the file with.
