@@ -30,7 +30,7 @@ You can edit their permissions by selecting the eye button on the right:
 
 To create a link which you can share with TU Delft people (without having to specify exactly who they are), you need to:
 
-1.  select the link options:
+1.  Select the link options:
 
     ![](2-share-link.jpg){fig-alt="OneDrive sharing window with the link settings selected"}
 
@@ -46,6 +46,6 @@ To create a link which you can share with TU Delft people (without having to spe
 
 5.  Click 'Copy link':
 
-    -   ![](images/clipboard-2077865343.png)
+    -   ![](2-share-link-tud-copy.jpg)
 
 6.  Share the link with people that you want to share the file with.
