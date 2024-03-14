@@ -10,7 +10,7 @@ image: "DMP.png"
 
 As part of the Go/No-Go of a PhD a Data Management Plan is required (PhDs that started after 1st of January 2020).
 
-To help you check the Data Management Plan, this posts describes five things to consider. This post is based on the [guidance note on reviewing Data Management Plans](https://www.tudelft.nl/en/library/research-data-management/r/plan/data-management-plans).
+To help you check the Data Management Plan, this posts describes five things to consider ([original source](https://www.creeert.net/tudelft/knowledge-base/5-things-to-check-when-reviewing-data-management-plans/)):
 
 ## 1. Was a Data Steward consulted?
 
