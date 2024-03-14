@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -287,6 +287,16 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://cen.acs.org/careers/diversity/Podcast-Black-chemists-discuss-strategies/98/web/2020/09">Ep 33: On being #BlackInChem</a></li>
 </ul>
 </section>
+<section id="bjks-podcast" class="level2">
+<h2 class="anchored" data-anchor-id="bjks-podcast">BJKS podcast</h2>
+<ul>
+<li><a href="https://open.spotify.com/episode/0uRYAQR1ewyDUusilqqFVV?si=b633ffc9e13e4dca">Simine Vazire: Scientific editing, the purpose of journals, and the future of psychological science</a></li>
+<li><a href="https://open.spotify.com/episode/0QN0OvIxAs9snS0SHdpJF4?si=9bb0757d06004419">Moin Syed: Glorious PNAS, editing a journal, and masterful procastination</a></li>
+<li><a href="https://open.spotify.com/episode/25NbGrF5xeHrelVSm0NUZA?si=d9c09e9f6da747f3">Tom Hostler: Open Science, workload and academic capitalism</a></li>
+<li><a href="https://open.spotify.com/episode/7GAeUMcW31fn2Ej444J6gF?si=930d7020bccb4796">Adeyemi Adetula: ManyLabs Africa, psychology should generalise from Africa, and multicultural collaborations</a></li>
+<li><a href="https://open.spotify.com/episode/1mZkNNeM0a5bBQYAjDk3ZR?si=ae23eb5066434998">Jessica Polka: Preprints, publishing peer reviews, and the joys of pipetting</a></li>
+</ul>
+</section>
 <section id="open-science-bites-thanks-to-agata-bochynska" class="level2">
 <h2 class="anchored" data-anchor-id="open-science-bites-thanks-to-agata-bochynska"><a href="https://www.rug.nl/research/openscience/podcast/?lang=en">Open Science Bites</a> (thanks to <a href="https://fediscience.org/@agata">Agata Bochynska</a>!)</h2>
 <p><a href="https://podcastnotes.org/radiolab/the-library-of-alexandra-alexandra-elbakyan-on-radiolab-with-lulu-miller-latif-nasser/">The Library of Alexandra | Alexandra Elbakyan</a> on Radiolab with Lulu Miller &amp; Latif Nasser (thanks to <a href="https://scicomm.xyz/@dylanwre">Dylan Roskams-Edris</a>!)</p>
@@ -374,6 +384,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/EstherPlomp\.github\.io\/TNW-OS-support\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -408,7 +436,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
