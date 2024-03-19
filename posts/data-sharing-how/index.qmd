@@ -146,6 +146,8 @@ Whether you use a discipline specific repository or a generalist one, it is impo
 
 ## More information
 
+-   [Publishing/Archiving Data & Code](https://zenodo.org/doi/10.5281/zenodo.7674962) (slides by TU Delft Data Stewards)
+
 -   [Generalist Repository Comparison Chart](https://doi.org/10.5281/zenodo.3946720) and/or [A Comparative Review of Various Data Repositories](https://dataverse.org/blog/comparative-review-various-data-repositories)
 
 -   [CODATA webinar on sharing your data with your publication](https://codata.org/initiatives/strategic-programme/codata-connect/webinar-series-research-skills/webinar-2-writing-an-article-with-excellent-supporting-data/)
