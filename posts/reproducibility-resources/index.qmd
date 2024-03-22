@@ -36,6 +36,8 @@ image: "reproducibility.jpg"
 
 -   [Where is a superconductor located at room temperature?](https://www.taylordailypress.net/where-is-a-superconductor-located-at-room-temperature/)
 
+-   [Superconductivity scandal: the inside story of deception in a rising star’s physics lab](https://www.nature.com/articles/d41586-024-00716-2)
+
 ## More information
 
 -   [Reproducibility checklist](https://estherplomp.github.io/TNW-OS-support/posts/reproducibility-checklist/)
