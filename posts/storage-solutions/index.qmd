@@ -97,7 +97,7 @@ See the [OneDrive manual](https://d2k0ddhflgrk1i.cloudfront.net/Studentenportal/
 
 ## TU Delft GitLab
 
-[TU Delft GitLab](https://gitlab.tudelft.nl) is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable. TU Delft GitLab is **primarily meant for confidential code/data** that cannot be publicly shared. You can create up to 50 repositories/projects. GitLab also allows you to create subgroups to manage your repositories.
+[TU Delft GitLab](https://gitlab.tudelft.nl) is a version control system for code with backup facility. Access to external collaborators, as well as public code sharing, can be provided but if you expect multiple external collaborators GitHub may be more suitable (however, please see [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)). TU Delft GitLab is **primarily meant for confidential code/data** that cannot be publicly shared. You can create up to 50 repositories/projects. GitLab also allows you to create subgroups to manage your repositories.
 
 Access to a GitLab repository for externals can be requested through [TopDesk](https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=888da653ddc04d01b2d5db413fc99a42) (Topdesk \> Software and Authorisations \> IT for Researchers \> GitLab TU Delft \> Request GitLab).
 
