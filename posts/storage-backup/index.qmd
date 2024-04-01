@@ -46,6 +46,8 @@ When working with regular research data (no personal/confidential data) you can 
 
 -   How and when will you test your backup system?
 
+-   Are your back-up systems managed by the same service? (What if TU Delft get's hacked - do you still have access to all the research data?)
+
 ## More information
 
 -   [The Turing Way on backups](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html#backups)
