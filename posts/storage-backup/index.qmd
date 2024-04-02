@@ -48,6 +48,12 @@ When working with regular research data (no personal/confidential data) you can 
 
 -   Are your back-up systems managed by the same service? (What if TU Delft get's hacked - do you still have access to all the research data?)
 
+## Tools that support back-up pracices
+
+-   Windows/Mac: [TeraCopy](https://www.codesector.com/teracopy)
+
+-   Linux: [Rclone](https://rclone.org) / [Rsync](https://linux.die.net/man/1/rsync) (rsync -avuh --info=progress2 /from/this/folder /to/here/)
+
 ## More information
 
 -   [The Turing Way on backups](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html#backups)
