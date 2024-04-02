@@ -9,7 +9,7 @@
 <link>https://EstherPlomp.github.io/TNW-OS-support/</link>
 <atom:link href="https://EstherPlomp.github.io/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.551</generator>
+<generator>quarto-1.4.552</generator>
 <lastBuildDate>Sat, 24 Feb 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>OneDrive sharing</title>
@@ -462,6 +462,7 @@
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
+<li><p><a href="https://zenodo.org/doi/10.5281/zenodo.7674962">Publishing/Archiving Data &amp; Code</a> (slides by TU Delft Data Stewards)</p></li>
 <li><p><a href="https://doi.org/10.5281/zenodo.3946720">Generalist Repository Comparison Chart</a> and/or <a href="https://dataverse.org/blog/comparative-review-various-data-repositories">A Comparative Review of Various Data Repositories</a></p></li>
 <li><p><a href="https://codata.org/initiatives/strategic-programme/codata-connect/webinar-series-research-skills/webinar-2-writing-an-article-with-excellent-supporting-data/">CODATA webinar on sharing your data with your publication</a></p></li>
 <li><p><a href="https://www.youtube.com/watch?v=yj2r8RayIX8">Zenodo webinar</a></p></li>
