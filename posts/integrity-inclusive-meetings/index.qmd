@@ -24,6 +24,12 @@ From the [guide to organizing Inclusive Scientific Meetings: Where to Start](htt
 
 -   Seek funding that reflects your values around equity and inclusion
 
+## Hybrid
+
+-   [Hybrid Experience at CHI 2024](https://chi2024.acm.org/2023/11/09/hybrid-experience-at-chi-2024/)
+
+-   [Attending Conferences and Workshops Remotely via Telepresence Robots](https://medium.com/@carman_neustaedter/attending-conferences-and-workshops-remotely-via-telepresence-robots-b66b7f4f0a41)
+
 ## More information
 
 -   [Ten simple rules to host an inclusive conference](https://doi.org/10.1371/journal.pcbi.1010164)
