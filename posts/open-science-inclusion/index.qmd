@@ -101,5 +101,6 @@ open by default, and equitable by design - [Heather Joseph](https://council.scie
 -   [Diversity, Equity and Inclusion (DEI) metrics: Breaking barriers in Open Source](https://opensource.net/dei-open-source-metrics/)
 -   [GitLab Hiring initiatives](https://handbook.gitlab.com/handbook/company/culture/inclusion/talent-acquisition-initiatives/#hiring-initiatives)
 -   [An SPSP-Sponsored Video Conversation on the Importance of Inclusive Citing](https://www.youtube.com/watch?v=hK11TJVac8Q)
+-   [Being non-WEIRD in WEIRD Academia](https://www.bps.org.uk/psychologist/being-non-weird-weird-academia)
 
 https://osc.universityofcalifornia.edu/scholarly-publishing/diversity-equity-and-inclusion-in-scholarly-communication/authorship/
