@@ -93,3 +93,5 @@ This post is based on an earlier [blogpost](https://openworking.wordpress.com/20
 -   [TU Delft: Research Data Management](https://www.tudelft.nl/library/research-data-management)
 
 -   [TU Delft & Faculty policies (data/software)](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/)
+
+-   [OpenAIRE 5th Horizon Europe Open Science requirements in practice](https://www.youtube.com/watch?v=rQUZc7qvOa0)
