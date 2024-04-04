@@ -12,6 +12,8 @@ Git workflow:
 
 30 min video: [First steps with git: installation, setting up a repository and first commands](https://www.youtube.com/watch?v=Y4VwIEVfZsY)
 
+20 min video: [Git for Humans – Alice Bartlett at UX Brighton 2016](https://www.youtube.com/watch?v=eWxxfttcMts)
+
 ## More information
 
 -   [The Turing Way: Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
