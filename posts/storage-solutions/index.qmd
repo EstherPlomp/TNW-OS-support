@@ -111,7 +111,7 @@ TU Delft provides version control systems for data with backup facility. Access 
 
 Subversion repository can be requested through TopDesk (Topdesk \> Software and Authorisations \> IT for Researchers \> Version Control Tools \> Report to Service Desk)
 
-An alternative (non-TU Delft) solution is [Datalad](https://www.datalad.org/).
+Alternative (non-TU Delft) solutions are [Datalad](https://www.datalad.org/), [DVC](https://dvc.org/), [lakeFS](https://lakefs.io/), [git-LFS](https://git-lfs.com/).
 
 ## Electronic Lab Notebooks
 
