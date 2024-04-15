@@ -38,7 +38,7 @@ The [**FEM/UM Citation Guide**](https://urldefense.com/v3/__https:/athenasangels
 
 ### Race
 
--   Peer reviewers discriminate based on author race ([Nakamura et al. 2021](https://doi.org/10.7554/%20eLife.71368))
+-   Peer reviewers discriminate based on author race ([Nakamura et al. 2021](https://doi.org/10.7554/eLife.71368))
 -   Non-White scientists appear on fewer editorial boards, spend more time under review, and receive fewer citations ([Liu et al. 2023](https://doi.org/10.1073/pnas.2215324120))
 -   Black women in particular are affected by citation erasure ([Smith 2021](https://doi.org/10.14506/ca37.2.05))
 
@@ -103,5 +103,6 @@ open by default, and equitable by design - [Heather Joseph](https://council.scie
 -   [An SPSP-Sponsored Video Conversation on the Importance of Inclusive Citing](https://www.youtube.com/watch?v=hK11TJVac8Q)
 -   [Being non-WEIRD in WEIRD Academia](https://www.bps.org.uk/psychologist/being-non-weird-weird-academia)
 -   [Many Diversity, Equity, and Inclusion strategies and plans fail](https://www.practicaldiversity.org/2024/03/30/many-diversity-equity-and-inclusion-strategies-and-plans-fail/)
+-   [A quick guide to data collection for LGBTQ+ characteristics](https://doi.org/10.6084/m9.figshare.24633756.v1)
 
 https://osc.universityofcalifornia.edu/scholarly-publishing/diversity-equity-and-inclusion-in-scholarly-communication/authorship/
