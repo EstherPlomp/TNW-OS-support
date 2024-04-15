@@ -473,14 +473,14 @@
     "href": "posts/data-sharing-why/index.html",
     "title": "Why share data?",
     "section": "",
-    "text": "Prevent data loss/unfindable files\nCan you still use data when people leave?\nRecognition for all research outputs\nIncreased citations (Colavizza et al. 2020; Christensen et al. 2019; Piwowar et al. 2007; Piwowar and Vision 2013, Leitner et al. 2016)\nCollaboration\nIncreases quality of scientific practice by increasing reproducibility and transparency of research\nCost/time efficient\nPrevents retractions\nReduces duplication efforts and facilitates data reuse (Martin et al. 2022)\nProvides resources for training and education\nMeeting institutional/funder/industrial requirements\n\nThe Coronavirus crisis is one of several global challenges which has highlighted the critical importance of making research data rapidly available for re-use, as well as curated to common standards (UNESCO).\n\n\n\n\n\n\n\nA Turing Way illustration of reasons why we should care about working reproducibly."
+    "text": "Prevent data loss/unfindable files\nCan you still use data when people leave?\nRecognition for all research outputs\nIncreased citations (Colavizza et al. 2020; Christensen et al. 2019; Piwowar et al. 2007; Piwowar and Vision 2013, Leitner et al. 2016)\nCollaboration\nIncreases quality of scientific practice by increasing reproducibility and transparency of research\nCost/time efficient (see Cost of not having FAIR research data)\nPrevents retractions\nReduces duplication efforts and facilitates data reuse (Martin et al. 2022)\nProvides resources for training and education\nMeeting institutional/funder/industrial requirements\n\nThe Coronavirus crisis is one of several global challenges which has highlighted the critical importance of making research data rapidly available for re-use, as well as curated to common standards (UNESCO).\n\n\n\n\n\n\n\nA Turing Way illustration of reasons why we should care about working reproducibly."
   },
   {
     "objectID": "posts/data-sharing-why/index.html#why-share-data",
     "href": "posts/data-sharing-why/index.html#why-share-data",
     "title": "Why share data?",
     "section": "",
-    "text": "Prevent data loss/unfindable files\nCan you still use data when people leave?\nRecognition for all research outputs\nIncreased citations (Colavizza et al. 2020; Christensen et al. 2019; Piwowar et al. 2007; Piwowar and Vision 2013, Leitner et al. 2016)\nCollaboration\nIncreases quality of scientific practice by increasing reproducibility and transparency of research\nCost/time efficient\nPrevents retractions\nReduces duplication efforts and facilitates data reuse (Martin et al. 2022)\nProvides resources for training and education\nMeeting institutional/funder/industrial requirements\n\nThe Coronavirus crisis is one of several global challenges which has highlighted the critical importance of making research data rapidly available for re-use, as well as curated to common standards (UNESCO).\n\n\n\n\n\n\n\nA Turing Way illustration of reasons why we should care about working reproducibly."
+    "text": "Prevent data loss/unfindable files\nCan you still use data when people leave?\nRecognition for all research outputs\nIncreased citations (Colavizza et al. 2020; Christensen et al. 2019; Piwowar et al. 2007; Piwowar and Vision 2013, Leitner et al. 2016)\nCollaboration\nIncreases quality of scientific practice by increasing reproducibility and transparency of research\nCost/time efficient (see Cost of not having FAIR research data)\nPrevents retractions\nReduces duplication efforts and facilitates data reuse (Martin et al. 2022)\nProvides resources for training and education\nMeeting institutional/funder/industrial requirements\n\nThe Coronavirus crisis is one of several global challenges which has highlighted the critical importance of making research data rapidly available for re-use, as well as curated to common standards (UNESCO).\n\n\n\n\n\n\n\nA Turing Way illustration of reasons why we should care about working reproducibly."
   },
   {
     "objectID": "posts/data-sharing-why/index.html#example-majorana-retraction",
@@ -1348,7 +1348,7 @@
     "href": "posts/storage-solutions/index.html#subversion-at-tu-delft",
     "title": "Storage Solutions",
     "section": "Subversion at TU Delft",
-    "text": "Subversion at TU Delft\nTU Delft provides version control systems for data with backup facility. Access can be controlled by the repository owner.\nSubversion repository can be requested through TopDesk (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; Version Control Tools &gt; Report to Service Desk)\nAn alternative (non-TU Delft) solution is Datalad."
+    "text": "Subversion at TU Delft\nTU Delft provides version control systems for data with backup facility. Access can be controlled by the repository owner.\nSubversion repository can be requested through TopDesk (Topdesk &gt; Software and Authorisations &gt; IT for Researchers &gt; Version Control Tools &gt; Report to Service Desk)\nAlternative (non-TU Delft) solutions are Datalad, DVC, lakeFS, git-LFS."
   },
   {
     "objectID": "posts/storage-solutions/index.html#electronic-lab-notebooks",
@@ -1600,7 +1600,7 @@
     "href": "posts/open-science-inclusion/index.html#more-information",
     "title": "Open Science & Inclusion",
     "section": "More information",
-    "text": "More information\n\nLabor advantages drive the greater productivity of faculty at elite universities\nList of references regarding diversity, biases, and inclusivity studies and opinion pieces\nSystemic racism in science: Reactions matter\nMultilingual Data Science: Ten Tips to Translate Science and Tech Content\nOpen Grant Reviewers - Strategies to mitigate bias for grant reviewers\nWhy Diverse Teams Outperform Homogeneous Teams\n\nhttps://knowledgeequitynetwork.org/\nDiversity, Equity and Inclusion (DEI) metrics: Breaking barriers in Open Source\nGitLab Hiring initiatives\nAn SPSP-Sponsored Video Conversation on the Importance of Inclusive Citing\nBeing non-WEIRD in WEIRD Academia\n\nhttps://osc.universityofcalifornia.edu/scholarly-publishing/diversity-equity-and-inclusion-in-scholarly-communication/authorship/"
+    "text": "More information\n\nLabor advantages drive the greater productivity of faculty at elite universities\nList of references regarding diversity, biases, and inclusivity studies and opinion pieces\nSystemic racism in science: Reactions matter\nMultilingual Data Science: Ten Tips to Translate Science and Tech Content\nOpen Grant Reviewers - Strategies to mitigate bias for grant reviewers\nWhy Diverse Teams Outperform Homogeneous Teams\n\nhttps://knowledgeequitynetwork.org/\nDiversity, Equity and Inclusion (DEI) metrics: Breaking barriers in Open Source\nGitLab Hiring initiatives\nAn SPSP-Sponsored Video Conversation on the Importance of Inclusive Citing\nBeing non-WEIRD in WEIRD Academia\nMany Diversity, Equity, and Inclusion strategies and plans fail\nA quick guide to data collection for LGBTQ+ characteristics\n\nhttps://osc.universityofcalifornia.edu/scholarly-publishing/diversity-equity-and-inclusion-in-scholarly-communication/authorship/"
   },
   {
     "objectID": "posts/open-science-innovation/index.html",
@@ -2657,7 +2657,7 @@
     "href": "posts/integrity-peerreview/index.html#more-information",
     "title": "Peer review flaws",
     "section": "More information",
-    "text": "More information\n\nASAPbio resources on preprint review\nList of references regarding diversity, biases, and inclusivity studies and opinion pieces\nThe rise and fall of peer review\nA tragedy of errors\nPNAS is Not a Good Journal"
+    "text": "More information\n\nASAPbio resources on preprint review\nList of references regarding diversity, biases, and inclusivity studies and opinion pieces\nThe rise and fall of peer review\nA tragedy of errors\nPNAS is Not a Good Journal\nThe “Peer Review Crisis” and How to Solve It"
   },
   {
     "objectID": "posts/data-sharing-article/index.html",
@@ -2734,7 +2734,7 @@
     "href": "posts/data-metadata/index.html#more-information",
     "title": "Metadata",
     "section": "More information",
-    "text": "More information\n\nIntroduction to Metadata and Metadata Standards by ESIP"
+    "text": "More information\n\nIntroduction to Metadata and Metadata Standards by ESIP\nWhy is Metadata Important for Research? (2 min video)"
   },
   {
     "objectID": "posts/data-sharing-solutions/index.html",
@@ -3140,14 +3140,14 @@
     "href": "posts/data-TNW/index.html",
     "title": "Metadata standards and repositories for Applied Sciences/TNW",
     "section": "",
-    "text": "ISA-Tab\nMIBBI (Minimum Information for Biological and Biomedical Investigations)\nNeXus\nOME-XML (Open Microscopy Environment XML)\nPDBx/mmCIF (Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework)\nCIF (Crystallographic Information Framework)\nQuDEx (Qualitative Data Exchange Format)\nSDMX (Statistical Data and Metadata Exchange)\nThe Synthetic Biology Open Language (SBOL) & SBOL Visual\nSTRENDA"
+    "text": "ISA-Tab\nMIBBI (Minimum Information for Biological and Biomedical Investigations)\nNeXus\nOME-XML (Open Microscopy Environment XML)\nPDBx/mmCIF (Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework)\nCIF (Crystallographic Information Framework)\nQuDEx (Qualitative Data Exchange Format)\nSDMX (Statistical Data and Metadata Exchange)\nThe Synthetic Biology Open Language (SBOL) & SBOL Visual\nSTRENDA\nCroissant"
   },
   {
     "objectID": "posts/data-TNW/index.html#relevant-metadata-standards",
     "href": "posts/data-TNW/index.html#relevant-metadata-standards",
     "title": "Metadata standards and repositories for Applied Sciences/TNW",
     "section": "",
-    "text": "ISA-Tab\nMIBBI (Minimum Information for Biological and Biomedical Investigations)\nNeXus\nOME-XML (Open Microscopy Environment XML)\nPDBx/mmCIF (Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework)\nCIF (Crystallographic Information Framework)\nQuDEx (Qualitative Data Exchange Format)\nSDMX (Statistical Data and Metadata Exchange)\nThe Synthetic Biology Open Language (SBOL) & SBOL Visual\nSTRENDA"
+    "text": "ISA-Tab\nMIBBI (Minimum Information for Biological and Biomedical Investigations)\nNeXus\nOME-XML (Open Microscopy Environment XML)\nPDBx/mmCIF (Protein Data Bank Exchange Dictionary and the Macromolecular Crystallographic Information Framework)\nCIF (Crystallographic Information Framework)\nQuDEx (Qualitative Data Exchange Format)\nSDMX (Statistical Data and Metadata Exchange)\nThe Synthetic Biology Open Language (SBOL) & SBOL Visual\nSTRENDA\nCroissant"
   },
   {
     "objectID": "posts/data-TNW/index.html#potentially-relevant-metadata-standards",
