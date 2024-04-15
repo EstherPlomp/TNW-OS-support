@@ -20,7 +20,7 @@ image: "open-data-fountain.jpg"
 
 -   Increases quality of scientific practice by increasing reproducibility and transparency of research
 
--   Cost/time efficient
+-   Cost/time efficient (see [Cost of not having FAIR research data](https://publications.europa.eu/resource/cellar/d375368c-1a0a-11e9-8d04-01aa75ed71a1.0001.01/DOC_1))
 
 -   Prevents retractions
 
