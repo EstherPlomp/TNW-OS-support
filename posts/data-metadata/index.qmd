@@ -20,3 +20,4 @@ See the [video made by TU Delft library on documentation and metadata](https://t
 ## More information
 
 -   [Introduction to Metadata and Metadata Standards by ESIP](https://commons.esipfed.org/node/1422)
+-   [Why is Metadata Important for Research?](https://www.youtube.com/watch?v=Qz_0QDdT6R4) (2 min video)
