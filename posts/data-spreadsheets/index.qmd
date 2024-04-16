@@ -88,6 +88,8 @@ Comma- or Tab-Separated Value (CSV/TSV) formats are not only best for preservati
 
 -   [OpenRefine](https://openrefine.org/)
 
+-   [WhatTheDuck](https://github.com/incentius-foss/WhatTheDuck) (allows users to upload CSV files, store them in tables, and perform SQL queries on the data)
+
 ## More information
 
 -   [Data Organisation in Spreadsheets](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-spreadsheets.html)
