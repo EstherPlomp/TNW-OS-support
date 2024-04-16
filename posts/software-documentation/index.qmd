@@ -56,4 +56,6 @@ examples:
 
 -   [Code documentation lesson by Code Refinery](https://coderefinery.github.io/documentation/)
 -   [Writing Reusable and Modular Code](https://uf-repro.github.io/writing-reusable-code/slides.html#1)
+-   [beginner's guide on writing documentation for research software ](https://dev.to/sunnysingh/writing-code-for-your-future-self-3da2)
 -   [HERMES](https://project.software-metadata.pub/)
+-   [Coding and Comment Style](https://mitcommlab.mit.edu/broad/commkit/coding-and-comment-style/)
