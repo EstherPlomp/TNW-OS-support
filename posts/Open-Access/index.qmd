@@ -42,6 +42,8 @@ https://www.wosonhj.com/
 
 [CC-BY-NC, and CC-BY-NC-ND + signing over exclusive rights to publishers](https://www.authorsalliance.org/2023/06/05/read-your-open-access-publishing-agreements-or-how-you-might-accidentally-give-elsevier-or-wiley-the-exclusive-right-to-profit-from-your-oa-article/)
 
+<https://beta.sherpa.ac.uk/>
+
 ## More information
 
 -   [How to make your own work open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access)
