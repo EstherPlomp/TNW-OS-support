@@ -1097,6 +1097,63 @@ Note
   <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/data-managing-students/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>README files</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/readme/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="how-to-set-up-your-readme-file" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your README file</h2>
+<p>A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally shared together with an open dataset, or can be the landing page of your software repository.</p>
+<p>README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why README files are important and how you can set up your own README files.</p>
+</section>
+<section id="readme-for-data" class="level2">
+<h2 class="anchored" data-anchor-id="readme-for-data">README for data</h2>
+<p>Best practices</p>
+<ul>
+<li><p>Create one README file for each dataset</p></li>
+<li><p>Name the file README</p></li>
+<li><p>Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.</p></li>
+</ul>
+<p>Example templates for data:</p>
+<ul>
+<li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
+<li><p><a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf)</p></li>
+</ul>
+</section>
+<section id="readme-for-software" class="level2">
+<h2 class="anchored" data-anchor-id="readme-for-software">README for software</h2>
+<p>See this <a href="https://www.youtube.com/watch?v=Jgv34Kwgga8&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=7">short presentation by Carlos Martinez</a> about the importance of README files for software.</p>
+<p>Example templates for software:</p>
+<ul>
+<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
+<li><p><a href="https://ha0ye.github.io/CW21-README-tips/template_README.html" class="uri">https://ha0ye.github.io/CW21-README-tips/template_README.html</a></p></li>
+<li><p><a href="https://github.com/manuGil/fair-code" class="uri">https://github.com/manuGil/fair-code</a></p></li>
+<li><p>More templates</p>
+<ul>
+<li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
+<li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
+<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
+<li><p><a href="https://github.com/matthiasott/README-template" class="uri">https://github.com/matthiasott/README-template</a></p></li>
+</ul></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>Open Software</category>
+  <category>FAIR</category>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/readme/</guid>
+  <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
+</item>
+<item>
   <title>4TU.ResearchData</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/</link>
@@ -1194,63 +1251,6 @@ Note
   <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/</guid>
   <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
   <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/4TU-logo.png" medium="image" type="image/png" height="43" width="144"/>
-</item>
-<item>
-  <title>README files</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/readme/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="how-to-set-up-your-readme-file" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your README file</h2>
-<p>A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally shared together with an open dataset, or can be the landing page of your software repository.</p>
-<p>README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why README files are important and how you can set up your own README files.</p>
-</section>
-<section id="readme-for-data" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-data">README for data</h2>
-<p>Best practices</p>
-<ul>
-<li><p>Create one README file for each dataset</p></li>
-<li><p>Name the file README</p></li>
-<li><p>Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.</p></li>
-</ul>
-<p>Example templates for data:</p>
-<ul>
-<li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
-<li><p><a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf)</p></li>
-</ul>
-</section>
-<section id="readme-for-software" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-software">README for software</h2>
-<p>See this <a href="https://www.youtube.com/watch?v=Jgv34Kwgga8&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=7">short presentation by Carlos Martinez</a> about the importance of README files for software.</p>
-<p>Example templates for software:</p>
-<ul>
-<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
-<li><p><a href="https://ha0ye.github.io/CW21-README-tips/template_README.html" class="uri">https://ha0ye.github.io/CW21-README-tips/template_README.html</a></p></li>
-<li><p><a href="https://github.com/manuGil/fair-code" class="uri">https://github.com/manuGil/fair-code</a></p></li>
-<li><p>More templates</p>
-<ul>
-<li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
-<li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
-<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
-<li><p><a href="https://github.com/matthiasott/README-template" class="uri">https://github.com/matthiasott/README-template</a></p></li>
-</ul></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <category>Open Software</category>
-  <category>FAIR</category>
-  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/readme/</guid>
-  <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
   <title>Open Science Programme for PhD candidates of AS/TNW</title>
