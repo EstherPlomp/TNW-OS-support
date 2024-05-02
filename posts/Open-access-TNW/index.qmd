@@ -108,7 +108,7 @@ What if your research doesn't fit any of the above journals? Try [B!SON](https:/
 
 ## **More information**
 
--   [Journal Browser](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser)
+-   [Journal Browser](https://www.tudelft.nl/en/library/library-for-researchers/publishing-outreach/journal-browser)
 
 -   [Article Processing Charges](https://estherplomp.github.io/TNW-OS-support/posts/Open-access-APC/)
 
