@@ -76,3 +76,5 @@ To ensure optimal reuse of the data, and in adherence to TU Delft and funder pol
 -   [The what, why and how of data management planning](https://www.youtube.com/watch?v=gYDb-GP1CA4) (5 min video)
 
 -   [Using DMPonline](https://www.tudelft.nl/en/library/research-data-management/r/plan/dmponline/dmponline)
+
+-   [Open Science Team Agreements](https://zenodo.org/doi/10.5281/zenodo.7154100)
