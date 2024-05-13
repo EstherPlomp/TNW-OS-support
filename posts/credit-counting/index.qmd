@@ -57,3 +57,4 @@ Bibliometrics is both a commercial industry and a device for maintaining the sta
 -   [The second gap found by the UNESCO OS Outlook is that monitoring efforts have mainly focused on scientific outputs (primarily in scientific publications, and secondly on datasets, software and hardware), but much less on OS processes, outcomes or values.](https://www.leidenmadtrics.nl/articles/the-unesco-open-science-outlook-there-is-progress-in-os-but-it-is-unequal)
 -   [Quality is Key](https://openworking.wordpress.com/2021/09/01/quality-is-key/)
 -   [Careful what you measure](https://medium.com/equality-includes-you/the-short-term-metric-mirage-f7ab1bb6fca4)
+-   [Measuring Community Health](https://contributor-experience.org/docs/guide/tools/metrics.html)
