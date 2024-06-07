@@ -9,7 +9,7 @@
 <link>https://EstherPlomp.github.io/TNW-OS-support/</link>
 <atom:link href="https://EstherPlomp.github.io/TNW-OS-support/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.554</generator>
+<generator>quarto-1.4.555</generator>
 <lastBuildDate>Sat, 24 Feb 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>OneDrive sharing</title>
@@ -246,7 +246,7 @@
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information"><strong>More information</strong></h2>
 <ul>
-<li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser">Journal Browser</a></p></li>
+<li><p><a href="https://www.tudelft.nl/en/library/library-for-researchers/publishing-outreach/journal-browser">Journal Browser</a></p></li>
 <li><p><a href="https://estherplomp.github.io/TNW-OS-support/posts/Open-access-APC/">Article Processing Charges</a></p></li>
 <li><p><a href="https://zenodo.org/records/8272176">A Shortlist of Diamond Open Access Journals for the Faculty of Science at Utrecht University</a></p></li>
 </ul>
