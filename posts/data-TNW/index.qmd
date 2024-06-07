@@ -128,23 +128,57 @@ image: "open-data-fountain.jpg"
 
 ## Microscopy
 
--   [**IDR**](https://idr.openmicroscopy.org/)
+-   **Repositories**
 
--   [Electron Microscopy Data Bank (EMDB)](http://www.emdatabank.org/)
+    -   [**IDR**](https://idr.openmicroscopy.org/)
 
--   [**EMPIAR**](https://www.ebi.ac.uk/pdbe/emdb/empiar/)
+    -   [Electron Microscopy Data Bank (EMDB)](http://www.emdatabank.org/)
 
--   [Cell Image Library](http://www.cellimagelibrary.org/)
+    -   [**EMPIAR**](https://www.ebi.ac.uk/pdbe/emdb/empiar/)
 
--   [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/)
+    -   [Cell Image Library](http://www.cellimagelibrary.org/)
 
--   [REMBI: Recommended Metadata for Biological Images](https://doi.org/10.1038/s41592-021-01166-8)
+    -   [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/)
+
+-   Image formats
+
+    -   OME ([Swedlow et al. 2003](https://doi.org/10.1126/science.1082602))
+
+    -   Bio-Formats ([Li et al. 2016](https://doi.org/10.1016/j.ymeth.2015.10.006))
+
+-   Metadata
+
+    -   [REMBI: Recommended Metadata for Biological Images](https://doi.org/10.1038/s41592-021-01166-8)
+
+    -   light Microscopy Metadata Specifications ([Hammer et al. 2021](https://doi.org/10.1038/s41592-021-01327-9))
+
+    -   3D Microscopy Metadata Standards (3D-MMS) ([Ropelewski et al. 2021](https://doi.org/10.1038/s41597-022-01562-5))
+
+    -   Tools such as [Micro-Meta App](https://wu-bimac.github.io/MicroMetaApp.github.io/) & [MethodsJ2](https://github.com/ABIF-McGill/MethodsJ2)
 
 -   [Open blink project](https://grussmayerlab.github.io/open-blink/about/)
 
 -   [Confocal Microscopy Data: A Primer for Curators](https://github.com/DataCurationNetwork/data-primers/blob/master/Confocal%20Microscopy%20Images%20Data%20Curation%20Primer/confocal-microscopy-images-data-curation-primer.md)
 
 -   [Community-developed checklists for publishing images and image analyses](https://doi.org/10.1038/s41592-023-01987-9)
+
+-   Recording analysis steps with ImageJ/Fiji or [Galaxy Imaging](https://galaxyproject.org/use/imaging/)
+
+-   RDM platforms like: [OMERO](https://www.openmicroscopy.org/omero/), [Cytomine](https://cytomine.com/), [BISQUE](https://cyverse.org/bisque-image-analysis) and [XNAT](https://xnat.org)
+
+-   [QUAREP-LiMi: a community endeavor to advance quality assessment and reproducibility in light microscopy](https://doi.org/10.1038/s41592-021-01162-y)
+
+-   the Digital Imaging and Communications in Medicine [(DICOM) standard](https://www.dicomstandard.org/)
+
+## Genomics
+
+-   Minimum Information about Highly Multiplexed Tissue Imaging (MITI) standard that applies best practices developed for genomics and for other microscopy data to highly multiplexed tissue images and traditional histology. ([Schapiro et al. 2022](https://doi.org/10.1038/s41592-022-01415-4))
+
+-   MIAME standard for micro array data ([Brazma et al. 2001](https://doi.org/10.1038/ng1201-365))
+
+-   Minimum information about a genome sequence (MIGS) specification ([Field et al. 2008](https://doi.org/10.1038/nbt1360))
+
+-   Minimum reporting guidelines for biological and biomedical investigations: the MIBBI project ([Taylor et al. 2008](https://doi.org/10.1038/nbt.1411))
 
 ## Tools
 
