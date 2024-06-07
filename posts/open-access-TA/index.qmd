@@ -32,11 +32,9 @@ The same publishers who have traditionally lacked transparency have balked at pr
 
 ### Myth: Transformative agreements will lead to competitive pricing
 
-*"Competitive pricing* implies there is a market where publishers strategically price their product to vie for institutional spending.
-This, at a minimum, requires transparency of price and license terms. As Transformative Agreements are negotiated on an individual basis with widely varying structures, details are hard to obtain and difficult to compare.."\
+*"Competitive pricing* implies there is a market where publishers strategically price their product to vie for institutional spending. This, at a minimum, requires transparency of price and license terms. As Transformative Agreements are negotiated on an individual basis with widely varying structures, details are hard to obtain and difficult to compare.."\
 
-"Publishers continue to enter negotiations with a full understanding of their agreements, and institutions have only partial data to inform
-their negotiations."
+"Publishers continue to enter negotiations with a full understanding of their agreements, and institutions have only partial data to inform their negotiations."
 
 ### Myth: Transformative agreements better position libraries to negotiate
 
@@ -46,8 +44,7 @@ their negotiations."
 
 # Literature
 
-"UK Libraries’ decision not to pursue any \[Transformative Agreements\] from the large commercial publishers because t**hey are, at the present
-and in their current form, not worth it.**" <https://doi.org/10.5860/lrts.68n1.8211>
+"UK Libraries’ decision not to pursue any \[Transformative Agreements\] from the large commercial publishers because t**hey are, at the present and in their current form, not worth it.**" <https://doi.org/10.5860/lrts.68n1.8211>
 
 "On a national level we have seen an increase in the number of articles published in these agreements. It could be problematic if these journals are favoured compared to other journals that are not included in a TA. If a researcher has the choice of two equivalent journals it is likely that they will choose the one where the APC is already paid for. **We have noticed a shift in researchers’ questions from ‘which journal is the best for my article to get published in’ to ‘where could I publish my article without having to pay an APC?’**." <https://doi.org/10.1629/uksg.612>
 

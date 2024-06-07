@@ -32,6 +32,8 @@ You can share your preprint on a preprint server or repository even before you
 
 -   Accelerated speed of scientific discovery and prevention of duplication of research efforts
 
+![“[The benefits of preprints, an Infographic](https://asapbio.org/winners-of-the-preprint-communication-competition)” by Alexandra Tichy](images/The-benefits-of-preprints-an-infographic-scaled.jpeg)
+
 ## Where to share a preprint?
 
 -   Preprint servers such as [arXiv](https://arxiv.org/) (Physics) and [bioRxiv](https://www.biorxiv.org/) (Biology)

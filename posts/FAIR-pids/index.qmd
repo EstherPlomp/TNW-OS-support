@@ -1,0 +1,11 @@
+---
+title: "Persistent Identifiers"
+author: "Esther Plomp"
+date: "2022-09-03"
+categories: [FAIR]
+image: "fair-principles.png"
+---
+
+![](images/csm_open_science_circle_debe279d30.png)
+
+<https://projects.tib.eu/pid-service/en/persistent-identifiers/persistent-identifiers-pids>

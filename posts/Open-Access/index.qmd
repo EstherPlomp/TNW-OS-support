@@ -38,6 +38,12 @@ https://youtu.be/L5rVH1KGBCY
 
 ![](images/paste-C573648A.png)
 
+![](images/default.jpg)
+
+<https://zenodo.org/records/5706310/preview/commercial-infrastrcuture.jpg?include_deleted=0>
+
+![](images/open-access.jpg){fig-alt="An overview of the different open access options. Diamond is indicated with a diamond coloured open access logo (an open lock), explaining that this is published without charges. Green open access has a green open access logo and the text: self-archiving using repositories without charges. Gold open acces has a yellow/gold open access logo and says published with charges. Hybrid has two hungry dragons saying pay me, with the text published or read with charges. Bronze has a drawn pile of poop with the text published without clear reuse permission."}
+
 https://www.wosonhj.com/
 
 [CC-BY-NC, and CC-BY-NC-ND + signing over exclusive rights to publishers](https://www.authorsalliance.org/2023/06/05/read-your-open-access-publishing-agreements-or-how-you-might-accidentally-give-elsevier-or-wiley-the-exclusive-right-to-profit-from-your-oa-article/)
