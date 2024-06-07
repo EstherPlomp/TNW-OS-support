@@ -16,3 +16,4 @@ image: "dora.png"
 -   [Implementing new Recognition & Rewards through six new academic career profiles](https://www.youtube.com/watch?v=iRBCXUC3NDE)
 -   [spam email for a new service](https://fediscience.org/@ct_bergstrom/109704497476849753)
 -   [Why article-level metrics are better than JIF if you value talent over privilege](https://ideophone.org/why-article-level-metrics-are-better-than-jif-if-you-value-talent-over-privilege/)
+-   [The myth of value-free science\*](https://irisvanrooijcogsci.com/2024/03/03/the-myth-of-value-free-science/)
