@@ -28,6 +28,12 @@ Links to supplemental materials may also break, as demonstrated in the example b
 
 [![](images/image-1097387088.png){fig-alt="Screenshot of an article where they mention that there are supplemental materials available on a link that is broken."}](https://www.pnas.org/doi/suppl/10.1073/pnas.2203150119/-/DCSupplemental)
 
+::: callout-warning
+*There are many reasons not to use PDFs for sharing data, the chief of which is that data shared in PDFs is dead data that can be almost impossible to extract and reuse. PDF data is frequently found as supplementary information on journal websites, but journals often migrate platforms which can break URLs; this is evidenced by the almost 60% of PDF data that was not found in this analysis.*
+
+[Briney 2024](https://doi.org/10.1371/journal.pone.0304781)
+:::
+
 ## More information
 
 -   [The Push to Replace Journal Supplements with Repositories](https://www.the-scientist.com/news-opinion/the-push-to-replace-journal-supplements-with-repositories--66296)
