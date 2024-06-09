@@ -72,6 +72,8 @@ Several studies indicate that **data available upon request, is not actually ava
 
 -   "We received only one of ten raw data sets requested." [Savage and Vickers 2009](https://doi.org/10.1371/journal.pone.0007078)
 
+-   "less than one-third of the contacted authors sent us the requested data." [Dutra dos Reis et al. 2021](https://doi.org/10.1080/08989621.2021.1910029)
+
 -   " 73% of the authors did not share their data." [Wicherts et al. 2006](https://doi.org/10.1037/0003-066X.61.7.726)
 
 -   .." the odds of a data set being extant fell by 17% per year. In addition, the odds that we could find a working e-mail address for the first, last, or corresponding author fell by 7% per year." [Vines et al. 2014](http://dx.doi.org/10.1016/j.cub.2013.11.014)
