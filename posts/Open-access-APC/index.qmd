@@ -42,4 +42,4 @@ An alternative to APCs is publishing in venues that are open access but do not c
 
 -   [Financial and Other Perceived Barriers to Transitioning to an Equitable No-Publishing Fee Open Access Model: A Survey of LIS Journal Editors](https://crl.acrl.org/index.php/crl/article/view/26170/34106)
 
--   
+-   [Article Processing Charges Explorer](https://www.scholcommlab.ca/apc-explorer/)
