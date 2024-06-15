@@ -11,5 +11,6 @@ This website has been set up using [Quarto](https://quarto.org/).
 ## Other helpful Quarto resources:
 
 -   [A Quarto extension for a TU Delft theme](https://github.com/pat-alt/quarto-tudelft)
+-   [We don’t talk about quarto blog post](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
 
 ![](images/image-286585094.png)
