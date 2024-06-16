@@ -124,8 +124,6 @@ image: "open-data-fountain.jpg"
 
 -   [Minimum Information for Publication of Quantitative Real-Time PCR Experiments (MIQE)](https://rdml.org/miqe.html)
 
--   
-
 ## Microscopy
 
 -   **Repositories**
@@ -154,6 +152,8 @@ image: "open-data-fountain.jpg"
 
     -   3D Microscopy Metadata Standards (3D-MMS) ([Ropelewski et al. 2021](https://doi.org/10.1038/s41597-022-01562-5))
 
+    -   The Minimum Information for High Content Screening Microscopy Experiments (MIHCSME) is a metadata model and reusable tabular template for sharing and integrating high content imaging data. ([Hosseini et al. 2023](https://doi.org/10.1038/s41597-023-02367-w))
+
     -   Tools such as [Micro-Meta App](https://wu-bimac.github.io/MicroMetaApp.github.io/) & [MethodsJ2](https://github.com/ABIF-McGill/MethodsJ2)
 
 -   [Open blink project](https://grussmayerlab.github.io/open-blink/about/)
@@ -172,6 +172,8 @@ image: "open-data-fountain.jpg"
 
 ## Genomics
 
+-   GenBank, EMBL-Bank, DDBL (processed sequence data), Sequence Read Archive (raw sequencing data)
+
 -   Minimum Information about Highly Multiplexed Tissue Imaging (MITI) standard that applies best practices developed for genomics and for other microscopy data to highly multiplexed tissue images and traditional histology. ([Schapiro et al. 2022](https://doi.org/10.1038/s41592-022-01415-4))
 
 -   MIAME standard for micro array data ([Brazma et al. 2001](https://doi.org/10.1038/ng1201-365))
@@ -179,6 +181,18 @@ image: "open-data-fountain.jpg"
 -   Minimum information about a genome sequence (MIGS) specification ([Field et al. 2008](https://doi.org/10.1038/nbt1360))
 
 -   Minimum reporting guidelines for biological and biomedical investigations: the MIBBI project ([Taylor et al. 2008](https://doi.org/10.1038/nbt.1411))
+
+-   [Minimum Information Standards (MIxS)](https://doi.org/10.3897/tdwgproceedings.1.20423) established a community-based mechanism for sharing genomic data through a common framework
+
+-   [FAIR genomes](https://fairgenomes.org/) for the medical setting
+
+-   [MINSEQE](https://doi.org/10.5281/zenodo.5706412) describes the Minimum Information about a high-throughput nucleotide SEQuencing Experiment that is needed to enable the unambiguous interpretation and facilitate reproduction of the results of the experiment.
+
+-   [MinSCe](https://github.com/ebi-gene-expression-group/sc-metadata-fields) is a minimum set of single-cell metadata categories and a checklist of information that can be used to describe a single-cell assay in sufficient detail to enable the analysis of transcriptomic data
+
+-   Running projects such as: <https://www.ga4gh.org/product/experiments-metadata-standard/>
+
+-   <https://genomicsstandardsconsortium.github.io/mixs/>
 
 ## Tools
 
