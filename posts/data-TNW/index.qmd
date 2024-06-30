@@ -132,11 +132,13 @@ image: "open-data-fountain.jpg"
 
     -   [Electron Microscopy Data Bank (EMDB)](http://www.emdatabank.org/)
 
-    -   [**EMPIAR**](https://www.ebi.ac.uk/pdbe/emdb/empiar/)
+    -   [**EMPIAR**](https://www.ebi.ac.uk/pdbe/emdb/empiar/)(Cryo-EM/ET, 3D EM)
 
     -   [Cell Image Library](http://www.cellimagelibrary.org/)
 
-    -   [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/)
+    -   [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/) (2D EM, Light microscopy and other data)
+
+        -   Intro video on [EMPIAR and BioImage Archive](https://www.youtube.com/watch?v=nThPvr2gc3U)
 
 -   Image formats
 
