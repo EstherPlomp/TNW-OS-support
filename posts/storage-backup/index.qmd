@@ -24,7 +24,7 @@ Be careful with storing important data on external drives and flash memory devic
 
 ## Suggested Backup workflow
 
-When working with regular research data (no personal/confidential data) you can use either SURFdrive (1 TB) or OneDrive (1 TB) as an active storage solution, and then regularly back things up using the Project Drive. See the [Storage Solutions page](https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/) for more information about these solutions.
+When working with regular research data (no personal/confidential data) you can use either SURFdrive (1 TB) or OneDrive (1 TB) as an active storage solution, and then regularly back things up using the Project Data Storage. See the [Storage Solutions page](https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/) for more information about these solutions.
 
 ## Questions to consider for your backup strategy
 
@@ -58,7 +58,7 @@ When working with regular research data (no personal/confidential data) you can 
 
 -   [The Turing Way on backups](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-storage.html#backups)
 
--   [Project Drive Backup](https://estherplomp.github.io/TNW-OS-support/posts/storage-project-drive-backup/)
+-   [Project Data Storage Backup](https://estherplomp.github.io/TNW-OS-support/posts/storage-project-drive-backup/)
 
 -   [11 ways to avert a data-storage disaster](https://doi.org/10.1038/d41586-019-01040-w)
 
