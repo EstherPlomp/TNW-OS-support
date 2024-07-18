@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.557">
+<meta name="generator" content="quarto-1.5.54">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Esther Plomp">
 <meta name="dcterms.date" content="2022-08-28">
 
-<title>TNW-OS-support - Access Project Drive</title>
+<title>Access Project Data Storage – TNW-OS-support</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -85,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -110,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Access Project Drive</h1>
+      <h1 class="title">Access Project Data Storage</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">Storage</div>
               </div>
@@ -149,21 +149,20 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>This post describes how to access the Project Drive on your computer and how to access it outside of the TU Delft network.</p>
-<p>Please see the <a href="../../posts/storage-solutions-index.qmd">Storage Solution post</a> to learn how to request a Project Drive.</p>
-<section id="project-drive-location-on-your-computer" class="level2">
-<h2 class="anchored" data-anchor-id="project-drive-location-on-your-computer">Project Drive location on your computer</h2>
-<p>The Project Drive is on ‘This PC’, the same location as your home drive:</p>
+<p>This post describes how to access the Project Data Storage on your computer and how to access it outside of the TU Delft network.</p>
+<p>Please see the <a href="../../posts/storage-solutions-index.qmd">Storage Solution post</a> to learn how to request a Project Data Storage.</p>
+<section id="project-data-storage-location-on-your-computer" class="level2">
+<h2 class="anchored" data-anchor-id="project-data-storage-location-on-your-computer">Project Data Storage location on your computer</h2>
+<p>The Project Data Storage is on ‘This PC’, the same location as your home drive:</p>
 <p>U: or \\tudelft.net\staff-umbrella\ (Windows) or /tudelft.net/staff-umbrella/ (Linux servers) or sftp.tudelft.nl:/staff-umbrella/</p>
 <p><img src="images/paste-39E3CBB8.png" class="img-fluid"></p>
-<p>You can check the Project Drives that you have access to via webdrive: https://webdata.tudelft.nl/staff-umbrella/</p>
+<p>You can check the Project Data Storages that you have access to via webdrive: https://webdata.tudelft.nl/staff-umbrella/</p>
 </section>
-<section id="access-project-drive-outside-tu-delft" class="level2">
-<h2 class="anchored" data-anchor-id="access-project-drive-outside-tu-delft">Access Project Drive outside TU Delft</h2>
+<section id="access-project-data-storage-outside-tu-delft" class="level2">
+<h2 class="anchored" data-anchor-id="access-project-data-storage-outside-tu-delft">Access Project Data Storage outside TU Delft</h2>
 <p>Sign into <a href="https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=c8cdd52059fd4e9a8b7ca402572e3225">EduVPN</a>.</p>
 <p><strong>Windows</strong></p>
-<p>Install <a href="https://webdata.tudelft.nl/">WebDrive</a> and open it. Click on sftp.tudelft.nl. Click on staff-umbrella (this is the Project Drive).<br>
-External employees/students have to use FileZilla.</p>
+<p>Install <a href="https://webdata.tudelft.nl/">WebDrive</a> and open it. Click on sftp.tudelft.nl. Click on staff-umbrella (this is the Project Data Storage). External employees/students have to use FileZilla.</p>
 <p><strong>Mac</strong></p>
 <p>You can try to use WebDrive as described for Windows. If this does not work: In the Finder, type ⌘K or choose Go &gt; Connect to Server; enter server address(smb://tudelft.net/staff-umbrella/) and click ‘Connect’. (Add the address to your ‘Favorite Servers’ list to easily connect later)</p>
 <p>Alternatively, users can connect via sftp:</p>
@@ -223,18 +222,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -266,7 +254,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/EstherPlomp\.github\.io\/TNW-OS-support\/");
@@ -274,7 +284,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
