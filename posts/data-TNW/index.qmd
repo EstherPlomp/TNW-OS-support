@@ -196,7 +196,7 @@ image: "open-data-fountain.jpg"
 
 -   <https://genomicsstandardsconsortium.github.io/mixs/>
 
--   <https://ubinfie.github.io/2024/06/06/switch-to-bam.html>
+-   [From FASTQ to BAM](https://ubinfie.github.io/2024/06/06/switch-to-bam.html)
 
 ## Tools
 
