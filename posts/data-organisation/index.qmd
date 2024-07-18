@@ -16,6 +16,8 @@ Examples
 
 [Folder structure template for research repositories](https://doi.org/10.5281/zenodo.4410128)
 
+[Research Project Template](https://github.com/HeidiSeibold/research-project-template)
+
 Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don't belong or stored in large quantities in a single folder (which makes it hard to find the files).
 
 Make sure the folder structure is clear: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.
