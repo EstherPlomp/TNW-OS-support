@@ -48,7 +48,9 @@ If Ubuntu or CentOS installed by ICT:
 
 If Linux installed by user:
 
--   Terminal: `sftp netid@sftp.tudelft.nl` - `cd staff-umbrella/project`
+-   Terminal: `sshfs <NetID>@sftp.tudelft.nl: target_mount_point`
+
+    -   `OR: sftp netid@sftp.tudelft.nl` - `cd staff-umbrella` (mainly for file transfer instead of working)
 
 -   Filemanager: Other locations -\> Connect to server -\> sftp://sftp.tudelft.nl/staff-umbrella -\> project -\> Login when needed with your netid and password
 
