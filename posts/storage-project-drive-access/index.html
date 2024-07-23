@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.54">
+<meta name="generator" content="quarto-1.5.55">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Esther Plomp">
+<meta name="author" content="Esther Plomp, Lora Armstrong, Bjørn Bartholdy">
 <meta name="dcterms.date" content="2022-08-28">
 
 <title>Access Project Data Storage – TNW-OS-support</title>
@@ -123,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Esther Plomp </p>
+               <p>Esther Plomp, Lora Armstrong, Bjørn Bartholdy </p>
             </div>
     </div>
       
@@ -176,7 +176,10 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>If Linux installed by user:</p>
 <ul>
-<li><p>Terminal: <code>sftp netid@sftp.tudelft.nl</code> - <code>cd staff-umbrella/project</code></p></li>
+<li><p>Terminal: <code>sshfs &lt;NetID&gt;@sftp.tudelft.nl: target_mount_point</code></p>
+<ul>
+<li><code>OR: sftp netid@sftp.tudelft.nl</code> - <code>cd staff-umbrella</code> (mainly for file transfer instead of working)</li>
+</ul></li>
 <li><p>Filemanager: Other locations -&gt; Connect to server -&gt; sftp://sftp.tudelft.nl/staff-umbrella -&gt; project -&gt; Login when needed with your netid and password</p></li>
 </ul>
 <section id="section" class="level3">
