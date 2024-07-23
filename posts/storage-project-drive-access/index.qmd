@@ -1,6 +1,6 @@
 ---
 title: "Access Project Data Storage"
-author: "Esther Plomp"
+author: "Esther Plomp, Lora Armstrong, Bjørn Bartholdy"
 date: "2022-08-28"
 categories: [Storage]
 image: "data.jpg"
