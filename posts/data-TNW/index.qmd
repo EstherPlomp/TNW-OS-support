@@ -128,7 +128,7 @@ image: "open-data-fountain.jpg"
 
 -   **Repositories**
 
-    -   [**IDR**](https://idr.openmicroscopy.org/)
+    -   [**IDR**](https://idr.openmicroscopy.org/)(see [FAQ)](https://idr.openmicroscopy.org/about/faq/)
 
     -   [Electron Microscopy Data Bank (EMDB)](http://www.emdatabank.org/)
 
