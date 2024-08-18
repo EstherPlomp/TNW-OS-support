@@ -24,7 +24,7 @@ Spreadsheets are great for certain purposes, but there are some things you need 
 
 -   It is not always machine readable. Software cannot process information that relies on context, notes in the margin, spatial layout or field formatting (bold/italics/colours)
 
--   Excel tries to convert everything into a date. [Even human genes](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates). (Watch a short talk on '[Spreadsheet Problems In Genomic Research](https://www.youtube.com/watch?v=nrbkYm1P9xQ)' for more fun!)
+-   Excel tries to convert everything into a date. [Even human genes](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates). (Watch a short talk on '[Spreadsheet Problems In Genomic Research](https://www.youtube.com/watch?v=nrbkYm1P9xQ)' for more fun, or [read the paper](https://doi.org/10.1371/journal.pcbi.1008984)!)
 
 [![](images/ayMQeKM_700bwp.webp){fig-alt="Anakin/Padme meme: Padme is asking Anakin (which has the excel logo on his face): 'so if I type 12.5 into a cell you won't treat it as a date, right?'" width="523"}](https://9gag.com/gag/ayMQeKM)
 
@@ -105,3 +105,5 @@ Comma- or Tab-Separated Value (CSV/TSV) formats are not only best for preservati
 -   [Spreadsheet Problems In Genomic Research (Presentation by Mandhri Abeysooriya](https://www.youtube.com/watch?v=nrbkYm1P9xQ)).
 
 -   [Extracting tables from pdf files with tabulizer](https://blog.djnavarro.net/posts/2023-06-16_tabulizer/)
+
+-   [Make Spreadsheets More Accessible and Reusable](https://caltechlibrary.github.io/RDMworkbook/data-sharing.html#accessible-spreadsheets)
