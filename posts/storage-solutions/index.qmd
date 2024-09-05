@@ -103,7 +103,7 @@ Access to a GitLab repository for externals can be requested through [TopDesk](h
 
 #### TU Delft GitLab or GitHub?
 
-TU Delft GitLab is primarily intended or secure code management for confidential code. GitHub is easier to use if you want to collaborate with externals and you are comfortable sharing your code publicly (GitHub allows private repositories but features are more limited).
+TU Delft GitLab is primarily intended or secure code management for confidential code. GitHub is easier to use if you want to collaborate with externals and you are comfortable sharing your code publicly (GitHub allows private repositories but features are more limited). Do not share any confidential or personal information via GitHub, as even [information in private repositories may be publicly accessible](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) using GitHub!
 
 ## Subversion at TU Delft
 
