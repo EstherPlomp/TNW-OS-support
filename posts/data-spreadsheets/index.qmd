@@ -107,3 +107,5 @@ Comma- or Tab-Separated Value (CSV/TSV) formats are not only best for preservati
 -   [Extracting tables from pdf files with tabulizer](https://blog.djnavarro.net/posts/2023-06-16_tabulizer/)
 
 -   [Make Spreadsheets More Accessible and Reusable](https://caltechlibrary.github.io/RDMworkbook/data-sharing.html#accessible-spreadsheets)
+
+-   [How to share data for collaboration](https://doi.org/10.1080/00031305.2017.1375987)
