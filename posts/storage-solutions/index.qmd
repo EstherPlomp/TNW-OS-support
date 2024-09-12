@@ -57,6 +57,8 @@ The Project Data Storage is the recommended storage solution for research data.
 
 -   [Learn more about how to do an additional back up of the Project Data Storage](https://estherplomp.github.io/TNW-OS-support/posts/storage-project-drive-backup/).
 
+-   [Mount Project Drive on Server.](https://tu-delft-dcc.github.io/data/project_drive_mounting.html)
+
 ### Network Drives and Delft HPC
 
 Please see the [DelftBlue documentation](https://doc.dhpc.tudelft.nl/delftblue/Data-transfer-to-DelftBlue/#network-drives) on the storage of data-transfer recommendations from the HPC clusters. See also the [Delft AI Cluster](https://daic.tudelft.nl/).
