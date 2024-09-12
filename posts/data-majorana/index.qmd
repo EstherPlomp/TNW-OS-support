@@ -22,6 +22,10 @@ Quantum computing's reproducibility crisis: Majorana fermions.
 
 "It is a good thing that independent experts have looked at this as part of the integrity investigation," says Tim van der Hagen, Rector Magnificus of TU Delft. "Science always involves **looking critically at results**, questioning and challenging them." ([source](https://www.tudelft.nl/en/2021/tu-delft/retraction-nature-article-quantized-majorana-conductance)).
 
+## Action plan scientific integrity
+
+Read more about the [advice and action plan of TU Delft in response to the Majorana case](https://intranet.tudelft.nl/en/group/guest/-/plan-van-aanpak-wetenschappelijke-integriteit) on intranet.
+
 ## More information
 
 -   [Authors retract Nature Majorana paper, apologize for "insufficient scientific rigour"](https://retractionwatch.com/2021/03/08/authors-retract-nature-majorana-paper-apologize-for-insufficient-scientific-rigour/)
