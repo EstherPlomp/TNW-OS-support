@@ -74,7 +74,7 @@ Realistically, not every discipline has such a specific data repository availabl
 
 As a TU Delft researcher you can always make use of 4TU.ResearchData. See the [4TU.ResearchData post](https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/) for more information about how to share your data/code via 4TU.ResearchData.
 
-## How 1#: Gather all data/code needed for reanalysis/validation
+## How 1: Gather all data/code needed for reanalysis/validation
 
 -   **Consider all data/code needed for your data to be reusable or for someone to validate or replicate your analyses.**
 
@@ -84,7 +84,7 @@ As a TU Delft researcher you can always make use of 4TU.ResearchData. See the [4
 
 -   **Review files for errors** such as missing data, misnamed files/variables, incorrectly formatted values, and corrupted files (you can use tools such as [OpenRefine](https://openrefine.org/) or [Frictionless](https://framework.frictionlessdata.io/))
 
-## How 2#: Use standard or open file formats
+## How 2: Use standard or open file formats
 
 Using standard or open data formats ensures longer-term usability of data.
 
@@ -92,7 +92,7 @@ Using standard or open data formats ensures longer-term usability of data.
 
 -   **Open Data Formats**: Free to use such as .csv .tab
 
-## How 3#: Preferred (sustainable) file formats:
+## How 3: Preferred (sustainable) file formats:
 
 The following file formats are [recommended by 4TU.ResearchData](https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf).
 
@@ -116,7 +116,7 @@ The following file formats are [recommended by 4TU.ResearchData](https://researc
 
 See also [DANS file format recommendations](https://dans.knaw.nl/en/file-formats/).
 
-## How 4#: Are you working with personal/confidential data?
+## How 4: Are you working with personal/confidential data?
 
 Not all data can be publicly shared via data repositories. See [what data should be shared post](https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/). This can be the case if you manage personal/confidential data. Personal/confidential data can contain:
 
@@ -126,7 +126,7 @@ Not all data can be publicly shared via data repositories. See [what data should
 
 -   Information related to national security and export control regulations.
 
-## How 5#: Organise your files and provide documentation
+## How 5: Organise your files and provide documentation
 
 Use a clear folder structure and [file naming convention](https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/#file-naming-convention) to share the data/code. You can document your data via a [README file](https://estherplomp.github.io/TNW-OS-support/posts/readme/index.html).
 
@@ -146,7 +146,9 @@ Example:
 
 ## Examples
 
--   [Lia et al. 2020](https://doi.org/10.12688/wellcomeopenres.15893.2)
+-   [Label-free identification of protein aggregates using deep learning](https://doi.org/10.1038/s41467-023-43440-7)
+-   [Fermionic quantum computation with Cooper pair splitters](https://doi.org/10.21468/SciPostPhys.16.5.135)
+-   
 
 ## More information
 
