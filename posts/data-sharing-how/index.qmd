@@ -140,6 +140,10 @@ For most research done at TU Delft it is possible to make the data and code unde
 
 Whether you use a discipline specific repository or a generalist one, it is important to link all the outputs to ensure that they are clearly identifiable and findable. You can do this by providing links/persistent identifiers in the metadata fields, or in the README file, or in the data availability statement in the corresponding article (also cite your research outputs in the citations!). See The Turing Way for more information about how to [link your research outputs](https://the-turing-way.netlify.app/communication/citable/citable-linking.html).
 
+Example:
+
+[![Data and code availability](images/clipboard-3528562785.png){fig-alt="Data availability  The training and test datasets are available on Zenodo65. Source data are provided with this paper. Code availability  The Python codes for training a model, using a pre-trained model, and for transfer learning on a pre-trained model are available on GitHub66 at: https://github.com/kibb/LINA/."}](https://doi.org/10.1038/s41467-023-43440-7)
+
 ## Examples
 
 -   [Lia et al. 2020](https://doi.org/10.12688/wellcomeopenres.15893.2)
