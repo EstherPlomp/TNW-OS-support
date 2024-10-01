@@ -400,7 +400,7 @@
 <p>As a TU Delft researcher you can always make use of 4TU.ResearchData. See the <a href="https://estherplomp.github.io/TNW-OS-support/posts/4TU-info/">4TU.ResearchData post</a> for more information about how to share your data/code via 4TU.ResearchData.</p>
 </section>
 <section id="how-1-gather-all-datacode-needed-for-reanalysisvalidation" class="level2">
-<h2 class="anchored" data-anchor-id="how-1-gather-all-datacode-needed-for-reanalysisvalidation">How 1#: Gather all data/code needed for reanalysis/validation</h2>
+<h2 class="anchored" data-anchor-id="how-1-gather-all-datacode-needed-for-reanalysisvalidation">How 1: Gather all data/code needed for reanalysis/validation</h2>
 <ul>
 <li><p><strong>Consider all data/code needed for your data to be reusable or for someone to validate or replicate your analyses.</strong></p></li>
 <li><p><strong>Processed data:</strong> Sharing the processed data underlying the publication is the <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-how/#tu-delft-requirements">minimum requirement from TU Delft</a>. Including raw data can be valuable to ensure that no details are lost and the research is more reproducible.</p></li>
@@ -409,7 +409,7 @@
 </ul>
 </section>
 <section id="how-2-use-standard-or-open-file-formats" class="level2">
-<h2 class="anchored" data-anchor-id="how-2-use-standard-or-open-file-formats">How 2#: Use standard or open file formats</h2>
+<h2 class="anchored" data-anchor-id="how-2-use-standard-or-open-file-formats">How 2: Use standard or open file formats</h2>
 <p>Using standard or open data formats ensures longer-term usability of data.</p>
 <ul>
 <li><p><strong>Standard Data Formats</strong>: “widely accepted” formats such as .xls .xlsx</p></li>
@@ -417,7 +417,7 @@
 </ul>
 </section>
 <section id="how-3-preferred-sustainable-file-formats" class="level2">
-<h2 class="anchored" data-anchor-id="how-3-preferred-sustainable-file-formats">How 3#: Preferred (sustainable) file formats:</h2>
+<h2 class="anchored" data-anchor-id="how-3-preferred-sustainable-file-formats">How 3: Preferred (sustainable) file formats:</h2>
 <p>The following file formats are <a href="https://researchdata.4tu.nl/fileadmin/user_upload/Documenten/preffered_file_formats.pdf">recommended by 4TU.ResearchData</a>.</p>
 <ul>
 <li><p><strong>Text Plain</strong> text, XML, HTML, PDF (PDF/A-1), JSON, PDB (Protein Data Bank), XYZ (all formats should be encoded in UTF-8)</p></li>
@@ -433,7 +433,7 @@
 <p>See also <a href="https://dans.knaw.nl/en/file-formats/">DANS file format recommendations</a>.</p>
 </section>
 <section id="how-4-are-you-working-with-personalconfidential-data" class="level2">
-<h2 class="anchored" data-anchor-id="how-4-are-you-working-with-personalconfidential-data">How 4#: Are you working with personal/confidential data?</h2>
+<h2 class="anchored" data-anchor-id="how-4-are-you-working-with-personalconfidential-data">How 4: Are you working with personal/confidential data?</h2>
 <p>Not all data can be publicly shared via data repositories. See <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-sharing-what/">what data should be shared post</a>. This can be the case if you manage personal/confidential data. Personal/confidential data can contain:</p>
 <ul>
 <li><p>Personal information which can allow the identification of living individuals (have you set up an <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics">HREC application</a>?)</p></li>
@@ -442,7 +442,7 @@
 </ul>
 </section>
 <section id="how-5-organise-your-files-and-provide-documentation" class="level2">
-<h2 class="anchored" data-anchor-id="how-5-organise-your-files-and-provide-documentation">How 5#: Organise your files and provide documentation</h2>
+<h2 class="anchored" data-anchor-id="how-5-organise-your-files-and-provide-documentation">How 5: Organise your files and provide documentation</h2>
 <p>Use a clear folder structure and <a href="https://estherplomp.github.io/TNW-OS-support/posts/data-documentation/#file-naming-convention">file naming convention</a> to share the data/code. You can document your data via a <a href="https://estherplomp.github.io/TNW-OS-support/posts/readme/index.html">README file</a>.</p>
 </section>
 <section id="tu-delft-requirements" class="level2">
@@ -453,11 +453,20 @@
 <section id="linking-research-outputs" class="level2">
 <h2 class="anchored" data-anchor-id="linking-research-outputs">Linking research outputs</h2>
 <p>Whether you use a discipline specific repository or a generalist one, it is important to link all the outputs to ensure that they are clearly identifiable and findable. You can do this by providing links/persistent identifiers in the metadata fields, or in the README file, or in the data availability statement in the corresponding article (also cite your research outputs in the citations!). See The Turing Way for more information about how to <a href="https://the-turing-way.netlify.app/communication/citable/citable-linking.html">link your research outputs</a>.</p>
+<p>Example:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://doi.org/10.1038/s41467-023-43440-7"><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/data-sharing-how/images/clipboard-3528562785.png" class="img-fluid figure-img" alt="Data availability  The training and test datasets are available on Zenodo65. Source data are provided with this paper. Code availability  The Python codes for training a model, using a pre-trained model, and for transfer learning on a pre-trained model are available on GitHub66 at: https://github.com/kibb/LINA/."></a></p>
+<figcaption>Data and code availability</figcaption>
+</figure>
+</div>
 </section>
 <section id="examples" class="level2">
 <h2 class="anchored" data-anchor-id="examples">Examples</h2>
 <ul>
-<li><a href="https://doi.org/10.12688/wellcomeopenres.15893.2">Lia et al.&nbsp;2020</a></li>
+<li><a href="https://doi.org/10.1038/s41467-023-43440-7">Label-free identification of protein aggregates using deep learning</a></li>
+<li><a href="https://doi.org/10.21468/SciPostPhys.16.5.135">Fermionic quantum computation with Cooper pair splitters</a></li>
+<li></li>
 </ul>
 </section>
 <section id="more-information" class="level2">
@@ -1098,63 +1107,6 @@ Note
   <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/data-managing-students/open-data-fountain.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>README files</title>
-  <dc:creator>Esther Plomp</dc:creator>
-  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/readme/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="how-to-set-up-your-readme-file" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your README file</h2>
-<p>A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally shared together with an open dataset, or can be the landing page of your software repository.</p>
-<p>README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why README files are important and how you can set up your own README files.</p>
-</section>
-<section id="readme-for-data" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-data">README for data</h2>
-<p>Best practices</p>
-<ul>
-<li><p>Create one README file for each dataset</p></li>
-<li><p>Name the file README</p></li>
-<li><p>Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.</p></li>
-</ul>
-<p>Example templates for data:</p>
-<ul>
-<li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
-<li><p><a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf)</p></li>
-</ul>
-</section>
-<section id="readme-for-software" class="level2">
-<h2 class="anchored" data-anchor-id="readme-for-software">README for software</h2>
-<p>See this <a href="https://www.youtube.com/watch?v=Jgv34Kwgga8&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=7">short presentation by Carlos Martinez</a> about the importance of README files for software.</p>
-<p>Example templates for software:</p>
-<ul>
-<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
-<li><p><a href="https://ha0ye.github.io/CW21-README-tips/template_README.html" class="uri">https://ha0ye.github.io/CW21-README-tips/template_README.html</a></p></li>
-<li><p><a href="https://github.com/manuGil/fair-code" class="uri">https://github.com/manuGil/fair-code</a></p></li>
-<li><p>More templates</p>
-<ul>
-<li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
-<li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
-<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
-<li><p><a href="https://github.com/matthiasott/README-template" class="uri">https://github.com/matthiasott/README-template</a></p></li>
-</ul></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Open Data</category>
-  <category>Open Software</category>
-  <category>FAIR</category>
-  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/readme/</guid>
-  <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
-</item>
-<item>
   <title>4TU.ResearchData</title>
   <dc:creator>Esther Plomp</dc:creator>
   <link>https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/</link>
@@ -1252,6 +1204,63 @@ Note
   <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/</guid>
   <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
   <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/4TU-info/4TU-logo.png" medium="image" type="image/png" height="43" width="144"/>
+</item>
+<item>
+  <title>README files</title>
+  <dc:creator>Esther Plomp</dc:creator>
+  <link>https://EstherPlomp.github.io/TNW-OS-support/posts/readme/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="how-to-set-up-your-readme-file" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-set-up-your-readme-file">How to set up your README file</h2>
+<p>A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. A README file is generally shared together with an open dataset, or can be the landing page of your software repository.</p>
+<p>README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). See <a href="https://www.makeareadme.com/" class="uri">https://www.makeareadme.com/</a> for more information on why README files are important and how you can set up your own README files.</p>
+</section>
+<section id="readme-for-data" class="level2">
+<h2 class="anchored" data-anchor-id="readme-for-data">README for data</h2>
+<p>Best practices</p>
+<ul>
+<li><p>Create one README file for each dataset</p></li>
+<li><p>Name the file README</p></li>
+<li><p>Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.</p></li>
+</ul>
+<p>Example templates for data:</p>
+<ul>
+<li><p><a href="https://cornell.app.box.com/v/ReadmeTemplate" class="uri">https://cornell.app.box.com/v/ReadmeTemplate</a></p></li>
+<li><p><a href="https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf">4TU.ResearchData’s guidelines for readme files</a> (pdf)</p></li>
+</ul>
+</section>
+<section id="readme-for-software" class="level2">
+<h2 class="anchored" data-anchor-id="readme-for-software">README for software</h2>
+<p>See this <a href="https://www.youtube.com/watch?v=Jgv34Kwgga8&amp;list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&amp;index=7">short presentation by Carlos Martinez</a> about the importance of README files for software.</p>
+<p>Example templates for software:</p>
+<ul>
+<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
+<li><p><a href="https://ha0ye.github.io/CW21-README-tips/template_README.html" class="uri">https://ha0ye.github.io/CW21-README-tips/template_README.html</a></p></li>
+<li><p><a href="https://github.com/manuGil/fair-code" class="uri">https://github.com/manuGil/fair-code</a></p></li>
+<li><p>More templates</p>
+<ul>
+<li><p><a href="https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md" class="uri">https://github.com/Spaak/contextual-cueing-meg/blob/master/README.md</a></p></li>
+<li><p><a href="https://gist.github.com/jxson/1784669" class="uri">https://gist.github.com/jxson/1784669</a></p></li>
+<li><p><a href="https://github.com/othneildrew/Best-README-Template" class="uri">https://github.com/othneildrew/Best-README-Template</a></p></li>
+<li><p><a href="https://github.com/matthiasott/README-template" class="uri">https://github.com/matthiasott/README-template</a></p></li>
+</ul></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Open Data</category>
+  <category>Open Software</category>
+  <category>FAIR</category>
+  <guid>https://EstherPlomp.github.io/TNW-OS-support/posts/readme/</guid>
+  <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://EstherPlomp.github.io/TNW-OS-support/posts/readme/readme.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
   <title>Open Science Programme for PhD candidates of AS/TNW</title>
