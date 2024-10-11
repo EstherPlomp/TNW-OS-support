@@ -1,0 +1,215 @@
+---
+title: "Adobe alternatives"
+author: "Esther Plomp"
+date: "2024-10-11"
+categories: [Tools]
+image: "zotero.png"
+---
+
+What are Open Source solutions to the Adobe products?
+
+This post is based on a [mastodon post](https://mastodon.social/@knowuh/112587529739737542) shared based on a Twitter user post (\@xdanielArt).
+
+## Photoshop
+
+**Photography**
+
+-   GIMP/Glimpse
+
+-   Sumo Paint
+
+-   Affinity Photo
+
+-   Photoline
+
+-   Photopea
+
+-   Paint.NET
+
+-   Pixelmator Pro
+
+-   PaintShop Pro
+
+-   Pixlr
+
+**Painting**
+
+-   Krita
+
+-   Clip studio paint
+
+-   Paint tool SAI
+
+-   Procreate
+
+-   Artstudio Pro
+
+-   IbisPaint
+
+-   AD Sketchbook
+
+-   Firealpaca
+
+-   Medibang
+
+-   Paintstorm
+
+-   MyPaint
+
+-   Corel Painter
+
+## Illustrator
+
+-   Inkscape
+
+-   Boxy SVG
+
+-   Gravit Designer
+
+-   Affinity Designer
+
+-   Vectornator
+
+-   Corel Draw
+
+-   Xara Deisgner
+
+-   Vector Magic (Live Trace)
+
+## Acrobat
+
+-   PDF-Xchange
+
+-   Xodo
+
+-   PDF24
+
+## Animate
+
+-   Cacani
+
+-   TVPaint
+
+-   Toonboom
+
+-   Clip Studio EX
+
+-   Moho
+
+-   Blender
+
+-   Open Toonz
+
+-   Wick Editor
+
+-   Synfig
+
+## Indesign
+
+-   Scribus
+
+-   Affinity Publisher
+
+-   QuarkXPress
+
+## Substance
+
+**Designer**
+
+-   Quixel Mixer
+
+-   Material Maker
+
+**Painter**
+
+-   Quixel Mixer
+
+-   Armour Paint
+
+-   3D Coat
+
+## Lightroom
+
+-   RawTherapee
+
+-   Darktable
+
+-   DigiKam
+
+-   On1
+
+-   FastRawViewer
+
+-   Capture One
+
+-   DxO Photolab
+
+-   Luminar
+
+-   Aurora
+
+## Xd
+
+-   Penpot
+
+-   Draftoola
+
+-   Figma
+
+-   Framer
+
+-   Sketch
+
+-   Lunacy
+
+-   Origami
+
+-   Axure RP
+
+-   Principle
+
+## Audition
+
+-   Audacity
+
+-   Ocenaudio
+
+-   Davinci fairlight
+
+-   iZope RX
+
+**DAWs**
+
+-   Cakewalk
+
+-   Ardour
+
+-   LMMS
+
+-   Reaper
+
+-   Tracktion
+
+-   Garageband
+
+-   Pro Tools
+
+-   Logic Pro
+
+-   Live by Ableton
+
+-   FL Studio
+
+## Premiere Pro
+
+-   Olive
+
+-   Kdenlive
+
+-   Davinci Resolve
+
+-   Sony Vegas
+
+-   Final Cut Pro X
+
+-   Kapwing
