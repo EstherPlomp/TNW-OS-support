@@ -1400,452 +1400,291 @@
     "text": "More information\n\nThe Push to Replace Journal Supplements with Repositories\nThe Turing Way: Why not the supplemental materials?"
   },
   {
-    "objectID": "posts/open-access-preprint/index.html",
-    "href": "posts/open-access-preprint/index.html",
-    "title": "Preprint",
+    "objectID": "posts/tools-adobe-open/index.html",
+    "href": "posts/tools-adobe-open/index.html",
+    "title": "Adobe alternatives",
     "section": "",
-    "text": "A preprint is the version of the article before peer review.\nYou can share your preprint on a preprint server or repository even before you have submitted it to a journal. Before you share a preprint, check if the journal allows sharing of preprints via Sherpa Romeo."
+    "text": "What are Open Source solutions to the Adobe products?\nThis post is based on a mastodon post shared based on a Twitter user post (@xdanielArt)."
   },
   {
-    "objectID": "posts/open-access-preprint/index.html#why-should-i-share-a-preprint",
-    "href": "posts/open-access-preprint/index.html#why-should-i-share-a-preprint",
-    "title": "Preprint",
-    "section": "Why should I share a preprint?",
-    "text": "Why should I share a preprint?\n\nYou can immediately share a preprint, instead of waiting for the review/publishing process.\nPreprinted articles have increased citations of the published versions, because people are able to read your work earlier and incorporate it.\nPreprints are openly accessible, without fees for readers and authors\nPreprints provide evidence of productivity (Instead of adding papers that are still under review to your CV)\nYou can establish priority via preprints\nPreprint servers also allow for sharing of negative/inconclusive results, or other work not intended to be submitted for journal publication (such as open letters)\nposting a preprint is associated with higher social media attention (Fraser et al., 2020; Fu & Hughey, 2019; Serghiou & Ioannidis, 2018).\nSome journals have appointed designated ‘preprint editors’ who scout the latest research posted at preprint servers and invite submissions to their journal (Puebla et al. 2021).\nPreprints allow for feedback at a stage where this can still be incorporated\nAccelerated speed of scientific discovery and prevention of duplication of research efforts\n\n\n\n\n“The benefits of preprints, an Infographic” by Alexandra Tichy"
+    "objectID": "posts/tools-adobe-open/index.html#photoshop",
+    "href": "posts/tools-adobe-open/index.html#photoshop",
+    "title": "Adobe alternatives",
+    "section": "Photoshop",
+    "text": "Photoshop\nPhotography\n\nGIMP/Glimpse\nSumo Paint\nAffinity Photo\nPhotoline\nPhotopea\nPaint.NET\nPixelmator Pro\nPaintShop Pro\nPixlr\n\nPainting\n\nKrita\nClip studio paint\nPaint tool SAI\nProcreate\nArtstudio Pro\nIbisPaint\nAD Sketchbook\nFirealpaca\nMedibang\nPaintstorm\nMyPaint\nCorel Painter"
   },
   {
-    "objectID": "posts/open-access-preprint/index.html#where-to-share-a-preprint",
-    "href": "posts/open-access-preprint/index.html#where-to-share-a-preprint",
-    "title": "Preprint",
-    "section": "Where to share a preprint?",
-    "text": "Where to share a preprint?\n\nPreprint servers such as arXiv (Physics) and bioRxiv (Biology)\nRepositories such as OSF, Zenodo\nTU Delft Open."
+    "objectID": "posts/tools-adobe-open/index.html#illustrator",
+    "href": "posts/tools-adobe-open/index.html#illustrator",
+    "title": "Adobe alternatives",
+    "section": "Illustrator",
+    "text": "Illustrator\n\nInkscape\nBoxy SVG\nGravit Designer\nAffinity Designer\nVectornator\nCorel Draw\nXara Deisgner\nVector Magic (Live Trace)"
   },
   {
-    "objectID": "posts/open-access-preprint/index.html#terminology",
-    "href": "posts/open-access-preprint/index.html#terminology",
-    "title": "Preprint",
-    "section": "Terminology",
-    "text": "Terminology\n\nPreprint: version of the article before peer review\nPost-print (or Author Accepted Manuscript - AAM): version of the article after peer review\nPublishers version (Version of Record - VOR): fully formatted version published by the publisher"
+    "objectID": "posts/tools-adobe-open/index.html#acrobat",
+    "href": "posts/tools-adobe-open/index.html#acrobat",
+    "title": "Adobe alternatives",
+    "section": "Acrobat",
+    "text": "Acrobat\n\nPDF-Xchange\nXodo\nPDF24"
   },
   {
-    "objectID": "posts/open-access-preprint/index.html#more-information",
-    "href": "posts/open-access-preprint/index.html#more-information",
-    "title": "Preprint",
+    "objectID": "posts/tools-adobe-open/index.html#animate",
+    "href": "posts/tools-adobe-open/index.html#animate",
+    "title": "Adobe alternatives",
+    "section": "Animate",
+    "text": "Animate\n\nCacani\nTVPaint\nToonboom\nClip Studio EX\nMoho\nBlender\nOpen Toonz\nWick Editor\nSynfig"
+  },
+  {
+    "objectID": "posts/tools-adobe-open/index.html#indesign",
+    "href": "posts/tools-adobe-open/index.html#indesign",
+    "title": "Adobe alternatives",
+    "section": "Indesign",
+    "text": "Indesign\n\nScribus\nAffinity Publisher\nQuarkXPress"
+  },
+  {
+    "objectID": "posts/tools-adobe-open/index.html#substance",
+    "href": "posts/tools-adobe-open/index.html#substance",
+    "title": "Adobe alternatives",
+    "section": "Substance",
+    "text": "Substance\nDesigner\n\nQuixel Mixer\nMaterial Maker\n\nPainter\n\nQuixel Mixer\nArmour Paint\n3D Coat"
+  },
+  {
+    "objectID": "posts/tools-adobe-open/index.html#lightroom",
+    "href": "posts/tools-adobe-open/index.html#lightroom",
+    "title": "Adobe alternatives",
+    "section": "Lightroom",
+    "text": "Lightroom\n\nRawTherapee\nDarktable\nDigiKam\nOn1\nFastRawViewer\nCapture One\nDxO Photolab\nLuminar\nAurora"
+  },
+  {
+    "objectID": "posts/tools-adobe-open/index.html#xd",
+    "href": "posts/tools-adobe-open/index.html#xd",
+    "title": "Adobe alternatives",
+    "section": "Xd",
+    "text": "Xd\n\nPenpot\nDraftoola\nFigma\nFramer\nSketch\nLunacy\nOrigami\nAxure RP\nPrinciple"
+  },
+  {
+    "objectID": "posts/tools-adobe-open/index.html#audition",
+    "href": "posts/tools-adobe-open/index.html#audition",
+    "title": "Adobe alternatives",
+    "section": "Audition",
+    "text": "Audition\n\nAudacity\nOcenaudio\nDavinci fairlight\niZope RX\n\nDAWs\n\nCakewalk\nArdour\nLMMS\nReaper\nTracktion\nGarageband\nPro Tools\nLogic Pro\nLive by Ableton\nFL Studio"
+  },
+  {
+    "objectID": "posts/tools-adobe-open/index.html#premiere-pro",
+    "href": "posts/tools-adobe-open/index.html#premiere-pro",
+    "title": "Adobe alternatives",
+    "section": "Premiere Pro",
+    "text": "Premiere Pro\n\nOlive\nKdenlive\nDavinci Resolve\nSony Vegas\nFinal Cut Pro X\nKapwing"
+  },
+  {
+    "objectID": "posts/data-horrors/index.html",
+    "href": "posts/data-horrors/index.html",
+    "title": "Data Horrors",
+    "section": "",
+    "text": "Examples of data horror stories:"
+  },
+  {
+    "objectID": "posts/data-horrors/index.html#more-information",
+    "href": "posts/data-horrors/index.html#more-information",
+    "title": "Data Horrors",
     "section": "More information",
-    "text": "More information\n\nPreprints and open preprint review: a workshop on innovations in scholarly publishing\nPuebla et al. 2021\nWhy preprint?\nPreprint FAQ\nvideo: Preprints - a UKRN animated primer"
+    "text": "More information\n\nHow to backup your data\nTrue PhD Horror: Hard Drive Failure\nData horror story song\nData Sharing\nHow Toy Story 2 Almost Got Deleted (from Chiarelli 2018 - pdf)\nData Hazards is a project about worst-case scenarios of data science"
   },
   {
-    "objectID": "posts/tools-mastodon/index.html",
-    "href": "posts/tools-mastodon/index.html",
-    "title": "Mastdon [WIP]",
+    "objectID": "posts/data-metadata/index.html",
+    "href": "posts/data-metadata/index.html",
+    "title": "Metadata",
     "section": "",
-    "text": "[SURF also hosts a pilot](https://www.surf.nl/en/mastodon-pilot-for-research-and-education) which is making it easy to join their instance and get started!"
+    "text": "Metadata is data about data.\nSee the video made by TU Delft library on documentation and metadata (4 min)."
   },
   {
-    "objectID": "posts/tools-mastodon/index.html#other-helpful-mastodon-resources",
-    "href": "posts/tools-mastodon/index.html#other-helpful-mastodon-resources",
-    "title": "Mastdon [WIP]",
-    "section": "Other helpful Mastodon resources:",
-    "text": "Other helpful Mastodon resources:\n\nBlogpost by Danielle Navarro\nHow To Join Mastodon blogpost\nBlogpost by Stammy on Mastodon"
+    "objectID": "posts/data-metadata/index.html#metadata-standards",
+    "href": "posts/data-metadata/index.html#metadata-standards",
+    "title": "Metadata",
+    "section": "Metadata Standards",
+    "text": "Metadata Standards\n\nUnicode CLDR standard for countries\nCheck FAIRsharing.org if there are any metadata standards used in your discipline"
   },
   {
-    "objectID": "posts/mistakes/index.html",
-    "href": "posts/mistakes/index.html",
-    "title": "Mistakes",
+    "objectID": "posts/data-metadata/index.html#more-information",
+    "href": "posts/data-metadata/index.html#more-information",
+    "title": "Metadata",
+    "section": "More information",
+    "text": "More information\n\nIntroduction to Metadata and Metadata Standards by ESIP\nWhy is Metadata Important for Research? (2 min video)"
+  },
+  {
+    "objectID": "posts/data-majorana/index.html",
+    "href": "posts/data-majorana/index.html",
+    "title": "Majorana fermions",
     "section": "",
-    "text": "Error Tight – Exercises for lab groups to prevent research mistakes\nTen simple rules for failing successfully in academia"
+    "text": "Quantum computing’s reproducibility crisis: Majorana fermions.\n’ … I think that researchers are cherry-picking — focusing on data that agree with the Majorana theory and sidelining those that don’t.’ Frolov 2021\n“Scientists should disclose all data in a repository and comply with sharing standards, such as FAIR (findability, accessibility, interoperability and reusability). Some curation is unavoidable. The volume of data collected in a modern physics laboratory is high: computer scripts control the equipment, which might run 24 hours a day. A remedy is to clearly explain the protocol that is used to perform any data selection — so others might reuse or scrutinize it. Remember, data selection is a form of data processing.” Frolov 2021"
   },
   {
-    "objectID": "posts/mistakes/index.html#mistakes",
-    "href": "posts/mistakes/index.html#mistakes",
-    "title": "Mistakes",
+    "objectID": "posts/data-majorana/index.html#tu-delft",
+    "href": "posts/data-majorana/index.html#tu-delft",
+    "title": "Majorana fermions",
+    "section": "TU Delft",
+    "text": "TU Delft\nThe investigation by experts concluded:\n\nAuthors selected data that supported the phenomenon they were looking for\nAuthors omitted data that could have raised questions about the conclusions\n\n“It is a good thing that independent experts have looked at this as part of the integrity investigation,” says Tim van der Hagen, Rector Magnificus of TU Delft. “Science always involves looking critically at results, questioning and challenging them.” (source)."
+  },
+  {
+    "objectID": "posts/data-majorana/index.html#action-plan-scientific-integrity",
+    "href": "posts/data-majorana/index.html#action-plan-scientific-integrity",
+    "title": "Majorana fermions",
+    "section": "Action plan scientific integrity",
+    "text": "Action plan scientific integrity\nRead more about the advice and action plan of TU Delft in response to the Majorana case on intranet."
+  },
+  {
+    "objectID": "posts/data-majorana/index.html#more-information",
+    "href": "posts/data-majorana/index.html#more-information",
+    "title": "Majorana fermions",
+    "section": "More information",
+    "text": "More information\n\nAuthors retract Nature Majorana paper, apologize for “insufficient scientific rigour”\nMicrosoft-Led Team Retracts Disputed Quantum-Computing Paper\nAnother setback for ‘Majorana’\nNegligence in Nature article on Quantized Majorana conductance (see also TU Delft Delta)\nAbout our Majorana fermion paper\nMajorana Fireside Chats: Vincent Mourik and Sergey Frolov (see also episode 2)"
+  },
+  {
+    "objectID": "posts/open-science-education/index.html",
+    "href": "posts/open-science-education/index.html",
+    "title": "Open Education [WIP}",
     "section": "",
-    "text": "Error Tight – Exercises for lab groups to prevent research mistakes\nTen simple rules for failing successfully in academia"
+    "text": "Students may avoid paying for textbooks at expense of academic success"
   },
   {
-    "objectID": "posts/PhD-thesis-chapter/index.html",
-    "href": "posts/PhD-thesis-chapter/index.html",
-    "title": "PhD Chapter",
+    "objectID": "posts/open-science-education/index.html#why",
+    "href": "posts/open-science-education/index.html#why",
+    "title": "Open Education [WIP}",
     "section": "",
-    "text": "Why just have an article or traditional chapter as part of your PhD dissertation? Why not use a dataset, software package or public engagement example as part of your dissertation?"
+    "text": "Students may avoid paying for textbooks at expense of academic success"
   },
   {
-    "objectID": "posts/PhD-thesis-chapter/index.html#examples",
-    "href": "posts/PhD-thesis-chapter/index.html#examples",
-    "title": "PhD Chapter",
+    "objectID": "posts/open-science-education/index.html#examples",
+    "href": "posts/open-science-education/index.html#examples",
+    "title": "Open Education [WIP}",
     "section": "Examples",
-    "text": "Examples\n\nEditorial to raise awareness for first-generation students (source- in Dutch)\nSoftware packages\nScience Communication (last chapter) (source)\nScience Communication (Chapter 6) (source)"
+    "text": "Examples\nFree Energy project, an open educational resource textbook for Physical Chemistry I & II!"
   },
   {
-    "objectID": "posts/PhD-thesis-chapter/index.html#more-information",
-    "href": "posts/PhD-thesis-chapter/index.html#more-information",
-    "title": "PhD Chapter",
-    "section": "More information:",
-    "text": "More information:\n\nUniversity policies and statements on hiring, promotion, and journal license negotiation"
+    "objectID": "posts/open-science-education/index.html#open-education-at-tnw",
+    "href": "posts/open-science-education/index.html#open-education-at-tnw",
+    "title": "Open Education [WIP}",
+    "section": "Open Education at TNW",
+    "text": "Open Education at TNW"
   },
   {
-    "objectID": "posts/data-sharing-SURFdrive/index.html",
-    "href": "posts/data-sharing-SURFdrive/index.html",
-    "title": "SURFdrive sharing",
-    "section": "",
-    "text": "You can share data with SURFdrive through the 1) browser or the 2) application."
-  },
-  {
-    "objectID": "posts/data-sharing-SURFdrive/index.html#sharing-data-with-surfdrive",
-    "href": "posts/data-sharing-SURFdrive/index.html#sharing-data-with-surfdrive",
-    "title": "SURFdrive sharing",
-    "section": "",
-    "text": "You can share data with SURFdrive through the 1) browser or the 2) application."
-  },
-  {
-    "objectID": "posts/data-sharing-SURFdrive/index.html#surfdrive-browser",
-    "href": "posts/data-sharing-SURFdrive/index.html#surfdrive-browser",
-    "title": "SURFdrive sharing",
-    "section": "SURFdrive browser",
-    "text": "SURFdrive browser\n\nLog into your SURFdrive account through the webbrowser: surfdrive.surf.nl/\nSelect the share button:\n\n\n\nSelect ‘Public Links’ (students will not show up in the users section)\nSelect ‘Create public link’\nYou will see a pop up where you can adjust the link name of your folder, file folder permissions, add a password and select an expiration date of the link. Below you can send the link to an email address or you can retrieve the link later.\n\n\n\nSelect ‘Share’ to continue.\n\nYour map now has a link image on it and you can copy, edit, share or delete your link:\n\nSee also SURFdrive’s tutorial."
-  },
-  {
-    "objectID": "posts/data-sharing-SURFdrive/index.html#surfdrive-application",
-    "href": "posts/data-sharing-SURFdrive/index.html#surfdrive-application",
-    "title": "SURFdrive sharing",
-    "section": "SURFdrive application",
-    "text": "SURFdrive application\nYou can also share your folders/files through the SURFdrive application. Right click on any folder or file that you have within your SURFdrive folder on your computer and select: SURFdrive &gt; Share . You will see this pop up window:\n\nThrough ‘Users and Groups’ you can directly share your files with colleagues that are based at Dutch institutes by typing in their names or email addresses.\nYou can also generate ‘Public Links’ by selecting ‘create new’ and ‘create’. Don’t forget to set a password for the link and an expiration date if needed. Once you have created this link you can copy it through right clicking the file: SURFdrive &gt; Copy public link to clipboard.\nNote that your SURFdrive application has to be running in the background to be able to generate and copy these links."
-  },
-  {
-    "objectID": "posts/software-documentation/index.html",
-    "href": "posts/software-documentation/index.html",
-    "title": "Software documentation",
-    "section": "",
-    "text": "How should you provide adequate documentation with your code to make it understandable for reusers?"
-  },
-  {
-    "objectID": "posts/software-documentation/index.html#in-code-documentation",
-    "href": "posts/software-documentation/index.html#in-code-documentation",
-    "title": "Software documentation",
-    "section": "In-code documentation",
-    "text": "In-code documentation\nComments video by Barbara Vreede"
-  },
-  {
-    "objectID": "posts/software-documentation/index.html#readme",
-    "href": "posts/software-documentation/index.html#readme",
-    "title": "Software documentation",
-    "section": "README",
-    "text": "README\nA README file is a text file that provides information about an open source software project, including details on how to install and use the software, as well as any dependencies or prerequisites that are required. A README file is often the first thing that users will see when they encounter an open source project, and it is an important tool for helping users understand and use the software.\nA README file should contain the following information:\n\nA brief overview of the project, including its purpose and main features.\nInstallation/usage instructions, including any dependencies or prerequisites that are required.\nLicense information\nRecommended citation (see Software Citation)\n\nWhen the software is a bigger or on-going project, also include the following information:\n\nContributing guidelines, if the project is open to contributions from the community.\nA list of any known issues or bugs, along with any workarounds or fixes that are available.\nContact information for the project maintainers or developers, in case users have questions or need support.\n\nREADME video by Barbara Vreede\nexamples:\nA template to make good README.md\nCodeMeta creates a minimal metadata schema for research software and code."
-  },
-  {
-    "objectID": "posts/software-documentation/index.html#reusable-code",
-    "href": "posts/software-documentation/index.html#reusable-code",
-    "title": "Software documentation",
-    "section": "Reusable code",
-    "text": "Reusable code\n\nList dependencies/variables on top\nUsing a ‘main’ code calling other codes to make it more readable\nAdd in comments at the start about what the code does, and what in/outputs are expected\nUse functions\nMake tests for the functions"
-  },
-  {
-    "objectID": "posts/software-documentation/index.html#more-information",
-    "href": "posts/software-documentation/index.html#more-information",
-    "title": "Software documentation",
+    "objectID": "posts/open-science-education/index.html#more-information",
+    "href": "posts/open-science-education/index.html#more-information",
+    "title": "Open Education [WIP}",
     "section": "More information",
-    "text": "More information\n\nCode documentation lesson by Code Refinery\nWriting Reusable and Modular Code\nbeginner’s guide on writing documentation for research software \nHERMES\nCoding and Comment Style"
+    "text": "More information\n\nThe Turing Way has a chapter on Open Education"
   },
   {
-    "objectID": "posts/data-security/index.html#more-information",
-    "href": "posts/data-security/index.html#more-information",
-    "title": "Data Security",
+    "objectID": "posts/integrity-inclusive-meetings/index.html",
+    "href": "posts/integrity-inclusive-meetings/index.html",
+    "title": "How to organise inclusive meetings",
+    "section": "",
+    "text": "From the guide to organizing Inclusive Scientific Meetings: Where to Start"
+  },
+  {
+    "objectID": "posts/integrity-inclusive-meetings/index.html#hybrid",
+    "href": "posts/integrity-inclusive-meetings/index.html#hybrid",
+    "title": "How to organise inclusive meetings",
+    "section": "Hybrid",
+    "text": "Hybrid\n\nHybrid Experience at CHI 2024\nAttending Conferences and Workshops Remotely via Telepresence Robots"
+  },
+  {
+    "objectID": "posts/integrity-inclusive-meetings/index.html#more-information",
+    "href": "posts/integrity-inclusive-meetings/index.html#more-information",
+    "title": "How to organise inclusive meetings",
     "section": "More information",
-    "text": "More information\n\nSecurity.tudelft.nl\nPartnering Tools at TU Delft\nYou Can’t Control Your Data in the Cloud"
+    "text": "More information\n\nTen simple rules to host an inclusive conference"
   },
   {
-    "objectID": "posts/data-organisation/index.html",
-    "href": "posts/data-organisation/index.html",
-    "title": "Data organisation",
+    "objectID": "posts/data-spreadsheets/index.html",
+    "href": "posts/data-spreadsheets/index.html",
+    "title": "Spreadsheets",
     "section": "",
-    "text": "Examples\n\nhttp://nikola.me/folder_structure.html (folder structure download available on the website)\nFolder structure template for research repositories\nResearch Project Template\nMake sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don’t belong or stored in large quantities in a single folder (which makes it hard to find the files).\nMake sure the folder structure is clear: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.\nSee also: Find Files Faster: How to Organize Files and Folders & Data Management: File Organization"
+    "text": "Spreadsheets are great for certain purposes, but there are some things you need to keep in mind!"
   },
   {
-    "objectID": "posts/data-organisation/index.html#folder-structures",
-    "href": "posts/data-organisation/index.html#folder-structures",
-    "title": "Data organisation",
-    "section": "",
-    "text": "Examples\n\nhttp://nikola.me/folder_structure.html (folder structure download available on the website)\nFolder structure template for research repositories\nResearch Project Template\nMake sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don’t belong or stored in large quantities in a single folder (which makes it hard to find the files).\nMake sure the folder structure is clear: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.\nSee also: Find Files Faster: How to Organize Files and Folders & Data Management: File Organization"
+    "objectID": "posts/data-spreadsheets/index.html#spreadsheets-are-great-for",
+    "href": "posts/data-spreadsheets/index.html#spreadsheets-are-great-for",
+    "title": "Spreadsheets",
+    "section": "Spreadsheets are great for:",
+    "text": "Spreadsheets are great for:\n\nData entry\nTables for publications\nGenerate summary statistics\nFigures"
   },
   {
-    "objectID": "posts/data-organisation/index.html#cookie-cutter-templates",
-    "href": "posts/data-organisation/index.html#cookie-cutter-templates",
-    "title": "Data organisation",
-    "section": "Cookie Cutter templates",
-    "text": "Cookie Cutter templates\nUse the cookiecutter templates to download folder structures through GitHub. The template by Barbara Vreede follows the template proposed by Wilson et al. (2017): https://github.com/bvreede/good-enough-project\n\nSee this video for more information\nFollow the instructions here if you need more guidance.\n\nIn general it is good practise to:\n\nhave one folder/directory per project\nto save your raw data separately (and make it read only to ensure that it is not accidentally altered)\nto create a subdirectory for your output (for example: Manuscript output, figures, numerical output)\n\n\n\n\n\nImage by ErrantScience.com"
+    "objectID": "posts/data-spreadsheets/index.html#spreadsheets-can-be-not-so-great",
+    "href": "posts/data-spreadsheets/index.html#spreadsheets-can-be-not-so-great",
+    "title": "Spreadsheets",
+    "section": "Spreadsheets can be not so great:",
+    "text": "Spreadsheets can be not so great:\n\nManual data entry is liable to mistakes (copy pasting wrong cells, accidental deletions)\nIt is not always machine readable. Software cannot process information that relies on context, notes in the margin, spatial layout or field formatting (bold/italics/colours)\nExcel tries to convert everything into a date. Even human genes. (Watch a short talk on ‘Spreadsheet Problems In Genomic Research’ for more fun, or read the paper!)"
   },
   {
-    "objectID": "posts/data-organisation/index.html#more-information",
-    "href": "posts/data-organisation/index.html#more-information",
-    "title": "Data organisation",
+    "objectID": "posts/data-spreadsheets/index.html#set-up-a-spreadsheet",
+    "href": "posts/data-spreadsheets/index.html#set-up-a-spreadsheet",
+    "title": "Spreadsheets",
+    "section": "Set up a spreadsheet",
+    "text": "Set up a spreadsheet\n\nBe consistent\nWrite dates like YYYYMMDD (consider to split info)\nDo not leave empty values (use NA)\n\nIt is difficult for empty cells to know if a value is missing, and blanks can be confusing when spaces/tabs are used as delimiters\nWhatever null value you use, use it consistently and indicate it in the README\n\nPut as few information possible in a single cell and one observation per row\nCreate a data dictionary that describes the spreadsheet and any cleaning steps you took\nLeave the raw data alone!\nDo not use formatting (colours, font, bolding)\nUse data validation to avoid errors (OpenRefine)\nAvoid empty cells (not clear whether data was not collected or whether nothing was measured - use undefined, NA, 0, or null instead).\n\nSee the extended version, based on Broman and Woo 2018 & Carpentries Spreadsheets for Ecologists or Social Scientists)."
+  },
+  {
+    "objectID": "posts/data-spreadsheets/index.html#tidy-data",
+    "href": "posts/data-spreadsheets/index.html#tidy-data",
+    "title": "Spreadsheets",
+    "section": "Tidy Data",
+    "text": "Tidy Data\n\n\nTidy Data Paper by Wickham (see here for the CRAN code heavy version)\nWelcome to the Tidyverse\nThe Tidyverse style guide"
+  },
+  {
+    "objectID": "posts/data-spreadsheets/index.html#data-validation",
+    "href": "posts/data-spreadsheets/index.html#data-validation",
+    "title": "Spreadsheets",
+    "section": "Data validation",
+    "text": "Data validation\n\nExcel support page on data validation\nCheck manually whether your data is consistent, complete and correct:\n\nIf a column should contain only numeric values or characters, check that there are no non-numeric values or non-character\nCheck for consistency in names, unit of measurements, data type and so on\nCheck if there are any empty cells and replace them with your chosen null value (see above)"
+  },
+  {
+    "objectID": "posts/data-spreadsheets/index.html#accessibility-data-curation-primer",
+    "href": "posts/data-spreadsheets/index.html#accessibility-data-curation-primer",
+    "title": "Spreadsheets",
+    "section": "Accessibility (Data Curation Primer)",
+    "text": "Accessibility (Data Curation Primer)\nComma- or Tab-Separated Value (CSV/TSV) formats are not only best for preservation, but for accessibility as well. For more information:\n\nMake your Excel documents accessible to people with disabilities (Microsoft Office)\nExcel Tips (Accessibility and Usability at Penn State)\nCreate Accessible Spreadsheets (General Services Administration of the 49 U.S. - focused on Excel)"
+  },
+  {
+    "objectID": "posts/data-spreadsheets/index.html#tools-to-work-with-tabularspreadsheet-data",
+    "href": "posts/data-spreadsheets/index.html#tools-to-work-with-tabularspreadsheet-data",
+    "title": "Spreadsheets",
+    "section": "Tools to work with tabular/spreadsheet data",
+    "text": "Tools to work with tabular/spreadsheet data\n\nModern CSV: A Sophisticated CSV Editor/Viewer\nOpenRefine\nWhatTheDuck (allows users to upload CSV files, store them in tables, and perform SQL queries on the data)"
+  },
+  {
+    "objectID": "posts/data-spreadsheets/index.html#more-information",
+    "href": "posts/data-spreadsheets/index.html#more-information",
+    "title": "Spreadsheets",
     "section": "More information",
-    "text": "More information\n\nThe Turing Way - Data storage and organisation\nData organisation presentation by Eirini Zormpa\nTen Common Data Management Mistakes by Crystal Lewis\nBorer et al. 2009: Some Simple Guidelines for Effective Data Management\nBriney et al. 2020: Foundational Practices of Research Data Management\nNoble 2009: A Quick Guide to Organizing Computational Biology Projects\nData management mistakes (2 min video)\nDataFlowToolkit\nWebinar: Data Management Basics 1: Introduction to data management and sharing\nVideos on project structure by Danielle Navarro"
+    "text": "More information\n\nData Organisation in Spreadsheets\nData organisation presentation by Eirini Zormpa\nData Carpentry: Data Organization in Spreadsheets\nWebinar: Tables and Pivot Tables in Excel\nTen Guidelines for Better Tables\nSpreadsheet Problems In Genomic Research (Presentation by Mandhri Abeysooriya).\nExtracting tables from pdf files with tabulizer\nMake Spreadsheets More Accessible and Reusable\nHow to share data for collaboration"
   },
   {
-    "objectID": "posts/tools-ORCID/index.html",
-    "href": "posts/tools-ORCID/index.html",
-    "title": "ORCID",
+    "objectID": "posts/data-versioning/index.html",
+    "href": "posts/data-versioning/index.html",
+    "title": "Data versioning",
     "section": "",
-    "text": "What is ORCID"
+    "text": "This post provides information about versioning files.\nVersion control is important in research projects as it allows for tracking changes that were made and by whom these changes were made. This is especially helpful in collaborative projects where different people can work on the same files simultaneously."
   },
   {
-    "objectID": "posts/tools-ORCID/index.html#more-information",
-    "href": "posts/tools-ORCID/index.html#more-information",
-    "title": "ORCID",
+    "objectID": "posts/data-versioning/index.html#manual-version-control",
+    "href": "posts/data-versioning/index.html#manual-version-control",
+    "title": "Data versioning",
+    "section": "Manual version control",
+    "text": "Manual version control\n\nDecide how many and which versions to keep\n\nFor example, milestones such as publishable files or files that can be reviewed by collaborators\nExamples could be: draft, final\n\nDecide on how long to keep these versions\nDecide on how to organise these versions and how to name them (see file naming)\nRecord the changes made to files and by whom this is done"
+  },
+  {
+    "objectID": "posts/data-versioning/index.html#automated-version-control",
+    "href": "posts/data-versioning/index.html#automated-version-control",
+    "title": "Data versioning",
+    "section": "Automated version control",
+    "text": "Automated version control\nAn automatic version control system stores a history of changes and who made them. This is stored within the same file, so that your directory is not filled up by all the previous versions. Automatic version control can save a lot of time and headaches compared to manual version control, but does need some more technical skill. Git is a tool to version control your work - see The Turing Way on how to get started with Git."
+  },
+  {
+    "objectID": "posts/data-versioning/index.html#more-information",
+    "href": "posts/data-versioning/index.html#more-information",
+    "title": "Data versioning",
     "section": "More information",
-    "text": "More information\n\nContact the library[at]tudelft.nl or your Faculty Data Steward\nTU Delft information on ORCID\nORCID integration with PURE"
-  },
-  {
-    "objectID": "posts/software-management-plan/index.html",
-    "href": "posts/software-management-plan/index.html",
-    "title": "Software Management Plan",
-    "section": "",
-    "text": "This post provides an overview of Software Management Plans and related resources"
-  },
-  {
-    "objectID": "posts/software-management-plan/index.html#software-management-plan",
-    "href": "posts/software-management-plan/index.html#software-management-plan",
-    "title": "Software Management Plan",
-    "section": "Software Management Plan",
-    "text": "Software Management Plan\nThe Netherlands eScience Center and NWO set up guidance for Software Management Plans in the Practical guide to Software Management Plans (pages 22-28). The questions you’ll have to address in your plan will depend on the size and impact of the software you’re setting up the plan for.\nThere are currently no templates available for this in DMPonline."
-  },
-  {
-    "objectID": "posts/software-management-plan/index.html#examples",
-    "href": "posts/software-management-plan/index.html#examples",
-    "title": "Software Management Plan",
-    "section": "Examples",
-    "text": "Examples\n\nMedium/high SMP from WUR"
-  },
-  {
-    "objectID": "posts/software-management-plan/index.html#more-information",
-    "href": "posts/software-management-plan/index.html#more-information",
-    "title": "Software Management Plan",
-    "section": "More information",
-    "text": "More information"
-  },
-  {
-    "objectID": "posts/software-FAIR-enough/index.html",
-    "href": "posts/software-FAIR-enough/index.html",
-    "title": "Good enough FAIR software",
-    "section": "",
-    "text": "How to make your software good enough FAIR? Post based on presentation by Neil Chue Hong."
-  },
-  {
-    "objectID": "posts/software-FAIR-enough/index.html#fair",
-    "href": "posts/software-FAIR-enough/index.html#fair",
-    "title": "Good enough FAIR software",
-    "section": "FAIR",
-    "text": "FAIR\n\nFindable:\n\nMake your software easier to discover by using descriptive metadata.\nPublish a citation for your software.\nAdd it to a community registry, if one exists.\n\n\n\nAccessible:\nPut your source code in a code repository, and deposit major versions in a preservation repository to get a DOI.\n\n\nInteroperable:\n\nDescribe the functionality of your software.\nUse open data formats that meet domain-relevant community standards.\nUse libraries for common functionality.\nProvide references to associated research objects.\nModularise your code and document design.\n\n\n\nReusable:\n\nChoose a license and apply it to your software.\nDocument dependencies.\nEnsure that others can understand and execute your code."
-  },
-  {
-    "objectID": "posts/software-FAIR-enough/index.html#software-publishing-options-by-neil-chue-hong",
-    "href": "posts/software-FAIR-enough/index.html#software-publishing-options-by-neil-chue-hong",
-    "title": "Good enough FAIR software",
-    "section": "Software publishing options by Neil Chue Hong",
-    "text": "Software publishing options by Neil Chue Hong\n\n\n\n\nCode repository\nData repository\nProduce runnable version\nSoftware registry\nSoftware article\n\n\n\n\nExample\nSource code is in GitHub, GitLab or BitBucket with open license\nSource code deposited in Zenodo, 4TU.ResearchData\nJupyter Notebook in Binder, Capsule in CodeOcean, Docker or Singularity container, NextFlow workflow. Package for CRAN, PyPI, etc\nCreate an entry in a community registries e.g. CIG (geodynamics), RRID, swMath (mathematics). NLeSC RSD\nPublish software paper in JORS, JOSS, SoftwareX, etc.\nPublish executable research article in GigaByte\nOr choose a discipline specific journal.\n\n\nAdvantages\nDiscoverable\nFits with development workflow\nNo waiting before available\nArchived\nPersistent identifier and metadata\nLittle/no wait before available\nEnable direct reuse\nCan be given identifiers\nMakes available in location where users search\nIndexed\nEasier to find\nOften provides identifier\nMay show citations\nEasily citable\nPeer reviewed\nCan describe software design\nEasier for developers to write\nEasy to reach target audience\nUnderstood by promotion committees\n\n\nDisadvantages\nNot archived\nHarder to cite\nNot easy to find if poorly described / documented\nDirect software citations not accepted by all journals\nNormally requires additional effort / resources\nNot available in every domain\nSoftware not always archived\nPublishing in domain specific journals may take a long time"
-  },
-  {
-    "objectID": "posts/software-FAIR-enough/index.html#more-information",
-    "href": "posts/software-FAIR-enough/index.html#more-information",
-    "title": "Good enough FAIR software",
-    "section": "More information",
-    "text": "More information\n\nFull presentation +recording of how to publish software (from 23:14 onwards)\nSee also the post on licensing\nResources for making your research software FAIR"
-  },
-  {
-    "objectID": "posts/open-science-open-review/index.html",
-    "href": "posts/open-science-open-review/index.html",
-    "title": "Open Peer Review",
-    "section": "",
-    "text": "Open Peer Review can refer to various practices, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process.\nCheck Transpose for the review policies at your preferred journals."
-  },
-  {
-    "objectID": "posts/open-science-open-review/index.html#more-information",
-    "href": "posts/open-science-open-review/index.html#more-information",
-    "title": "Open Peer Review",
-    "section": "More information",
-    "text": "More information\n\nThe Turing Way has a chapter on Peer Review, including a section on Open Peer Review.\nCheck the Open Reviewers Review Guide. Pages 28-31 provide insights about what a reviewer would look for when evaluating your manuscript.\nRead some reflections on reviewing in the publishing system.\nBlogpost: Peer Review and the Future of Publishing"
-  },
-  {
-    "objectID": "posts/credit-evidence-CV/index.html",
-    "href": "posts/credit-evidence-CV/index.html",
-    "title": "Evidenced based CVs [WIP]",
-    "section": "",
-    "text": "to be added: intro to evidence based/narrative CVs"
-  },
-  {
-    "objectID": "posts/credit-evidence-CV/index.html#more-information",
-    "href": "posts/credit-evidence-CV/index.html#more-information",
-    "title": "Evidenced based CVs [WIP]",
-    "section": "More information",
-    "text": "More information\n\nLuxembourg: Narrative CV: Implementation and feedback results\nUniversity of Glasgow pilots the Resume for Researchers narrative CV format\nNWO pilot with evidenced based CVs\nNarrative CVs: a new challenge and research agenda\nEuropean Research Council rollout of ‘inclusive’ evaluation rules\nImproving research culture: confidence in qualitative assessment approaches. (conference talk, 37 min)\nRésumé for Researchers\nBiosketches at TU Eindhoven"
-  },
-  {
-    "objectID": "posts/data-costs/index.html",
-    "href": "posts/data-costs/index.html",
-    "title": "Data Management Costs",
-    "section": "",
-    "text": "In general TU Delft storage and sharing solutions should be sufficient for standard research Data Management needs. You can consider the costs of the following:\nCosts of data management might include:"
-  },
-  {
-    "objectID": "posts/data-costs/index.html#research-data-management-costs",
-    "href": "posts/data-costs/index.html#research-data-management-costs",
-    "title": "Data Management Costs",
-    "section": "",
-    "text": "In general TU Delft storage and sharing solutions should be sufficient for standard research Data Management needs. You can consider the costs of the following:\nCosts of data management might include:"
-  },
-  {
-    "objectID": "posts/data-costs/index.html#hardware-and-infrastructure-costs",
-    "href": "posts/data-costs/index.html#hardware-and-infrastructure-costs",
-    "title": "Data Management Costs",
-    "section": "Hardware and infrastructure costs",
-    "text": "Hardware and infrastructure costs\n\nCosts of hardware for storing and backing up data.\nCosts of access to any specialist infrastructure, such as High Performance Computing.\nCloud computing costs."
-  },
-  {
-    "objectID": "posts/data-costs/index.html#software-costs",
-    "href": "posts/data-costs/index.html#software-costs",
-    "title": "Data Management Costs",
-    "section": "Software costs",
-    "text": "Software costs\n\nPurchase of licences for software to support good data management, such as Electronic Lab Notebooks, or project management software."
-  },
-  {
-    "objectID": "posts/data-costs/index.html#personnel-cost",
-    "href": "posts/data-costs/index.html#personnel-cost",
-    "title": "Data Management Costs",
-    "section": "Personnel cost",
-    "text": "Personnel cost\n\nTime associated with the preparation of research data for archiving and publication including the relevant documentation.\nCost of hiring a dedicated Data Manager or Data Analyst for the project."
-  },
-  {
-    "objectID": "posts/data-costs/index.html#publishing-costs",
-    "href": "posts/data-costs/index.html#publishing-costs",
-    "title": "Data Management Costs",
-    "section": "Publishing costs",
-    "text": "Publishing costs\n\nData publication, where there is a charge associated with depositing in a data archive.\n\n4TU.ResearchData is free for TU Delft researchers up to 1 TB/per year/per researcher.\n\nPublication of papers about datasets or software in dedicated journals."
-  },
-  {
-    "objectID": "posts/data-costs/index.html#more-information",
-    "href": "posts/data-costs/index.html#more-information",
-    "title": "Data Management Costs",
-    "section": "More information",
-    "text": "More information"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This website is maintained by Esther Plomp, the Data Steward of the Faculty of Applied Sciences.\nMore information: intranet page on Data Stewardship at Applied Sciences\nIf you’re based at another faculty at TU Delft, you may want to reach out to your Faculty’s Data Steward."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "TNW Open Science support",
-    "section": "",
-    "text": "OneDrive sharing\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupervisor checklist for sharing PhD outputs\n\n\n\nOpen Data\n\n\nOpen Software\n\n\nPhD\n\n\n\n\n\n\n\nEsther Plomp, TUD Data Stewards\n\n\nFeb 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegistered Reports\n\n\n\nReproducibility\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGold Open Access Journals\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Methods\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware Management Plan\n\n\n\nSoftware\n\n\nData Management Plan\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to share data?\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTU Delft Linux\n\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware Citation\n\n\n\nLicenses\n\n\nSoftware\n\n\nCitation\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 8, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCodebooks\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Security\n\n\n\nResearch Data Management\n\n\nData Security\n\n\n\n\n\n\n\nTU Delft Security Team\n\n\nAug 24, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management 101\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetadata\n\n\n\nOpen Data\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp, Image: Piotr Kononow\n\n\nJul 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science & Patents\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Podcasts\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData visualisation\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management for students\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nREADME files\n\n\n\nOpen Data\n\n\nOpen Software\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJun 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4TU.ResearchData\n\n\n\n4TU.ResearchData\n\n\nOpen Data\n\n\nOpen Software\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJun 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Programme for PhD candidates of AS/TNW\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJun 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to organise inclusive meetings\n\n\n\nOpen Science\n\n\nInclusion\n\n\n\n\n\n\n\nEsther Plomp\n\n\nMar 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZotero\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nMar 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQualtrics\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nMar 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExcel functionalities\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nMar 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVevox\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nMar 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy not supplemental materials?\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD onboarding day - Data Management & Open Science\n\n\n\nResearch Data Management\n\n\nOpen Science\n\n\nPhD\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUniversity rankings\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetrics in Academia [WIP]\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to share data/code underlying the thesis?\n\n\n\nOpen Data\n\n\nOpen Software\n\n\nPhD\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage Solutions\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing ethically\n\n\n\nIntegrity\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access Flowchart\n\n\n\nOpen Access\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Horrors\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp, Andrea Chiarelli, Data Hazards (image)\n\n\nJan 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContact\n\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArticle Processing Fees\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransformative Agreements\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTU Delft Approved Software Licenses\n\n\n\nSoftware\n\n\nLicenses\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing articles in 2021\n\n\n\nOpen Access\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 13, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware Resources\n\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBarriers to data/code sharing\n\n\n\nOpen Data\n\n\nOpen Software\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility resources\n\n\n\nReproducibility\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 11, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMajorana fermions\n\n\n\nOpen Data\n\n\nResearch Data Management\n\n\nFAIR\n\n\nReproducibility\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 8, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Workflows\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 8, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNegative Results [WIP]\n\n\n\nResearch Data Management\n\n\nOpen Data\n\n\nOpen Methods\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Peer Review\n\n\n\nOpen Science\n\n\nPeer Review\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Education [WIP}\n\n\n\nOpen Science\n\n\nOpen Education\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA number is a snake chasing it’s tail\n\n\n\nOpen Science\n\n\nInclusion\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMastdon [WIP]\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 30, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 30, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMicrosoft Teams\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 30, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCRediT\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDORA\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science & Inclusion\n\n\n\nOpen Science\n\n\nInclusion\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science - 3 easy things\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFAQ\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science & Justice [WIP]\n\n\n\nOpen Science\n\n\nInclusion\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science & Alt text [WIP]\n\n\n\nOpen Science\n\n\nInclusion\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeer review flaws\n\n\n\nIntegrity\n\n\nPeer Review\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Innovation [WIP]\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science at Applied Sciences\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Panic\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 9, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpreadsheets\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Preservation - What to keep?\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData versioning\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science in different disciplines\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Chapter\n\n\n\nPhD\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan - PhDs at TU Delft\n\n\n\nData Management Plan\n\n\nPhD\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtificial Intelligence at TU Delft\n\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData legislation overview [WIP]\n\n\n\nResearch Data Management\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPreprint\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 11, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility checklist\n\n\n\nReproducibility\n\n\nChecklist\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData organisation\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSURFdrive sharing\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMistakes\n\n\n\nIntegrity\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetadata standards and repositories for Applied Sciences/TNW\n\n\n\nOpen Data\n\n\nResearch Data Management\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility and Qualitative Research [WIP]\n\n\n\nReproducibility\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManaging and Sharing Data in 2021\n\n\n\nOpen Data\n\n\nData Management Plan\n\n\nOpen Software\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Competence Center\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Documentation\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Buffet\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Citation\n\n\n\nOpen Data\n\n\nCitation\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Costs\n\n\n\nOpen Data\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvidenced based CVs [WIP]\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGood enough FAIR software\n\n\n\nFAIR\n\n\nLicenses\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBackup Project Data Storage\n\n\n\nStorage\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nORCID\n\n\n\nCredit\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMethod sharing [WIP]\n\n\n\nOpen Methods\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersistent Identifiers\n\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan - 5 things to check\n\n\n\nData Management Plan\n\n\nChecklist\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFAIR principles\n\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp, Paula Martinez-Lavanchy, Pim van Schöll, Eirini Zormpa\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nORCID - PURE integration\n\n\n\nCredit\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing a Data Article\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan templates and guidance\n\n\n\nData Management Plan\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat data to share?\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublish and profit [WIP]\n\n\n\nIntegrity\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhen not to share data/code\n\n\n\nOpen Data\n\n\nCitation\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy share data?\n\n\n\nOpen Data\n\n\nCitation\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransferring ownership of a GitLab repo\n\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp, Lora Armstrong\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSharing Software\n\n\n\nLicenses\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit workflow\n\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\n\nLicenses\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRights Retention Strategy\n\n\n\nOpen Access\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware documentation\n\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCopyright free resources\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEncryption\n\n\n\nResearch Data Management\n\n\nData Security\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBackup\n\n\n\nStorage\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAccess Project Data Storage\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp, Lora Armstrong, Bjørn Bartholdy\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access [WIP]\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData sharing solutions\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCopyright Information [WIP]\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhysical Samples [WIP]\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 27, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/contact/index.html",
-    "href": "posts/contact/index.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Who can you contact for what support?\nFor anything Open Science/data/code related you can contact the Data Steward, Esther Plomp.\nFor more specific/hands on data/code requests, you can also contact the Digital Competence Center.\nDelft High Performance Computing Centre (DHPC) is the central TU Delft computing center. See the DelftBlue documentation pages for more information or contact Dennis Palagin.\nIf you have any questions about the basic programming courses (Software/Data Carpentry Workshop), please contact Meta de Keijzer.\nTo publish/share data check the 4TU.ResearchData website. For questions, contact researchdata@4tu.nl.\nIf you want to use an Electronic Lab Notebook or have any issues/questions regarding this, please contact Madeleine de Smaele.\nFor information about data privacy/security check the security & privacy website or contact privacy-tud@tudelft.nl. For questions specifically about data security you can also contact Johan Brandenburg (Faculty Information Security Coordinator).\nFor more information about research involving human participants, check the Human Research Ethics Committee (HREC) website, particularly their application information.\nFor Open Access: Check out the Journal Browser (to check if the library has an open access deal with a specific journal), and the TU Delft Open Access Fund. You can contact the library via library@tudelft.nl.\nFor information about Knowledge Security you can check the Sharepoint page that contains the ‘Guidance of Advisory Team Knowledge Security’ and contact information.\nFor more specific TNW contact information, check intranet."
-  },
-  {
-    "objectID": "posts/contact/index.html#more-information",
-    "href": "posts/contact/index.html#more-information",
-    "title": "Contact",
-    "section": "More information",
-    "text": "More information\n\nFAQ on Research Data Management\nFAQ 4TU.ResearchData"
-  },
-  {
-    "objectID": "posts/data-physical-samples/index.html",
-    "href": "posts/data-physical-samples/index.html",
-    "title": "Physical Samples [WIP]",
-    "section": "",
-    "text": "Still needs to be updated.."
-  },
-  {
-    "objectID": "posts/data-physical-samples/index.html#more-information",
-    "href": "posts/data-physical-samples/index.html#more-information",
-    "title": "Physical Samples [WIP]",
-    "section": "More information",
-    "text": "More information\n\nOpinion: Science Has a Reproducibility Problem. Can Sample Sharing Help?\nOrganize your –80 °C freezer to save time and prevent frozen fingertips (with template)"
-  },
-  {
-    "objectID": "posts/reproducibility-checklist/index.html",
-    "href": "posts/reproducibility-checklist/index.html",
-    "title": "Reproducibility checklist",
-    "section": "",
-    "text": "This post is a shortened version of the Agile Reproducibility Checklist for articles that you would like to submit (or review)."
-  },
-  {
-    "objectID": "posts/reproducibility-checklist/index.html#for-all-datasets-includedproduced-in-the-paper-check-if-data",
-    "href": "posts/reproducibility-checklist/index.html#for-all-datasets-includedproduced-in-the-paper-check-if-data",
-    "title": "Reproducibility checklist",
-    "section": "For all datasets included/produced in the paper, check if data:",
-    "text": "For all datasets included/produced in the paper, check if data:\n\nIs provided in a non-proprietary format\nIs documented for third parties to reuse\nIs accessible in a public repository and has an open data licence"
-  },
-  {
-    "objectID": "posts/reproducibility-checklist/index.html#for-all-software-toolslibrariespackages-and-computational-workflows-includedproduced-check-if",
-    "href": "posts/reproducibility-checklist/index.html#for-all-software-toolslibrariespackages-and-computational-workflows-includedproduced-check-if",
-    "title": "Reproducibility checklist",
-    "section": "For all software tools/libraries/packages and computational workflows included/produced, check if:",
-    "text": "For all software tools/libraries/packages and computational workflows included/produced, check if:\n\nReproduction steps are explained in a README (plain text file), flowchart, or script\nComputational environments (including hardware) are documented or provided\nVersions of relevant software components (libraries, packages) are provided\nAll parameters and expected execution times for the computational workflow are provided\nSoftware developed by the authors is available in a public repository and has an open licence\nThere is a clear connection between tables, figures, maps, and statistical values and the data and code that they are based on, e.g., using file names or documentation in the README"
-  },
-  {
-    "objectID": "posts/reproducibility-checklist/index.html#in-the-data-and-software-availability-section",
-    "href": "posts/reproducibility-checklist/index.html#in-the-data-and-software-availability-section",
-    "title": "Reproducibility checklist",
-    "section": "In the Data and Software Availability section:",
-    "text": "In the Data and Software Availability section:\n\nInclude data/software availability statements (see The Turing Way for examples)\nInclude the reasons, if any, for not being able to share (parts of) data or code"
-  },
-  {
-    "objectID": "posts/reproducibility-checklist/index.html#for-all-data-and-software",
-    "href": "posts/reproducibility-checklist/index.html#for-all-data-and-software",
-    "title": "Reproducibility checklist",
-    "section": "For all data and software:",
-    "text": "For all data and software:\n\nAll datasets and code (used or mentioned) are assigned DOIs\nDatasets and code are cited throughout the paper"
-  },
-  {
-    "objectID": "posts/reproducibility-checklist/index.html#more-information",
-    "href": "posts/reproducibility-checklist/index.html#more-information",
-    "title": "Reproducibility checklist",
-    "section": "More information",
-    "text": "More information\n\nSoftware citation checklist\nCommunity-developed checklists for publishing images and image analyses"
-  },
-  {
-    "objectID": "posts/open-science-open-methods/index.html",
-    "href": "posts/open-science-open-methods/index.html",
-    "title": "Open Methods",
-    "section": "",
-    "text": "You can share your methodology in dedicated journals or method repositories.\nprotocols.io is such a repository for methods. You can watch two short introduction videos by Emma Ganley and Lenny Teytelman to learn more.\nSee methods & protocols - ReproducibiliTeach for the differences between protocol journals and protocol repositories (at 23:33).\nYou can also choose to share your electronic lab notes openly."
-  },
-  {
-    "objectID": "posts/open-science-open-methods/index.html#more-information",
-    "href": "posts/open-science-open-methods/index.html#more-information",
-    "title": "Open Methods",
-    "section": "More information",
-    "text": "More information\n\nProtocols.io - Share science protocol knowledge (1 min video)"
-  },
-  {
-    "objectID": "posts/storage-project-drive-backup/index.html",
-    "href": "posts/storage-project-drive-backup/index.html",
-    "title": "Backup Project Data Storage",
-    "section": "",
-    "text": "This post describes how to automatically and manually backup files from the Project Data Storage to a local drive.\nAutomatic backup is only possible if you are the only/single user of the Project Data Storage. Back up needs to happen manually if there are multiple users."
-  },
-  {
-    "objectID": "posts/storage-project-drive-backup/index.html#automatic-backup",
-    "href": "posts/storage-project-drive-backup/index.html#automatic-backup",
-    "title": "Backup Project Data Storage",
-    "section": "Automatic backup",
-    "text": "Automatic backup\n\nMap/mount the Project Data Storage as a local drive/folder (use sshfs (rather than sftp) to mount the drives)\nUse a folder synchronization tool that can automatically synchronize newer files.\n\nFor Unices cp --archive --update is a start;\nrsync (available for Unix and Windows) allows more control but make sure to use the right arguments;\ntar is not suited because it creates archives instead of synchronizing folders.\n\nUse a scheduler (Unices: cron, Windows: Task Scheduler) to automate the synchronization (step 1/2).\n\n\n\n\n\n\n\nNote\n\n\n\nWhen the Project Data Storage is used from different computers, point 2 becomes very difficult because the “standard” tools only work one-way (they will only copy newer local files to the Project Data Storage but not synchronize newer files on the Project Data Storage to your local computer). Of course you can run the tools both ways, but that breaks horribly when you delete a file locally or revert to an older version, and the synchronization then happily restores the (newer) file from the Project Data Storage.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is not easy/perfect/suitable for everyone, it is not a one script fits all solution. You will probably want to tweak it for your own set up."
-  },
-  {
-    "objectID": "posts/storage-project-drive-backup/index.html#manual-backup",
-    "href": "posts/storage-project-drive-backup/index.html#manual-backup",
-    "title": "Backup Project Data Storage",
-    "section": "Manual backup",
-    "text": "Manual backup\n\nUnison: does two-way synchronisation and asks the user in case of conflicts (changes from multiple sides/users)\nFileZilla and WinSCP can also do folder comparisons and show differences"
+    "text": "More information\n\nVersion Control - The Turing Way"
   },
   {
     "objectID": "posts/PhD-onboarding/index.html",
@@ -1918,214 +1757,452 @@
     "text": "More information\n\nOpen Science terminology and developments at TU Delft and (inter)nationally"
   },
   {
-    "objectID": "posts/data-versioning/index.html",
-    "href": "posts/data-versioning/index.html",
-    "title": "Data versioning",
+    "objectID": "posts/storage-project-drive-backup/index.html",
+    "href": "posts/storage-project-drive-backup/index.html",
+    "title": "Backup Project Data Storage",
     "section": "",
-    "text": "This post provides information about versioning files.\nVersion control is important in research projects as it allows for tracking changes that were made and by whom these changes were made. This is especially helpful in collaborative projects where different people can work on the same files simultaneously."
+    "text": "This post describes how to automatically and manually backup files from the Project Data Storage to a local drive.\nAutomatic backup is only possible if you are the only/single user of the Project Data Storage. Back up needs to happen manually if there are multiple users."
   },
   {
-    "objectID": "posts/data-versioning/index.html#manual-version-control",
-    "href": "posts/data-versioning/index.html#manual-version-control",
-    "title": "Data versioning",
-    "section": "Manual version control",
-    "text": "Manual version control\n\nDecide how many and which versions to keep\n\nFor example, milestones such as publishable files or files that can be reviewed by collaborators\nExamples could be: draft, final\n\nDecide on how long to keep these versions\nDecide on how to organise these versions and how to name them (see file naming)\nRecord the changes made to files and by whom this is done"
+    "objectID": "posts/storage-project-drive-backup/index.html#automatic-backup",
+    "href": "posts/storage-project-drive-backup/index.html#automatic-backup",
+    "title": "Backup Project Data Storage",
+    "section": "Automatic backup",
+    "text": "Automatic backup\n\nMap/mount the Project Data Storage as a local drive/folder (use sshfs (rather than sftp) to mount the drives)\nUse a folder synchronization tool that can automatically synchronize newer files.\n\nFor Unices cp --archive --update is a start;\nrsync (available for Unix and Windows) allows more control but make sure to use the right arguments;\ntar is not suited because it creates archives instead of synchronizing folders.\n\nUse a scheduler (Unices: cron, Windows: Task Scheduler) to automate the synchronization (step 1/2).\n\n\n\n\n\n\n\nNote\n\n\n\nWhen the Project Data Storage is used from different computers, point 2 becomes very difficult because the “standard” tools only work one-way (they will only copy newer local files to the Project Data Storage but not synchronize newer files on the Project Data Storage to your local computer). Of course you can run the tools both ways, but that breaks horribly when you delete a file locally or revert to an older version, and the synchronization then happily restores the (newer) file from the Project Data Storage.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is not easy/perfect/suitable for everyone, it is not a one script fits all solution. You will probably want to tweak it for your own set up."
   },
   {
-    "objectID": "posts/data-versioning/index.html#automated-version-control",
-    "href": "posts/data-versioning/index.html#automated-version-control",
-    "title": "Data versioning",
-    "section": "Automated version control",
-    "text": "Automated version control\nAn automatic version control system stores a history of changes and who made them. This is stored within the same file, so that your directory is not filled up by all the previous versions. Automatic version control can save a lot of time and headaches compared to manual version control, but does need some more technical skill. Git is a tool to version control your work - see The Turing Way on how to get started with Git."
+    "objectID": "posts/storage-project-drive-backup/index.html#manual-backup",
+    "href": "posts/storage-project-drive-backup/index.html#manual-backup",
+    "title": "Backup Project Data Storage",
+    "section": "Manual backup",
+    "text": "Manual backup\n\nUnison: does two-way synchronisation and asks the user in case of conflicts (changes from multiple sides/users)\nFileZilla and WinSCP can also do folder comparisons and show differences"
   },
   {
-    "objectID": "posts/data-versioning/index.html#more-information",
-    "href": "posts/data-versioning/index.html#more-information",
-    "title": "Data versioning",
+    "objectID": "posts/open-science-open-methods/index.html",
+    "href": "posts/open-science-open-methods/index.html",
+    "title": "Open Methods",
+    "section": "",
+    "text": "You can share your methodology in dedicated journals or method repositories.\nprotocols.io is such a repository for methods. You can watch two short introduction videos by Emma Ganley and Lenny Teytelman to learn more.\nSee methods & protocols - ReproducibiliTeach for the differences between protocol journals and protocol repositories (at 23:33).\nYou can also choose to share your electronic lab notes openly."
+  },
+  {
+    "objectID": "posts/open-science-open-methods/index.html#more-information",
+    "href": "posts/open-science-open-methods/index.html#more-information",
+    "title": "Open Methods",
     "section": "More information",
-    "text": "More information\n\nVersion Control - The Turing Way"
+    "text": "More information\n\nProtocols.io - Share science protocol knowledge (1 min video)"
   },
   {
-    "objectID": "posts/data-spreadsheets/index.html",
-    "href": "posts/data-spreadsheets/index.html",
-    "title": "Spreadsheets",
+    "objectID": "posts/reproducibility-checklist/index.html",
+    "href": "posts/reproducibility-checklist/index.html",
+    "title": "Reproducibility checklist",
     "section": "",
-    "text": "Spreadsheets are great for certain purposes, but there are some things you need to keep in mind!"
+    "text": "This post is a shortened version of the Agile Reproducibility Checklist for articles that you would like to submit (or review)."
   },
   {
-    "objectID": "posts/data-spreadsheets/index.html#spreadsheets-are-great-for",
-    "href": "posts/data-spreadsheets/index.html#spreadsheets-are-great-for",
-    "title": "Spreadsheets",
-    "section": "Spreadsheets are great for:",
-    "text": "Spreadsheets are great for:\n\nData entry\nTables for publications\nGenerate summary statistics\nFigures"
+    "objectID": "posts/reproducibility-checklist/index.html#for-all-datasets-includedproduced-in-the-paper-check-if-data",
+    "href": "posts/reproducibility-checklist/index.html#for-all-datasets-includedproduced-in-the-paper-check-if-data",
+    "title": "Reproducibility checklist",
+    "section": "For all datasets included/produced in the paper, check if data:",
+    "text": "For all datasets included/produced in the paper, check if data:\n\nIs provided in a non-proprietary format\nIs documented for third parties to reuse\nIs accessible in a public repository and has an open data licence"
   },
   {
-    "objectID": "posts/data-spreadsheets/index.html#spreadsheets-can-be-not-so-great",
-    "href": "posts/data-spreadsheets/index.html#spreadsheets-can-be-not-so-great",
-    "title": "Spreadsheets",
-    "section": "Spreadsheets can be not so great:",
-    "text": "Spreadsheets can be not so great:\n\nManual data entry is liable to mistakes (copy pasting wrong cells, accidental deletions)\nIt is not always machine readable. Software cannot process information that relies on context, notes in the margin, spatial layout or field formatting (bold/italics/colours)\nExcel tries to convert everything into a date. Even human genes. (Watch a short talk on ‘Spreadsheet Problems In Genomic Research’ for more fun, or read the paper!)"
+    "objectID": "posts/reproducibility-checklist/index.html#for-all-software-toolslibrariespackages-and-computational-workflows-includedproduced-check-if",
+    "href": "posts/reproducibility-checklist/index.html#for-all-software-toolslibrariespackages-and-computational-workflows-includedproduced-check-if",
+    "title": "Reproducibility checklist",
+    "section": "For all software tools/libraries/packages and computational workflows included/produced, check if:",
+    "text": "For all software tools/libraries/packages and computational workflows included/produced, check if:\n\nReproduction steps are explained in a README (plain text file), flowchart, or script\nComputational environments (including hardware) are documented or provided\nVersions of relevant software components (libraries, packages) are provided\nAll parameters and expected execution times for the computational workflow are provided\nSoftware developed by the authors is available in a public repository and has an open licence\nThere is a clear connection between tables, figures, maps, and statistical values and the data and code that they are based on, e.g., using file names or documentation in the README"
   },
   {
-    "objectID": "posts/data-spreadsheets/index.html#set-up-a-spreadsheet",
-    "href": "posts/data-spreadsheets/index.html#set-up-a-spreadsheet",
-    "title": "Spreadsheets",
-    "section": "Set up a spreadsheet",
-    "text": "Set up a spreadsheet\n\nBe consistent\nWrite dates like YYYYMMDD (consider to split info)\nDo not leave empty values (use NA)\n\nIt is difficult for empty cells to know if a value is missing, and blanks can be confusing when spaces/tabs are used as delimiters\nWhatever null value you use, use it consistently and indicate it in the README\n\nPut as few information possible in a single cell and one observation per row\nCreate a data dictionary that describes the spreadsheet and any cleaning steps you took\nLeave the raw data alone!\nDo not use formatting (colours, font, bolding)\nUse data validation to avoid errors (OpenRefine)\nAvoid empty cells (not clear whether data was not collected or whether nothing was measured - use undefined, NA, 0, or null instead).\n\nSee the extended version, based on Broman and Woo 2018 & Carpentries Spreadsheets for Ecologists or Social Scientists)."
+    "objectID": "posts/reproducibility-checklist/index.html#in-the-data-and-software-availability-section",
+    "href": "posts/reproducibility-checklist/index.html#in-the-data-and-software-availability-section",
+    "title": "Reproducibility checklist",
+    "section": "In the Data and Software Availability section:",
+    "text": "In the Data and Software Availability section:\n\nInclude data/software availability statements (see The Turing Way for examples)\nInclude the reasons, if any, for not being able to share (parts of) data or code"
   },
   {
-    "objectID": "posts/data-spreadsheets/index.html#tidy-data",
-    "href": "posts/data-spreadsheets/index.html#tidy-data",
-    "title": "Spreadsheets",
-    "section": "Tidy Data",
-    "text": "Tidy Data\n\n\nTidy Data Paper by Wickham (see here for the CRAN code heavy version)\nWelcome to the Tidyverse\nThe Tidyverse style guide"
+    "objectID": "posts/reproducibility-checklist/index.html#for-all-data-and-software",
+    "href": "posts/reproducibility-checklist/index.html#for-all-data-and-software",
+    "title": "Reproducibility checklist",
+    "section": "For all data and software:",
+    "text": "For all data and software:\n\nAll datasets and code (used or mentioned) are assigned DOIs\nDatasets and code are cited throughout the paper"
   },
   {
-    "objectID": "posts/data-spreadsheets/index.html#data-validation",
-    "href": "posts/data-spreadsheets/index.html#data-validation",
-    "title": "Spreadsheets",
-    "section": "Data validation",
-    "text": "Data validation\n\nExcel support page on data validation\nCheck manually whether your data is consistent, complete and correct:\n\nIf a column should contain only numeric values or characters, check that there are no non-numeric values or non-character\nCheck for consistency in names, unit of measurements, data type and so on\nCheck if there are any empty cells and replace them with your chosen null value (see above)"
-  },
-  {
-    "objectID": "posts/data-spreadsheets/index.html#accessibility-data-curation-primer",
-    "href": "posts/data-spreadsheets/index.html#accessibility-data-curation-primer",
-    "title": "Spreadsheets",
-    "section": "Accessibility (Data Curation Primer)",
-    "text": "Accessibility (Data Curation Primer)\nComma- or Tab-Separated Value (CSV/TSV) formats are not only best for preservation, but for accessibility as well. For more information:\n\nMake your Excel documents accessible to people with disabilities (Microsoft Office)\nExcel Tips (Accessibility and Usability at Penn State)\nCreate Accessible Spreadsheets (General Services Administration of the 49 U.S. - focused on Excel)"
-  },
-  {
-    "objectID": "posts/data-spreadsheets/index.html#tools-to-work-with-tabularspreadsheet-data",
-    "href": "posts/data-spreadsheets/index.html#tools-to-work-with-tabularspreadsheet-data",
-    "title": "Spreadsheets",
-    "section": "Tools to work with tabular/spreadsheet data",
-    "text": "Tools to work with tabular/spreadsheet data\n\nModern CSV: A Sophisticated CSV Editor/Viewer\nOpenRefine\nWhatTheDuck (allows users to upload CSV files, store them in tables, and perform SQL queries on the data)"
-  },
-  {
-    "objectID": "posts/data-spreadsheets/index.html#more-information",
-    "href": "posts/data-spreadsheets/index.html#more-information",
-    "title": "Spreadsheets",
+    "objectID": "posts/reproducibility-checklist/index.html#more-information",
+    "href": "posts/reproducibility-checklist/index.html#more-information",
+    "title": "Reproducibility checklist",
     "section": "More information",
-    "text": "More information\n\nData Organisation in Spreadsheets\nData organisation presentation by Eirini Zormpa\nData Carpentry: Data Organization in Spreadsheets\nWebinar: Tables and Pivot Tables in Excel\nTen Guidelines for Better Tables\nSpreadsheet Problems In Genomic Research (Presentation by Mandhri Abeysooriya).\nExtracting tables from pdf files with tabulizer\nMake Spreadsheets More Accessible and Reusable\nHow to share data for collaboration"
+    "text": "More information\n\nSoftware citation checklist\nCommunity-developed checklists for publishing images and image analyses"
   },
   {
-    "objectID": "posts/integrity-inclusive-meetings/index.html",
-    "href": "posts/integrity-inclusive-meetings/index.html",
-    "title": "How to organise inclusive meetings",
+    "objectID": "posts/data-physical-samples/index.html",
+    "href": "posts/data-physical-samples/index.html",
+    "title": "Physical Samples [WIP]",
     "section": "",
-    "text": "From the guide to organizing Inclusive Scientific Meetings: Where to Start"
+    "text": "Still needs to be updated.."
   },
   {
-    "objectID": "posts/integrity-inclusive-meetings/index.html#hybrid",
-    "href": "posts/integrity-inclusive-meetings/index.html#hybrid",
-    "title": "How to organise inclusive meetings",
-    "section": "Hybrid",
-    "text": "Hybrid\n\nHybrid Experience at CHI 2024\nAttending Conferences and Workshops Remotely via Telepresence Robots"
-  },
-  {
-    "objectID": "posts/integrity-inclusive-meetings/index.html#more-information",
-    "href": "posts/integrity-inclusive-meetings/index.html#more-information",
-    "title": "How to organise inclusive meetings",
+    "objectID": "posts/data-physical-samples/index.html#more-information",
+    "href": "posts/data-physical-samples/index.html#more-information",
+    "title": "Physical Samples [WIP]",
     "section": "More information",
-    "text": "More information\n\nTen simple rules to host an inclusive conference"
+    "text": "More information\n\nOpinion: Science Has a Reproducibility Problem. Can Sample Sharing Help?\nOrganize your –80 °C freezer to save time and prevent frozen fingertips (with template)"
   },
   {
-    "objectID": "posts/open-science-education/index.html",
-    "href": "posts/open-science-education/index.html",
-    "title": "Open Education [WIP}",
+    "objectID": "posts/contact/index.html",
+    "href": "posts/contact/index.html",
+    "title": "Contact",
     "section": "",
-    "text": "Students may avoid paying for textbooks at expense of academic success"
+    "text": "Who can you contact for what support?\nFor anything Open Science/data/code related you can contact the Data Steward, Esther Plomp.\nFor more specific/hands on data/code requests, you can also contact the Digital Competence Center.\nDelft High Performance Computing Centre (DHPC) is the central TU Delft computing center. See the DelftBlue documentation pages for more information or contact Dennis Palagin.\nIf you have any questions about the basic programming courses (Software/Data Carpentry Workshop), please contact Meta de Keijzer.\nTo publish/share data check the 4TU.ResearchData website. For questions, contact researchdata@4tu.nl.\nIf you want to use an Electronic Lab Notebook or have any issues/questions regarding this, please contact Madeleine de Smaele.\nFor information about data privacy/security check the security & privacy website or contact privacy-tud@tudelft.nl. For questions specifically about data security you can also contact Johan Brandenburg (Faculty Information Security Coordinator).\nFor more information about research involving human participants, check the Human Research Ethics Committee (HREC) website, particularly their application information.\nFor Open Access: Check out the Journal Browser (to check if the library has an open access deal with a specific journal), and the TU Delft Open Access Fund. You can contact the library via library@tudelft.nl.\nFor information about Knowledge Security you can check the Sharepoint page that contains the ‘Guidance of Advisory Team Knowledge Security’ and contact information.\nFor more specific TNW contact information, check intranet."
   },
   {
-    "objectID": "posts/open-science-education/index.html#why",
-    "href": "posts/open-science-education/index.html#why",
-    "title": "Open Education [WIP}",
+    "objectID": "posts/contact/index.html#more-information",
+    "href": "posts/contact/index.html#more-information",
+    "title": "Contact",
+    "section": "More information",
+    "text": "More information\n\nFAQ on Research Data Management\nFAQ 4TU.ResearchData"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TNW Open Science support",
     "section": "",
-    "text": "Students may avoid paying for textbooks at expense of academic success"
+    "text": "Adobe alternatives\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOneDrive sharing\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupervisor checklist for sharing PhD outputs\n\n\n\nOpen Data\n\n\nOpen Software\n\n\nPhD\n\n\n\n\n\n\n\nEsther Plomp, TUD Data Stewards\n\n\nFeb 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegistered Reports\n\n\n\nReproducibility\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGold Open Access Journals\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Methods\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware Management Plan\n\n\n\nSoftware\n\n\nData Management Plan\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to share data?\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTU Delft Linux\n\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware Citation\n\n\n\nLicenses\n\n\nSoftware\n\n\nCitation\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 8, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCodebooks\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Security\n\n\n\nResearch Data Management\n\n\nData Security\n\n\n\n\n\n\n\nTU Delft Security Team\n\n\nAug 24, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management 101\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetadata\n\n\n\nOpen Data\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp, Image: Piotr Kononow\n\n\nJul 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science & Patents\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Podcasts\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 16, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData visualisation\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Data Management for students\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nREADME files\n\n\n\nOpen Data\n\n\nOpen Software\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJun 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4TU.ResearchData\n\n\n\n4TU.ResearchData\n\n\nOpen Data\n\n\nOpen Software\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJun 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Programme for PhD candidates of AS/TNW\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJun 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to organise inclusive meetings\n\n\n\nOpen Science\n\n\nInclusion\n\n\n\n\n\n\n\nEsther Plomp\n\n\nMar 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZotero\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nMar 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQualtrics\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nMar 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExcel functionalities\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nMar 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVevox\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nMar 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy not supplemental materials?\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD onboarding day - Data Management & Open Science\n\n\n\nResearch Data Management\n\n\nOpen Science\n\n\nPhD\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nFeb 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUniversity rankings\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetrics in Academia [WIP]\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 21, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to share data/code underlying the thesis?\n\n\n\nOpen Data\n\n\nOpen Software\n\n\nPhD\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStorage Solutions\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing ethically\n\n\n\nIntegrity\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access Flowchart\n\n\n\nOpen Access\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Horrors\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp, Andrea Chiarelli, Data Hazards (image)\n\n\nJan 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContact\n\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJan 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArticle Processing Fees\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransformative Agreements\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTU Delft Approved Software Licenses\n\n\n\nSoftware\n\n\nLicenses\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing articles in 2021\n\n\n\nOpen Access\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 13, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware Resources\n\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBarriers to data/code sharing\n\n\n\nOpen Data\n\n\nOpen Software\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility resources\n\n\n\nReproducibility\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 11, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMajorana fermions\n\n\n\nOpen Data\n\n\nResearch Data Management\n\n\nFAIR\n\n\nReproducibility\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 8, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Workflows\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 8, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNegative Results [WIP]\n\n\n\nResearch Data Management\n\n\nOpen Data\n\n\nOpen Methods\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Peer Review\n\n\n\nOpen Science\n\n\nPeer Review\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Education [WIP}\n\n\n\nOpen Science\n\n\nOpen Education\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA number is a snake chasing it’s tail\n\n\n\nOpen Science\n\n\nInclusion\n\n\n\n\n\n\n\nEsther Plomp\n\n\nDec 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMastdon [WIP]\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 30, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 30, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMicrosoft Teams\n\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 30, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCRediT\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDORA\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science & Inclusion\n\n\n\nOpen Science\n\n\nInclusion\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science - 3 easy things\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFAQ\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science & Justice [WIP]\n\n\n\nOpen Science\n\n\nInclusion\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science & Alt text [WIP]\n\n\n\nOpen Science\n\n\nInclusion\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeer review flaws\n\n\n\nIntegrity\n\n\nPeer Review\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Innovation [WIP]\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science at Applied Sciences\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Panic\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 9, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpreadsheets\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Preservation - What to keep?\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nNov 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData versioning\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science in different disciplines\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Chapter\n\n\n\nPhD\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan - PhDs at TU Delft\n\n\n\nData Management Plan\n\n\nPhD\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtificial Intelligence at TU Delft\n\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 21, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData legislation overview [WIP]\n\n\n\nResearch Data Management\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPreprint\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nOct 11, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility checklist\n\n\n\nReproducibility\n\n\nChecklist\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData organisation\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSURFdrive sharing\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMistakes\n\n\n\nIntegrity\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetadata standards and repositories for Applied Sciences/TNW\n\n\n\nOpen Data\n\n\nResearch Data Management\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility and Qualitative Research [WIP]\n\n\n\nReproducibility\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManaging and Sharing Data in 2021\n\n\n\nOpen Data\n\n\nData Management Plan\n\n\nOpen Software\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDigital Competence Center\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Documentation\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science Buffet\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science\n\n\n\nOpen Science\n\n\nTU Delft\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Citation\n\n\n\nOpen Data\n\n\nCitation\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 4, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Costs\n\n\n\nOpen Data\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvidenced based CVs [WIP]\n\n\n\nCredit\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGood enough FAIR software\n\n\n\nFAIR\n\n\nLicenses\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBackup Project Data Storage\n\n\n\nStorage\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nORCID\n\n\n\nCredit\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMethod sharing [WIP]\n\n\n\nOpen Methods\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersistent Identifiers\n\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan - 5 things to check\n\n\n\nData Management Plan\n\n\nChecklist\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFAIR principles\n\n\n\nFAIR\n\n\n\n\n\n\n\nEsther Plomp, Paula Martinez-Lavanchy, Pim van Schöll, Eirini Zormpa\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nORCID - PURE integration\n\n\n\nCredit\n\n\nTools\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing a Data Article\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Plan templates and guidance\n\n\n\nData Management Plan\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat data to share?\n\n\n\nOpen Data\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 3, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublish and profit [WIP]\n\n\n\nIntegrity\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhen not to share data/code\n\n\n\nOpen Data\n\n\nCitation\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy share data?\n\n\n\nOpen Data\n\n\nCitation\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransferring ownership of a GitLab repo\n\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp, Lora Armstrong\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSharing Software\n\n\n\nLicenses\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit workflow\n\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicenses\n\n\n\nLicenses\n\n\n\n\n\n\n\nEsther Plomp\n\n\nSep 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRights Retention Strategy\n\n\n\nOpen Access\n\n\nPlan S\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoftware documentation\n\n\n\nSoftware\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCopyright free resources\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEncryption\n\n\n\nResearch Data Management\n\n\nData Security\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBackup\n\n\n\nStorage\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAccess Project Data Storage\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp, Lora Armstrong, Bjørn Bartholdy\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Access [WIP]\n\n\n\nOpen Access\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData sharing solutions\n\n\n\nStorage\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCopyright Information [WIP]\n\n\n\nOpen Science\n\n\n\n\n\n\n\nEsther Plomp\n\n\nAug 28, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhysical Samples [WIP]\n\n\n\nResearch Data Management\n\n\n\n\n\n\n\nEsther Plomp\n\n\nJul 27, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/open-science-education/index.html#examples",
-    "href": "posts/open-science-education/index.html#examples",
-    "title": "Open Education [WIP}",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website is maintained by Esther Plomp, the Data Steward of the Faculty of Applied Sciences.\nMore information: intranet page on Data Stewardship at Applied Sciences\nIf you’re based at another faculty at TU Delft, you may want to reach out to your Faculty’s Data Steward."
+  },
+  {
+    "objectID": "posts/data-costs/index.html",
+    "href": "posts/data-costs/index.html",
+    "title": "Data Management Costs",
+    "section": "",
+    "text": "In general TU Delft storage and sharing solutions should be sufficient for standard research Data Management needs. You can consider the costs of the following:\nCosts of data management might include:"
+  },
+  {
+    "objectID": "posts/data-costs/index.html#research-data-management-costs",
+    "href": "posts/data-costs/index.html#research-data-management-costs",
+    "title": "Data Management Costs",
+    "section": "",
+    "text": "In general TU Delft storage and sharing solutions should be sufficient for standard research Data Management needs. You can consider the costs of the following:\nCosts of data management might include:"
+  },
+  {
+    "objectID": "posts/data-costs/index.html#hardware-and-infrastructure-costs",
+    "href": "posts/data-costs/index.html#hardware-and-infrastructure-costs",
+    "title": "Data Management Costs",
+    "section": "Hardware and infrastructure costs",
+    "text": "Hardware and infrastructure costs\n\nCosts of hardware for storing and backing up data.\nCosts of access to any specialist infrastructure, such as High Performance Computing.\nCloud computing costs."
+  },
+  {
+    "objectID": "posts/data-costs/index.html#software-costs",
+    "href": "posts/data-costs/index.html#software-costs",
+    "title": "Data Management Costs",
+    "section": "Software costs",
+    "text": "Software costs\n\nPurchase of licences for software to support good data management, such as Electronic Lab Notebooks, or project management software."
+  },
+  {
+    "objectID": "posts/data-costs/index.html#personnel-cost",
+    "href": "posts/data-costs/index.html#personnel-cost",
+    "title": "Data Management Costs",
+    "section": "Personnel cost",
+    "text": "Personnel cost\n\nTime associated with the preparation of research data for archiving and publication including the relevant documentation.\nCost of hiring a dedicated Data Manager or Data Analyst for the project."
+  },
+  {
+    "objectID": "posts/data-costs/index.html#publishing-costs",
+    "href": "posts/data-costs/index.html#publishing-costs",
+    "title": "Data Management Costs",
+    "section": "Publishing costs",
+    "text": "Publishing costs\n\nData publication, where there is a charge associated with depositing in a data archive.\n\n4TU.ResearchData is free for TU Delft researchers up to 1 TB/per year/per researcher.\n\nPublication of papers about datasets or software in dedicated journals."
+  },
+  {
+    "objectID": "posts/data-costs/index.html#more-information",
+    "href": "posts/data-costs/index.html#more-information",
+    "title": "Data Management Costs",
+    "section": "More information",
+    "text": "More information"
+  },
+  {
+    "objectID": "posts/credit-evidence-CV/index.html",
+    "href": "posts/credit-evidence-CV/index.html",
+    "title": "Evidenced based CVs [WIP]",
+    "section": "",
+    "text": "to be added: intro to evidence based/narrative CVs"
+  },
+  {
+    "objectID": "posts/credit-evidence-CV/index.html#more-information",
+    "href": "posts/credit-evidence-CV/index.html#more-information",
+    "title": "Evidenced based CVs [WIP]",
+    "section": "More information",
+    "text": "More information\n\nLuxembourg: Narrative CV: Implementation and feedback results\nUniversity of Glasgow pilots the Resume for Researchers narrative CV format\nNWO pilot with evidenced based CVs\nNarrative CVs: a new challenge and research agenda\nEuropean Research Council rollout of ‘inclusive’ evaluation rules\nImproving research culture: confidence in qualitative assessment approaches. (conference talk, 37 min)\nRésumé for Researchers\nBiosketches at TU Eindhoven"
+  },
+  {
+    "objectID": "posts/open-science-open-review/index.html",
+    "href": "posts/open-science-open-review/index.html",
+    "title": "Open Peer Review",
+    "section": "",
+    "text": "Open Peer Review can refer to various practices, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process.\nCheck Transpose for the review policies at your preferred journals."
+  },
+  {
+    "objectID": "posts/open-science-open-review/index.html#more-information",
+    "href": "posts/open-science-open-review/index.html#more-information",
+    "title": "Open Peer Review",
+    "section": "More information",
+    "text": "More information\n\nThe Turing Way has a chapter on Peer Review, including a section on Open Peer Review.\nCheck the Open Reviewers Review Guide. Pages 28-31 provide insights about what a reviewer would look for when evaluating your manuscript.\nRead some reflections on reviewing in the publishing system.\nBlogpost: Peer Review and the Future of Publishing"
+  },
+  {
+    "objectID": "posts/software-FAIR-enough/index.html",
+    "href": "posts/software-FAIR-enough/index.html",
+    "title": "Good enough FAIR software",
+    "section": "",
+    "text": "How to make your software good enough FAIR? Post based on presentation by Neil Chue Hong."
+  },
+  {
+    "objectID": "posts/software-FAIR-enough/index.html#fair",
+    "href": "posts/software-FAIR-enough/index.html#fair",
+    "title": "Good enough FAIR software",
+    "section": "FAIR",
+    "text": "FAIR\n\nFindable:\n\nMake your software easier to discover by using descriptive metadata.\nPublish a citation for your software.\nAdd it to a community registry, if one exists.\n\n\n\nAccessible:\nPut your source code in a code repository, and deposit major versions in a preservation repository to get a DOI.\n\n\nInteroperable:\n\nDescribe the functionality of your software.\nUse open data formats that meet domain-relevant community standards.\nUse libraries for common functionality.\nProvide references to associated research objects.\nModularise your code and document design.\n\n\n\nReusable:\n\nChoose a license and apply it to your software.\nDocument dependencies.\nEnsure that others can understand and execute your code."
+  },
+  {
+    "objectID": "posts/software-FAIR-enough/index.html#software-publishing-options-by-neil-chue-hong",
+    "href": "posts/software-FAIR-enough/index.html#software-publishing-options-by-neil-chue-hong",
+    "title": "Good enough FAIR software",
+    "section": "Software publishing options by Neil Chue Hong",
+    "text": "Software publishing options by Neil Chue Hong\n\n\n\n\nCode repository\nData repository\nProduce runnable version\nSoftware registry\nSoftware article\n\n\n\n\nExample\nSource code is in GitHub, GitLab or BitBucket with open license\nSource code deposited in Zenodo, 4TU.ResearchData\nJupyter Notebook in Binder, Capsule in CodeOcean, Docker or Singularity container, NextFlow workflow. Package for CRAN, PyPI, etc\nCreate an entry in a community registries e.g. CIG (geodynamics), RRID, swMath (mathematics). NLeSC RSD\nPublish software paper in JORS, JOSS, SoftwareX, etc.\nPublish executable research article in GigaByte\nOr choose a discipline specific journal.\n\n\nAdvantages\nDiscoverable\nFits with development workflow\nNo waiting before available\nArchived\nPersistent identifier and metadata\nLittle/no wait before available\nEnable direct reuse\nCan be given identifiers\nMakes available in location where users search\nIndexed\nEasier to find\nOften provides identifier\nMay show citations\nEasily citable\nPeer reviewed\nCan describe software design\nEasier for developers to write\nEasy to reach target audience\nUnderstood by promotion committees\n\n\nDisadvantages\nNot archived\nHarder to cite\nNot easy to find if poorly described / documented\nDirect software citations not accepted by all journals\nNormally requires additional effort / resources\nNot available in every domain\nSoftware not always archived\nPublishing in domain specific journals may take a long time"
+  },
+  {
+    "objectID": "posts/software-FAIR-enough/index.html#more-information",
+    "href": "posts/software-FAIR-enough/index.html#more-information",
+    "title": "Good enough FAIR software",
+    "section": "More information",
+    "text": "More information\n\nFull presentation +recording of how to publish software (from 23:14 onwards)\nSee also the post on licensing\nResources for making your research software FAIR"
+  },
+  {
+    "objectID": "posts/software-management-plan/index.html",
+    "href": "posts/software-management-plan/index.html",
+    "title": "Software Management Plan",
+    "section": "",
+    "text": "This post provides an overview of Software Management Plans and related resources"
+  },
+  {
+    "objectID": "posts/software-management-plan/index.html#software-management-plan",
+    "href": "posts/software-management-plan/index.html#software-management-plan",
+    "title": "Software Management Plan",
+    "section": "Software Management Plan",
+    "text": "Software Management Plan\nThe Netherlands eScience Center and NWO set up guidance for Software Management Plans in the Practical guide to Software Management Plans (pages 22-28). The questions you’ll have to address in your plan will depend on the size and impact of the software you’re setting up the plan for.\nThere are currently no templates available for this in DMPonline."
+  },
+  {
+    "objectID": "posts/software-management-plan/index.html#examples",
+    "href": "posts/software-management-plan/index.html#examples",
+    "title": "Software Management Plan",
     "section": "Examples",
-    "text": "Examples\nFree Energy project, an open educational resource textbook for Physical Chemistry I & II!"
+    "text": "Examples\n\nMedium/high SMP from WUR"
   },
   {
-    "objectID": "posts/open-science-education/index.html#open-education-at-tnw",
-    "href": "posts/open-science-education/index.html#open-education-at-tnw",
-    "title": "Open Education [WIP}",
-    "section": "Open Education at TNW",
-    "text": "Open Education at TNW"
-  },
-  {
-    "objectID": "posts/open-science-education/index.html#more-information",
-    "href": "posts/open-science-education/index.html#more-information",
-    "title": "Open Education [WIP}",
+    "objectID": "posts/software-management-plan/index.html#more-information",
+    "href": "posts/software-management-plan/index.html#more-information",
+    "title": "Software Management Plan",
     "section": "More information",
-    "text": "More information\n\nThe Turing Way has a chapter on Open Education"
+    "text": "More information"
   },
   {
-    "objectID": "posts/data-majorana/index.html",
-    "href": "posts/data-majorana/index.html",
-    "title": "Majorana fermions",
+    "objectID": "posts/tools-ORCID/index.html",
+    "href": "posts/tools-ORCID/index.html",
+    "title": "ORCID",
     "section": "",
-    "text": "Quantum computing’s reproducibility crisis: Majorana fermions.\n’ … I think that researchers are cherry-picking — focusing on data that agree with the Majorana theory and sidelining those that don’t.’ Frolov 2021\n“Scientists should disclose all data in a repository and comply with sharing standards, such as FAIR (findability, accessibility, interoperability and reusability). Some curation is unavoidable. The volume of data collected in a modern physics laboratory is high: computer scripts control the equipment, which might run 24 hours a day. A remedy is to clearly explain the protocol that is used to perform any data selection — so others might reuse or scrutinize it. Remember, data selection is a form of data processing.” Frolov 2021"
+    "text": "What is ORCID"
   },
   {
-    "objectID": "posts/data-majorana/index.html#tu-delft",
-    "href": "posts/data-majorana/index.html#tu-delft",
-    "title": "Majorana fermions",
-    "section": "TU Delft",
-    "text": "TU Delft\nThe investigation by experts concluded:\n\nAuthors selected data that supported the phenomenon they were looking for\nAuthors omitted data that could have raised questions about the conclusions\n\n“It is a good thing that independent experts have looked at this as part of the integrity investigation,” says Tim van der Hagen, Rector Magnificus of TU Delft. “Science always involves looking critically at results, questioning and challenging them.” (source)."
-  },
-  {
-    "objectID": "posts/data-majorana/index.html#action-plan-scientific-integrity",
-    "href": "posts/data-majorana/index.html#action-plan-scientific-integrity",
-    "title": "Majorana fermions",
-    "section": "Action plan scientific integrity",
-    "text": "Action plan scientific integrity\nRead more about the advice and action plan of TU Delft in response to the Majorana case on intranet."
-  },
-  {
-    "objectID": "posts/data-majorana/index.html#more-information",
-    "href": "posts/data-majorana/index.html#more-information",
-    "title": "Majorana fermions",
+    "objectID": "posts/tools-ORCID/index.html#more-information",
+    "href": "posts/tools-ORCID/index.html#more-information",
+    "title": "ORCID",
     "section": "More information",
-    "text": "More information\n\nAuthors retract Nature Majorana paper, apologize for “insufficient scientific rigour”\nMicrosoft-Led Team Retracts Disputed Quantum-Computing Paper\nAnother setback for ‘Majorana’\nNegligence in Nature article on Quantized Majorana conductance (see also TU Delft Delta)\nAbout our Majorana fermion paper\nMajorana Fireside Chats: Vincent Mourik and Sergey Frolov (see also episode 2)"
+    "text": "More information\n\nContact the library[at]tudelft.nl or your Faculty Data Steward\nTU Delft information on ORCID\nORCID integration with PURE"
   },
   {
-    "objectID": "posts/data-metadata/index.html",
-    "href": "posts/data-metadata/index.html",
-    "title": "Metadata",
+    "objectID": "posts/data-organisation/index.html",
+    "href": "posts/data-organisation/index.html",
+    "title": "Data organisation",
     "section": "",
-    "text": "Metadata is data about data.\nSee the video made by TU Delft library on documentation and metadata (4 min)."
+    "text": "Examples\n\nhttp://nikola.me/folder_structure.html (folder structure download available on the website)\nFolder structure template for research repositories\nResearch Project Template\nMake sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don’t belong or stored in large quantities in a single folder (which makes it hard to find the files).\nMake sure the folder structure is clear: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.\nSee also: Find Files Faster: How to Organize Files and Folders & Data Management: File Organization"
   },
   {
-    "objectID": "posts/data-metadata/index.html#metadata-standards",
-    "href": "posts/data-metadata/index.html#metadata-standards",
-    "title": "Metadata",
-    "section": "Metadata Standards",
-    "text": "Metadata Standards\n\nUnicode CLDR standard for countries\nCheck FAIRsharing.org if there are any metadata standards used in your discipline"
-  },
-  {
-    "objectID": "posts/data-metadata/index.html#more-information",
-    "href": "posts/data-metadata/index.html#more-information",
-    "title": "Metadata",
-    "section": "More information",
-    "text": "More information\n\nIntroduction to Metadata and Metadata Standards by ESIP\nWhy is Metadata Important for Research? (2 min video)"
-  },
-  {
-    "objectID": "posts/data-horrors/index.html",
-    "href": "posts/data-horrors/index.html",
-    "title": "Data Horrors",
+    "objectID": "posts/data-organisation/index.html#folder-structures",
+    "href": "posts/data-organisation/index.html#folder-structures",
+    "title": "Data organisation",
     "section": "",
-    "text": "Examples of data horror stories:"
+    "text": "Examples\n\nhttp://nikola.me/folder_structure.html (folder structure download available on the website)\nFolder structure template for research repositories\nResearch Project Template\nMake sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they don’t belong or stored in large quantities in a single folder (which makes it hard to find the files).\nMake sure the folder structure is clear: you can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example above), or based on analysis method/equipment/type of data.\nSee also: Find Files Faster: How to Organize Files and Folders & Data Management: File Organization"
   },
   {
-    "objectID": "posts/data-horrors/index.html#more-information",
-    "href": "posts/data-horrors/index.html#more-information",
-    "title": "Data Horrors",
+    "objectID": "posts/data-organisation/index.html#cookie-cutter-templates",
+    "href": "posts/data-organisation/index.html#cookie-cutter-templates",
+    "title": "Data organisation",
+    "section": "Cookie Cutter templates",
+    "text": "Cookie Cutter templates\nUse the cookiecutter templates to download folder structures through GitHub. The template by Barbara Vreede follows the template proposed by Wilson et al. (2017): https://github.com/bvreede/good-enough-project\n\nSee this video for more information\nFollow the instructions here if you need more guidance.\n\nIn general it is good practise to:\n\nhave one folder/directory per project\nto save your raw data separately (and make it read only to ensure that it is not accidentally altered)\nto create a subdirectory for your output (for example: Manuscript output, figures, numerical output)\n\n\n\n\n\nImage by ErrantScience.com"
+  },
+  {
+    "objectID": "posts/data-organisation/index.html#more-information",
+    "href": "posts/data-organisation/index.html#more-information",
+    "title": "Data organisation",
     "section": "More information",
-    "text": "More information\n\nHow to backup your data\nTrue PhD Horror: Hard Drive Failure\nData horror story song\nData Sharing\nHow Toy Story 2 Almost Got Deleted (from Chiarelli 2018 - pdf)\nData Hazards is a project about worst-case scenarios of data science"
+    "text": "More information\n\nThe Turing Way - Data storage and organisation\nData organisation presentation by Eirini Zormpa\nTen Common Data Management Mistakes by Crystal Lewis\nBorer et al. 2009: Some Simple Guidelines for Effective Data Management\nBriney et al. 2020: Foundational Practices of Research Data Management\nNoble 2009: A Quick Guide to Organizing Computational Biology Projects\nData management mistakes (2 min video)\nDataFlowToolkit\nWebinar: Data Management Basics 1: Introduction to data management and sharing\nVideos on project structure by Danielle Navarro"
+  },
+  {
+    "objectID": "posts/data-security/index.html#more-information",
+    "href": "posts/data-security/index.html#more-information",
+    "title": "Data Security",
+    "section": "More information",
+    "text": "More information\n\nSecurity.tudelft.nl\nPartnering Tools at TU Delft\nYou Can’t Control Your Data in the Cloud"
+  },
+  {
+    "objectID": "posts/software-documentation/index.html",
+    "href": "posts/software-documentation/index.html",
+    "title": "Software documentation",
+    "section": "",
+    "text": "How should you provide adequate documentation with your code to make it understandable for reusers?"
+  },
+  {
+    "objectID": "posts/software-documentation/index.html#in-code-documentation",
+    "href": "posts/software-documentation/index.html#in-code-documentation",
+    "title": "Software documentation",
+    "section": "In-code documentation",
+    "text": "In-code documentation\nComments video by Barbara Vreede"
+  },
+  {
+    "objectID": "posts/software-documentation/index.html#readme",
+    "href": "posts/software-documentation/index.html#readme",
+    "title": "Software documentation",
+    "section": "README",
+    "text": "README\nA README file is a text file that provides information about an open source software project, including details on how to install and use the software, as well as any dependencies or prerequisites that are required. A README file is often the first thing that users will see when they encounter an open source project, and it is an important tool for helping users understand and use the software.\nA README file should contain the following information:\n\nA brief overview of the project, including its purpose and main features.\nInstallation/usage instructions, including any dependencies or prerequisites that are required.\nLicense information\nRecommended citation (see Software Citation)\n\nWhen the software is a bigger or on-going project, also include the following information:\n\nContributing guidelines, if the project is open to contributions from the community.\nA list of any known issues or bugs, along with any workarounds or fixes that are available.\nContact information for the project maintainers or developers, in case users have questions or need support.\n\nREADME video by Barbara Vreede\nexamples:\nA template to make good README.md\nCodeMeta creates a minimal metadata schema for research software and code."
+  },
+  {
+    "objectID": "posts/software-documentation/index.html#reusable-code",
+    "href": "posts/software-documentation/index.html#reusable-code",
+    "title": "Software documentation",
+    "section": "Reusable code",
+    "text": "Reusable code\n\nList dependencies/variables on top\nUsing a ‘main’ code calling other codes to make it more readable\nAdd in comments at the start about what the code does, and what in/outputs are expected\nUse functions\nMake tests for the functions"
+  },
+  {
+    "objectID": "posts/software-documentation/index.html#more-information",
+    "href": "posts/software-documentation/index.html#more-information",
+    "title": "Software documentation",
+    "section": "More information",
+    "text": "More information\n\nCode documentation lesson by Code Refinery\nWriting Reusable and Modular Code\nbeginner’s guide on writing documentation for research software \nHERMES\nCoding and Comment Style"
+  },
+  {
+    "objectID": "posts/data-sharing-SURFdrive/index.html",
+    "href": "posts/data-sharing-SURFdrive/index.html",
+    "title": "SURFdrive sharing",
+    "section": "",
+    "text": "You can share data with SURFdrive through the 1) browser or the 2) application."
+  },
+  {
+    "objectID": "posts/data-sharing-SURFdrive/index.html#sharing-data-with-surfdrive",
+    "href": "posts/data-sharing-SURFdrive/index.html#sharing-data-with-surfdrive",
+    "title": "SURFdrive sharing",
+    "section": "",
+    "text": "You can share data with SURFdrive through the 1) browser or the 2) application."
+  },
+  {
+    "objectID": "posts/data-sharing-SURFdrive/index.html#surfdrive-browser",
+    "href": "posts/data-sharing-SURFdrive/index.html#surfdrive-browser",
+    "title": "SURFdrive sharing",
+    "section": "SURFdrive browser",
+    "text": "SURFdrive browser\n\nLog into your SURFdrive account through the webbrowser: surfdrive.surf.nl/\nSelect the share button:\n\n\n\nSelect ‘Public Links’ (students will not show up in the users section)\nSelect ‘Create public link’\nYou will see a pop up where you can adjust the link name of your folder, file folder permissions, add a password and select an expiration date of the link. Below you can send the link to an email address or you can retrieve the link later.\n\n\n\nSelect ‘Share’ to continue.\n\nYour map now has a link image on it and you can copy, edit, share or delete your link:\n\nSee also SURFdrive’s tutorial."
+  },
+  {
+    "objectID": "posts/data-sharing-SURFdrive/index.html#surfdrive-application",
+    "href": "posts/data-sharing-SURFdrive/index.html#surfdrive-application",
+    "title": "SURFdrive sharing",
+    "section": "SURFdrive application",
+    "text": "SURFdrive application\nYou can also share your folders/files through the SURFdrive application. Right click on any folder or file that you have within your SURFdrive folder on your computer and select: SURFdrive &gt; Share . You will see this pop up window:\n\nThrough ‘Users and Groups’ you can directly share your files with colleagues that are based at Dutch institutes by typing in their names or email addresses.\nYou can also generate ‘Public Links’ by selecting ‘create new’ and ‘create’. Don’t forget to set a password for the link and an expiration date if needed. Once you have created this link you can copy it through right clicking the file: SURFdrive &gt; Copy public link to clipboard.\nNote that your SURFdrive application has to be running in the background to be able to generate and copy these links."
+  },
+  {
+    "objectID": "posts/PhD-thesis-chapter/index.html",
+    "href": "posts/PhD-thesis-chapter/index.html",
+    "title": "PhD Chapter",
+    "section": "",
+    "text": "Why just have an article or traditional chapter as part of your PhD dissertation? Why not use a dataset, software package or public engagement example as part of your dissertation?"
+  },
+  {
+    "objectID": "posts/PhD-thesis-chapter/index.html#examples",
+    "href": "posts/PhD-thesis-chapter/index.html#examples",
+    "title": "PhD Chapter",
+    "section": "Examples",
+    "text": "Examples\n\nEditorial to raise awareness for first-generation students (source- in Dutch)\nSoftware packages\nScience Communication (last chapter) (source)\nScience Communication (Chapter 6) (source)"
+  },
+  {
+    "objectID": "posts/PhD-thesis-chapter/index.html#more-information",
+    "href": "posts/PhD-thesis-chapter/index.html#more-information",
+    "title": "PhD Chapter",
+    "section": "More information:",
+    "text": "More information:\n\nUniversity policies and statements on hiring, promotion, and journal license negotiation"
+  },
+  {
+    "objectID": "posts/mistakes/index.html",
+    "href": "posts/mistakes/index.html",
+    "title": "Mistakes",
+    "section": "",
+    "text": "Error Tight – Exercises for lab groups to prevent research mistakes\nTen simple rules for failing successfully in academia"
+  },
+  {
+    "objectID": "posts/mistakes/index.html#mistakes",
+    "href": "posts/mistakes/index.html#mistakes",
+    "title": "Mistakes",
+    "section": "",
+    "text": "Error Tight – Exercises for lab groups to prevent research mistakes\nTen simple rules for failing successfully in academia"
+  },
+  {
+    "objectID": "posts/tools-mastodon/index.html",
+    "href": "posts/tools-mastodon/index.html",
+    "title": "Mastdon [WIP]",
+    "section": "",
+    "text": "[SURF also hosts a pilot](https://www.surf.nl/en/mastodon-pilot-for-research-and-education) which is making it easy to join their instance and get started!"
+  },
+  {
+    "objectID": "posts/tools-mastodon/index.html#other-helpful-mastodon-resources",
+    "href": "posts/tools-mastodon/index.html#other-helpful-mastodon-resources",
+    "title": "Mastdon [WIP]",
+    "section": "Other helpful Mastodon resources:",
+    "text": "Other helpful Mastodon resources:\n\nBlogpost by Danielle Navarro\nHow To Join Mastodon blogpost\nBlogpost by Stammy on Mastodon"
+  },
+  {
+    "objectID": "posts/open-access-preprint/index.html",
+    "href": "posts/open-access-preprint/index.html",
+    "title": "Preprint",
+    "section": "",
+    "text": "A preprint is the version of the article before peer review.\nYou can share your preprint on a preprint server or repository even before you have submitted it to a journal. Before you share a preprint, check if the journal allows sharing of preprints via Sherpa Romeo."
+  },
+  {
+    "objectID": "posts/open-access-preprint/index.html#why-should-i-share-a-preprint",
+    "href": "posts/open-access-preprint/index.html#why-should-i-share-a-preprint",
+    "title": "Preprint",
+    "section": "Why should I share a preprint?",
+    "text": "Why should I share a preprint?\n\nYou can immediately share a preprint, instead of waiting for the review/publishing process.\nPreprinted articles have increased citations of the published versions, because people are able to read your work earlier and incorporate it.\nPreprints are openly accessible, without fees for readers and authors\nPreprints provide evidence of productivity (Instead of adding papers that are still under review to your CV)\nYou can establish priority via preprints\nPreprint servers also allow for sharing of negative/inconclusive results, or other work not intended to be submitted for journal publication (such as open letters)\nposting a preprint is associated with higher social media attention (Fraser et al., 2020; Fu & Hughey, 2019; Serghiou & Ioannidis, 2018).\nSome journals have appointed designated ‘preprint editors’ who scout the latest research posted at preprint servers and invite submissions to their journal (Puebla et al. 2021).\nPreprints allow for feedback at a stage where this can still be incorporated\nAccelerated speed of scientific discovery and prevention of duplication of research efforts\n\n\n\n\n“The benefits of preprints, an Infographic” by Alexandra Tichy"
+  },
+  {
+    "objectID": "posts/open-access-preprint/index.html#where-to-share-a-preprint",
+    "href": "posts/open-access-preprint/index.html#where-to-share-a-preprint",
+    "title": "Preprint",
+    "section": "Where to share a preprint?",
+    "text": "Where to share a preprint?\n\nPreprint servers such as arXiv (Physics) and bioRxiv (Biology)\nRepositories such as OSF, Zenodo\nTU Delft Open."
+  },
+  {
+    "objectID": "posts/open-access-preprint/index.html#terminology",
+    "href": "posts/open-access-preprint/index.html#terminology",
+    "title": "Preprint",
+    "section": "Terminology",
+    "text": "Terminology\n\nPreprint: version of the article before peer review\nPost-print (or Author Accepted Manuscript - AAM): version of the article after peer review\nPublishers version (Version of Record - VOR): fully formatted version published by the publisher"
+  },
+  {
+    "objectID": "posts/open-access-preprint/index.html#more-information",
+    "href": "posts/open-access-preprint/index.html#more-information",
+    "title": "Preprint",
+    "section": "More information",
+    "text": "More information\n\nPreprints and open preprint review: a workshop on innovations in scholarly publishing\nPuebla et al. 2021\nWhy preprint?\nPreprint FAQ\nvideo: Preprints - a UKRN animated primer"
   },
   {
     "objectID": "posts/integrity-rankings/index.html",
