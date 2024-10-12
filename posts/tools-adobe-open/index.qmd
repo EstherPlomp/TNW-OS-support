@@ -3,7 +3,7 @@ title: "Adobe alternatives"
 author: "Esther Plomp"
 date: "2024-10-11"
 categories: [Tools]
-image: "zotero.png"
+image: "Adobe.png"
 ---
 
 What are Open Source solutions to the Adobe products?
@@ -213,3 +213,43 @@ This post is based on a [mastodon post](https://mastodon.social/@knowuh/11258752
 -   Final Cut Pro X
 
 -   Kapwing
+
+## Bridge
+
+-   XnView MP
+
+## Dreamweaver
+
+-   Netbeans
+
+-   VS Codium
+
+-   VS Code
+
+-   Blue Griffon
+
+## After Effects
+
+**Compositing & fx**
+
+-   Natron
+
+-   Blender
+
+-   Davinci Fusion
+
+-   Hitfilm
+
+**Motion graphics**
+
+-   Cavalry
+
+-   Rive
+
+-   Jitter
+
+-   Fable
+
+-   Blender
+
+-   Enve
