@@ -30,6 +30,8 @@ image: "open-data-fountain.jpg"
 
 [Croissant](https://mlcommons.org/2024/03/croissant_metadata_announce/)
 
+[MeSH](https://www.nlm.nih.gov/mesh/meshhome.html) (Medical Subject Headings), a controlled vocabulary used to index biomedical information (see also [MeSH on demand](https://meshb.nlm.nih.gov/MeSHonDemand), a tool to that automatically detects MeSH terms in a text).
+
 ## Potentially relevant metadata standards
 
 [Genome Metadata](http://rd-alliance.github.io/metadata-directory/standards/genome-metadata.html)
