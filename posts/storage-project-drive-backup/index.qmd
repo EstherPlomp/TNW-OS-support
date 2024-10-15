@@ -24,6 +24,8 @@ Automatic backup is only possible if you are the only/single user of the Project
 
 3.  Use a scheduler (Unices: cron, Windows: Task Scheduler) to automate the synchronization (step 1/2).
 
+You can also do automated backup using autorestic, restic and rclone. Rclone does the data transfer to the drive, and restic deals with backup snapshots (see [restic for more information](https://autorestic.vercel.app/quick)).
+
 ::: callout-note
 When the Project Data Storage is used from different computers, point 2 becomes very difficult because the "standard" tools only work one-way (they will only copy newer local files to the Project Data Storage but not synchronize newer files on the Project Data Storage to your local computer). Of course you can run the tools both ways, but that breaks horribly when you delete a file locally or revert to an older version, and the synchronization then happily restores the (newer) file from the Project Data Storage.
 :::
