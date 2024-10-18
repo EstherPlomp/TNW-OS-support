@@ -59,3 +59,4 @@ Andringa et al. 2024
 -   [How to make your own work open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access)
 -   [UKRN primer on Open Access](https://osf.io/94rsp/) and [Preprints](https://osf.io/m4zyh/)
 -   [History of open scholarship](https://open-science.cwts.nl/introduction/open-scholarly-communication/history-of-open-scholarship)
+-   [Language co-option in the open space](https://upstream.force11.org/language-co-option-in-the-open-space/)
