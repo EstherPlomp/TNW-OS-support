@@ -8,9 +8,9 @@ image: "open-data-fountain.jpg"
 
 Something about method sharing.
 
-Protocols.io
+Protocols.io allows users to share protocols both privately and publicly. The protocols can be updated as needed, and the public protocols are assigned a DOI.
 
-## More information
+More information
 
 -   [How do researchers really feel about methods-sharing?](https://theplosblog.plos.org/2022/11/how-do-researchers-really-feel-about-methods-sharing/)
 
