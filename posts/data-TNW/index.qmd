@@ -32,6 +32,8 @@ image: "open-data-fountain.jpg"
 
 [MeSH](https://www.nlm.nih.gov/mesh/meshhome.html) (Medical Subject Headings), a controlled vocabulary used to index biomedical information (see also [MeSH on demand](https://meshb.nlm.nih.gov/MeSHonDemand), a tool to that automatically detects MeSH terms in a text).
 
+[Standard for Learning Object Metadata](https://doi.org/10.1109/IEEESTD.2020.9262118)
+
 ## Potentially relevant metadata standards
 
 [Genome Metadata](http://rd-alliance.github.io/metadata-directory/standards/genome-metadata.html)
