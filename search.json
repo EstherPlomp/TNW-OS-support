@@ -2671,7 +2671,7 @@
     "href": "posts/tools-qualtrics/index.html",
     "title": "Qualtrics",
     "section": "",
-    "text": "Qualtrics is a safe solution to collect survey data. See the Qualtrics Guidance for more information.\nYou can request access to Qualtric licenses via topdesk."
+    "text": "NOTE: Qualtrics will be phased out from TU Delft by 1 July 2025!\nQualtrics is a safe solution to collect survey data. See the Qualtrics Guidance for more information.\nYou can request access to Qualtric licenses via topdesk."
   },
   {
     "objectID": "posts/tools-qualtrics/index.html#more-information",
@@ -2769,7 +2769,7 @@
     "href": "posts/storage-solutions/index.html#electronic-lab-notebooks",
     "title": "Storage Solutions",
     "section": "Electronic Lab Notebooks",
-    "text": "Electronic Lab Notebooks\nElectronic Lab Notebooks allow you to capture and organise data digitally, which makes it easier to back up information and search through your files.\n\nLink your data and protocols\nCollaborate easily by sharing your documents and data directly in the notebook\nExport data in several formats or directly to a data repository\nIntegration with other software/tools\nData and documents have unique IDs associated with them, and automatically generated metadata\nEasily searchable\nAutomatic recording of document versions supports protection of intellectual property\nTU Delft offers licenses for RSpace and eLABjournal\n\nSee resources collected by Nemo Andrea on how to get started with eLABjournal plugins\n\nInterview with Siân from TU Delft about her experiences\n\n\n\n\nIllustration by Connie Clare"
+    "text": "Electronic Lab Notebooks\nElectronic Lab Notebooks allow you to capture and organise data digitally, which makes it easier to back up information and search through your files.\n\nLink your data and protocols\nCollaborate easily by sharing your documents and data directly in the notebook\nExport data in several formats or directly to a data repository\nIntegration with other software/tools\nData and documents have unique IDs associated with them, and automatically generated metadata\nEasily searchable\nAutomatic recording of document versions supports protection of intellectual property\nTU Delft offers licenses for RSpace and eLABjournal\n\nSee resources collected by Nemo Andrea on how to get started with eLABjournal plugins\n\nInterview with Siân from TU Delft about her experiences\nRead more about Electronic Lab Notebooks on The Turing Way\n\n\n\n\nIllustration by Connie Clare"
   },
   {
     "objectID": "posts/storage-solutions/index.html#teams",
