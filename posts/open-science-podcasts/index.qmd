@@ -129,3 +129,7 @@ This post contains several Open Science podcasts and episodes:
 ## [Open Science Bites](https://www.rug.nl/research/openscience/podcast/?lang=en) (thanks to [Agata Bochynska](https://fediscience.org/@agata)!)
 
 [The Library of Alexandra \| Alexandra Elbakyan](https://podcastnotes.org/radiolab/the-library-of-alexandra-alexandra-elbakyan-on-radiolab-with-lulu-miller-latif-nasser/) on Radiolab with Lulu Miller & Latif Nasser (thanks to [Dylan Roskams-Edris](https://scicomm.xyz/@dylanwre)!)
+
+# The Storyology Podcast
+
+-   [What Happens When Science Meets Story](https://annaploszajski.podbean.com/e/episode-1-what-happens-when-science-meets-story/)
