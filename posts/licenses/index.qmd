@@ -44,6 +44,12 @@ For software there are different licenses because you can execute software (whic
 Dual licensing is a model which allows you to distribute the software under different terms of use. For example, you can release a free open source licence and a proprietary licence at the same time. This can be helpful when you shared the software under a copy left license, which obligates re-users to share the underlying source code if they incorporated the software. For commercial companies who would like to use the software, but do not want to share the source code, you can sell/provide them a proprietary license that does not oblige them to release the source code.
 :::
 
+## Copyright
+
+Any work you do as part of your tasks as an employee of an organisation in the Netherlands belongs to your employer, not to you, as they are paying you to do the research/work. This means that anyone not working at the university (which may include yourself in the future!) needs permission from the University to work with the data and code if it is not publicly shared under an open licence.
+
+Copyright means that we determine how the work can be re-used by others, and what rights they have in copying, modifying, and distributing the work. When we do not explicitly formalise these rules in a license, the code and data cannot be freely reused by others. This is why licenses are so important!
+
 ## More information
 
 -   [4TU.ResearchData licenses overview](https://data.4tu.nl/info/en/use/publish-cite/upload-your-data-in-our-data-repository/licencing)

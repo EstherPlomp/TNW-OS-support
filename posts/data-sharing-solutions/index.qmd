@@ -37,5 +37,3 @@ These sources contain recommended disciplinary specific data repositories:
 -   [Elixir Databases for Biomolecular Data](https://elixir-europe.org/platforms/data/elixir-deposition-databases)
 
 -   Springer Nature [Data Repository Guidance](https://www.nature.com/sdata/policies/repositorieshttps://www.springernature.com/gp/authors/research-data-policy/recommended-repositories)
-
-## **More information**
