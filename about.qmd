@@ -15,8 +15,8 @@ about:
       href: https://github.com/EstherPlomp
 ---
 
-This website is maintained by Esther Plomp, the Data Steward of the Faculty of Applied Sciences.
+This website was maintained by Esther Plomp, the Data Steward of the Faculty of Applied Sciences from December 2018 to December 2024.
 
 More information: intranet page on [Data Stewardship at Applied Sciences](https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences)
 
-If you're based at another faculty at TU Delft, you may want to reach out to your [Faculty's Data Steward.](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact)
+You are free to reuse any of the posts and information in them as this repository is shared under a [CC-BY-4.0](https://github.com/EstherPlomp/TNW-OS-support/blob/main/LICENSE) licence.

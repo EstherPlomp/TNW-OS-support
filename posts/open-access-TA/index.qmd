@@ -3,10 +3,12 @@ title: "Transformative Agreements"
 author: "Esther Plomp"
 date: "2022-12-20"
 categories: [Open Access]
-image: "costs.png"
+image: "TA.jpg"
 ---
 
 *Transformative agreement* (TA) is an umbrella term used to describe contracts between institutions and publishers intended to transform the current, primarily subscription-based, journal publishing model to a fully open access (OA) model.
+
+![The Turing Way project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3332807](images/default.jpg)
 
 ## [Six myths, busted](https://crln.acrl.org/index.php/crlnews/article/view/25032/32927)
 
