@@ -54,6 +54,8 @@ Main differences between the online platform and word templates:
 
 ### [**Horizon Europe**](https://surfdrive.surf.nl/files/index.php/s/I7g73eSwepD48a1)
 
+### [Horizon Europe / European Commission](https://gitlab.tudelft.nl/tud-data-stewards/horizon-europe-guidance/-/wikis/home) (Proposal)
+
 ## Example DMP statement
 
 To ensure optimal reuse of the data, and in adherence to TU Delft and funder policies we have the following workflow:
