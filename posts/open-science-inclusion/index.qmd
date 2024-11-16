@@ -107,5 +107,8 @@ open by default, and equitable by design - [Heather Joseph](https://council.scie
 -   [Many Diversity, Equity, and Inclusion strategies and plans fail](https://www.practicaldiversity.org/2024/03/30/many-diversity-equity-and-inclusion-strategies-and-plans-fail/)
 -   [A quick guide to data collection for LGBTQ+ characteristics](https://doi.org/10.6084/m9.figshare.24633756.v1)
 -   [Making your journal an inclusive home for authors and readers from the Global South](https://www.springernature.com/gp/researchers/the-source/blog/blogposts-for-editors/making-your-journal-an-inclusive-home-for-authors/26887968)
-
-https://osc.universityofcalifornia.edu/scholarly-publishing/diversity-equity-and-inclusion-in-scholarly-communication/authorship/
+-   [Inequities in Authorship](https://osc.universityofcalifornia.edu/scholarly-publishing/diversity-equity-and-inclusion-in-scholarly-communication/authorship/)
+-   [Labor advantages drive the greater productivity of faculty at elite universities](https://doi.org/10.1126/sciadv.abq7056)
+-   [List of references regarding diversity, biases, and inclusivity studies and opinion pieces](https://www.winrepo.org/publications/)
+-   [FAIR enough? Building DH Resources in an Unequal World](https://lisa.gerda-henkel-stiftung.de/fair_enough_building_dh_resources_in_an_unequal_world?nav_id=9351)
+-   [A Resource to Support Decolonization of the Undergraduate Chemistry Curriculum](https://doi.org/10.26434/chemrxiv-2022-t3srw-v3)

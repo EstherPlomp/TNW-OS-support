@@ -8,8 +8,6 @@ image: "OS-buffet.png"
 
 This post contains several examples that could be of relevance to TNW researchers
 
--   
-
 ## Chemistry
 
 -   [What could Open Science really mean for Chemistry?](https://www.fosteropenscience.eu/content/what-could-open-science-really-mean-chemistry)

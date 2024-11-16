@@ -38,6 +38,12 @@ There are 2 main options: submit to a single journal that offers Registered Repo
 
 -   [Scientific Reports](https://www.nature.com/srep/journal-policies/registered-reports)
 
+Incorporating Registered Reports and/or Open Science practices into your workflow may initially take some time, but will pay off for future you.
+
+![You don't lose time doing reproducible science, you just relocate where you spend it.](images/paste-A97AF7F9.png){alt="You don't lose time doing reproducible science, you just relocate where you spend it." fig-alt="Two workflows representing a typical research project where reding the analyses around peer review take a lot of time, versus a reproducible research project where these reanalyses will go much faster." width="650"}
+
+## 
+
 ## More Information
 
 -   See the [Open Science Framework](https://www.cos.io/initiatives/registered-reports) for more information and resources on Registered Reports.

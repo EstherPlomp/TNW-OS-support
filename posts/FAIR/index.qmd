@@ -15,8 +15,6 @@ The FAIR principles were created in order to maximize the reuse of scientific da
 
 These four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.
 
-![Constanza Rojas-Molina, licensed under CC BY-NC-SA 4.0](https://media.licdn.com/dms/image/D4E22AQHOrrA7wznp4w/feedshare-shrink_2048_1536/0/1685087936980?e=1689206400&v=beta&t=mMdvWDBg-C9aLy_Od5guSgzmIK72dLvXwhXoQXaW3vc){alt="https://media.licdn.com/dms/image/D4E22AQHOrrA7wznp4w/feedshare-shrink_2048_1536/0/1685087936980?e" fig-alt="Findable, Accessible, Interoperable and Reusable" fig-align="center" width="700"}
-
 **The FAIR Data principles are NOT:**
 
 -   A standard. The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data re-usable.

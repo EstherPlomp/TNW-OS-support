@@ -31,7 +31,7 @@ Recommended storage solutions for research data are:
 ## TU Delft network drives
 
 |   | Personal Drive (H:) | Staff Group Drive (M:) | Staff Group Drive (N:) | Project Data Storage (U:) |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | Purpose | Private work files only (sharing not possible) | Data shared within research group or department | Temporary location for large data | Data from individual projects, shared with project members |
 | Suitable for confidential data? | Yes | No | No | Yes |
 | Size | 8 GB | \> 5TB | \> 5TB | \> 5TB |

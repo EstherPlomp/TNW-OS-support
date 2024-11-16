@@ -11,3 +11,5 @@ image: "mistake.png"
 [Error Tight](https://www.carleton.edu/perception-lab/open-science/error-tight/) -- Exercises for lab groups to prevent research mistakes
 
 [Ten simple rules for failing successfully in academia](https://doi.org/10.1371/%20journal.pcbi.1010538)
+
+[Introduction to the Journal of Trial & Error by Sarahanna Field](https://youtu.be/W3y90fagzUE?t=318) (video starts at 5:18)

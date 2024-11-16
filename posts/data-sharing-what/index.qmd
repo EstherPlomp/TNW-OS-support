@@ -42,8 +42,4 @@ Ensuring that research data, code and any other **materials needed to reproduce 
 
 The minimal requirement is the **deposition of the numerical data (processed data) underlying the figures in academic papers and PhD theses**. Deposition of datasets not directly linked with publications or raw data/software and processing scripts used to derive the processed data is encouraged.
 
-## More information
-
--   
-
--   
+## 

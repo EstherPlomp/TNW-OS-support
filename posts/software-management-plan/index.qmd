@@ -6,7 +6,7 @@ categories: [Software, Data Management Plan]
 image: "DMP.png"
 ---
 
-This post provides an overview of Software Management Plans and related resources
+This post provides an overview of Software Management Plans and related resources.
 
 ## Software Management Plan
 
@@ -17,5 +17,3 @@ There are currently no templates available for this in DMPonline.
 ## Examples
 
 -   [Medium/high SMP from WUR](https://zenodo.org/doi/10.5281/zenodo.10473645)
-
-## More information

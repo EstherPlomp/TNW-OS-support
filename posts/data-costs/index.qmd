@@ -38,8 +38,4 @@ Costs of data management might include:
 
 -   Publication of papers about datasets or software in dedicated journals.
 
-## More information
-
--   
-
--   
+## 

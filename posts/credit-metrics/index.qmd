@@ -1,5 +1,5 @@
 ---
-title: "Metrics in Academia [WIP]"
+title: "Metrics in Academia"
 author: "Esther Plomp"
 date: "2023-01-21"
 categories: [Credit]

@@ -33,4 +33,3 @@ From the [guide to organizing Inclusive Scientific Meetings: Where to Start](htt
 ## More information
 
 -   [Ten simple rules to host an inclusive conference](https://doi.org/10.1371/journal.pcbi.1010164)
--   

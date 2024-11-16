@@ -148,7 +148,6 @@ Example:
 
 -   [Label-free identification of protein aggregates using deep learning](https://doi.org/10.1038/s41467-023-43440-7)
 -   [Fermionic quantum computation with Cooper pair splitters](https://doi.org/10.21468/SciPostPhys.16.5.135)
--   
 
 ## More information
 
