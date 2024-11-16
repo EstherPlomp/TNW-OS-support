@@ -350,6 +350,16 @@
 <li><p><a href="https://openreseurope.s3.amazonaws.com/resources/ORE-Registered-Report-Guidelines-STM.pdf">Open Research Europe</a></p></li>
 <li><p><a href="https://www.nature.com/srep/journal-policies/registered-reports">Scientific Reports</a></p></li>
 </ul>
+<p>Incorporating Registered Reports and/or Open Science practices into your workflow may initially take some time, but will pay off for future you.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://EstherPlomp.github.io/TNW-OS-support/posts/open-science-registered-reports/images/paste-A97AF7F9.png" class="img-fluid figure-img" alt="Two workflows representing a typical research project where reding the analyses around peer review take a lot of time, versus a reproducible research project where these reanalyses will go much faster." width="650"></p>
+<figcaption>You don’t lose time doing reproducible science, you just relocate where you spend it.</figcaption>
+</figure>
+</div>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+</section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More Information</h2>
 <ul>
@@ -502,7 +512,7 @@
 
 
 
-<p>This post provides an overview of Software Management Plans and related resources</p>
+<p>This post provides an overview of Software Management Plans and related resources.</p>
 <section id="software-management-plan" class="level2">
 <h2 class="anchored" data-anchor-id="software-management-plan">Software Management Plan</h2>
 <p>The&nbsp;Netherlands eScience Center&nbsp;and&nbsp;NWO set up guidance for Software Management Plans in the <a href="https://zenodo.org/doi/10.5281/zenodo.7038280">Practical guide to Software Management Plans</a> (pages 22-28). The questions you’ll have to address in your plan will depend on the size and impact of the software you’re setting up the plan for.</p>
@@ -513,9 +523,6 @@
 <ul>
 <li><a href="https://zenodo.org/doi/10.5281/zenodo.10473645">Medium/high SMP from WUR</a></li>
 </ul>
-</section>
-<section id="more-information" class="level2">
-<h2 class="anchored" data-anchor-id="more-information">More information</h2>
 
 
 </section>
@@ -669,7 +676,6 @@
 <ul>
 <li><a href="https://doi.org/10.1038/s41467-023-43440-7">Label-free identification of protein aggregates using deep learning</a></li>
 <li><a href="https://doi.org/10.21468/SciPostPhys.16.5.135">Fermionic quantum computation with Cooper pair splitters</a></li>
-<li></li>
 </ul>
 </section>
 <section id="more-information" class="level2">
@@ -998,6 +1004,7 @@ Note
 <h2 class="anchored" data-anchor-id="more-information">More information</h2>
 <ul>
 <li><a href="https://researchenterprise.org/">10 Ways Universities Deal in Patents</a></li>
+<li><a href="https://upstream.force11.org/opening-new-paths-to-technology-transfer/">Opening New Paths to Technology Transfer: Open Science, Intellectual Property, and Technology Transfer</a></li>
 </ul>
 
 
