@@ -1,12 +1,12 @@
 ---
-title: "Physical Samples [WIP]"
+title: "Physical Samples"
 author: "Esther Plomp"
 date: "2022-07-27"
 categories: [Research Data Management]
 image: "metadata.jpg"
 ---
 
-Still needs to be updated..
+To make your research more reproducible, it can help to manage (and share) the physical samples you use in your research.
 
 ## More information
 
