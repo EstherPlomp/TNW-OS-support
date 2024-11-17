@@ -1,12 +1,12 @@
 ---
-title: "Publish and profit [WIP]"
+title: "Publish and profit"
 author: "Esther Plomp"
 date: "2022-09-02"
 categories: [Integrity]
-image: "image.jpg"
+image: "costs.png"
 ---
 
-Publishers generate profit.
+This post contains several resources on how publishers are generating wild amounts of profit from academic publishing.
 
 [![](images/image-373771131.png){fig-alt="#Elsevier profit is up! Now a margin of more than 37%:  The similarly profitable RELX surveillance section (\"risk\") is tightly coupled, which makes it impossible to know how much of Elsevier's revenue comes from publishing their 600k articles and how much from their 'data analytics' activities. Assuming all surveillance revenue is counted in the 'risk' section, the average Elsevier article is priced at US$5846 with a profit of US$2211."}](https://mastodon.social/@brembs/109982444462601139)
 
@@ -16,21 +16,21 @@ Publishers generate profit.
 
 [How Scientific Publishers' Extreme Fees Put Profit Over Progress](https://www.thenation.com/article/society/neuroimage-elsevier-editorial-board-journal-profit/)
 
-Also: https://theintercept.com/2023/06/20/lexisnexis-ice-surveillance-license-plates/
-
--   Elsevier: NeuroImage transition - all editors have resigned over the high publication fee, and are starting a new non-profit journal, Imaging Neuroscience: <https://imaging-neuroscience.org/Announcement.pdf>
-
-Resignation of Critical Public Health Editorial Board members: <https://cphn.net/2023/07/05/resignation-letter/>
-
-[https://www.designresearchsociety.org/articles/the-future-of-design-studies-journal](https://urldefense.com/v3/__https:/www.designresearchsociety.org/articles/the-future-of-design-studies-journal__;!!PAKc-5URQlI!-mMetGASEY-MWXzTY-ineMybPS4I-SpoABDOun-Tu_ZVamMIcAW54BwcknMHIGcK6dMB2ESBow2DbH0QAWA$) 
-
-Overview of resignations: [Is the Tide Turing in Favour of Universal and Equitable Open Access?](https://council.science/current/blog/universal-and-equitable-open-access/)
-
-['Too greedy': mass walkout at global science journal over 'unethical' fees](https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees)
-
 [US\$230 million worth of time was wasted by scientists worldwide reformatting papers sent to biomedical journals in 2021 alone](https://www.nature.com/articles/d41586-023-01846-9)
 
 [A tale of ghoulish commercialisation](https://www.openlibhums.org/news/656/)
+
+## Journal resignations
+
+-   Overview of resignations: [Is the Tide Turing in Favour of Universal and Equitable Open Access](https://council.science/current/blog/universal-and-equitable-open-access/)
+
+-   Elsevier: NeuroImage transition - all editors have resigned over the high publication fee, and are starting a new non-profit journal, Imaging Neuroscience: <https://imaging-neuroscience.org/Announcement.pdf>
+
+-   [Resignation of Critical Public Health Editorial Board members](https://cphn.net/2023/07/05/resignation-letter/)
+
+-   [The Future of Design Studies Journal](https://www.designresearchsociety.org/articles/the-future-of-design-studies-journal )
+
+-   ['Too greedy': mass walkout at global science journal over 'unethical' fees](https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees)
 
 [![](images/clipboard-4065482770.png){fig-alt="Mastodon toot from Samuel Moore (@Samuelmoore@hcommons.social): always a nice reminder that in 2022 the president of publishing at teh (nonprofit) American Chemical Society was pad 750,000 dollars."}](https://scholar.social/@Samuelmoore@hcommons.social/112650491687804766)
 
@@ -45,4 +45,4 @@ Overview of resignations: [Is the Tide Turing in Favour of Universal and Equitab
 -   [Shifts to open access with high article processing charges hinder research equity and careers](https://doi.org/10.1111/jbi.14697)
 -   [No Diamonds for DevBio](https://stefanovianello.github.io/posts/2023/07/blog-post-5/)
 -   [Open for business: Authors are increasingly paying to publish their papers open access. But is it fair or sustainable?](https://www.science.org/content/article/pay-publish-model-open-access-pricing-scientists)
--   
+-   [ICE uses LexisNexis to track people's cars, gather information on people, and make arrests for its deportation machine](https://theintercept.com/2023/06/20/lexisnexis-ice-surveillance-license-plates/)
