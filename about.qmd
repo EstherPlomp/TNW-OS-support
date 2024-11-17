@@ -19,4 +19,8 @@ This website was maintained by Esther Plomp, the Data Steward of the Faculty of 
 
 More information: intranet page on [Data Stewardship at Applied Sciences](https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences)
 
-You are free to reuse any of the posts and information in them as this repository is shared under a [CC-BY-4.0](https://github.com/EstherPlomp/TNW-OS-support/blob/main/LICENSE) licence.
+You are free to reuse any of the posts and information in them as this repository is shared under a [CC-BY-4.0](https://github.com/EstherPlomp/TNW-OS-support/blob/main/LICENSE) licence. Please use the following citation:
+
+*Esther Plomp. (2024). TNW-OS-Support website (v1.0.0). Zenodo. <https://doi.org/10.5281/zenodo.14176608>*
+
+Several of the images were created using [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion). Other images have been reused from [The Turing Way in collaboration with Scriberia](http://doi.org/10.5281/zenodo.3332807) (CC-BY-4.0).
