@@ -1,10 +1,12 @@
 ---
-title: "Open Access [WIP]"
+title: "Open Access"
 author: "Esther Plomp"
 date: "2022-08-28"
 categories: [Open Access]
 image: "oa-logo.png"
 ---
+
+A post with some post and resources on Open Access.
 
 ## Why?
 
@@ -18,17 +20,19 @@ Open access is important because it allows for the free and unrestricted access 
 
 -   More citations (also citation diversity - see [Huang et al. 2024](https://doi.org/10.1007/s11192-023-04894-0))
 
-[Open access to facilitate research and information on COVID-19](https://en.unesco.org/covid19/communicationinformationresponse/opensolutions)
-
-Explanation preprint, postprint etc. Link with sherpa romeo
-
-https://youtu.be/L5rVH1KGBCY
+## Terms
 
 -   **Preprint**: version of the article before peer review
 
 -   **Post-print** (or Author Accepted Manuscript - AAM): version of the article after peer review
 
 -   **Publishers version** (Version of Record - VOR): fully formatted version published by the publisher
+
+## Colours
+
+![](OA3.jpg){fig-alt="An overview of open access options. The diamond one says 'published without charges' and is represented with a diamond in front of the open access logo. Green has a green open access logo and says 'self archiving using repositories without charges'. Gold open access is represented with a big bag of money that says profits on it, and says 'published with charges'. Hybrid is represented by two dragons that are asking you to pay them, text says: publish or read with charges. Bronze is represented by a pile of poop and the text says 'published without clear reuse permission'. Black is represented by the sci-hub logo and says 'published behind a paywall'."}
+
+## Infographs
 
 ![](images/paste-4A0F3BC6.png)
 
@@ -38,25 +42,18 @@ https://youtu.be/L5rVH1KGBCY
 
 ![](images/paste-C573648A.png)
 
-![](images/default.jpg)
-
-<https://zenodo.org/records/5706310/preview/commercial-infrastrcuture.jpg?include_deleted=0>
-
-![](images/open-access.jpg){fig-alt="An overview of the different open access options. Diamond is indicated with a diamond coloured open access logo (an open lock), explaining that this is published without charges. Green open access has a green open access logo and the text: self-archiving using repositories without charges. Gold open acces has a yellow/gold open access logo and says published with charges. Hybrid has two hungry dragons saying pay me, with the text published or read with charges. Bronze has a drawn pile of poop with the text published without clear reuse permission."}
-
-https://www.wosonhj.com/
+![[https://zenodo.org/records/5706310/preview/commercial-infrastrcuture.jpg?include_deleted=0](https://zenodo.org/records/5706310/preview/commercial-infrastrcuture.jpg?include_deleted=0https://zenodo.org/records/5706310/preview/commercial-infrastrcuture.jpg?include_deleted=0)](images/default.jpg)
 
 ![](images/clipboard-951490490.png)
-
-Andringa et al. 2024
-
-[CC-BY-NC, and CC-BY-NC-ND + signing over exclusive rights to publishers](https://www.authorsalliance.org/2023/06/05/read-your-open-access-publishing-agreements-or-how-you-might-accidentally-give-elsevier-or-wiley-the-exclusive-right-to-profit-from-your-oa-article/)
-
-<https://beta.sherpa.ac.uk/>
 
 ## More information
 
 -   [How to make your own work open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access)
 -   [UKRN primer on Open Access](https://osf.io/94rsp/) and [Preprints](https://osf.io/m4zyh/)
 -   [History of open scholarship](https://open-science.cwts.nl/introduction/open-scholarly-communication/history-of-open-scholarship)
+-   Diamond is a scientist’s best friend: Counteracting systemic inequality in open access publishing ([Andringa et al. 2024](https://doi.org/10.51751/dujal18802))
 -   [Language co-option in the open space](https://upstream.force11.org/language-co-option-in-the-open-space/)
+-   [Open Policy finder](https://openpolicyfinder.jisc.ac.uk/)
+-   [CC-BY-NC, and CC-BY-NC-ND + signing over exclusive rights to publishers](https://www.authorsalliance.org/2023/06/05/read-your-open-access-publishing-agreements-or-how-you-might-accidentally-give-elsevier-or-wiley-the-exclusive-right-to-profit-from-your-oa-article/)
+-   [Open Access Explained!](https://youtu.be/L5rVH1KGBCY)
+-   [Open access to facilitate research and information on COVID-19](https://en.unesco.org/covid19/communicationinformationresponse/opensolutions)
