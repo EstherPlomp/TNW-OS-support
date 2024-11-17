@@ -112,3 +112,4 @@ open by default, and equitable by design - [Heather Joseph](https://council.scie
 -   [List of references regarding diversity, biases, and inclusivity studies and opinion pieces](https://www.winrepo.org/publications/)
 -   [FAIR enough? Building DH Resources in an Unequal World](https://lisa.gerda-henkel-stiftung.de/fair_enough_building_dh_resources_in_an_unequal_world?nav_id=9351)
 -   [A Resource to Support Decolonization of the Undergraduate Chemistry Curriculum](https://doi.org/10.26434/chemrxiv-2022-t3srw-v3)
+-   [Not the Only One](https://www.nottheonlyone.org/)

@@ -1,21 +1,21 @@
 ---
-title: "Open Science & Alt text [WIP]"
+title: "Open Science & Alt text"
 author: "Esther Plomp"
 date: "2022-11-29"
 categories: [Open Science, Inclusion]
 image: "os-inclusion.png"
 ---
 
-https://www.nottheonlyone.org/?search_query=alt-text
+Alt text is a text alternative defined for images. Here are some starting resources:
 
-https://webaim.org/techniques/alttext/
+-   [WebAim: Alternative Text](https://webaim.org/techniques/alttext/)
 
-https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text
+-   [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
 
-Data visualisations:
+-   [Five golden rules for compliant alt text](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text)
 
-https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81
+## Data visualisations
 
-## More information
+-   [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
 
--   
+-   [Writing Meaningful Alt-Texts for Data Visualizations in R - Liz Hare](https://www.youtube.com/watch?v=dXV5bx1WQTM)
