@@ -3,7 +3,7 @@ title: "Physical Samples"
 author: "Esther Plomp"
 date: "2022-07-27"
 categories: [Research Data Management]
-image: "metadata.jpg"
+image: "open-data-fountain.jpg"
 ---
 
 To make your research more reproducible, it can help to manage (and share) the physical samples you use in your research.

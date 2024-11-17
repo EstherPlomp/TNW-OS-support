@@ -50,11 +50,11 @@ The [**FEM/UM Citation Guide**](https://urldefense.com/v3/__https:/athenasangels
 
 -   Journals are less likely to accept papers by researchers in countries where English is not a primary language \[25--27\].
 
--   25\. Primack RB, Marrs R. Bias in the review process. Biol Conserv. 2008; 141(12):2919--2920. https://doi.org/10.1016/j.biocon.2008.09.016
+    -   25\. Primack RB, Marrs R. Bias in the review process. Biol Conserv. 2008; 141(12):2919--2920. https://doi.org/10.1016/j.biocon.2008.09.016
 
-    26\. Primack RB, Zipf L. Acceptance rates and number of papers in Biological Conservation from 2005 to 2014 for Australia, Brazil, China, India, Spain, and the United States: Trends or noise? Biol Conserv. 2016; 196:50--52. https://doi.org/10.1016/j.biocon.2016.01.016
+    -   26\. Primack RB, Zipf L. Acceptance rates and number of papers in Biological Conservation from 2005 to 2014 for Australia, Brazil, China, India, Spain, and the United States: Trends or noise? Biol Conserv. 2016; 196:50--52. https://doi.org/10.1016/j.biocon.2016.01.016
 
-    27\. Smith OM, Davis KL, Pizza RB, Waterman R, Dobson KC, Foster B, et al. Peer review perpetuates barriers for historically excluded groups. Nat Ecol Evol. 2023; 7:512--523. https://doi.org/10.1038/s41559-023-01999-w PMID: 36914773
+    -   27\. Smith OM, Davis KL, Pizza RB, Waterman R, Dobson KC, Foster B, et al. Peer review perpetuates barriers for historically excluded groups. Nat Ecol Evol. 2023; 7:512--523. https://doi.org/10.1038/s41559-023-01999-w PMID: 36914773
 
 -   [Non-native English researchers need:](https://theconversation.com/non-native-english-speaking-scientists-work-much-harder-just-to-keep-up-global-research-reveals-208750)
 
@@ -98,8 +98,8 @@ open by default, and equitable by design - [Heather Joseph](https://council.scie
 -   [Systemic racism in science: Reactions matter](https://www.science.org/doi/10.1126/science.adj7675)
 -   [Multilingual Data Science: Ten Tips to Translate Science and Tech Content](http://datasciencebydesign.org/blog/multilingual-data-science)
 -   [Open Grant Reviewers - Strategies to mitigate bias for grant reviewers](https://www.youtube.com/watch?v=F54MgC76XwM&list=PLnH7HkBJWcSs56Fpiu2Q61RdGV8K7Us6m&index=4)
--   [Why Diverse Teams Outperform Homogeneous Teams](https://neuroleadership.com/your-brain-at-work/why-diverse-teams-outperform-homogeneous-teams/)\
--   <https://knowledgeequitynetwork.org/>
+-   [Why Diverse Teams Outperform Homogeneous Teams](https://neuroleadership.com/your-brain-at-work/why-diverse-teams-outperform-homogeneous-teams/)
+-   [Knowledge Equity Network](https://knowledgeequitynetwork.org/)
 -   [Diversity, Equity and Inclusion (DEI) metrics: Breaking barriers in Open Source](https://opensource.net/dei-open-source-metrics/)
 -   [GitLab Hiring initiatives](https://handbook.gitlab.com/handbook/company/culture/inclusion/talent-acquisition-initiatives/#hiring-initiatives)
 -   [An SPSP-Sponsored Video Conversation on the Importance of Inclusive Citing](https://www.youtube.com/watch?v=hK11TJVac8Q)
