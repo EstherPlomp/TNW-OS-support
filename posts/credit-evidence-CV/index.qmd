@@ -1,12 +1,12 @@
 ---
-title: "Evidenced based CVs [WIP]"
+title: "Evidenced based CVs"
 author: "Esther Plomp"
 date: "2022-09-03"
 categories: [Credit]
 image: "image.jpg"
 ---
 
-to be added: intro to evidence based/narrative CVs
+A narrative CV is a description of one's academic profile. It can capturee a much wider range of contributions, skills, and experiences compared to traditional CVs which focus more on publications.
 
 ## **More information**
 
